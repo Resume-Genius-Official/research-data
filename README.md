@@ -43,7 +43,7 @@ The tabulated JSON additionally suppresses any group with fewer than 5 responden
 
 | Dataset | Survey | Respondents | Field date | Primary report |
 | :------ | :----- | :---------- | :--------- | :------------ |
-| `us_job_seeker_survey_2026/` | US Job Seekers Survey, 2026 | 1,000 U.S. job seekers | 2026 | [Link to report](https://resumegenius.com/blog/job-hunting/job-seeker-insights-report-2026) |
+| `us_job_seeker_survey_2026/` | US Job Seekers Survey, 2026 | 1,000 U.S. job seekers | March 16, 2026 | [Link to report](https://resumegenius.com/blog/job-hunting/job-seeker-insights-report-2026) |
 
 ## Methodology
 
