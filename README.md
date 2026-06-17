@@ -1,4 +1,7 @@
 # Resume Genius — Research Data
+
+© 2026 Resume Genius. Data licensed under CC BY 4.0.
+
 Raw datasets from Resume Genius' career space surveys. Contains data on job seekers, hiring managers, and more with demographic breakdowns.
 
 We publish this data openly so journalists, analysts, and researchers can verify our findings and build on them. If you use it, we ask that you credit Resume Genius (see [How to cite](#how-to-cite) below).
