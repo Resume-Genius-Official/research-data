@@ -36,6 +36,7 @@ The raw CSV has been de-identified before release. Respondents were anonymous to
 
 - **Geography** is reported no finer than state. ZIP code, county, metro/statistical area, and media-market (DMA) fields were removed; State, Region, and Division are retained.
 - **Age** is reported as generation band rather than exact age.
+- **Household income** is reported in broad bands in the raw CSV (e.g. "$75,000–$99,999"). The tabulated JSON retains the detailed survey brackets, since the n<5 suppression already protects small cells at the aggregate level.
 - **Details about respondents' children** (specific age/gender) were removed; only a high-level parental-status indicator is retained.
 - **Vendor and operational fields** (internal quota IDs, individual start/finish timestamps) were removed.
 
@@ -44,6 +45,7 @@ The tabulated JSON additionally suppresses any group with fewer than 5 responden
 | Dataset | Survey | Respondents | Field date | Primary report |
 | :------ | :----- | :---------- | :--------- | :------------ |
 | `us_job_seeker_survey_2026/` | US Job Seekers Survey, 2026 | 1,000 U.S. job seekers | March 16, 2026 | [Link to report](https://resumegenius.com/blog/job-hunting/job-seeker-insights-report-2026) |
+| `us_hiring_changes_2025/` | US Hiring Changes Survey, 2025 | 1,000 U.S. hiring managers | January 8, 2025 | [Link to report](https://resumegenius.com/blog/job-hunting/ai-impact-on-hiring) |
 
 ## Methodology
 
