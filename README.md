@@ -43,11 +43,11 @@ The tabulated JSON additionally suppresses any group with fewer than 5 responden
 
 | Dataset | Survey | Respondents | Field date | Primary report |
 | :------ | :----- | :---------- | :--------- | :------------ |
-| `us_job_seeker_survey_2026/` | US Job Seekers Survey, 2026 | 1,000 U.S. job seekers | 2026 | [Link to report](https://resumegenius.com/blog/job-hunting/hiring-insights-report) |
+| `us_job_seeker_survey_2026/` | US Job Seekers Survey, 2026 | 1,000 U.S. job seekers | 2026 | [Link to report](https://resumegenius.com/blog/job-hunting/job-seeker-insights-report-2026) |
 
 ## Methodology
 
-Surveys are fielded using Pollfish Random Device Engagement (RDE) to reach a demographically balanced sample; respondents are screened for relevance to each survey's population. Full per-survey methodology is documented in each codebook and under the Methodology section of each article, e.g. [https://resumegenius.com/blog/job-hunting/hiring-insights-report#methodology](https://resumegenius.com/blog/job-hunting/hiring-insights-report#methodology)
+Surveys are fielded using Pollfish Random Device Engagement (RDE) to reach a demographically balanced sample; respondents are screened for relevance to each survey's population. Full per-survey methodology is documented in each codebook and under the Methodology section of each article, e.g. [https://resumegenius.com/blog/job-hunting/hiring-insights-report#methodology](https://resumegenius.com/blog/job-hunting/job-seeker-insights-report-2026#methodology)
 
 ## License
 
