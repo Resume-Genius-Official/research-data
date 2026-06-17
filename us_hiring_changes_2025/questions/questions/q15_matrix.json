@@ -1,0 +1,2538 @@
+{
+  "id": "Q15",
+  "text": "Q15",
+  "question_prompt": "Q15: Do pronouns on a resume influence how you view a candidate?",
+  "type": "matrix",
+  "panels": [
+    "Q15: Do pronouns on a resume influence how you view a candidate?"
+  ],
+  "answers": [
+    "No, it wouldn’t influence my decision",
+    "Yes, positively",
+    "Yes, negatively"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+      "cells": [
+        {
+          "answer": "No, it wouldn’t influence my decision",
+          "count": 717,
+          "pct": 71.7
+        },
+        {
+          "answer": "Yes, positively",
+          "count": 147,
+          "pct": 14.7
+        },
+        {
+          "answer": "Yes, negatively",
+          "count": 136,
+          "pct": 13.6
+        }
+      ],
+      "base": {
+        "n": 1000
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 1000
+    },
+    "answers": [
+      {
+        "answer": "No, it wouldn’t influence my decision",
+        "count": 717,
+        "pct": 71.7
+      },
+      {
+        "answer": "Yes, positively",
+        "count": 147,
+        "pct": 14.7
+      },
+      {
+        "answer": "Yes, negatively",
+        "count": 136,
+        "pct": 13.6
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Baby Boomers": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 115,
+                "pct": 81.0
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 6,
+                "pct": 4.2
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 21,
+                "pct": 14.8
+              }
+            ],
+            "base": {
+              "n": 142
+            }
+          }
+        ]
+      },
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 266,
+                "pct": 74.7
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 34,
+                "pct": 9.6
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 56,
+                "pct": 15.7
+              }
+            ],
+            "base": {
+              "n": 356
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 57,
+                "pct": 58.2
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 29,
+                "pct": 29.6
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 12,
+                "pct": 12.2
+              }
+            ],
+            "base": {
+              "n": 98
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 278,
+                "pct": 69.2
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 78,
+                "pct": 19.4
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 46,
+                "pct": 11.4
+              }
+            ],
+            "base": {
+              "n": 402
+            }
+          }
+        ]
+      },
+      "Silent Generation": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "Female": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 355,
+                "pct": 76.3
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 59,
+                "pct": 12.7
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 51,
+                "pct": 11.0
+              }
+            ],
+            "base": {
+              "n": 465
+            }
+          }
+        ]
+      },
+      "Male": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 362,
+                "pct": 67.7
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 88,
+                "pct": 16.4
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 85,
+                "pct": 15.9
+              }
+            ],
+            "base": {
+              "n": 535
+            }
+          }
+        ]
+      }
+    },
+    "US State": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 12,
+                "pct": 75.0
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 2,
+                "pct": 12.5
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 2,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 12,
+                "pct": 85.7
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 1,
+                "pct": 7.1
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 1,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 8,
+                "pct": 80.0
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 2,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 72,
+                "pct": 72.7
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 18,
+                "pct": 18.2
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 9,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 99
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 18,
+                "pct": 81.8
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 2,
+                "pct": 9.1
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 2,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 10,
+                "pct": 71.4
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 1,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 6,
+                "pct": 100.0
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 45,
+                "pct": 63.4
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 13,
+                "pct": 18.3
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 13,
+                "pct": 18.3
+              }
+            ],
+            "base": {
+              "n": 71
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 23,
+                "pct": 71.9
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 5,
+                "pct": 15.6
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 4,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 32
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 25,
+                "pct": 58.1
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 6,
+                "pct": 14.0
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 12,
+                "pct": 27.9
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 18,
+                "pct": 64.3
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 4,
+                "pct": 14.3
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 6,
+                "pct": 21.4
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 4,
+                "pct": 80.0
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 1,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 7,
+                "pct": 77.8
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 2,
+                "pct": 22.2
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 14,
+                "pct": 70.0
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 2,
+                "pct": 10.0
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 4,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 13,
+                "pct": 76.5
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 2,
+                "pct": 11.8
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 4,
+                "pct": 80.0
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 12,
+                "pct": 85.7
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 2,
+                "pct": 14.3
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 13,
+                "pct": 65.0
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 3,
+                "pct": 15.0
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 4,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 31,
+                "pct": 72.1
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 4,
+                "pct": 9.3
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 8,
+                "pct": 18.6
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 14,
+                "pct": 70.0
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 1,
+                "pct": 5.0
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 5,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 7,
+                "pct": 87.5
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 1,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 16,
+                "pct": 69.6
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 5,
+                "pct": 21.7
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 2,
+                "pct": 8.7
+              }
+            ],
+            "base": {
+              "n": 23
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 4,
+                "pct": 57.1
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 3,
+                "pct": 42.9
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 9,
+                "pct": 69.2
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 2,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 15,
+                "pct": 68.2
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 5,
+                "pct": 22.7
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 2,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 52,
+                "pct": 76.5
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 10,
+                "pct": 14.7
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 6,
+                "pct": 8.8
+              }
+            ],
+            "base": {
+              "n": 68
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 13,
+                "pct": 65.0
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 4,
+                "pct": 20.0
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 3,
+                "pct": 15.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 3,
+                "pct": 60.0
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 1,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 45,
+                "pct": 86.5
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 2,
+                "pct": 3.8
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 5,
+                "pct": 9.6
+              }
+            ],
+            "base": {
+              "n": 52
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 4,
+                "pct": 50.0
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 3,
+                "pct": 37.5
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 11,
+                "pct": 78.6
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 2,
+                "pct": 14.3
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 1,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 41,
+                "pct": 66.1
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 8,
+                "pct": 12.9
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 13,
+                "pct": 21.0
+              }
+            ],
+            "base": {
+              "n": 62
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 5,
+                "pct": 100.0
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 9,
+                "pct": 81.8
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "South Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 12,
+                "pct": 70.6
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 2,
+                "pct": 11.8
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 43,
+                "pct": 75.4
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 11,
+                "pct": 19.3
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 3,
+                "pct": 5.3
+              }
+            ],
+            "base": {
+              "n": 57
+            }
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 12,
+                "pct": 70.6
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 1,
+                "pct": 5.9
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 16,
+                "pct": 64.0
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 6,
+                "pct": 24.0
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 3,
+                "pct": 12.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 7,
+                "pct": 70.0
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 1,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 15,
+                "pct": 68.2
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 3,
+                "pct": 13.6
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 4,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "Wyoming": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Household income US": {
+      "(Missing)": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 8,
+                "pct": 72.7
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 3,
+                "pct": 27.3
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "$1 million +": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "$10,000 to $14,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 5,
+                "pct": 55.6
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 2,
+                "pct": 22.2
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 2,
+                "pct": 22.2
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "$100,000 to $124,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 72,
+                "pct": 80.9
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 12,
+                "pct": 13.5
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 5,
+                "pct": 5.6
+              }
+            ],
+            "base": {
+              "n": 89
+            }
+          }
+        ]
+      },
+      "$125,000 to $149,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 45,
+                "pct": 68.2
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 8,
+                "pct": 12.1
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 13,
+                "pct": 19.7
+              }
+            ],
+            "base": {
+              "n": 66
+            }
+          }
+        ]
+      },
+      "$15,000 to $19,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 19,
+                "pct": 70.4
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 5,
+                "pct": 18.5
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 3,
+                "pct": 11.1
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "$150,000 to $174,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 30,
+                "pct": 73.2
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 5,
+                "pct": 12.2
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 6,
+                "pct": 14.6
+              }
+            ],
+            "base": {
+              "n": 41
+            }
+          }
+        ]
+      },
+      "$175,000 to $199,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 21,
+                "pct": 65.6
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 4,
+                "pct": 12.5
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 7,
+                "pct": 21.9
+              }
+            ],
+            "base": {
+              "n": 32
+            }
+          }
+        ]
+      },
+      "$20,000 to $24,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 32,
+                "pct": 72.7
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 8,
+                "pct": 18.2
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 4,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 44
+            }
+          }
+        ]
+      },
+      "$200,000 to $249,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 19,
+                "pct": 70.4
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 5,
+                "pct": 18.5
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 3,
+                "pct": 11.1
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "$25,000 to $29,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 26,
+                "pct": 83.9
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 3,
+                "pct": 9.7
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 2,
+                "pct": 6.5
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          }
+        ]
+      },
+      "$250,000 to $499,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 13,
+                "pct": 59.1
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 5,
+                "pct": 22.7
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 4,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "$30,000 to $34,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 20,
+                "pct": 66.7
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 6,
+                "pct": 20.0
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 4,
+                "pct": 13.3
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "$35,000 to $39,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 32,
+                "pct": 74.4
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 5,
+                "pct": 11.6
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 6,
+                "pct": 14.0
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "$40,000 to $44,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 16,
+                "pct": 80.0
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 2,
+                "pct": 10.0
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 2,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "$45,000 to $49,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 34,
+                "pct": 81.0
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 5,
+                "pct": 11.9
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 3,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "$5,000 to $9,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "$50,000 to $54,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 45,
+                "pct": 69.2
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 8,
+                "pct": 12.3
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 12,
+                "pct": 18.5
+              }
+            ],
+            "base": {
+              "n": 65
+            }
+          }
+        ]
+      },
+      "$500,000 to $999,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "$55,000 to $59,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 33,
+                "pct": 78.6
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 1,
+                "pct": 2.4
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 8,
+                "pct": 19.0
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "$60,000 to $64,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 25,
+                "pct": 89.3
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 2,
+                "pct": 7.1
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 1,
+                "pct": 3.6
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "$65,000 to $69,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 21,
+                "pct": 70.0
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 3,
+                "pct": 10.0
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 6,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "$70,000 to $74,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 27,
+                "pct": 64.3
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 11,
+                "pct": 26.2
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 4,
+                "pct": 9.5
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "$75,000 to $79,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 35,
+                "pct": 68.6
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 10,
+                "pct": 19.6
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 6,
+                "pct": 11.8
+              }
+            ],
+            "base": {
+              "n": 51
+            }
+          }
+        ]
+      },
+      "$80,000 to $84,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 24,
+                "pct": 82.8
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 2,
+                "pct": 6.9
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 3,
+                "pct": 10.3
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          }
+        ]
+      },
+      "$85,000 to $89,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 19,
+                "pct": 57.6
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 4,
+                "pct": 12.1
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 10,
+                "pct": 30.3
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          }
+        ]
+      },
+      "$90,000 to $94,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 9,
+                "pct": 64.3
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 2,
+                "pct": 14.3
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 3,
+                "pct": 21.4
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "$95,000 to $99,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 30,
+                "pct": 71.4
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 4,
+                "pct": 9.5
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 8,
+                "pct": 19.0
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "Less than $5,000": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 48,
+                "pct": 64.0
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 23,
+                "pct": 30.7
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 4,
+                "pct": 5.3
+              }
+            ],
+            "base": {
+              "n": 75
+            }
+          }
+        ]
+      },
+      "Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 5,
+                "pct": 62.5
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 2,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      }
+    },
+    "Education Level": {
+      "(Missing)": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Associates Degree": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 56,
+                "pct": 70.0
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 17,
+                "pct": 21.2
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 7,
+                "pct": 8.8
+              }
+            ],
+            "base": {
+              "n": 80
+            }
+          }
+        ]
+      },
+      "Bachelor's degree": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 192,
+                "pct": 75.6
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 26,
+                "pct": 10.2
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 36,
+                "pct": 14.2
+              }
+            ],
+            "base": {
+              "n": 254
+            }
+          }
+        ]
+      },
+      "Completed some college": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 134,
+                "pct": 74.9
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 16,
+                "pct": 8.9
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 29,
+                "pct": 16.2
+              }
+            ],
+            "base": {
+              "n": 179
+            }
+          }
+        ]
+      },
+      "Completed some high school": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 41,
+                "pct": 83.7
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 1,
+                "pct": 2.0
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 7,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 49
+            }
+          }
+        ]
+      },
+      "Completed some postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 12,
+                "pct": 70.6
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 5,
+                "pct": 29.4
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Doctorate /PhD": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 25,
+                "pct": 78.1
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 3,
+                "pct": 9.4
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 4,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 32
+            }
+          }
+        ]
+      },
+      "Elementary School": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 12,
+                "pct": 60.0
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 4,
+                "pct": 20.0
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 4,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "High school graduate": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 120,
+                "pct": 65.6
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 43,
+                "pct": 23.5
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 20,
+                "pct": 10.9
+              }
+            ],
+            "base": {
+              "n": 183
+            }
+          }
+        ]
+      },
+      "Masters degree": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 74,
+                "pct": 66.7
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 22,
+                "pct": 19.8
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 15,
+                "pct": 13.5
+              }
+            ],
+            "base": {
+              "n": 111
+            }
+          }
+        ]
+      },
+      "Middle School": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 22,
+                "pct": 56.4
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 12,
+                "pct": 30.8
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 5,
+                "pct": 12.8
+              }
+            ],
+            "base": {
+              "n": 39
+            }
+          }
+        ]
+      },
+      "None of the above/Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Other post high school vocational training": {
+        "rows": [
+          {
+            "panel_id": "Q15: Do pronouns on a resume influence how you view a candidate?",
+            "cells": [
+              {
+                "answer": "No, it wouldn’t influence my decision",
+                "count": 24,
+                "pct": 82.8
+              },
+              {
+                "answer": "Yes, positively",
+                "count": 2,
+                "pct": 6.9
+              },
+              {
+                "answer": "Yes, negatively",
+                "count": 3,
+                "pct": 10.3
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 5,
+    "single_panel": true
+  }
+}

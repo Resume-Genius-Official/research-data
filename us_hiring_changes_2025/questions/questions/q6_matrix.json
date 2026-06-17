@@ -1,0 +1,2969 @@
+{
+  "id": "Q6",
+  "text": "Q6",
+  "question_prompt": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+  "type": "matrix",
+  "panels": [
+    "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?"
+  ],
+  "answers": [
+    "Positively; it reflects honesty and self-awareness",
+    "Neutral; it doesn’t affect my decision",
+    "Negatively; it raises concerns about their ability to perform",
+    "Unsure; I don’t know how to approach this topic"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+      "cells": [
+        {
+          "answer": "Positively; it reflects honesty and self-awareness",
+          "count": 435,
+          "pct": 43.5
+        },
+        {
+          "answer": "Neutral; it doesn’t affect my decision",
+          "count": 425,
+          "pct": 42.5
+        },
+        {
+          "answer": "Negatively; it raises concerns about their ability to perform",
+          "count": 80,
+          "pct": 8.0
+        },
+        {
+          "answer": "Unsure; I don’t know how to approach this topic",
+          "count": 60,
+          "pct": 6.0
+        }
+      ],
+      "base": {
+        "n": 1000
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 1000
+    },
+    "answers": [
+      {
+        "answer": "Positively; it reflects honesty and self-awareness",
+        "count": 435,
+        "pct": 43.5
+      },
+      {
+        "answer": "Neutral; it doesn’t affect my decision",
+        "count": 425,
+        "pct": 42.5
+      },
+      {
+        "answer": "Negatively; it raises concerns about their ability to perform",
+        "count": 80,
+        "pct": 8.0
+      },
+      {
+        "answer": "Unsure; I don’t know how to approach this topic",
+        "count": 60,
+        "pct": 6.0
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Baby Boomers": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 63,
+                "pct": 44.4
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 53,
+                "pct": 37.3
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 9,
+                "pct": 6.3
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 17,
+                "pct": 12.0
+              }
+            ],
+            "base": {
+              "n": 142
+            }
+          }
+        ]
+      },
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 139,
+                "pct": 39.0
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 155,
+                "pct": 43.5
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 38,
+                "pct": 10.7
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 24,
+                "pct": 6.7
+              }
+            ],
+            "base": {
+              "n": 356
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 47,
+                "pct": 48.0
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 36,
+                "pct": 36.7
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 11,
+                "pct": 11.2
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 4,
+                "pct": 4.1
+              }
+            ],
+            "base": {
+              "n": 98
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 185,
+                "pct": 46.0
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 180,
+                "pct": 44.8
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 22,
+                "pct": 5.5
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 15,
+                "pct": 3.7
+              }
+            ],
+            "base": {
+              "n": 402
+            }
+          }
+        ]
+      },
+      "Silent Generation": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "Female": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 198,
+                "pct": 42.6
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 199,
+                "pct": 42.8
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 32,
+                "pct": 6.9
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 36,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 465
+            }
+          }
+        ]
+      },
+      "Male": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 237,
+                "pct": 44.3
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 226,
+                "pct": 42.2
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 48,
+                "pct": 9.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 24,
+                "pct": 4.5
+              }
+            ],
+            "base": {
+              "n": 535
+            }
+          }
+        ]
+      }
+    },
+    "US State": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 7,
+                "pct": 43.8
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 7,
+                "pct": 43.8
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 2,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 8,
+                "pct": 57.1
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 2,
+                "pct": 14.3
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 1,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 6,
+                "pct": 60.0
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 40,
+                "pct": 40.4
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 47,
+                "pct": 47.5
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 7,
+                "pct": 7.1
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 5,
+                "pct": 5.1
+              }
+            ],
+            "base": {
+              "n": 99
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 10,
+                "pct": 45.5
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 5,
+                "pct": 22.7
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 5,
+                "pct": 22.7
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 2,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 4,
+                "pct": 28.6
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 8,
+                "pct": 57.1
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 2,
+                "pct": 14.3
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 3,
+                "pct": 50.0
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 1,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 30,
+                "pct": 42.3
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 28,
+                "pct": 39.4
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 7,
+                "pct": 9.9
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 6,
+                "pct": 8.5
+              }
+            ],
+            "base": {
+              "n": 71
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 13,
+                "pct": 40.6
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 16,
+                "pct": 50.0
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 3,
+                "pct": 9.4
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 32
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 15,
+                "pct": 34.9
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 19,
+                "pct": 44.2
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 5,
+                "pct": 11.6
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 4,
+                "pct": 9.3
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 17,
+                "pct": 60.7
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 8,
+                "pct": 28.6
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 3,
+                "pct": 10.7
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 3,
+                "pct": 60.0
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 4,
+                "pct": 44.4
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 1,
+                "pct": 11.1
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 1,
+                "pct": 11.1
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 9,
+                "pct": 45.0
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 5,
+                "pct": 25.0
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 3,
+                "pct": 15.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 3,
+                "pct": 15.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 6,
+                "pct": 35.3
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 9,
+                "pct": 52.9
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 1,
+                "pct": 5.9
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 6,
+                "pct": 42.9
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 7,
+                "pct": 50.0
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 1,
+                "pct": 7.1
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 6,
+                "pct": 30.0
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 11,
+                "pct": 55.0
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 1,
+                "pct": 5.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 2,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 20,
+                "pct": 46.5
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 13,
+                "pct": 30.2
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 5,
+                "pct": 11.6
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 5,
+                "pct": 11.6
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 8,
+                "pct": 40.0
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 11,
+                "pct": 55.0
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 1,
+                "pct": 5.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 3,
+                "pct": 37.5
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 4,
+                "pct": 50.0
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 1,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 10,
+                "pct": 43.5
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 12,
+                "pct": 52.2
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 1,
+                "pct": 4.3
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 23
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 4,
+                "pct": 57.1
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 1,
+                "pct": 14.3
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 6,
+                "pct": 46.2
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 7,
+                "pct": 53.8
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 12,
+                "pct": 54.5
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 7,
+                "pct": 31.8
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 3,
+                "pct": 13.6
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 30,
+                "pct": 44.1
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 23,
+                "pct": 33.8
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 10,
+                "pct": 14.7
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 5,
+                "pct": 7.4
+              }
+            ],
+            "base": {
+              "n": 68
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 8,
+                "pct": 40.0
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 7,
+                "pct": 35.0
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 4,
+                "pct": 20.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 1,
+                "pct": 5.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 3,
+                "pct": 60.0
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 27,
+                "pct": 51.9
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 23,
+                "pct": 44.2
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 1,
+                "pct": 1.9
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 1,
+                "pct": 1.9
+              }
+            ],
+            "base": {
+              "n": 52
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 3,
+                "pct": 37.5
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 4,
+                "pct": 50.0
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 1,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 6,
+                "pct": 42.9
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 7,
+                "pct": 50.0
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 1,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 25,
+                "pct": 40.3
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 31,
+                "pct": 50.0
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 4,
+                "pct": 6.5
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 2,
+                "pct": 3.2
+              }
+            ],
+            "base": {
+              "n": 62
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 3,
+                "pct": 60.0
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "South Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 11,
+                "pct": 64.7
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 5,
+                "pct": 29.4
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 1,
+                "pct": 5.9
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 26,
+                "pct": 45.6
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 26,
+                "pct": 45.6
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 2,
+                "pct": 3.5
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 3,
+                "pct": 5.3
+              }
+            ],
+            "base": {
+              "n": 57
+            }
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 8,
+                "pct": 47.1
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 6,
+                "pct": 35.3
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 2,
+                "pct": 11.8
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 12,
+                "pct": 48.0
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 11,
+                "pct": 44.0
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 1,
+                "pct": 4.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 1,
+                "pct": 4.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 3,
+                "pct": 30.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 10,
+                "pct": 45.5
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 12,
+                "pct": 54.5
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "Wyoming": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Household income US": {
+      "(Missing)": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 1,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "$1 million +": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "$10,000 to $14,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 1,
+                "pct": 11.1
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 2,
+                "pct": 22.2
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "$100,000 to $124,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 43,
+                "pct": 48.3
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 36,
+                "pct": 40.4
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 6,
+                "pct": 6.7
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 4,
+                "pct": 4.5
+              }
+            ],
+            "base": {
+              "n": 89
+            }
+          }
+        ]
+      },
+      "$125,000 to $149,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 27,
+                "pct": 40.9
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 30,
+                "pct": 45.5
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 3,
+                "pct": 4.5
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 6,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 66
+            }
+          }
+        ]
+      },
+      "$15,000 to $19,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 12,
+                "pct": 44.4
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 10,
+                "pct": 37.0
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 3,
+                "pct": 11.1
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 2,
+                "pct": 7.4
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "$150,000 to $174,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 17,
+                "pct": 41.5
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 20,
+                "pct": 48.8
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 2,
+                "pct": 4.9
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 2,
+                "pct": 4.9
+              }
+            ],
+            "base": {
+              "n": 41
+            }
+          }
+        ]
+      },
+      "$175,000 to $199,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 14,
+                "pct": 43.8
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 8,
+                "pct": 25.0
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 6,
+                "pct": 18.8
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 4,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 32
+            }
+          }
+        ]
+      },
+      "$20,000 to $24,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 21,
+                "pct": 47.7
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 16,
+                "pct": 36.4
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 5,
+                "pct": 11.4
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 2,
+                "pct": 4.5
+              }
+            ],
+            "base": {
+              "n": 44
+            }
+          }
+        ]
+      },
+      "$200,000 to $249,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 11,
+                "pct": 40.7
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 12,
+                "pct": 44.4
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 3,
+                "pct": 11.1
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 1,
+                "pct": 3.7
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "$25,000 to $29,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 11,
+                "pct": 35.5
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 16,
+                "pct": 51.6
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 2,
+                "pct": 6.5
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 2,
+                "pct": 6.5
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          }
+        ]
+      },
+      "$250,000 to $499,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 7,
+                "pct": 31.8
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 8,
+                "pct": 36.4
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 3,
+                "pct": 13.6
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 4,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "$30,000 to $34,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 20,
+                "pct": 66.7
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 7,
+                "pct": 23.3
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 2,
+                "pct": 6.7
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 1,
+                "pct": 3.3
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "$35,000 to $39,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 19,
+                "pct": 44.2
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 18,
+                "pct": 41.9
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 2,
+                "pct": 4.7
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 4,
+                "pct": 9.3
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "$40,000 to $44,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 12,
+                "pct": 60.0
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 7,
+                "pct": 35.0
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 1,
+                "pct": 5.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "$45,000 to $49,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 18,
+                "pct": 42.9
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 20,
+                "pct": 47.6
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 1,
+                "pct": 2.4
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 3,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "$5,000 to $9,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "$50,000 to $54,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 25,
+                "pct": 38.5
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 28,
+                "pct": 43.1
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 8,
+                "pct": 12.3
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 4,
+                "pct": 6.2
+              }
+            ],
+            "base": {
+              "n": 65
+            }
+          }
+        ]
+      },
+      "$500,000 to $999,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "$55,000 to $59,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 14,
+                "pct": 33.3
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 25,
+                "pct": 59.5
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 3,
+                "pct": 7.1
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "$60,000 to $64,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 12,
+                "pct": 42.9
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 13,
+                "pct": 46.4
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 1,
+                "pct": 3.6
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 2,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "$65,000 to $69,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 15,
+                "pct": 50.0
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 11,
+                "pct": 36.7
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 3,
+                "pct": 10.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 1,
+                "pct": 3.3
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "$70,000 to $74,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 18,
+                "pct": 42.9
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 15,
+                "pct": 35.7
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 7,
+                "pct": 16.7
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 2,
+                "pct": 4.8
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "$75,000 to $79,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 30,
+                "pct": 58.8
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 15,
+                "pct": 29.4
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 3,
+                "pct": 5.9
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 3,
+                "pct": 5.9
+              }
+            ],
+            "base": {
+              "n": 51
+            }
+          }
+        ]
+      },
+      "$80,000 to $84,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 13,
+                "pct": 44.8
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 13,
+                "pct": 44.8
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 3,
+                "pct": 10.3
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          }
+        ]
+      },
+      "$85,000 to $89,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 11,
+                "pct": 33.3
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 17,
+                "pct": 51.5
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 3,
+                "pct": 9.1
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 2,
+                "pct": 6.1
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          }
+        ]
+      },
+      "$90,000 to $94,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 6,
+                "pct": 42.9
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 8,
+                "pct": 57.1
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "$95,000 to $99,999": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 12,
+                "pct": 28.6
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 27,
+                "pct": 64.3
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 3,
+                "pct": 7.1
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "Less than $5,000": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 35,
+                "pct": 46.7
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 29,
+                "pct": 38.7
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 6,
+                "pct": 8.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 5,
+                "pct": 6.7
+              }
+            ],
+            "base": {
+              "n": 75
+            }
+          }
+        ]
+      },
+      "Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 4,
+                "pct": 50.0
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 3,
+                "pct": 37.5
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 1,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      }
+    },
+    "Education Level": {
+      "(Missing)": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Associates Degree": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 38,
+                "pct": 47.5
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 34,
+                "pct": 42.5
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 2,
+                "pct": 2.5
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 6,
+                "pct": 7.5
+              }
+            ],
+            "base": {
+              "n": 80
+            }
+          }
+        ]
+      },
+      "Bachelor's degree": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 113,
+                "pct": 44.5
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 110,
+                "pct": 43.3
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 17,
+                "pct": 6.7
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 14,
+                "pct": 5.5
+              }
+            ],
+            "base": {
+              "n": 254
+            }
+          }
+        ]
+      },
+      "Completed some college": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 72,
+                "pct": 40.2
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 81,
+                "pct": 45.3
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 15,
+                "pct": 8.4
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 11,
+                "pct": 6.1
+              }
+            ],
+            "base": {
+              "n": 179
+            }
+          }
+        ]
+      },
+      "Completed some high school": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 12,
+                "pct": 24.5
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 23,
+                "pct": 46.9
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 8,
+                "pct": 16.3
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 6,
+                "pct": 12.2
+              }
+            ],
+            "base": {
+              "n": 49
+            }
+          }
+        ]
+      },
+      "Completed some postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 8,
+                "pct": 47.1
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 6,
+                "pct": 35.3
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Doctorate /PhD": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 14,
+                "pct": 43.8
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 11,
+                "pct": 34.4
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 4,
+                "pct": 12.5
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 3,
+                "pct": 9.4
+              }
+            ],
+            "base": {
+              "n": 32
+            }
+          }
+        ]
+      },
+      "Elementary School": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 9,
+                "pct": 45.0
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 5,
+                "pct": 25.0
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 6,
+                "pct": 30.0
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "High school graduate": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 73,
+                "pct": 39.9
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 89,
+                "pct": 48.6
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 14,
+                "pct": 7.7
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 7,
+                "pct": 3.8
+              }
+            ],
+            "base": {
+              "n": 183
+            }
+          }
+        ]
+      },
+      "Masters degree": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 52,
+                "pct": 46.8
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 43,
+                "pct": 38.7
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 6,
+                "pct": 5.4
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 10,
+                "pct": 9.0
+              }
+            ],
+            "base": {
+              "n": 111
+            }
+          }
+        ]
+      },
+      "Middle School": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 24,
+                "pct": 61.5
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 11,
+                "pct": 28.2
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 4,
+                "pct": 10.3
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 39
+            }
+          }
+        ]
+      },
+      "None of the above/Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Other post high school vocational training": {
+        "rows": [
+          {
+            "panel_id": "Q6: How do you view candidates who disclose mental health conditions or neurodivergence (e.g., ADHD, autism) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Positively; it reflects honesty and self-awareness",
+                "count": 18,
+                "pct": 62.1
+              },
+              {
+                "answer": "Neutral; it doesn’t affect my decision",
+                "count": 9,
+                "pct": 31.0
+              },
+              {
+                "answer": "Negatively; it raises concerns about their ability to perform",
+                "count": 1,
+                "pct": 3.4
+              },
+              {
+                "answer": "Unsure; I don’t know how to approach this topic",
+                "count": 1,
+                "pct": 3.4
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 5,
+    "single_panel": true
+  }
+}

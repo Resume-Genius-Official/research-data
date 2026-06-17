@@ -1,0 +1,19 @@
+{
+  "slug": "us_hiring_changes_2025",
+  "title": "US Hiring Changes Survey, 2025",
+  "country": "US",
+  "year": 2025,
+  "fieldwork_start": "",
+  "fieldwork_end": "",
+  "sample_n": 1000,
+  "vendor": "Pollfish",
+  "notes": "Survey of US hiring professionals on 2025 hiring changes, AI skills demand, and compensation expectations.",
+  "topic_tags": [
+    "hiring changes",
+    "ai in hiring",
+    "candidate skills",
+    "compensation",
+    "recruitment"
+  ],
+  "default_qtype": "matrix"
+}

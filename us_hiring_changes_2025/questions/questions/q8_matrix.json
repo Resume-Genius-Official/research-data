@@ -1,0 +1,2538 @@
+{
+  "id": "Q8",
+  "text": "Q8",
+  "question_prompt": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+  "type": "matrix",
+  "panels": [
+    "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?"
+  ],
+  "answers": [
+    "Occasionally, but not often",
+    "No, I haven’t experienced this",
+    "Yes, it’s common"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+      "cells": [
+        {
+          "answer": "Occasionally, but not often",
+          "count": 443,
+          "pct": 44.3
+        },
+        {
+          "answer": "No, I haven’t experienced this",
+          "count": 334,
+          "pct": 33.4
+        },
+        {
+          "answer": "Yes, it’s common",
+          "count": 223,
+          "pct": 22.3
+        }
+      ],
+      "base": {
+        "n": 1000
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 1000
+    },
+    "answers": [
+      {
+        "answer": "Occasionally, but not often",
+        "count": 443,
+        "pct": 44.3
+      },
+      {
+        "answer": "No, I haven’t experienced this",
+        "count": 334,
+        "pct": 33.4
+      },
+      {
+        "answer": "Yes, it’s common",
+        "count": 223,
+        "pct": 22.3
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Baby Boomers": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 61,
+                "pct": 43.0
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 67,
+                "pct": 47.2
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 14,
+                "pct": 9.9
+              }
+            ],
+            "base": {
+              "n": 142
+            }
+          }
+        ]
+      },
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 151,
+                "pct": 42.4
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 150,
+                "pct": 42.1
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 55,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 356
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 46,
+                "pct": 46.9
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 16,
+                "pct": 16.3
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 36,
+                "pct": 36.7
+              }
+            ],
+            "base": {
+              "n": 98
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 185,
+                "pct": 46.0
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 100,
+                "pct": 24.9
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 117,
+                "pct": 29.1
+              }
+            ],
+            "base": {
+              "n": 402
+            }
+          }
+        ]
+      },
+      "Silent Generation": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "Female": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 204,
+                "pct": 43.9
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 171,
+                "pct": 36.8
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 90,
+                "pct": 19.4
+              }
+            ],
+            "base": {
+              "n": 465
+            }
+          }
+        ]
+      },
+      "Male": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 239,
+                "pct": 44.7
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 163,
+                "pct": 30.5
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 133,
+                "pct": 24.9
+              }
+            ],
+            "base": {
+              "n": 535
+            }
+          }
+        ]
+      }
+    },
+    "US State": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 9,
+                "pct": 56.2
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 3,
+                "pct": 18.8
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 4,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 6,
+                "pct": 42.9
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 7,
+                "pct": 50.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 1,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 1,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 43,
+                "pct": 43.4
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 37,
+                "pct": 37.4
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 19,
+                "pct": 19.2
+              }
+            ],
+            "base": {
+              "n": 99
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 11,
+                "pct": 50.0
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 7,
+                "pct": 31.8
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 4,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 6,
+                "pct": 42.9
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 6,
+                "pct": 42.9
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 2,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 3,
+                "pct": 50.0
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 3,
+                "pct": 50.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 31,
+                "pct": 43.7
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 25,
+                "pct": 35.2
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 15,
+                "pct": 21.1
+              }
+            ],
+            "base": {
+              "n": 71
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 17,
+                "pct": 53.1
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 8,
+                "pct": 25.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 7,
+                "pct": 21.9
+              }
+            ],
+            "base": {
+              "n": 32
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 13,
+                "pct": 30.2
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 17,
+                "pct": 39.5
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 13,
+                "pct": 30.2
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 15,
+                "pct": 53.6
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 8,
+                "pct": 28.6
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 5,
+                "pct": 17.9
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 3,
+                "pct": 60.0
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 1,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 1,
+                "pct": 11.1
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 5,
+                "pct": 55.6
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 10,
+                "pct": 50.0
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 4,
+                "pct": 20.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 6,
+                "pct": 30.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 8,
+                "pct": 47.1
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 6,
+                "pct": 35.3
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 3,
+                "pct": 17.6
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 3,
+                "pct": 60.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 8,
+                "pct": 57.1
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 5,
+                "pct": 35.7
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 1,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 9,
+                "pct": 45.0
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 8,
+                "pct": 40.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 3,
+                "pct": 15.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 24,
+                "pct": 55.8
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 10,
+                "pct": 23.3
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 9,
+                "pct": 20.9
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 10,
+                "pct": 50.0
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 8,
+                "pct": 40.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 2,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 4,
+                "pct": 50.0
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 2,
+                "pct": 25.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 2,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 9,
+                "pct": 39.1
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 6,
+                "pct": 26.1
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 8,
+                "pct": 34.8
+              }
+            ],
+            "base": {
+              "n": 23
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 4,
+                "pct": 57.1
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 1,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 7,
+                "pct": 53.8
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 3,
+                "pct": 23.1
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 8,
+                "pct": 36.4
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 10,
+                "pct": 45.5
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 4,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 23,
+                "pct": 33.8
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 26,
+                "pct": 38.2
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 19,
+                "pct": 27.9
+              }
+            ],
+            "base": {
+              "n": 68
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 11,
+                "pct": 55.0
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 3,
+                "pct": 15.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 6,
+                "pct": 30.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 1,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 27,
+                "pct": 51.9
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 18,
+                "pct": 34.6
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 7,
+                "pct": 13.5
+              }
+            ],
+            "base": {
+              "n": 52
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 5,
+                "pct": 62.5
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 3,
+                "pct": 37.5
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 6,
+                "pct": 42.9
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 5,
+                "pct": 35.7
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 3,
+                "pct": 21.4
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 26,
+                "pct": 41.9
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 21,
+                "pct": 33.9
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 15,
+                "pct": 24.2
+              }
+            ],
+            "base": {
+              "n": 62
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 3,
+                "pct": 60.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 2,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "South Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 10,
+                "pct": 58.8
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 3,
+                "pct": 17.6
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 27,
+                "pct": 47.4
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 15,
+                "pct": 26.3
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 15,
+                "pct": 26.3
+              }
+            ],
+            "base": {
+              "n": 57
+            }
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 7,
+                "pct": 41.2
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 7,
+                "pct": 41.2
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 10,
+                "pct": 40.0
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 9,
+                "pct": 36.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 6,
+                "pct": 24.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 2,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 8,
+                "pct": 36.4
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 7,
+                "pct": 31.8
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 7,
+                "pct": 31.8
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "Wyoming": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Household income US": {
+      "(Missing)": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 1,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "$1 million +": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "$10,000 to $14,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 5,
+                "pct": 55.6
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 1,
+                "pct": 11.1
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "$100,000 to $124,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 40,
+                "pct": 44.9
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 35,
+                "pct": 39.3
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 14,
+                "pct": 15.7
+              }
+            ],
+            "base": {
+              "n": 89
+            }
+          }
+        ]
+      },
+      "$125,000 to $149,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 22,
+                "pct": 33.3
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 31,
+                "pct": 47.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 13,
+                "pct": 19.7
+              }
+            ],
+            "base": {
+              "n": 66
+            }
+          }
+        ]
+      },
+      "$15,000 to $19,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 16,
+                "pct": 59.3
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 2,
+                "pct": 7.4
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 9,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "$150,000 to $174,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 14,
+                "pct": 34.1
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 19,
+                "pct": 46.3
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 8,
+                "pct": 19.5
+              }
+            ],
+            "base": {
+              "n": 41
+            }
+          }
+        ]
+      },
+      "$175,000 to $199,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 11,
+                "pct": 34.4
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 16,
+                "pct": 50.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 5,
+                "pct": 15.6
+              }
+            ],
+            "base": {
+              "n": 32
+            }
+          }
+        ]
+      },
+      "$20,000 to $24,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 27,
+                "pct": 61.4
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 10,
+                "pct": 22.7
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 7,
+                "pct": 15.9
+              }
+            ],
+            "base": {
+              "n": 44
+            }
+          }
+        ]
+      },
+      "$200,000 to $249,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 9,
+                "pct": 33.3
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 9,
+                "pct": 33.3
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 9,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "$25,000 to $29,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 13,
+                "pct": 41.9
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 10,
+                "pct": 32.3
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 8,
+                "pct": 25.8
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          }
+        ]
+      },
+      "$250,000 to $499,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 5,
+                "pct": 22.7
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 11,
+                "pct": 50.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 6,
+                "pct": 27.3
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "$30,000 to $34,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 13,
+                "pct": 43.3
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 10,
+                "pct": 33.3
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 7,
+                "pct": 23.3
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "$35,000 to $39,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 21,
+                "pct": 48.8
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 12,
+                "pct": 27.9
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 10,
+                "pct": 23.3
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "$40,000 to $44,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 9,
+                "pct": 45.0
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 7,
+                "pct": 35.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 4,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "$45,000 to $49,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 13,
+                "pct": 31.0
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 21,
+                "pct": 50.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 8,
+                "pct": 19.0
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "$5,000 to $9,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "$50,000 to $54,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 27,
+                "pct": 41.5
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 21,
+                "pct": 32.3
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 17,
+                "pct": 26.2
+              }
+            ],
+            "base": {
+              "n": 65
+            }
+          }
+        ]
+      },
+      "$500,000 to $999,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "$55,000 to $59,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 24,
+                "pct": 57.1
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 13,
+                "pct": 31.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 5,
+                "pct": 11.9
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "$60,000 to $64,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 14,
+                "pct": 50.0
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 9,
+                "pct": 32.1
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 5,
+                "pct": 17.9
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "$65,000 to $69,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 17,
+                "pct": 56.7
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 9,
+                "pct": 30.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 4,
+                "pct": 13.3
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "$70,000 to $74,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 20,
+                "pct": 47.6
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 9,
+                "pct": 21.4
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 13,
+                "pct": 31.0
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "$75,000 to $79,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 25,
+                "pct": 49.0
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 10,
+                "pct": 19.6
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 16,
+                "pct": 31.4
+              }
+            ],
+            "base": {
+              "n": 51
+            }
+          }
+        ]
+      },
+      "$80,000 to $84,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 12,
+                "pct": 41.4
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 9,
+                "pct": 31.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 8,
+                "pct": 27.6
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          }
+        ]
+      },
+      "$85,000 to $89,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 13,
+                "pct": 39.4
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 12,
+                "pct": 36.4
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 8,
+                "pct": 24.2
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          }
+        ]
+      },
+      "$90,000 to $94,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 5,
+                "pct": 35.7
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 4,
+                "pct": 28.6
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 5,
+                "pct": 35.7
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "$95,000 to $99,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 23,
+                "pct": 54.8
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 13,
+                "pct": 31.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 6,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "Less than $5,000": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 32,
+                "pct": 42.7
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 19,
+                "pct": 25.3
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 24,
+                "pct": 32.0
+              }
+            ],
+            "base": {
+              "n": 75
+            }
+          }
+        ]
+      },
+      "Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 6,
+                "pct": 75.0
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 1,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      }
+    },
+    "Education Level": {
+      "(Missing)": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Associates Degree": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 38,
+                "pct": 47.5
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 19,
+                "pct": 23.8
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 23,
+                "pct": 28.7
+              }
+            ],
+            "base": {
+              "n": 80
+            }
+          }
+        ]
+      },
+      "Bachelor's degree": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 115,
+                "pct": 45.3
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 87,
+                "pct": 34.3
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 52,
+                "pct": 20.5
+              }
+            ],
+            "base": {
+              "n": 254
+            }
+          }
+        ]
+      },
+      "Completed some college": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 91,
+                "pct": 50.8
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 65,
+                "pct": 36.3
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 23,
+                "pct": 12.8
+              }
+            ],
+            "base": {
+              "n": 179
+            }
+          }
+        ]
+      },
+      "Completed some high school": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 21,
+                "pct": 42.9
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 22,
+                "pct": 44.9
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 6,
+                "pct": 12.2
+              }
+            ],
+            "base": {
+              "n": 49
+            }
+          }
+        ]
+      },
+      "Completed some postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 7,
+                "pct": 41.2
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 9,
+                "pct": 52.9
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 1,
+                "pct": 5.9
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Doctorate /PhD": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 13,
+                "pct": 40.6
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 13,
+                "pct": 40.6
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 6,
+                "pct": 18.8
+              }
+            ],
+            "base": {
+              "n": 32
+            }
+          }
+        ]
+      },
+      "Elementary School": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 8,
+                "pct": 40.0
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 7,
+                "pct": 35.0
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 5,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "High school graduate": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 79,
+                "pct": 43.2
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 50,
+                "pct": 27.3
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 54,
+                "pct": 29.5
+              }
+            ],
+            "base": {
+              "n": 183
+            }
+          }
+        ]
+      },
+      "Masters degree": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 42,
+                "pct": 37.8
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 38,
+                "pct": 34.2
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 31,
+                "pct": 27.9
+              }
+            ],
+            "base": {
+              "n": 111
+            }
+          }
+        ]
+      },
+      "Middle School": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 17,
+                "pct": 43.6
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 7,
+                "pct": 17.9
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 15,
+                "pct": 38.5
+              }
+            ],
+            "base": {
+              "n": 39
+            }
+          }
+        ]
+      },
+      "None of the above/Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Other post high school vocational training": {
+        "rows": [
+          {
+            "panel_id": "Q8: Are candidates asking about mental health benefits (e.g., therapy coverage, mental health days) during the hiring process?",
+            "cells": [
+              {
+                "answer": "Occasionally, but not often",
+                "count": 10,
+                "pct": 34.5
+              },
+              {
+                "answer": "No, I haven’t experienced this",
+                "count": 15,
+                "pct": 51.7
+              },
+              {
+                "answer": "Yes, it’s common",
+                "count": 4,
+                "pct": 13.8
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 5,
+    "single_panel": true
+  }
+}
