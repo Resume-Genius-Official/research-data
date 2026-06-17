@@ -1,0 +1,19 @@
+{
+  "slug": "us_job_seeker_survey_2026",
+  "title": "US Job Seekers Survey, 2026",
+  "country": "US",
+  "year": 2026,
+  "fieldwork_start": "",
+  "fieldwork_end": "",
+  "sample_n": 1000,
+  "vendor": "Pollfish",
+  "notes": "Survey of US job seekers on search behavior, resume strategy, AI use in applications, interview honesty, mental health, and concerns about fake job postings.",
+  "topic_tags": [
+    "job seekers",
+    "job search",
+    "resume strategy",
+    "ai in hiring",
+    "fake job postings"
+  ],
+  "default_qtype": "matrix"
+}
