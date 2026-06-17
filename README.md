@@ -38,7 +38,7 @@ The raw CSV has been de-identified before release. Respondents were anonymous to
 
 The tabulated JSON additionally suppresses any group with fewer than 5 respondents, as noted above.
 
-| Dataset | Survey | Respondents | Field date | Source report |
+| Dataset | Survey | Respondents | Field date | Primary report |
 | :------ | :----- | :---------- | :--------- | :------------ |
 | `us_job_seeker_survey_2026/` | US Job Seekers Survey, 2026 | 1,000 U.S. job seekers | 2026 | [Link to report](https://resumegenius.com/blog/job-hunting/hiring-insights-report) |
 
