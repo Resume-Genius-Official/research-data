@@ -1,17 +1,17 @@
 # Resume Genius — Research Data
 
-© 2026 Resume Genius. Data licensed under CC BY 4.0.
+Raw datasets from Resume Genius' original surveys on the career space — covering job seekers, hiring managers, and workplace trends, with demographic breakdowns.
 
-Raw datasets from Resume Genius' career space surveys. Contains data on job seekers, hiring managers, and more with demographic breakdowns.
-
-We publish this data openly so journalists, analysts, and researchers can verify our findings and build on them. If you use it, we ask that you credit Resume Genius (see [How to cite](#how-to-cite) below).
+We publish this data openly so journalists, analysts, and researchers can verify our findings and build on them. If you use it, we just ask that you credit Resume Genius (see [How to cite](#how-to-cite) below).
 
 ## What's inside
 
-Each survey lives in its own folder and is published in two layers:
+Each survey lives in its own folder. Most surveys are published in two layers:
 
 - **Raw data** — a single CSV with one row per respondent, for your own analysis.
 - **Tabulated results** — a `questions/` folder with one JSON per survey question. Each file contains the overall result plus crosstabs by Age, Gender, US State, Household income, Education Level, and Employment Status. If you just want the numbers, start here.
+
+Some surveys are published as **tabulated results only**, with no raw CSV, when the respondent-level data cannot be safely de-identified (see [Privacy & de-identification](#privacy--de-identification)). For these, the aggregated JSON is the complete public release.
 
 Each folder also includes `survey_meta.json` with the survey's title, sample size, vendor, fieldwork dates, and topic tags.
 
@@ -42,14 +42,35 @@ The raw CSV has been de-identified before release. Respondents were anonymous to
 
 The tabulated JSON additionally suppresses any group with fewer than 5 respondents, as noted above.
 
-| Dataset | Survey | Respondents | Field date | Primary report |
-| :------ | :----- | :---------- | :--------- | :------------ |
-| `us_job_seeker_survey_2026/` | US Job Seekers Survey, 2026 | 1,000 U.S. job seekers | March 16, 2026 | [Link to report](https://resumegenius.com/blog/job-hunting/job-seeker-insights-report-2026) |
-| `us_hiring_changes_2025/` | US Hiring Changes Survey, 2025 | 1,000 U.S. hiring managers | January 8, 2025 | [Link to report](https://resumegenius.com/blog/job-hunting/ai-impact-on-hiring) |
+**Surveys published as aggregates only.** For some surveys, the raw respondent-level data carries too much re-identification risk to release safely, even after de-identification. In those cases we publish only the tabulated JSON (with the same n<5 suppression) and withhold the raw CSV. This is a deliberate privacy decision, not an omission.
+
+| Dataset (folder) | Survey | Respondents | Field date | Data published |
+| :--------------- | :----- | :---------- | :--------- | :------------- |
+| `us_job_seeker_survey_2026/` | US Job Seekers Survey, 2026 | 1,000 U.S. job seekers | Mar 2026 | CSV + JSON |
+| `us_hiring_changes_2025/` | US Hiring Changes Survey, 2025 | 1,000 U.S. hiring managers | Jan 2025 | CSV + JSON |
+| `us_hiring_trends_2024/` | US Hiring Trends Survey, 2024 | 625 U.S. hiring managers | Jan 2024 | JSON only |
+
+## Reports based on each dataset
+
+**US Job Seekers Survey, 2026**
+- [2026 Job Seeker Insights Report](https://resumegenius.com/blog/job-hunting/job-seeker-insights-report-2026)
+
+**US Hiring Changes Survey, 2025**
+- [AI's Impact on Hiring](https://resumegenius.com/blog/job-hunting/ai-impact-on-hiring)
+- [2025 Mental Health and Employability Report](https://resumegenius.com/blog/job-hunting/mental-health-and-employability)
+- [2025 Education and Earnings Report](https://resumegenius.com/blog/job-hunting/education-and-earnings)
+- [2025 Unfiltered Hiring Insights Report](https://resumegenius.com/blog/job-hunting/unfiltered-hiring-insights)
+
+**US Hiring Trends Survey, 2024**
+- [2024 Hiring Trends Report](https://resumegenius.com/blog/job-hunting/hiring-trends-survey)
+- [8 in 10 Hiring Managers Have Ghosted Candidates](https://resumegenius.com/blog/job-hunting/job-ghosting)
+- [65% of Hiring Managers Will Hire You For Your Skills Alone](https://resumegenius.com/blog/job-hunting/skills-based-hiring)
+- [Nearly 3 in 4 Hiring Managers Lie to Applicants](https://resumegenius.com/blog/job-hunting/hiring-managers-lie-to-candidates)
+- [Job Hopping](https://resumegenius.com/blog/career-advice/job-hopping)
 
 ## Methodology
 
-Surveys are fielded using Pollfish Random Device Engagement (RDE) to reach a demographically balanced sample; respondents are screened for relevance to each survey's population. Full per-survey methodology is documented in each codebook and under the Methodology section of each article, e.g. [https://resumegenius.com/blog/job-hunting/hiring-insights-report#methodology](https://resumegenius.com/blog/job-hunting/job-seeker-insights-report-2026#methodology)
+Surveys are fielded using Pollfish Random Device Engagement (RDE) to reach a demographically balanced sample; respondents are screened for relevance to each survey's population. Full per-survey methodology is documented in each codebook and article Methodology section.
 
 ## License
 
