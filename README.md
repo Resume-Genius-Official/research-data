@@ -66,12 +66,12 @@ The tabulated JSON additionally suppresses any group with fewer than 5 responden
 - [2025 Education and Earnings Report](https://resumegenius.com/blog/job-hunting/education-and-earnings)
 - [2025 Unfiltered Hiring Insights Report](https://resumegenius.com/blog/job-hunting/unfiltered-hiring-insights)
 
-- **US Gen Z Workers Survey, 2025**
+**US Gen Z Workers Survey, 2025**
 - [2025 Gen Z Career Prospects Report](https://resumegenius.com/blog/career-advice/gen-z-career-prospects)
 - [2025 Gen Z and AI in the Workplace Report](https://resumegenius.com/blog/career-advice/gen-z-and-ai)
 - [2025 Gen Z Work Mindset Report](https://resumegenius.com/blog/career-advice/gen-z-work-mindset)
 
-- **US Job Seekers Survey, 2026**
+**US Job Seekers Survey, 2026**
 - [2026 Job Seeker Insights Report](https://resumegenius.com/blog/job-hunting/job-seeker-insights-report-2026)
 
 ## Methodology
