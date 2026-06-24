@@ -1,0 +1,19 @@
+{
+  "slug": "us_hiring_trends_2024",
+  "title": "US Hiring Trends Survey, 2024",
+  "country": "US",
+  "year": 2024,
+  "fieldwork_start": "",
+  "fieldwork_end": "",
+  "sample_n": 625,
+  "vendor": "Pollfish",
+  "notes": "Survey of US hiring managers on resume review, interview behavior, and candidate evaluation trends.",
+  "topic_tags": [
+    "hiring trends",
+    "resume screening",
+    "interviews",
+    "candidate evaluation",
+    "hiring managers"
+  ],
+  "default_qtype": "matrix"
+}

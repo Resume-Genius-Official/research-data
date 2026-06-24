@@ -1,0 +1,1578 @@
+{
+  "id": "Q3",
+  "text": "Q3",
+  "question_prompt": "Q3: How long do you expect a candidate's resume to be?",
+  "type": "matrix",
+  "panels": [
+    "Q3: How long do you expect a candidate's resume to be?"
+  ],
+  "answers": [
+    "2 pages",
+    "1 page",
+    "3 or more pages"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+      "cells": [
+        {
+          "answer": "2 pages",
+          "count": 338,
+          "pct": 54.1
+        },
+        {
+          "answer": "1 page",
+          "count": 190,
+          "pct": 30.4
+        },
+        {
+          "answer": "3 or more pages",
+          "count": 97,
+          "pct": 15.5
+        }
+      ],
+      "base": {
+        "n": 625
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 625
+    },
+    "answers": [
+      {
+        "answer": "2 pages",
+        "count": 338,
+        "pct": 54.1
+      },
+      {
+        "answer": "1 page",
+        "count": 190,
+        "pct": 30.4
+      },
+      {
+        "answer": "3 or more pages",
+        "count": 97,
+        "pct": 15.5
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 87,
+                "pct": 53.7
+              },
+              {
+                "answer": "1 page",
+                "count": 54,
+                "pct": 33.3
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 21,
+                "pct": 13.0
+              }
+            ],
+            "base": {
+              "n": 162
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 115,
+                "pct": 50.2
+              },
+              {
+                "answer": "1 page",
+                "count": 69,
+                "pct": 30.1
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 45,
+                "pct": 19.7
+              }
+            ],
+            "base": {
+              "n": 229
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 136,
+                "pct": 58.1
+              },
+              {
+                "answer": "1 page",
+                "count": 67,
+                "pct": 28.6
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 31,
+                "pct": 13.2
+              }
+            ],
+            "base": {
+              "n": 234
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 134,
+                "pct": 47.7
+              },
+              {
+                "answer": "1 page",
+                "count": 106,
+                "pct": 37.7
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 41,
+                "pct": 14.6
+              }
+            ],
+            "base": {
+              "n": 281
+            }
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 204,
+                "pct": 59.3
+              },
+              {
+                "answer": "1 page",
+                "count": 84,
+                "pct": 24.4
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 56,
+                "pct": 16.3
+              }
+            ],
+            "base": {
+              "n": 344
+            }
+          }
+        ]
+      }
+    },
+    "Education": {
+      "elementary_school": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 117,
+                "pct": 58.5
+              },
+              {
+                "answer": "1 page",
+                "count": 54,
+                "pct": 27.0
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 29,
+                "pct": 14.5
+              }
+            ],
+            "base": {
+              "n": 200
+            }
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 10,
+                "pct": 45.5
+              },
+              {
+                "answer": "1 page",
+                "count": 5,
+                "pct": 22.7
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 7,
+                "pct": 31.8
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 87,
+                "pct": 56.1
+              },
+              {
+                "answer": "1 page",
+                "count": 42,
+                "pct": 27.1
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 26,
+                "pct": 16.8
+              }
+            ],
+            "base": {
+              "n": 155
+            }
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 99,
+                "pct": 52.9
+              },
+              {
+                "answer": "1 page",
+                "count": 67,
+                "pct": 35.8
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 21,
+                "pct": 11.2
+              }
+            ],
+            "base": {
+              "n": 187
+            }
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 25,
+                "pct": 41.7
+              },
+              {
+                "answer": "1 page",
+                "count": 21,
+                "pct": 35.0
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 14,
+                "pct": 23.3
+              }
+            ],
+            "base": {
+              "n": 60
+            }
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 6,
+                "pct": 46.2
+              },
+              {
+                "answer": "1 page",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 4,
+                "pct": 30.8
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 7,
+                "pct": 63.6
+              },
+              {
+                "answer": "1 page",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 28,
+                "pct": 63.6
+              },
+              {
+                "answer": "1 page",
+                "count": 8,
+                "pct": 18.2
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 8,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 44
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 6,
+                "pct": 66.7
+              },
+              {
+                "answer": "1 page",
+                "count": 2,
+                "pct": 22.2
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 1,
+                "pct": 11.1
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 7,
+                "pct": 70.0
+              },
+              {
+                "answer": "1 page",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 24,
+                "pct": 53.3
+              },
+              {
+                "answer": "1 page",
+                "count": 10,
+                "pct": 22.2
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 11,
+                "pct": 24.4
+              }
+            ],
+            "base": {
+              "n": 45
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 28,
+                "pct": 73.7
+              },
+              {
+                "answer": "1 page",
+                "count": 6,
+                "pct": 15.8
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 4,
+                "pct": 10.5
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 11,
+                "pct": 44.0
+              },
+              {
+                "answer": "1 page",
+                "count": 10,
+                "pct": 40.0
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 4,
+                "pct": 16.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 7,
+                "pct": 46.7
+              },
+              {
+                "answer": "1 page",
+                "count": 6,
+                "pct": 40.0
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 2,
+                "pct": 13.3
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 4,
+                "pct": 80.0
+              },
+              {
+                "answer": "1 page",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 1,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 3,
+                "pct": 60.0
+              },
+              {
+                "answer": "1 page",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 2,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 2,
+                "pct": 22.2
+              },
+              {
+                "answer": "1 page",
+                "count": 5,
+                "pct": 55.6
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 2,
+                "pct": 22.2
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "1 page",
+                "count": 7,
+                "pct": 63.6
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 5,
+                "pct": 35.7
+              },
+              {
+                "answer": "1 page",
+                "count": 7,
+                "pct": 50.0
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 2,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 11,
+                "pct": 50.0
+              },
+              {
+                "answer": "1 page",
+                "count": 6,
+                "pct": 27.3
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 5,
+                "pct": 22.7
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 5,
+                "pct": 71.4
+              },
+              {
+                "answer": "1 page",
+                "count": 1,
+                "pct": 14.3
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 1,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 10,
+                "pct": 83.3
+              },
+              {
+                "answer": "1 page",
+                "count": 2,
+                "pct": 16.7
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 12
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 7,
+                "pct": 87.5
+              },
+              {
+                "answer": "1 page",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 1,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 10,
+                "pct": 41.7
+              },
+              {
+                "answer": "1 page",
+                "count": 9,
+                "pct": 37.5
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 5,
+                "pct": 20.8
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 35,
+                "pct": 57.4
+              },
+              {
+                "answer": "1 page",
+                "count": 23,
+                "pct": 37.7
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 3,
+                "pct": 4.9
+              }
+            ],
+            "base": {
+              "n": 61
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 9,
+                "pct": 45.0
+              },
+              {
+                "answer": "1 page",
+                "count": 9,
+                "pct": 45.0
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 2,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 11,
+                "pct": 42.3
+              },
+              {
+                "answer": "1 page",
+                "count": 11,
+                "pct": 42.3
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 4,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 5,
+                "pct": 62.5
+              },
+              {
+                "answer": "1 page",
+                "count": 2,
+                "pct": 25.0
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 1,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 4,
+                "pct": 44.4
+              },
+              {
+                "answer": "1 page",
+                "count": 4,
+                "pct": 44.4
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 1,
+                "pct": 11.1
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 16,
+                "pct": 53.3
+              },
+              {
+                "answer": "1 page",
+                "count": 5,
+                "pct": 16.7
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 9,
+                "pct": 30.0
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 14,
+                "pct": 56.0
+              },
+              {
+                "answer": "1 page",
+                "count": 7,
+                "pct": 28.0
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 4,
+                "pct": 16.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "1 page",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 2,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 19,
+                "pct": 39.6
+              },
+              {
+                "answer": "1 page",
+                "count": 19,
+                "pct": 39.6
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 10,
+                "pct": 20.8
+              }
+            ],
+            "base": {
+              "n": 48
+            }
+          }
+        ]
+      },
+      "Unknown": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 9,
+                "pct": 64.3
+              },
+              {
+                "answer": "1 page",
+                "count": 4,
+                "pct": 28.6
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 1,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "1 page",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 2,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 21,
+                "pct": 44.7
+              },
+              {
+                "answer": "1 page",
+                "count": 20,
+                "pct": 42.6
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 6,
+                "pct": 12.8
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 41,
+                "pct": 51.2
+              },
+              {
+                "answer": "1 page",
+                "count": 23,
+                "pct": 28.7
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 16,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 80
+            }
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 72,
+                "pct": 72.0
+              },
+              {
+                "answer": "1 page",
+                "count": 18,
+                "pct": 18.0
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 10,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 100
+            }
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 51,
+                "pct": 59.3
+              },
+              {
+                "answer": "1 page",
+                "count": 22,
+                "pct": 25.6
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 13,
+                "pct": 15.1
+              }
+            ],
+            "base": {
+              "n": 86
+            }
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 64,
+                "pct": 56.1
+              },
+              {
+                "answer": "1 page",
+                "count": 39,
+                "pct": 34.2
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 11,
+                "pct": 9.6
+              }
+            ],
+            "base": {
+              "n": 114
+            }
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 47,
+                "pct": 48.0
+              },
+              {
+                "answer": "1 page",
+                "count": 31,
+                "pct": 31.6
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 20,
+                "pct": 20.4
+              }
+            ],
+            "base": {
+              "n": 98
+            }
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 37,
+                "pct": 42.5
+              },
+              {
+                "answer": "1 page",
+                "count": 35,
+                "pct": 40.2
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 15,
+                "pct": 17.2
+              }
+            ],
+            "base": {
+              "n": 87
+            }
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q3: How long do you expect a candidate's resume to be?",
+            "cells": [
+              {
+                "answer": "2 pages",
+                "count": 5,
+                "pct": 38.5
+              },
+              {
+                "answer": "1 page",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "3 or more pages",
+                "count": 6,
+                "pct": 46.2
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 5,
+    "single_panel": true
+  }
+}

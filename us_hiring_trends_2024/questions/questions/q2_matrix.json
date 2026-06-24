@@ -1,0 +1,2080 @@
+{
+  "id": "Q2",
+  "text": "Q2",
+  "question_prompt": "Q2: On average, how long does it take you to read a resume?",
+  "type": "matrix",
+  "panels": [
+    "Q2: On average, how long does it take you to read a resume?"
+  ],
+  "answers": [
+    "1 - 2 minutes",
+    "2 - 3 minutes",
+    "More than 3 minutes",
+    "30 - 60 seconds",
+    "Less than 30 seconds"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q2: On average, how long does it take you to read a resume?",
+      "cells": [
+        {
+          "answer": "1 - 2 minutes",
+          "count": 193,
+          "pct": 30.9
+        },
+        {
+          "answer": "2 - 3 minutes",
+          "count": 162,
+          "pct": 25.9
+        },
+        {
+          "answer": "More than 3 minutes",
+          "count": 129,
+          "pct": 20.6
+        },
+        {
+          "answer": "30 - 60 seconds",
+          "count": 101,
+          "pct": 16.2
+        },
+        {
+          "answer": "Less than 30 seconds",
+          "count": 40,
+          "pct": 6.4
+        }
+      ],
+      "base": {
+        "n": 625
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 625
+    },
+    "answers": [
+      {
+        "answer": "1 - 2 minutes",
+        "count": 193,
+        "pct": 30.9
+      },
+      {
+        "answer": "2 - 3 minutes",
+        "count": 162,
+        "pct": 25.9
+      },
+      {
+        "answer": "More than 3 minutes",
+        "count": 129,
+        "pct": 20.6
+      },
+      {
+        "answer": "30 - 60 seconds",
+        "count": 101,
+        "pct": 16.2
+      },
+      {
+        "answer": "Less than 30 seconds",
+        "count": 40,
+        "pct": 6.4
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 50,
+                "pct": 30.9
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 38,
+                "pct": 23.5
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 45,
+                "pct": 27.8
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 19,
+                "pct": 11.7
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 10,
+                "pct": 6.2
+              }
+            ],
+            "base": {
+              "n": 162
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 73,
+                "pct": 31.9
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 55,
+                "pct": 24.0
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 37,
+                "pct": 16.2
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 45,
+                "pct": 19.7
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 19,
+                "pct": 8.3
+              }
+            ],
+            "base": {
+              "n": 229
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 70,
+                "pct": 29.9
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 69,
+                "pct": 29.5
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 47,
+                "pct": 20.1
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 37,
+                "pct": 15.8
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 11,
+                "pct": 4.7
+              }
+            ],
+            "base": {
+              "n": 234
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 96,
+                "pct": 34.2
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 78,
+                "pct": 27.8
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 54,
+                "pct": 19.2
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 37,
+                "pct": 13.2
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 16,
+                "pct": 5.7
+              }
+            ],
+            "base": {
+              "n": 281
+            }
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 97,
+                "pct": 28.2
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 84,
+                "pct": 24.4
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 75,
+                "pct": 21.8
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 64,
+                "pct": 18.6
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 24,
+                "pct": 7.0
+              }
+            ],
+            "base": {
+              "n": 344
+            }
+          }
+        ]
+      }
+    },
+    "Education": {
+      "elementary_school": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 65,
+                "pct": 32.5
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 44,
+                "pct": 22.0
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 39,
+                "pct": 19.5
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 41,
+                "pct": 20.5
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 11,
+                "pct": 5.5
+              }
+            ],
+            "base": {
+              "n": 200
+            }
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 4,
+                "pct": 18.2
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 4,
+                "pct": 18.2
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 8,
+                "pct": 36.4
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 5,
+                "pct": 22.7
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 1,
+                "pct": 4.5
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 37,
+                "pct": 23.9
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 49,
+                "pct": 31.6
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 39,
+                "pct": 25.2
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 21,
+                "pct": 13.5
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 9,
+                "pct": 5.8
+              }
+            ],
+            "base": {
+              "n": 155
+            }
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 71,
+                "pct": 38.0
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 48,
+                "pct": 25.7
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 29,
+                "pct": 15.5
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 29,
+                "pct": 15.5
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 10,
+                "pct": 5.3
+              }
+            ],
+            "base": {
+              "n": 187
+            }
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 16,
+                "pct": 26.7
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 17,
+                "pct": 28.3
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 14,
+                "pct": 23.3
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 4,
+                "pct": 6.7
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 9,
+                "pct": 15.0
+              }
+            ],
+            "base": {
+              "n": 60
+            }
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 5,
+                "pct": 38.5
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 5,
+                "pct": 38.5
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 1,
+                "pct": 7.7
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 1,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 17,
+                "pct": 38.6
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 9,
+                "pct": 20.5
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 6,
+                "pct": 13.6
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 7,
+                "pct": 15.9
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 5,
+                "pct": 11.4
+              }
+            ],
+            "base": {
+              "n": 44
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 2,
+                "pct": 22.2
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 1,
+                "pct": 11.1
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 2,
+                "pct": 22.2
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 1,
+                "pct": 11.1
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 1,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 14,
+                "pct": 31.1
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 8,
+                "pct": 17.8
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 13,
+                "pct": 28.9
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 10,
+                "pct": 22.2
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 45
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 18,
+                "pct": 47.4
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 4,
+                "pct": 10.5
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 6,
+                "pct": 15.8
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 10,
+                "pct": 26.3
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 8,
+                "pct": 32.0
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 5,
+                "pct": 20.0
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 8,
+                "pct": 32.0
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 2,
+                "pct": 8.0
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 2,
+                "pct": 8.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 1,
+                "pct": 6.7
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 1,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 2,
+                "pct": 22.2
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 1,
+                "pct": 11.1
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 3,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 6,
+                "pct": 42.9
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 2,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 3,
+                "pct": 13.6
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 8,
+                "pct": 36.4
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 3,
+                "pct": 13.6
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 8,
+                "pct": 36.4
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 3,
+                "pct": 42.9
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 5,
+                "pct": 41.7
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 3,
+                "pct": 25.0
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 2,
+                "pct": 16.7
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 2,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 12
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 3,
+                "pct": 37.5
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 2,
+                "pct": 25.0
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 2,
+                "pct": 25.0
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 11,
+                "pct": 45.8
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 6,
+                "pct": 25.0
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 3,
+                "pct": 12.5
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 2,
+                "pct": 8.3
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 2,
+                "pct": 8.3
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 20,
+                "pct": 32.8
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 18,
+                "pct": 29.5
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 12,
+                "pct": 19.7
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 7,
+                "pct": 11.5
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 4,
+                "pct": 6.6
+              }
+            ],
+            "base": {
+              "n": 61
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 6,
+                "pct": 30.0
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 3,
+                "pct": 15.0
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 6,
+                "pct": 30.0
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 2,
+                "pct": 10.0
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 3,
+                "pct": 15.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 7,
+                "pct": 26.9
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 7,
+                "pct": 26.9
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 6,
+                "pct": 23.1
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 6,
+                "pct": 23.1
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 5,
+                "pct": 62.5
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 2,
+                "pct": 25.0
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 1,
+                "pct": 11.1
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 1,
+                "pct": 11.1
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 1,
+                "pct": 11.1
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 8,
+                "pct": 26.7
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 7,
+                "pct": 23.3
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 11,
+                "pct": 36.7
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 3,
+                "pct": 10.0
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 1,
+                "pct": 3.3
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 10,
+                "pct": 40.0
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 6,
+                "pct": 24.0
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 5,
+                "pct": 20.0
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 3,
+                "pct": 12.0
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 1,
+                "pct": 4.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 2,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 6,
+                "pct": 12.5
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 16,
+                "pct": 33.3
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 12,
+                "pct": 25.0
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 11,
+                "pct": 22.9
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 3,
+                "pct": 6.2
+              }
+            ],
+            "base": {
+              "n": 48
+            }
+          }
+        ]
+      },
+      "Unknown": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 5,
+                "pct": 35.7
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 6,
+                "pct": 42.9
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 2,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 8,
+                "pct": 17.0
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 15,
+                "pct": 31.9
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 6,
+                "pct": 12.8
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 13,
+                "pct": 27.7
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 5,
+                "pct": 10.6
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 22,
+                "pct": 27.5
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 17,
+                "pct": 21.2
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 25,
+                "pct": 31.2
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 10,
+                "pct": 12.5
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 6,
+                "pct": 7.5
+              }
+            ],
+            "base": {
+              "n": 80
+            }
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 34,
+                "pct": 34.0
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 34,
+                "pct": 34.0
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 15,
+                "pct": 15.0
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 14,
+                "pct": 14.0
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 3,
+                "pct": 3.0
+              }
+            ],
+            "base": {
+              "n": 100
+            }
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 28,
+                "pct": 32.6
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 22,
+                "pct": 25.6
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 12,
+                "pct": 14.0
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 15,
+                "pct": 17.4
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 9,
+                "pct": 10.5
+              }
+            ],
+            "base": {
+              "n": 86
+            }
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 40,
+                "pct": 35.1
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 26,
+                "pct": 22.8
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 27,
+                "pct": 23.7
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 16,
+                "pct": 14.0
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 5,
+                "pct": 4.4
+              }
+            ],
+            "base": {
+              "n": 114
+            }
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 28,
+                "pct": 28.6
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 23,
+                "pct": 23.5
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 25,
+                "pct": 25.5
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 15,
+                "pct": 15.3
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 7,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 98
+            }
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 30,
+                "pct": 34.5
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 22,
+                "pct": 25.3
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 17,
+                "pct": 19.5
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 14,
+                "pct": 16.1
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 4,
+                "pct": 4.6
+              }
+            ],
+            "base": {
+              "n": 87
+            }
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q2: On average, how long does it take you to read a resume?",
+            "cells": [
+              {
+                "answer": "1 - 2 minutes",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "2 - 3 minutes",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "More than 3 minutes",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "30 - 60 seconds",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "Less than 30 seconds",
+                "count": 1,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 5,
+    "single_panel": true
+  }
+}

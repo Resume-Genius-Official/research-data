@@ -1,0 +1,2080 @@
+{
+  "id": "Q15",
+  "text": "Q15",
+  "question_prompt": "Q15: How often do you check a candidate’s references?",
+  "type": "matrix",
+  "panels": [
+    "Q15: How often do you check a candidate’s references?"
+  ],
+  "answers": [
+    "Frequently",
+    "Occasionally",
+    "Every Time",
+    "On Rare Occassion",
+    "Never"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q15: How often do you check a candidate’s references?",
+      "cells": [
+        {
+          "answer": "Frequently",
+          "count": 206,
+          "pct": 33.0
+        },
+        {
+          "answer": "Occasionally",
+          "count": 164,
+          "pct": 26.2
+        },
+        {
+          "answer": "Every Time",
+          "count": 155,
+          "pct": 24.8
+        },
+        {
+          "answer": "On Rare Occassion",
+          "count": 73,
+          "pct": 11.7
+        },
+        {
+          "answer": "Never",
+          "count": 27,
+          "pct": 4.3
+        }
+      ],
+      "base": {
+        "n": 625
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 625
+    },
+    "answers": [
+      {
+        "answer": "Frequently",
+        "count": 206,
+        "pct": 33.0
+      },
+      {
+        "answer": "Occasionally",
+        "count": 164,
+        "pct": 26.2
+      },
+      {
+        "answer": "Every Time",
+        "count": 155,
+        "pct": 24.8
+      },
+      {
+        "answer": "On Rare Occassion",
+        "count": 73,
+        "pct": 11.7
+      },
+      {
+        "answer": "Never",
+        "count": 27,
+        "pct": 4.3
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 51,
+                "pct": 31.5
+              },
+              {
+                "answer": "Occasionally",
+                "count": 42,
+                "pct": 25.9
+              },
+              {
+                "answer": "Every Time",
+                "count": 46,
+                "pct": 28.4
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 15,
+                "pct": 9.3
+              },
+              {
+                "answer": "Never",
+                "count": 8,
+                "pct": 4.9
+              }
+            ],
+            "base": {
+              "n": 162
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 71,
+                "pct": 31.0
+              },
+              {
+                "answer": "Occasionally",
+                "count": 71,
+                "pct": 31.0
+              },
+              {
+                "answer": "Every Time",
+                "count": 42,
+                "pct": 18.3
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 32,
+                "pct": 14.0
+              },
+              {
+                "answer": "Never",
+                "count": 13,
+                "pct": 5.7
+              }
+            ],
+            "base": {
+              "n": 229
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 84,
+                "pct": 35.9
+              },
+              {
+                "answer": "Occasionally",
+                "count": 51,
+                "pct": 21.8
+              },
+              {
+                "answer": "Every Time",
+                "count": 67,
+                "pct": 28.6
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 26,
+                "pct": 11.1
+              },
+              {
+                "answer": "Never",
+                "count": 6,
+                "pct": 2.6
+              }
+            ],
+            "base": {
+              "n": 234
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 93,
+                "pct": 33.1
+              },
+              {
+                "answer": "Occasionally",
+                "count": 69,
+                "pct": 24.6
+              },
+              {
+                "answer": "Every Time",
+                "count": 68,
+                "pct": 24.2
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 35,
+                "pct": 12.5
+              },
+              {
+                "answer": "Never",
+                "count": 16,
+                "pct": 5.7
+              }
+            ],
+            "base": {
+              "n": 281
+            }
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 113,
+                "pct": 32.8
+              },
+              {
+                "answer": "Occasionally",
+                "count": 95,
+                "pct": 27.6
+              },
+              {
+                "answer": "Every Time",
+                "count": 87,
+                "pct": 25.3
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 38,
+                "pct": 11.0
+              },
+              {
+                "answer": "Never",
+                "count": 11,
+                "pct": 3.2
+              }
+            ],
+            "base": {
+              "n": 344
+            }
+          }
+        ]
+      }
+    },
+    "Education": {
+      "elementary_school": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 62,
+                "pct": 31.0
+              },
+              {
+                "answer": "Occasionally",
+                "count": 60,
+                "pct": 30.0
+              },
+              {
+                "answer": "Every Time",
+                "count": 36,
+                "pct": 18.0
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 34,
+                "pct": 17.0
+              },
+              {
+                "answer": "Never",
+                "count": 8,
+                "pct": 4.0
+              }
+            ],
+            "base": {
+              "n": 200
+            }
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 5,
+                "pct": 22.7
+              },
+              {
+                "answer": "Occasionally",
+                "count": 4,
+                "pct": 18.2
+              },
+              {
+                "answer": "Every Time",
+                "count": 3,
+                "pct": 13.6
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 4,
+                "pct": 18.2
+              },
+              {
+                "answer": "Never",
+                "count": 6,
+                "pct": 27.3
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 63,
+                "pct": 40.6
+              },
+              {
+                "answer": "Occasionally",
+                "count": 26,
+                "pct": 16.8
+              },
+              {
+                "answer": "Every Time",
+                "count": 59,
+                "pct": 38.1
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 3,
+                "pct": 1.9
+              },
+              {
+                "answer": "Never",
+                "count": 4,
+                "pct": 2.6
+              }
+            ],
+            "base": {
+              "n": 155
+            }
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 66,
+                "pct": 35.3
+              },
+              {
+                "answer": "Occasionally",
+                "count": 55,
+                "pct": 29.4
+              },
+              {
+                "answer": "Every Time",
+                "count": 41,
+                "pct": 21.9
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 22,
+                "pct": 11.8
+              },
+              {
+                "answer": "Never",
+                "count": 3,
+                "pct": 1.6
+              }
+            ],
+            "base": {
+              "n": 187
+            }
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 10,
+                "pct": 16.7
+              },
+              {
+                "answer": "Occasionally",
+                "count": 18,
+                "pct": 30.0
+              },
+              {
+                "answer": "Every Time",
+                "count": 16,
+                "pct": 26.7
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 10,
+                "pct": 16.7
+              },
+              {
+                "answer": "Never",
+                "count": 6,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 60
+            }
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 6,
+                "pct": 46.2
+              },
+              {
+                "answer": "Occasionally",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "Every Time",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 1,
+                "pct": 7.7
+              },
+              {
+                "answer": "Never",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 7,
+                "pct": 63.6
+              },
+              {
+                "answer": "Occasionally",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "Every Time",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Never",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 12,
+                "pct": 27.3
+              },
+              {
+                "answer": "Occasionally",
+                "count": 14,
+                "pct": 31.8
+              },
+              {
+                "answer": "Every Time",
+                "count": 10,
+                "pct": 22.7
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 6,
+                "pct": 13.6
+              },
+              {
+                "answer": "Never",
+                "count": 2,
+                "pct": 4.5
+              }
+            ],
+            "base": {
+              "n": 44
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Occasionally",
+                "count": 5,
+                "pct": 55.6
+              },
+              {
+                "answer": "Every Time",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Never",
+                "count": 1,
+                "pct": 11.1
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "Occasionally",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Every Time",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Never",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 17,
+                "pct": 37.8
+              },
+              {
+                "answer": "Occasionally",
+                "count": 12,
+                "pct": 26.7
+              },
+              {
+                "answer": "Every Time",
+                "count": 9,
+                "pct": 20.0
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 5,
+                "pct": 11.1
+              },
+              {
+                "answer": "Never",
+                "count": 2,
+                "pct": 4.4
+              }
+            ],
+            "base": {
+              "n": 45
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 14,
+                "pct": 36.8
+              },
+              {
+                "answer": "Occasionally",
+                "count": 15,
+                "pct": 39.5
+              },
+              {
+                "answer": "Every Time",
+                "count": 6,
+                "pct": 15.8
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 3,
+                "pct": 7.9
+              },
+              {
+                "answer": "Never",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 8,
+                "pct": 32.0
+              },
+              {
+                "answer": "Occasionally",
+                "count": 4,
+                "pct": 16.0
+              },
+              {
+                "answer": "Every Time",
+                "count": 7,
+                "pct": 28.0
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 5,
+                "pct": 20.0
+              },
+              {
+                "answer": "Never",
+                "count": 1,
+                "pct": 4.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "Occasionally",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "Every Time",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "Never",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 3,
+                "pct": 60.0
+              },
+              {
+                "answer": "Occasionally",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Every Time",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Never",
+                "count": 1,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "Occasionally",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Every Time",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Never",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 5,
+                "pct": 55.6
+              },
+              {
+                "answer": "Occasionally",
+                "count": 2,
+                "pct": 22.2
+              },
+              {
+                "answer": "Every Time",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Never",
+                "count": 2,
+                "pct": 22.2
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Occasionally",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "Every Time",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "Never",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 6,
+                "pct": 42.9
+              },
+              {
+                "answer": "Occasionally",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Every Time",
+                "count": 7,
+                "pct": 50.0
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Never",
+                "count": 1,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 9,
+                "pct": 40.9
+              },
+              {
+                "answer": "Occasionally",
+                "count": 8,
+                "pct": 36.4
+              },
+              {
+                "answer": "Every Time",
+                "count": 1,
+                "pct": 4.5
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 3,
+                "pct": 13.6
+              },
+              {
+                "answer": "Never",
+                "count": 1,
+                "pct": 4.5
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 1,
+                "pct": 14.3
+              },
+              {
+                "answer": "Occasionally",
+                "count": 4,
+                "pct": 57.1
+              },
+              {
+                "answer": "Every Time",
+                "count": 1,
+                "pct": 14.3
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 1,
+                "pct": 14.3
+              },
+              {
+                "answer": "Never",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 2,
+                "pct": 16.7
+              },
+              {
+                "answer": "Occasionally",
+                "count": 3,
+                "pct": 25.0
+              },
+              {
+                "answer": "Every Time",
+                "count": 2,
+                "pct": 16.7
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 4,
+                "pct": 33.3
+              },
+              {
+                "answer": "Never",
+                "count": 1,
+                "pct": 8.3
+              }
+            ],
+            "base": {
+              "n": 12
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Occasionally",
+                "count": 2,
+                "pct": 25.0
+              },
+              {
+                "answer": "Every Time",
+                "count": 5,
+                "pct": 62.5
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Never",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 6,
+                "pct": 25.0
+              },
+              {
+                "answer": "Occasionally",
+                "count": 9,
+                "pct": 37.5
+              },
+              {
+                "answer": "Every Time",
+                "count": 8,
+                "pct": 33.3
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 1,
+                "pct": 4.2
+              },
+              {
+                "answer": "Never",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 18,
+                "pct": 29.5
+              },
+              {
+                "answer": "Occasionally",
+                "count": 23,
+                "pct": 37.7
+              },
+              {
+                "answer": "Every Time",
+                "count": 14,
+                "pct": 23.0
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 4,
+                "pct": 6.6
+              },
+              {
+                "answer": "Never",
+                "count": 2,
+                "pct": 3.3
+              }
+            ],
+            "base": {
+              "n": 61
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 5,
+                "pct": 25.0
+              },
+              {
+                "answer": "Occasionally",
+                "count": 4,
+                "pct": 20.0
+              },
+              {
+                "answer": "Every Time",
+                "count": 6,
+                "pct": 30.0
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 2,
+                "pct": 10.0
+              },
+              {
+                "answer": "Never",
+                "count": 3,
+                "pct": 15.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 9,
+                "pct": 34.6
+              },
+              {
+                "answer": "Occasionally",
+                "count": 5,
+                "pct": 19.2
+              },
+              {
+                "answer": "Every Time",
+                "count": 6,
+                "pct": 23.1
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 6,
+                "pct": 23.1
+              },
+              {
+                "answer": "Never",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 4,
+                "pct": 50.0
+              },
+              {
+                "answer": "Occasionally",
+                "count": 3,
+                "pct": 37.5
+              },
+              {
+                "answer": "Every Time",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Never",
+                "count": 1,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 5,
+                "pct": 55.6
+              },
+              {
+                "answer": "Occasionally",
+                "count": 1,
+                "pct": 11.1
+              },
+              {
+                "answer": "Every Time",
+                "count": 2,
+                "pct": 22.2
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 1,
+                "pct": 11.1
+              },
+              {
+                "answer": "Never",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 8,
+                "pct": 26.7
+              },
+              {
+                "answer": "Occasionally",
+                "count": 10,
+                "pct": 33.3
+              },
+              {
+                "answer": "Every Time",
+                "count": 10,
+                "pct": 33.3
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 1,
+                "pct": 3.3
+              },
+              {
+                "answer": "Never",
+                "count": 1,
+                "pct": 3.3
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 12,
+                "pct": 48.0
+              },
+              {
+                "answer": "Occasionally",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Every Time",
+                "count": 10,
+                "pct": 40.0
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 2,
+                "pct": 8.0
+              },
+              {
+                "answer": "Never",
+                "count": 1,
+                "pct": 4.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Occasionally",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "Every Time",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Never",
+                "count": 2,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 7,
+                "pct": 14.6
+              },
+              {
+                "answer": "Occasionally",
+                "count": 7,
+                "pct": 14.6
+              },
+              {
+                "answer": "Every Time",
+                "count": 23,
+                "pct": 47.9
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 6,
+                "pct": 12.5
+              },
+              {
+                "answer": "Never",
+                "count": 5,
+                "pct": 10.4
+              }
+            ],
+            "base": {
+              "n": 48
+            }
+          }
+        ]
+      },
+      "Unknown": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 5,
+                "pct": 35.7
+              },
+              {
+                "answer": "Occasionally",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "Every Time",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "Never",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "Occasionally",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Every Time",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "Never",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 13,
+                "pct": 27.7
+              },
+              {
+                "answer": "Occasionally",
+                "count": 14,
+                "pct": 29.8
+              },
+              {
+                "answer": "Every Time",
+                "count": 14,
+                "pct": 29.8
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 2,
+                "pct": 4.3
+              },
+              {
+                "answer": "Never",
+                "count": 4,
+                "pct": 8.5
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 31,
+                "pct": 38.8
+              },
+              {
+                "answer": "Occasionally",
+                "count": 13,
+                "pct": 16.2
+              },
+              {
+                "answer": "Every Time",
+                "count": 31,
+                "pct": 38.8
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 3,
+                "pct": 3.8
+              },
+              {
+                "answer": "Never",
+                "count": 2,
+                "pct": 2.5
+              }
+            ],
+            "base": {
+              "n": 80
+            }
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 49,
+                "pct": 49.0
+              },
+              {
+                "answer": "Occasionally",
+                "count": 13,
+                "pct": 13.0
+              },
+              {
+                "answer": "Every Time",
+                "count": 32,
+                "pct": 32.0
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 4,
+                "pct": 4.0
+              },
+              {
+                "answer": "Never",
+                "count": 2,
+                "pct": 2.0
+              }
+            ],
+            "base": {
+              "n": 100
+            }
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 17,
+                "pct": 19.8
+              },
+              {
+                "answer": "Occasionally",
+                "count": 31,
+                "pct": 36.0
+              },
+              {
+                "answer": "Every Time",
+                "count": 15,
+                "pct": 17.4
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 20,
+                "pct": 23.3
+              },
+              {
+                "answer": "Never",
+                "count": 3,
+                "pct": 3.5
+              }
+            ],
+            "base": {
+              "n": 86
+            }
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 41,
+                "pct": 36.0
+              },
+              {
+                "answer": "Occasionally",
+                "count": 37,
+                "pct": 32.5
+              },
+              {
+                "answer": "Every Time",
+                "count": 19,
+                "pct": 16.7
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 13,
+                "pct": 11.4
+              },
+              {
+                "answer": "Never",
+                "count": 4,
+                "pct": 3.5
+              }
+            ],
+            "base": {
+              "n": 114
+            }
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 25,
+                "pct": 25.5
+              },
+              {
+                "answer": "Occasionally",
+                "count": 25,
+                "pct": 25.5
+              },
+              {
+                "answer": "Every Time",
+                "count": 25,
+                "pct": 25.5
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 14,
+                "pct": 14.3
+              },
+              {
+                "answer": "Never",
+                "count": 9,
+                "pct": 9.2
+              }
+            ],
+            "base": {
+              "n": 98
+            }
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 24,
+                "pct": 27.6
+              },
+              {
+                "answer": "Occasionally",
+                "count": 27,
+                "pct": 31.0
+              },
+              {
+                "answer": "Every Time",
+                "count": 19,
+                "pct": 21.8
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 15,
+                "pct": 17.2
+              },
+              {
+                "answer": "Never",
+                "count": 2,
+                "pct": 2.3
+              }
+            ],
+            "base": {
+              "n": 87
+            }
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q15: How often do you check a candidate’s references?",
+            "cells": [
+              {
+                "answer": "Frequently",
+                "count": 6,
+                "pct": 46.2
+              },
+              {
+                "answer": "Occasionally",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "Every Time",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "On Rare Occassion",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "Never",
+                "count": 1,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 5,
+    "single_panel": true
+  }
+}

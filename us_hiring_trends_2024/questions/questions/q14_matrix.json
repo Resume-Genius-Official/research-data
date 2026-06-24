@@ -1,0 +1,5369 @@
+{
+  "id": "Q14",
+  "text": "Q14",
+  "question_prompt": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+  "type": "matrix",
+  "panels": [
+    "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+    "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+    "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+    "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling"
+  ],
+  "answers": [
+    "Yes",
+    "No",
+    "Not Sure"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+      "cells": [
+        {
+          "answer": "Yes",
+          "count": 412,
+          "pct": 65.9
+        },
+        {
+          "answer": "No",
+          "count": 159,
+          "pct": 25.4
+        },
+        {
+          "answer": "Not Sure",
+          "count": 54,
+          "pct": 8.6
+        }
+      ],
+      "base": {
+        "n": 625
+      }
+    },
+    {
+      "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+      "cells": [
+        {
+          "answer": "Yes",
+          "count": 300,
+          "pct": 48.0
+        },
+        {
+          "answer": "No",
+          "count": 243,
+          "pct": 38.9
+        },
+        {
+          "answer": "Not Sure",
+          "count": 82,
+          "pct": 13.1
+        }
+      ],
+      "base": {
+        "n": 625
+      }
+    },
+    {
+      "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+      "cells": [
+        {
+          "answer": "Yes",
+          "count": 411,
+          "pct": 65.8
+        },
+        {
+          "answer": "No",
+          "count": 151,
+          "pct": 24.2
+        },
+        {
+          "answer": "Not Sure",
+          "count": 63,
+          "pct": 10.1
+        }
+      ],
+      "base": {
+        "n": 625
+      }
+    },
+    {
+      "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+      "cells": [
+        {
+          "answer": "Yes",
+          "count": 362,
+          "pct": 57.9
+        },
+        {
+          "answer": "No",
+          "count": 196,
+          "pct": 31.4
+        },
+        {
+          "answer": "Not Sure",
+          "count": 67,
+          "pct": 10.7
+        }
+      ],
+      "base": {
+        "n": 625
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 2500
+    },
+    "answers": [
+      {
+        "answer": "Yes",
+        "count": 1485,
+        "pct": 59.4
+      },
+      {
+        "answer": "No",
+        "count": 749,
+        "pct": 30.0
+      },
+      {
+        "answer": "Not Sure",
+        "count": 266,
+        "pct": 10.6
+      }
+    ],
+    "note": "Roll-up sums bases across panels."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 100,
+                "pct": 61.7
+              },
+              {
+                "answer": "No",
+                "count": 45,
+                "pct": 27.8
+              },
+              {
+                "answer": "Not Sure",
+                "count": 17,
+                "pct": 10.5
+              }
+            ],
+            "base": {
+              "n": 162
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 76,
+                "pct": 46.9
+              },
+              {
+                "answer": "No",
+                "count": 64,
+                "pct": 39.5
+              },
+              {
+                "answer": "Not Sure",
+                "count": 22,
+                "pct": 13.6
+              }
+            ],
+            "base": {
+              "n": 162
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 85,
+                "pct": 52.5
+              },
+              {
+                "answer": "No",
+                "count": 53,
+                "pct": 32.7
+              },
+              {
+                "answer": "Not Sure",
+                "count": 24,
+                "pct": 14.8
+              }
+            ],
+            "base": {
+              "n": 162
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 60,
+                "pct": 37.0
+              },
+              {
+                "answer": "No",
+                "count": 88,
+                "pct": 54.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 14,
+                "pct": 8.6
+              }
+            ],
+            "base": {
+              "n": 162
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 139,
+                "pct": 60.7
+              },
+              {
+                "answer": "No",
+                "count": 68,
+                "pct": 29.7
+              },
+              {
+                "answer": "Not Sure",
+                "count": 22,
+                "pct": 9.6
+              }
+            ],
+            "base": {
+              "n": 229
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 110,
+                "pct": 48.0
+              },
+              {
+                "answer": "No",
+                "count": 88,
+                "pct": 38.4
+              },
+              {
+                "answer": "Not Sure",
+                "count": 31,
+                "pct": 13.5
+              }
+            ],
+            "base": {
+              "n": 229
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 148,
+                "pct": 64.6
+              },
+              {
+                "answer": "No",
+                "count": 58,
+                "pct": 25.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 23,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 229
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 132,
+                "pct": 57.6
+              },
+              {
+                "answer": "No",
+                "count": 60,
+                "pct": 26.2
+              },
+              {
+                "answer": "Not Sure",
+                "count": 37,
+                "pct": 16.2
+              }
+            ],
+            "base": {
+              "n": 229
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 173,
+                "pct": 73.9
+              },
+              {
+                "answer": "No",
+                "count": 46,
+                "pct": 19.7
+              },
+              {
+                "answer": "Not Sure",
+                "count": 15,
+                "pct": 6.4
+              }
+            ],
+            "base": {
+              "n": 234
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 114,
+                "pct": 48.7
+              },
+              {
+                "answer": "No",
+                "count": 91,
+                "pct": 38.9
+              },
+              {
+                "answer": "Not Sure",
+                "count": 29,
+                "pct": 12.4
+              }
+            ],
+            "base": {
+              "n": 234
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 178,
+                "pct": 76.1
+              },
+              {
+                "answer": "No",
+                "count": 40,
+                "pct": 17.1
+              },
+              {
+                "answer": "Not Sure",
+                "count": 16,
+                "pct": 6.8
+              }
+            ],
+            "base": {
+              "n": 234
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 170,
+                "pct": 72.6
+              },
+              {
+                "answer": "No",
+                "count": 48,
+                "pct": 20.5
+              },
+              {
+                "answer": "Not Sure",
+                "count": 16,
+                "pct": 6.8
+              }
+            ],
+            "base": {
+              "n": 234
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 168,
+                "pct": 59.8
+              },
+              {
+                "answer": "No",
+                "count": 80,
+                "pct": 28.5
+              },
+              {
+                "answer": "Not Sure",
+                "count": 33,
+                "pct": 11.7
+              }
+            ],
+            "base": {
+              "n": 281
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 124,
+                "pct": 44.1
+              },
+              {
+                "answer": "No",
+                "count": 114,
+                "pct": 40.6
+              },
+              {
+                "answer": "Not Sure",
+                "count": 43,
+                "pct": 15.3
+              }
+            ],
+            "base": {
+              "n": 281
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 160,
+                "pct": 56.9
+              },
+              {
+                "answer": "No",
+                "count": 86,
+                "pct": 30.6
+              },
+              {
+                "answer": "Not Sure",
+                "count": 35,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 281
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 139,
+                "pct": 49.5
+              },
+              {
+                "answer": "No",
+                "count": 97,
+                "pct": 34.5
+              },
+              {
+                "answer": "Not Sure",
+                "count": 45,
+                "pct": 16.0
+              }
+            ],
+            "base": {
+              "n": 281
+            }
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 244,
+                "pct": 70.9
+              },
+              {
+                "answer": "No",
+                "count": 79,
+                "pct": 23.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 21,
+                "pct": 6.1
+              }
+            ],
+            "base": {
+              "n": 344
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 176,
+                "pct": 51.2
+              },
+              {
+                "answer": "No",
+                "count": 129,
+                "pct": 37.5
+              },
+              {
+                "answer": "Not Sure",
+                "count": 39,
+                "pct": 11.3
+              }
+            ],
+            "base": {
+              "n": 344
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 251,
+                "pct": 73.0
+              },
+              {
+                "answer": "No",
+                "count": 65,
+                "pct": 18.9
+              },
+              {
+                "answer": "Not Sure",
+                "count": 28,
+                "pct": 8.1
+              }
+            ],
+            "base": {
+              "n": 344
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 223,
+                "pct": 64.8
+              },
+              {
+                "answer": "No",
+                "count": 99,
+                "pct": 28.8
+              },
+              {
+                "answer": "Not Sure",
+                "count": 22,
+                "pct": 6.4
+              }
+            ],
+            "base": {
+              "n": 344
+            }
+          }
+        ]
+      }
+    },
+    "Education": {
+      "elementary_school": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 134,
+                "pct": 67.0
+              },
+              {
+                "answer": "No",
+                "count": 51,
+                "pct": 25.5
+              },
+              {
+                "answer": "Not Sure",
+                "count": 15,
+                "pct": 7.5
+              }
+            ],
+            "base": {
+              "n": 200
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 85,
+                "pct": 42.5
+              },
+              {
+                "answer": "No",
+                "count": 89,
+                "pct": 44.5
+              },
+              {
+                "answer": "Not Sure",
+                "count": 26,
+                "pct": 13.0
+              }
+            ],
+            "base": {
+              "n": 200
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 126,
+                "pct": 63.0
+              },
+              {
+                "answer": "No",
+                "count": 52,
+                "pct": 26.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 22,
+                "pct": 11.0
+              }
+            ],
+            "base": {
+              "n": 200
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 98,
+                "pct": 49.0
+              },
+              {
+                "answer": "No",
+                "count": 75,
+                "pct": 37.5
+              },
+              {
+                "answer": "Not Sure",
+                "count": 27,
+                "pct": 13.5
+              }
+            ],
+            "base": {
+              "n": 200
+            }
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 10,
+                "pct": 45.5
+              },
+              {
+                "answer": "No",
+                "count": 10,
+                "pct": 45.5
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 8,
+                "pct": 36.4
+              },
+              {
+                "answer": "No",
+                "count": 7,
+                "pct": 31.8
+              },
+              {
+                "answer": "Not Sure",
+                "count": 7,
+                "pct": 31.8
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 4,
+                "pct": 18.2
+              },
+              {
+                "answer": "No",
+                "count": 9,
+                "pct": 40.9
+              },
+              {
+                "answer": "Not Sure",
+                "count": 9,
+                "pct": 40.9
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 9,
+                "pct": 40.9
+              },
+              {
+                "answer": "No",
+                "count": 6,
+                "pct": 27.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 7,
+                "pct": 31.8
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 108,
+                "pct": 69.7
+              },
+              {
+                "answer": "No",
+                "count": 34,
+                "pct": 21.9
+              },
+              {
+                "answer": "Not Sure",
+                "count": 13,
+                "pct": 8.4
+              }
+            ],
+            "base": {
+              "n": 155
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 90,
+                "pct": 58.1
+              },
+              {
+                "answer": "No",
+                "count": 51,
+                "pct": 32.9
+              },
+              {
+                "answer": "Not Sure",
+                "count": 14,
+                "pct": 9.0
+              }
+            ],
+            "base": {
+              "n": 155
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 121,
+                "pct": 78.1
+              },
+              {
+                "answer": "No",
+                "count": 26,
+                "pct": 16.8
+              },
+              {
+                "answer": "Not Sure",
+                "count": 8,
+                "pct": 5.2
+              }
+            ],
+            "base": {
+              "n": 155
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 120,
+                "pct": 77.4
+              },
+              {
+                "answer": "No",
+                "count": 32,
+                "pct": 20.6
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 1.9
+              }
+            ],
+            "base": {
+              "n": 155
+            }
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 124,
+                "pct": 66.3
+              },
+              {
+                "answer": "No",
+                "count": 47,
+                "pct": 25.1
+              },
+              {
+                "answer": "Not Sure",
+                "count": 16,
+                "pct": 8.6
+              }
+            ],
+            "base": {
+              "n": 187
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 94,
+                "pct": 50.3
+              },
+              {
+                "answer": "No",
+                "count": 67,
+                "pct": 35.8
+              },
+              {
+                "answer": "Not Sure",
+                "count": 26,
+                "pct": 13.9
+              }
+            ],
+            "base": {
+              "n": 187
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 129,
+                "pct": 69.0
+              },
+              {
+                "answer": "No",
+                "count": 45,
+                "pct": 24.1
+              },
+              {
+                "answer": "Not Sure",
+                "count": 13,
+                "pct": 7.0
+              }
+            ],
+            "base": {
+              "n": 187
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 113,
+                "pct": 60.4
+              },
+              {
+                "answer": "No",
+                "count": 63,
+                "pct": 33.7
+              },
+              {
+                "answer": "Not Sure",
+                "count": 11,
+                "pct": 5.9
+              }
+            ],
+            "base": {
+              "n": 187
+            }
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 35,
+                "pct": 58.3
+              },
+              {
+                "answer": "No",
+                "count": 17,
+                "pct": 28.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 8,
+                "pct": 13.3
+              }
+            ],
+            "base": {
+              "n": 60
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 22,
+                "pct": 36.7
+              },
+              {
+                "answer": "No",
+                "count": 29,
+                "pct": 48.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 9,
+                "pct": 15.0
+              }
+            ],
+            "base": {
+              "n": 60
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 30,
+                "pct": 50.0
+              },
+              {
+                "answer": "No",
+                "count": 19,
+                "pct": 31.7
+              },
+              {
+                "answer": "Not Sure",
+                "count": 11,
+                "pct": 18.3
+              }
+            ],
+            "base": {
+              "n": 60
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 22,
+                "pct": 36.7
+              },
+              {
+                "answer": "No",
+                "count": 20,
+                "pct": 33.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 18,
+                "pct": 30.0
+              }
+            ],
+            "base": {
+              "n": 60
+            }
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 10,
+                "pct": 76.9
+              },
+              {
+                "answer": "No",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 9,
+                "pct": 69.2
+              },
+              {
+                "answer": "No",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "Not Sure",
+                "count": 1,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 7,
+                "pct": 53.8
+              },
+              {
+                "answer": "No",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 10,
+                "pct": 76.9
+              },
+              {
+                "answer": "No",
+                "count": 1,
+                "pct": 7.7
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 8,
+                "pct": 72.7
+              },
+              {
+                "answer": "No",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Not Sure",
+                "count": 1,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "No",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "No",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 8,
+                "pct": 72.7
+              },
+              {
+                "answer": "No",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 23,
+                "pct": 52.3
+              },
+              {
+                "answer": "No",
+                "count": 15,
+                "pct": 34.1
+              },
+              {
+                "answer": "Not Sure",
+                "count": 6,
+                "pct": 13.6
+              }
+            ],
+            "base": {
+              "n": 44
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 20,
+                "pct": 45.5
+              },
+              {
+                "answer": "No",
+                "count": 17,
+                "pct": 38.6
+              },
+              {
+                "answer": "Not Sure",
+                "count": 7,
+                "pct": 15.9
+              }
+            ],
+            "base": {
+              "n": 44
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 25,
+                "pct": 56.8
+              },
+              {
+                "answer": "No",
+                "count": 11,
+                "pct": 25.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 8,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 44
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 26,
+                "pct": 59.1
+              },
+              {
+                "answer": "No",
+                "count": 15,
+                "pct": 34.1
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 6.8
+              }
+            ],
+            "base": {
+              "n": 44
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 4,
+                "pct": 44.4
+              },
+              {
+                "answer": "No",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 22.2
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 5,
+                "pct": 55.6
+              },
+              {
+                "answer": "No",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 1,
+                "pct": 11.1
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 5,
+                "pct": 55.6
+              },
+              {
+                "answer": "No",
+                "count": 4,
+                "pct": 44.4
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 4,
+                "pct": 44.4
+              },
+              {
+                "answer": "No",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 22.2
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 10,
+                "pct": 100.0
+              },
+              {
+                "answer": "No",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "No",
+                "count": 6,
+                "pct": 60.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 7,
+                "pct": 70.0
+              },
+              {
+                "answer": "No",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 7,
+                "pct": 70.0
+              },
+              {
+                "answer": "No",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 1,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 27,
+                "pct": 60.0
+              },
+              {
+                "answer": "No",
+                "count": 11,
+                "pct": 24.4
+              },
+              {
+                "answer": "Not Sure",
+                "count": 7,
+                "pct": 15.6
+              }
+            ],
+            "base": {
+              "n": 45
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 26,
+                "pct": 57.8
+              },
+              {
+                "answer": "No",
+                "count": 11,
+                "pct": 24.4
+              },
+              {
+                "answer": "Not Sure",
+                "count": 8,
+                "pct": 17.8
+              }
+            ],
+            "base": {
+              "n": 45
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 32,
+                "pct": 71.1
+              },
+              {
+                "answer": "No",
+                "count": 9,
+                "pct": 20.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 4,
+                "pct": 8.9
+              }
+            ],
+            "base": {
+              "n": 45
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 28,
+                "pct": 62.2
+              },
+              {
+                "answer": "No",
+                "count": 15,
+                "pct": 33.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 4.4
+              }
+            ],
+            "base": {
+              "n": 45
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 26,
+                "pct": 68.4
+              },
+              {
+                "answer": "No",
+                "count": 10,
+                "pct": 26.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 5.3
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 22,
+                "pct": 57.9
+              },
+              {
+                "answer": "No",
+                "count": 14,
+                "pct": 36.8
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 5.3
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 26,
+                "pct": 68.4
+              },
+              {
+                "answer": "No",
+                "count": 11,
+                "pct": 28.9
+              },
+              {
+                "answer": "Not Sure",
+                "count": 1,
+                "pct": 2.6
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 23,
+                "pct": 60.5
+              },
+              {
+                "answer": "No",
+                "count": 13,
+                "pct": 34.2
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 5.3
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 16,
+                "pct": 64.0
+              },
+              {
+                "answer": "No",
+                "count": 7,
+                "pct": 28.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 8.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 11,
+                "pct": 44.0
+              },
+              {
+                "answer": "No",
+                "count": 12,
+                "pct": 48.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 8.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 18,
+                "pct": 72.0
+              },
+              {
+                "answer": "No",
+                "count": 4,
+                "pct": 16.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 12.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 11,
+                "pct": 44.0
+              },
+              {
+                "answer": "No",
+                "count": 8,
+                "pct": 32.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 6,
+                "pct": 24.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 12,
+                "pct": 80.0
+              },
+              {
+                "answer": "No",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 1,
+                "pct": 6.7
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 6,
+                "pct": 40.0
+              },
+              {
+                "answer": "No",
+                "count": 6,
+                "pct": 40.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 7,
+                "pct": 46.7
+              },
+              {
+                "answer": "No",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 7,
+                "pct": 46.7
+              },
+              {
+                "answer": "No",
+                "count": 6,
+                "pct": 40.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 13.3
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 3,
+                "pct": 60.0
+              },
+              {
+                "answer": "No",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "No",
+                "count": 4,
+                "pct": 80.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "No",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 1,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "No",
+                "count": 3,
+                "pct": 60.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 3,
+                "pct": 60.0
+              },
+              {
+                "answer": "No",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "No",
+                "count": 5,
+                "pct": 100.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 5,
+                "pct": 100.0
+              },
+              {
+                "answer": "No",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 5,
+                "pct": 100.0
+              },
+              {
+                "answer": "No",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 6,
+                "pct": 66.7
+              },
+              {
+                "answer": "No",
+                "count": 1,
+                "pct": 11.1
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 22.2
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "No",
+                "count": 4,
+                "pct": 44.4
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 22.2
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 7,
+                "pct": 77.8
+              },
+              {
+                "answer": "No",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 22.2
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 4,
+                "pct": 44.4
+              },
+              {
+                "answer": "No",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 22.2
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 8,
+                "pct": 72.7
+              },
+              {
+                "answer": "No",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "No",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Not Sure",
+                "count": 7,
+                "pct": 63.6
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "No",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "No",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "Not Sure",
+                "count": 1,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 10,
+                "pct": 71.4
+              },
+              {
+                "answer": "No",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "Not Sure",
+                "count": 1,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 8,
+                "pct": 57.1
+              },
+              {
+                "answer": "No",
+                "count": 5,
+                "pct": 35.7
+              },
+              {
+                "answer": "Not Sure",
+                "count": 1,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 7,
+                "pct": 50.0
+              },
+              {
+                "answer": "No",
+                "count": 6,
+                "pct": 42.9
+              },
+              {
+                "answer": "Not Sure",
+                "count": 1,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 12,
+                "pct": 85.7
+              },
+              {
+                "answer": "No",
+                "count": 2,
+                "pct": 14.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 11,
+                "pct": 50.0
+              },
+              {
+                "answer": "No",
+                "count": 7,
+                "pct": 31.8
+              },
+              {
+                "answer": "Not Sure",
+                "count": 4,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 11,
+                "pct": 50.0
+              },
+              {
+                "answer": "No",
+                "count": 6,
+                "pct": 27.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 5,
+                "pct": 22.7
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 16,
+                "pct": 72.7
+              },
+              {
+                "answer": "No",
+                "count": 2,
+                "pct": 9.1
+              },
+              {
+                "answer": "Not Sure",
+                "count": 4,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 13,
+                "pct": 59.1
+              },
+              {
+                "answer": "No",
+                "count": 7,
+                "pct": 31.8
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 6,
+                "pct": 85.7
+              },
+              {
+                "answer": "No",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 1,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 3,
+                "pct": 42.9
+              },
+              {
+                "answer": "No",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 28.6
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 6,
+                "pct": 85.7
+              },
+              {
+                "answer": "No",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 1,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 5,
+                "pct": 71.4
+              },
+              {
+                "answer": "No",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 10,
+                "pct": 83.3
+              },
+              {
+                "answer": "No",
+                "count": 2,
+                "pct": 16.7
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 12
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 3,
+                "pct": 25.0
+              },
+              {
+                "answer": "No",
+                "count": 7,
+                "pct": 58.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 12
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 9,
+                "pct": 75.0
+              },
+              {
+                "answer": "No",
+                "count": 1,
+                "pct": 8.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 12
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 4,
+                "pct": 33.3
+              },
+              {
+                "answer": "No",
+                "count": 6,
+                "pct": 50.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 12
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 5,
+                "pct": 62.5
+              },
+              {
+                "answer": "No",
+                "count": 3,
+                "pct": 37.5
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 3,
+                "pct": 37.5
+              },
+              {
+                "answer": "No",
+                "count": 5,
+                "pct": 62.5
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 5,
+                "pct": 62.5
+              },
+              {
+                "answer": "No",
+                "count": 3,
+                "pct": 37.5
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 5,
+                "pct": 62.5
+              },
+              {
+                "answer": "No",
+                "count": 3,
+                "pct": 37.5
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 14,
+                "pct": 58.3
+              },
+              {
+                "answer": "No",
+                "count": 8,
+                "pct": 33.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 8.3
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 14,
+                "pct": 58.3
+              },
+              {
+                "answer": "No",
+                "count": 9,
+                "pct": 37.5
+              },
+              {
+                "answer": "Not Sure",
+                "count": 1,
+                "pct": 4.2
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 13,
+                "pct": 54.2
+              },
+              {
+                "answer": "No",
+                "count": 10,
+                "pct": 41.7
+              },
+              {
+                "answer": "Not Sure",
+                "count": 1,
+                "pct": 4.2
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 11,
+                "pct": 45.8
+              },
+              {
+                "answer": "No",
+                "count": 10,
+                "pct": 41.7
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 41,
+                "pct": 67.2
+              },
+              {
+                "answer": "No",
+                "count": 15,
+                "pct": 24.6
+              },
+              {
+                "answer": "Not Sure",
+                "count": 5,
+                "pct": 8.2
+              }
+            ],
+            "base": {
+              "n": 61
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 27,
+                "pct": 44.3
+              },
+              {
+                "answer": "No",
+                "count": 27,
+                "pct": 44.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 7,
+                "pct": 11.5
+              }
+            ],
+            "base": {
+              "n": 61
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 40,
+                "pct": 65.6
+              },
+              {
+                "answer": "No",
+                "count": 19,
+                "pct": 31.1
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 3.3
+              }
+            ],
+            "base": {
+              "n": 61
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 36,
+                "pct": 59.0
+              },
+              {
+                "answer": "No",
+                "count": 18,
+                "pct": 29.5
+              },
+              {
+                "answer": "Not Sure",
+                "count": 7,
+                "pct": 11.5
+              }
+            ],
+            "base": {
+              "n": 61
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 11,
+                "pct": 55.0
+              },
+              {
+                "answer": "No",
+                "count": 7,
+                "pct": 35.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 15,
+                "pct": 75.0
+              },
+              {
+                "answer": "No",
+                "count": 5,
+                "pct": 25.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 11,
+                "pct": 55.0
+              },
+              {
+                "answer": "No",
+                "count": 6,
+                "pct": 30.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 15.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 9,
+                "pct": 45.0
+              },
+              {
+                "answer": "No",
+                "count": 9,
+                "pct": 45.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 20,
+                "pct": 76.9
+              },
+              {
+                "answer": "No",
+                "count": 6,
+                "pct": 23.1
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 12,
+                "pct": 46.2
+              },
+              {
+                "answer": "No",
+                "count": 11,
+                "pct": 42.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 11.5
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 16,
+                "pct": 61.5
+              },
+              {
+                "answer": "No",
+                "count": 7,
+                "pct": 26.9
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 11.5
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 12,
+                "pct": 46.2
+              },
+              {
+                "answer": "No",
+                "count": 11,
+                "pct": 42.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 11.5
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 8,
+                "pct": 100.0
+              },
+              {
+                "answer": "No",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 3,
+                "pct": 37.5
+              },
+              {
+                "answer": "No",
+                "count": 2,
+                "pct": 25.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 37.5
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 4,
+                "pct": 50.0
+              },
+              {
+                "answer": "No",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 37.5
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "No",
+                "count": 5,
+                "pct": 62.5
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 7,
+                "pct": 77.8
+              },
+              {
+                "answer": "No",
+                "count": 2,
+                "pct": 22.2
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "No",
+                "count": 6,
+                "pct": 66.7
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 7,
+                "pct": 77.8
+              },
+              {
+                "answer": "No",
+                "count": 1,
+                "pct": 11.1
+              },
+              {
+                "answer": "Not Sure",
+                "count": 1,
+                "pct": 11.1
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "No",
+                "count": 4,
+                "pct": 44.4
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 22.2
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 18,
+                "pct": 60.0
+              },
+              {
+                "answer": "No",
+                "count": 11,
+                "pct": 36.7
+              },
+              {
+                "answer": "Not Sure",
+                "count": 1,
+                "pct": 3.3
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 14,
+                "pct": 46.7
+              },
+              {
+                "answer": "No",
+                "count": 14,
+                "pct": 46.7
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 6.7
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 22,
+                "pct": 73.3
+              },
+              {
+                "answer": "No",
+                "count": 5,
+                "pct": 16.7
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 17,
+                "pct": 56.7
+              },
+              {
+                "answer": "No",
+                "count": 13,
+                "pct": 43.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 18,
+                "pct": 72.0
+              },
+              {
+                "answer": "No",
+                "count": 4,
+                "pct": 16.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 12.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 15,
+                "pct": 60.0
+              },
+              {
+                "answer": "No",
+                "count": 7,
+                "pct": 28.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 12.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 19,
+                "pct": 76.0
+              },
+              {
+                "answer": "No",
+                "count": 4,
+                "pct": 16.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 8.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 21,
+                "pct": 84.0
+              },
+              {
+                "answer": "No",
+                "count": 3,
+                "pct": 12.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 1,
+                "pct": 4.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "No",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "No",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "No",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "Not Sure",
+                "count": 1,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 7,
+                "pct": 63.6
+              },
+              {
+                "answer": "No",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 32,
+                "pct": 66.7
+              },
+              {
+                "answer": "No",
+                "count": 13,
+                "pct": 27.1
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 6.2
+              }
+            ],
+            "base": {
+              "n": 48
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 22,
+                "pct": 45.8
+              },
+              {
+                "answer": "No",
+                "count": 19,
+                "pct": 39.6
+              },
+              {
+                "answer": "Not Sure",
+                "count": 7,
+                "pct": 14.6
+              }
+            ],
+            "base": {
+              "n": 48
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 35,
+                "pct": 72.9
+              },
+              {
+                "answer": "No",
+                "count": 10,
+                "pct": 20.8
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 6.2
+              }
+            ],
+            "base": {
+              "n": 48
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 32,
+                "pct": 66.7
+              },
+              {
+                "answer": "No",
+                "count": 10,
+                "pct": 20.8
+              },
+              {
+                "answer": "Not Sure",
+                "count": 6,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 48
+            }
+          }
+        ]
+      },
+      "Unknown": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 10,
+                "pct": 71.4
+              },
+              {
+                "answer": "No",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "Not Sure",
+                "count": 1,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 8,
+                "pct": 57.1
+              },
+              {
+                "answer": "No",
+                "count": 4,
+                "pct": 28.6
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 11,
+                "pct": 78.6
+              },
+              {
+                "answer": "No",
+                "count": 2,
+                "pct": 14.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 1,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 10,
+                "pct": 71.4
+              },
+              {
+                "answer": "No",
+                "count": 1,
+                "pct": 7.1
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 21.4
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 9,
+                "pct": 81.8
+              },
+              {
+                "answer": "No",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 8,
+                "pct": 72.7
+              },
+              {
+                "answer": "No",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Not Sure",
+                "count": 1,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 8,
+                "pct": 72.7
+              },
+              {
+                "answer": "No",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "Not Sure",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "No",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 30,
+                "pct": 63.8
+              },
+              {
+                "answer": "No",
+                "count": 16,
+                "pct": 34.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 1,
+                "pct": 2.1
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 26,
+                "pct": 55.3
+              },
+              {
+                "answer": "No",
+                "count": 13,
+                "pct": 27.7
+              },
+              {
+                "answer": "Not Sure",
+                "count": 8,
+                "pct": 17.0
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 33,
+                "pct": 70.2
+              },
+              {
+                "answer": "No",
+                "count": 11,
+                "pct": 23.4
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 6.4
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 29,
+                "pct": 61.7
+              },
+              {
+                "answer": "No",
+                "count": 16,
+                "pct": 34.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 4.3
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 56,
+                "pct": 70.0
+              },
+              {
+                "answer": "No",
+                "count": 14,
+                "pct": 17.5
+              },
+              {
+                "answer": "Not Sure",
+                "count": 10,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 80
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 44,
+                "pct": 55.0
+              },
+              {
+                "answer": "No",
+                "count": 28,
+                "pct": 35.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 8,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 80
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 59,
+                "pct": 73.8
+              },
+              {
+                "answer": "No",
+                "count": 16,
+                "pct": 20.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 5,
+                "pct": 6.2
+              }
+            ],
+            "base": {
+              "n": 80
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 58,
+                "pct": 72.5
+              },
+              {
+                "answer": "No",
+                "count": 19,
+                "pct": 23.8
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 3.8
+              }
+            ],
+            "base": {
+              "n": 80
+            }
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 71,
+                "pct": 71.0
+              },
+              {
+                "answer": "No",
+                "count": 20,
+                "pct": 20.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 9,
+                "pct": 9.0
+              }
+            ],
+            "base": {
+              "n": 100
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 50,
+                "pct": 50.0
+              },
+              {
+                "answer": "No",
+                "count": 37,
+                "pct": 37.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 13,
+                "pct": 13.0
+              }
+            ],
+            "base": {
+              "n": 100
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 74,
+                "pct": 74.0
+              },
+              {
+                "answer": "No",
+                "count": 17,
+                "pct": 17.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 9,
+                "pct": 9.0
+              }
+            ],
+            "base": {
+              "n": 100
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 79,
+                "pct": 79.0
+              },
+              {
+                "answer": "No",
+                "count": 18,
+                "pct": 18.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 3.0
+              }
+            ],
+            "base": {
+              "n": 100
+            }
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 61,
+                "pct": 70.9
+              },
+              {
+                "answer": "No",
+                "count": 22,
+                "pct": 25.6
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 3.5
+              }
+            ],
+            "base": {
+              "n": 86
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 38,
+                "pct": 44.2
+              },
+              {
+                "answer": "No",
+                "count": 43,
+                "pct": 50.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 5,
+                "pct": 5.8
+              }
+            ],
+            "base": {
+              "n": 86
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 56,
+                "pct": 65.1
+              },
+              {
+                "answer": "No",
+                "count": 24,
+                "pct": 27.9
+              },
+              {
+                "answer": "Not Sure",
+                "count": 6,
+                "pct": 7.0
+              }
+            ],
+            "base": {
+              "n": 86
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 45,
+                "pct": 52.3
+              },
+              {
+                "answer": "No",
+                "count": 29,
+                "pct": 33.7
+              },
+              {
+                "answer": "Not Sure",
+                "count": 12,
+                "pct": 14.0
+              }
+            ],
+            "base": {
+              "n": 86
+            }
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 73,
+                "pct": 64.0
+              },
+              {
+                "answer": "No",
+                "count": 29,
+                "pct": 25.4
+              },
+              {
+                "answer": "Not Sure",
+                "count": 12,
+                "pct": 10.5
+              }
+            ],
+            "base": {
+              "n": 114
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 53,
+                "pct": 46.5
+              },
+              {
+                "answer": "No",
+                "count": 48,
+                "pct": 42.1
+              },
+              {
+                "answer": "Not Sure",
+                "count": 13,
+                "pct": 11.4
+              }
+            ],
+            "base": {
+              "n": 114
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 64,
+                "pct": 56.1
+              },
+              {
+                "answer": "No",
+                "count": 35,
+                "pct": 30.7
+              },
+              {
+                "answer": "Not Sure",
+                "count": 15,
+                "pct": 13.2
+              }
+            ],
+            "base": {
+              "n": 114
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 52,
+                "pct": 45.6
+              },
+              {
+                "answer": "No",
+                "count": 45,
+                "pct": 39.5
+              },
+              {
+                "answer": "Not Sure",
+                "count": 17,
+                "pct": 14.9
+              }
+            ],
+            "base": {
+              "n": 114
+            }
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 56,
+                "pct": 57.1
+              },
+              {
+                "answer": "No",
+                "count": 33,
+                "pct": 33.7
+              },
+              {
+                "answer": "Not Sure",
+                "count": 9,
+                "pct": 9.2
+              }
+            ],
+            "base": {
+              "n": 98
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 44,
+                "pct": 44.9
+              },
+              {
+                "answer": "No",
+                "count": 37,
+                "pct": 37.8
+              },
+              {
+                "answer": "Not Sure",
+                "count": 17,
+                "pct": 17.3
+              }
+            ],
+            "base": {
+              "n": 98
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 61,
+                "pct": 62.2
+              },
+              {
+                "answer": "No",
+                "count": 27,
+                "pct": 27.6
+              },
+              {
+                "answer": "Not Sure",
+                "count": 10,
+                "pct": 10.2
+              }
+            ],
+            "base": {
+              "n": 98
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 44,
+                "pct": 44.9
+              },
+              {
+                "answer": "No",
+                "count": 38,
+                "pct": 38.8
+              },
+              {
+                "answer": "Not Sure",
+                "count": 16,
+                "pct": 16.3
+              }
+            ],
+            "base": {
+              "n": 98
+            }
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 55,
+                "pct": 63.2
+              },
+              {
+                "answer": "No",
+                "count": 23,
+                "pct": 26.4
+              },
+              {
+                "answer": "Not Sure",
+                "count": 9,
+                "pct": 10.3
+              }
+            ],
+            "base": {
+              "n": 87
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 42,
+                "pct": 48.3
+              },
+              {
+                "answer": "No",
+                "count": 30,
+                "pct": 34.5
+              },
+              {
+                "answer": "Not Sure",
+                "count": 15,
+                "pct": 17.2
+              }
+            ],
+            "base": {
+              "n": 87
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 56,
+                "pct": 64.4
+              },
+              {
+                "answer": "No",
+                "count": 20,
+                "pct": 23.0
+              },
+              {
+                "answer": "Not Sure",
+                "count": 11,
+                "pct": 12.6
+              }
+            ],
+            "base": {
+              "n": 87
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 47,
+                "pct": 54.0
+              },
+              {
+                "answer": "No",
+                "count": 28,
+                "pct": 32.2
+              },
+              {
+                "answer": "Not Sure",
+                "count": 12,
+                "pct": 13.8
+              }
+            ],
+            "base": {
+              "n": 87
+            }
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 10,
+                "pct": 76.9
+              },
+              {
+                "answer": "No",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "Not Sure",
+                "count": 1,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "No",
+                "count": 7,
+                "pct": 53.8
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 23.1
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 8,
+                "pct": 61.5
+              },
+              {
+                "answer": "No",
+                "count": 1,
+                "pct": 7.7
+              },
+              {
+                "answer": "Not Sure",
+                "count": 4,
+                "pct": 30.8
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          },
+          {
+            "panel_id": "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 8,
+                "pct": 61.5
+              },
+              {
+                "answer": "No",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "Not Sure",
+                "count": 2,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 5
+  }
+}

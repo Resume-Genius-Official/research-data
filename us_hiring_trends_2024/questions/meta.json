@@ -1,0 +1,426 @@
+{
+  "source_file": "Pollfish_Survey_RG_%7C_2024_Q1_%7C_Hiring_Trends_Survey_385578562.csv",
+  "generated_at": "2025-12-31T11:53:02.885185+08:00",
+  "version": "v1.2.0",
+  "options": {
+    "age_bins": [
+      {
+        "label": "Under 18",
+        "min": null,
+        "max": 17
+      },
+      {
+        "label": "18-24",
+        "min": 18,
+        "max": 24
+      },
+      {
+        "label": "25-34",
+        "min": 25,
+        "max": 34
+      },
+      {
+        "label": "35-44",
+        "min": 35,
+        "max": 44
+      },
+      {
+        "label": "45-54",
+        "min": 45,
+        "max": 54
+      },
+      {
+        "label": "55-64",
+        "min": 55,
+        "max": 64
+      },
+      {
+        "label": "65+",
+        "min": 65,
+        "max": null
+      }
+    ],
+    "age_binning_enabled": true,
+    "children_derived_modes": [
+      "has_u18",
+      "youngest_band"
+    ],
+    "child_bins": [
+      {
+        "label": "0-5",
+        "min": 0,
+        "max": 5
+      },
+      {
+        "label": "6-12",
+        "min": 6,
+        "max": 12
+      },
+      {
+        "label": "13-17",
+        "min": 13,
+        "max": 17
+      },
+      {
+        "label": "18+",
+        "min": 18,
+        "max": null
+      }
+    ],
+    "child_binning_enabled": true,
+    "children_keep_raw": false,
+    "question_auto_binning": true,
+    "generation_bins": [
+      {
+        "label": "Gen Z",
+        "min": 13,
+        "max": 28
+      },
+      {
+        "label": "Millennials",
+        "min": 29,
+        "max": 44
+      },
+      {
+        "label": "Gen X",
+        "min": 45,
+        "max": 60
+      },
+      {
+        "label": "Baby Boomers",
+        "min": 61,
+        "max": 79
+      },
+      {
+        "label": "Silent Generation",
+        "min": 80,
+        "max": null
+      }
+    ]
+  },
+  "selections": {
+    "questions": [],
+    "demos": [
+      "Age",
+      "Gender",
+      "Education",
+      "Area",
+      "Income"
+    ],
+    "demo_configs": {
+      "Age": {
+        "mode": "generation_bins",
+        "bins": [
+          {
+            "label": "Gen Z",
+            "max": 28,
+            "min": 13
+          },
+          {
+            "label": "Millennials",
+            "max": 44,
+            "min": 29
+          },
+          {
+            "label": "Gen X",
+            "max": 60,
+            "min": 45
+          },
+          {
+            "label": "Baby Boomers",
+            "max": 79,
+            "min": 61
+          },
+          {
+            "label": "Silent Generation",
+            "max": null,
+            "min": 80
+          }
+        ],
+        "other_label": "Other"
+      },
+      "Gender": {
+        "mode": "none",
+        "other_label": "Other"
+      },
+      "Education": {
+        "mode": "none",
+        "other_label": "Other"
+      },
+      "Area": {
+        "mode": "none",
+        "other_label": "Other"
+      },
+      "Income": {
+        "mode": "none",
+        "other_label": "Other"
+      }
+    },
+    "matrices": [
+      "matrix:Q1",
+      "matrix:Q2",
+      "matrix:Q3",
+      "matrix:Q4",
+      "matrix:Q5",
+      "matrix:Q6",
+      "matrix:Q7",
+      "matrix:Q8",
+      "matrix:Q9",
+      "matrix:Q10",
+      "matrix:Q11",
+      "matrix:Q12",
+      "matrix:Q13",
+      "matrix:Q14",
+      "matrix:Q15",
+      "matrix:Q16"
+    ],
+    "question_options": {
+      "auto_bin_numeric": true
+    }
+  },
+  "suppression_threshold": 5,
+  "detection": {
+    "demo_candidates": [
+      "Manufacturer",
+      "OS",
+      "Country",
+      "Area",
+      "Gender",
+      "Age",
+      "Year Of Birth",
+      "Marital Status",
+      "Number of children",
+      "Education",
+      "Career",
+      "Race",
+      "Income",
+      "Spoken Languages",
+      "Organization Role",
+      "Number of Employees",
+      "US Census Region",
+      "US Census Division",
+      "US Congressional District",
+      "Audience",
+      "Weight"
+    ],
+    "recommended_demos": [
+      "Age",
+      "Country",
+      "Education",
+      "Gender",
+      "Income",
+      "Organization Role",
+      "Spoken Languages",
+      "US Census Region"
+    ],
+    "demo_rejections": {
+      "ID": "id-like/high cardinality",
+      "Time Started": "datetime-like (header)",
+      "Time Finished": "datetime-like (header)",
+      "County": "high-cardinality",
+      "City": "high-cardinality",
+      "Provider": "id-like/high cardinality",
+      "Q1: Are you currently responsible for hiring new employees at a US-based company?": "question-like label",
+      "Q2: On average, how long does it take you to read a resume? ": "question-like label",
+      "Q3: How long do you expect a candidate's resume to be? ": "question-like label",
+      "Q4: When reviewing a candidate’s resume, what are the top 3 skills that you are looking for? (Please select 3 from the list below)_Writing & Editing": "question-like label",
+      "Q4: When reviewing a candidate’s resume, what are the top 3 skills that you are looking for? (Please select 3 from the list below)_Data Analysis": "question-like label",
+      "Q4: When reviewing a candidate’s resume, what are the top 3 skills that you are looking for? (Please select 3 from the list below)_Programming Languages": "question-like label",
+      "Q4: When reviewing a candidate’s resume, what are the top 3 skills that you are looking for? (Please select 3 from the list below)_Project Management": "question-like label",
+      "Q4: When reviewing a candidate’s resume, what are the top 3 skills that you are looking for? (Please select 3 from the list below)_Business Development": "question-like label",
+      "Q4: When reviewing a candidate’s resume, what are the top 3 skills that you are looking for? (Please select 3 from the list below)_Digital Marketing": "question-like label",
+      "Q4: When reviewing a candidate’s resume, what are the top 3 skills that you are looking for? (Please select 3 from the list below)_Sustainability Skills (e.g., environmental science, carbon accounting, program implementation)": "question-like label",
+      "Q4: When reviewing a candidate’s resume, what are the top 3 skills that you are looking for? (Please select 3 from the list below)_Office Software": "question-like label",
+      "Q4: When reviewing a candidate’s resume, what are the top 3 skills that you are looking for? (Please select 3 from the list below)_Legal / Regulatory Compliance": "question-like label",
+      "Q4: When reviewing a candidate’s resume, what are the top 3 skills that you are looking for? (Please select 3 from the list below)_Customer Service": "question-like label",
+      "Q4: When reviewing a candidate’s resume, what are the top 3 skills that you are looking for? (Please select 3 from the list below)_Speaking another language (e.g. Spanish, Mandarin, French etc.)": "question-like label",
+      "Q4: When reviewing a candidate’s resume, what are the top 3 skills that you are looking for? (Please select 3 from the list below)_Generative AI (e.g. ChatGPT)": "question-like label",
+      "Q4: When reviewing a candidate’s resume, what are the top 3 skills that you are looking for? (Please select 3 from the list below)_Analytical Thinking": "question-like label",
+      "Q4: When reviewing a candidate’s resume, what are the top 3 skills that you are looking for? (Please select 3 from the list below)_Database Management": "question-like label",
+      "Q4: When reviewing a candidate’s resume, what are the top 3 skills that you are looking for? (Please select 3 from the list below)_None - Skills can be trained on the job": "question-like label",
+      "Q5: Please rank the following resume sections in order of their importance when you are making a hiring decision. (Please rank them from 1 to 7, with 1 being the most important and 7 being the least important.) Resume introduction": "question-like label",
+      "Q5: Please rank the following resume sections in order of their importance when you are making a hiring decision. (Please rank them from 1 to 7, with 1 being the most important and 7 being the least important.) Work experience": "question-like label",
+      "Q5: Please rank the following resume sections in order of their importance when you are making a hiring decision. (Please rank them from 1 to 7, with 1 being the most important and 7 being the least important.) Education": "question-like label",
+      "Q5: Please rank the following resume sections in order of their importance when you are making a hiring decision. (Please rank them from 1 to 7, with 1 being the most important and 7 being the least important.) Skills": "question-like label",
+      "Q5: Please rank the following resume sections in order of their importance when you are making a hiring decision. (Please rank them from 1 to 7, with 1 being the most important and 7 being the least important.) Certifications": "question-like label",
+      "Q5: Please rank the following resume sections in order of their importance when you are making a hiring decision. (Please rank them from 1 to 7, with 1 being the most important and 7 being the least important.) References": "question-like label",
+      "Q5: Please rank the following resume sections in order of their importance when you are making a hiring decision. (Please rank them from 1 to 7, with 1 being the most important and 7 being the least important.) Hobbies and interests": "question-like label",
+      "Q6: Based on your experience, how significantly do these \"red flags\" on a resume affect a candidate's chances of success? Long employment gaps": "question-like label",
+      "Q6: Based on your experience, how significantly do these \"red flags\" on a resume affect a candidate's chances of success? Frequent job hopping": "question-like label",
+      "Q6: Based on your experience, how significantly do these \"red flags\" on a resume affect a candidate's chances of success? No measurable achievements": "question-like label",
+      "Q6: Based on your experience, how significantly do these \"red flags\" on a resume affect a candidate's chances of success? Typos": "question-like label",
+      "Q6: Based on your experience, how significantly do these \"red flags\" on a resume affect a candidate's chances of success? Content that appears to be AI-generated": "question-like label",
+      "Q6: Based on your experience, how significantly do these \"red flags\" on a resume affect a candidate's chances of success? Irrelevant content": "question-like label",
+      "Q6: Based on your experience, how significantly do these \"red flags\" on a resume affect a candidate's chances of success? Poor formatting": "question-like label",
+      "Q6: Based on your experience, how significantly do these \"red flags\" on a resume affect a candidate's chances of success? Use of inappropriate fonts": "question-like label",
+      "Q7: When you notice these “red flags” during an interview, how do they influence your decision whether or not to hire a candidate? Criticizing past employers / coworkers": "question-like label",
+      "Q7: When you notice these “red flags” during an interview, how do they influence your decision whether or not to hire a candidate? Exaggerating past achievements": "question-like label",
+      "Q7: When you notice these “red flags” during an interview, how do they influence your decision whether or not to hire a candidate? Lack of preparation": "question-like label",
+      "Q7: When you notice these “red flags” during an interview, how do they influence your decision whether or not to hire a candidate? Late to interview": "question-like label",
+      "Q7: When you notice these “red flags” during an interview, how do they influence your decision whether or not to hire a candidate? Lying": "question-like label",
+      "Q7: When you notice these “red flags” during an interview, how do they influence your decision whether or not to hire a candidate? Overly talkative": "question-like label",
+      "Q7: When you notice these “red flags” during an interview, how do they influence your decision whether or not to hire a candidate? Providing generic answers": "question-like label",
+      "Q7: When you notice these “red flags” during an interview, how do they influence your decision whether or not to hire a candidate? Rude language / behavior": "question-like label",
+      "Q7: When you notice these “red flags” during an interview, how do they influence your decision whether or not to hire a candidate? Shyness": "question-like label",
+      "Q8: Please rate the influence of the following candidate behaviors during an interview: Asking relevant questions": "question-like label",
+      "Q8: Please rate the influence of the following candidate behaviors during an interview: Showing background knowledge of the company / position": "question-like label",
+      "Q8: Please rate the influence of the following candidate behaviors during an interview: Displaying confidence": "question-like label",
+      "Q8: Please rate the influence of the following candidate behaviors during an interview: Giving a concise and relevant personal summary": "question-like label",
+      "Q8: Please rate the influence of the following candidate behaviors during an interview: Providing clear and complete answers": "question-like label",
+      "Q8: Please rate the influence of the following candidate behaviors during an interview: Sense of humor": "question-like label",
+      "Q8: Please rate the influence of the following candidate behaviors during an interview: Positive attitude / enthusiasm": "question-like label",
+      "Q8: Please rate the influence of the following candidate behaviors during an interview: Taking notes ": "question-like label",
+      "Q9: How often have you had to mislead a candidate for any of these reasons? To cover up negative aspects of the company / protect the company’s reputation": "question-like label",
+      "Q9: How often have you had to mislead a candidate for any of these reasons? To make the job sound better (exaggerating benefits, responsibilities, career development opportunities etc.)": "question-like label",
+      "Q9: How often have you had to mislead a candidate for any of these reasons? To protect sensitive company information": "question-like label",
+      "Q9: How often have you had to mislead a candidate for any of these reasons? To please the candidate and increase the likelihood of the offer being accepted": "question-like label",
+      "Q9: How often have you had to mislead a candidate for any of these reasons? To avoid giving the candidate negative feedback about their interview performance / application": "question-like label",
+      "Q9: How often have you had to mislead a candidate for any of these reasons? To maintain control of the narrative during the interview process and prevent candidates from hearing bad reviews from current employees": "question-like label",
+      "Q9: How often have you had to mislead a candidate for any of these reasons? To fulfill immediate hiring needs": "question-like label",
+      "Q10: How often have you needed to “ghost” a job applicant for these reasons? (By “ghost” we mean breaking contact with a candidate without an explanation). We already hired someone else for the position": "question-like label",
+      "Q10: How often have you needed to “ghost” a job applicant for these reasons? (By “ghost” we mean breaking contact with a candidate without an explanation). We are no longer hiring for the role": "question-like label",
+      "Q10: How often have you needed to “ghost” a job applicant for these reasons? (By “ghost” we mean breaking contact with a candidate without an explanation). We are still deciding on the right candidate": "question-like label",
+      "Q10: How often have you needed to “ghost” a job applicant for these reasons? (By “ghost” we mean breaking contact with a candidate without an explanation). The candidate's salary expectations are beyond the budget": "question-like label",
+      "Q10: How often have you needed to “ghost” a job applicant for these reasons? (By “ghost” we mean breaking contact with a candidate without an explanation). The candidate is not a good fit for the role or the company culture": "question-like label",
+      "Q10: How often have you needed to “ghost” a job applicant for these reasons? (By “ghost” we mean breaking contact with a candidate without an explanation). The high volume of candidates makes it difficult to respond to everyone": "question-like label",
+      "Q10: How often have you needed to “ghost” a job applicant for these reasons? (By “ghost” we mean breaking contact with a candidate without an explanation). I need to prioritize other candidates who are more likely to help me achieve my recruitment performance goals": "question-like label",
+      "Q11: Please rate on a scale of 1 to 7 how critical are these qualities are for candidates applying for jobs in your industry: Hard skills (technical knowledge, certifications, proficiency in specific software)": "question-like label",
+      "Q11: Please rate on a scale of 1 to 7 how critical are these qualities are for candidates applying for jobs in your industry: Soft skills (communication, teamwork, problem-solving, adaptability)": "question-like label",
+      "Q11: Please rate on a scale of 1 to 7 how critical are these qualities are for candidates applying for jobs in your industry: Leadership experience ": "question-like label",
+      "Q11: Please rate on a scale of 1 to 7 how critical are these qualities are for candidates applying for jobs in your industry: Industry experience ": "question-like label",
+      "Q11: Please rate on a scale of 1 to 7 how critical are these qualities are for candidates applying for jobs in your industry: Educational qualifications": "question-like label",
+      "Q11: Please rate on a scale of 1 to 7 how critical are these qualities are for candidates applying for jobs in your industry: Project management experience": "question-like label",
+      "Q11: Please rate on a scale of 1 to 7 how critical are these qualities are for candidates applying for jobs in your industry: Speaking another language (e.g. Spanish, Mandarin, French etc.)": "question-like label",
+      "Q11: Please rate on a scale of 1 to 7 how critical are these qualities are for candidates applying for jobs in your industry: A degree from a prestigious university (e.g. Harvard, Princeton, Yale, MIT)": "question-like label",
+      "Q12: Please rate how likely you would be to hire a candidate in the following scenarios: Scenario 1: The candidate's listed work experience is lower than the position requirements, but their skills are highly relevant": "question-like label",
+      "Q12: Please rate how likely you would be to hire a candidate in the following scenarios: Scenario 2: The candidate's listed education is lower than the position requirements, but their work experience is highly relevant": "question-like label",
+      "Q13: In the evolving job market, how necessary are the following levels of education for the roles you hire? Highschool diploma / GED ": "question-like label",
+      "Q13: In the evolving job market, how necessary are the following levels of education for the roles you hire? Vocational school training": "question-like label",
+      "Q13: In the evolving job market, how necessary are the following levels of education for the roles you hire? Technical certifications": "question-like label",
+      "Q13: In the evolving job market, how necessary are the following levels of education for the roles you hire? Associate’s degree": "question-like label",
+      "Q13: In the evolving job market, how necessary are the following levels of education for the roles you hire? Bachelor’s degree ": "question-like label",
+      "Q13: In the evolving job market, how necessary are the following levels of education for the roles you hire? Master’s degree": "question-like label",
+      "Q13: In the evolving job market, how necessary are the following levels of education for the roles you hire? PhD": "question-like label",
+      "Q14: Please indicate your response to the following statements. I’ve hired a candidate based on their soft skills, even though their hard skills were lacking.": "question-like label",
+      "Q14: Please indicate your response to the following statements. I’ve chosen to not hire a candidate based on their lack of soft skills, even though their hard skills were strong.": "question-like label",
+      "Q14: Please indicate your response to the following statements. In my experience, soft skills can be taught in the same way as hard skills.": "question-like label",
+      "Q14: Please indicate your response to the following statements. My company uses an applicant tracking system (ATS) (such as any of the ones listed below) to process applications and filter candidates. -Freshteam-JazzHR-Zoho Recruit-BambooHR-Greenhouse-Lever-ClearCompany-Manatal-Recruit CRM-Rippling": "question-like label",
+      "Q15: How often do you check a candidate’s references?": "question-like label",
+      "Q16: Please indicate your response to the following questions about working with different generations. Which generation do you expect to hire most in the upcoming year? ": "question-like label",
+      "Q16: Please indicate your response to the following questions about working with different generations. In your opinion, which generation do you find the most challenging to work with? ": "question-like label",
+      "Location Postal Code": "high-cardinality numeric",
+      "DMA Code": "high-cardinality",
+      "DMA Name": "high-cardinality"
+    },
+    "demo_overrides": [],
+    "demo_semantics": {
+      "Country": "location",
+      "Gender": "gender",
+      "Age": "age",
+      "Number of children": "children",
+      "Education": "education",
+      "Income": "income",
+      "Spoken Languages": "language",
+      "Organization Role": "role",
+      "US Census Region": "location"
+    },
+    "demo_families": {
+      "Languages": [
+        "Spoken Languages"
+      ],
+      "Children": [
+        "Number of children"
+      ],
+      "Location": [
+        "Country",
+        "US Census Region"
+      ],
+      "Household": [
+        "Education",
+        "Income",
+        "Marital Status"
+      ],
+      "Employment": [
+        "Organization Role"
+      ]
+    },
+    "derived_children": [],
+    "rolled_children_columns": [],
+    "age_bucketed_columns": [
+      "Age"
+    ],
+    "age_binning_enabled": true,
+    "age_bins": [
+      {
+        "label": "Under 18",
+        "min": null,
+        "max": 17
+      },
+      {
+        "label": "18-24",
+        "min": 18,
+        "max": 24
+      },
+      {
+        "label": "25-34",
+        "min": 25,
+        "max": 34
+      },
+      {
+        "label": "35-44",
+        "min": 35,
+        "max": 44
+      },
+      {
+        "label": "45-54",
+        "min": 45,
+        "max": 54
+      },
+      {
+        "label": "55-64",
+        "min": 55,
+        "max": 64
+      },
+      {
+        "label": "65+",
+        "min": 65,
+        "max": null
+      }
+    ],
+    "children_option_types": {},
+    "children_source_columns": [],
+    "children_parental_columns": [],
+    "children_requested_modes": [
+      "has_u18",
+      "youngest_band"
+    ],
+    "children_mode_option_types": {},
+    "children_mode_to_column": {},
+    "children_available_modes": [],
+    "children_candidate_modes": [],
+    "child_bins": [
+      {
+        "label": "0-5",
+        "min": 0,
+        "max": 5
+      },
+      {
+        "label": "6-12",
+        "min": 6,
+        "max": 12
+      },
+      {
+        "label": "13-17",
+        "min": 13,
+        "max": 17
+      },
+      {
+        "label": "18+",
+        "min": 18,
+        "max": null
+      }
+    ],
+    "child_binning_enabled": true,
+    "children_keep_raw": false
+  }
+}

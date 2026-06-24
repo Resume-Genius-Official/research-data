@@ -1,0 +1,1327 @@
+{
+  "id": "Q1",
+  "text": "Q1",
+  "question_prompt": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+  "type": "matrix",
+  "panels": [
+    "Q1: Are you currently responsible for hiring new employees at a US-based company?"
+  ],
+  "answers": [
+    "Hiring new employees is one of my main responsibilities",
+    "Hiring new employees is one of my job duties"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+      "cells": [
+        {
+          "answer": "Hiring new employees is one of my main responsibilities",
+          "count": 336,
+          "pct": 53.8
+        },
+        {
+          "answer": "Hiring new employees is one of my job duties",
+          "count": 289,
+          "pct": 46.2
+        }
+      ],
+      "base": {
+        "n": 625
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 625
+    },
+    "answers": [
+      {
+        "answer": "Hiring new employees is one of my main responsibilities",
+        "count": 336,
+        "pct": 53.8
+      },
+      {
+        "answer": "Hiring new employees is one of my job duties",
+        "count": 289,
+        "pct": 46.2
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 58,
+                "pct": 35.8
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 104,
+                "pct": 64.2
+              }
+            ],
+            "base": {
+              "n": 162
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 115,
+                "pct": 50.2
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 114,
+                "pct": 49.8
+              }
+            ],
+            "base": {
+              "n": 229
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 163,
+                "pct": 69.7
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 71,
+                "pct": 30.3
+              }
+            ],
+            "base": {
+              "n": 234
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 128,
+                "pct": 45.6
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 153,
+                "pct": 54.4
+              }
+            ],
+            "base": {
+              "n": 281
+            }
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 208,
+                "pct": 60.5
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 136,
+                "pct": 39.5
+              }
+            ],
+            "base": {
+              "n": 344
+            }
+          }
+        ]
+      }
+    },
+    "Education": {
+      "elementary_school": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 86,
+                "pct": 43.0
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 114,
+                "pct": 57.0
+              }
+            ],
+            "base": {
+              "n": 200
+            }
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 8,
+                "pct": 36.4
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 14,
+                "pct": 63.6
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 111,
+                "pct": 71.6
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 44,
+                "pct": 28.4
+              }
+            ],
+            "base": {
+              "n": 155
+            }
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 103,
+                "pct": 55.1
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 84,
+                "pct": 44.9
+              }
+            ],
+            "base": {
+              "n": 187
+            }
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 27,
+                "pct": 45.0
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 33,
+                "pct": 55.0
+              }
+            ],
+            "base": {
+              "n": 60
+            }
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 6,
+                "pct": 46.2
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 7,
+                "pct": 53.8
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 6,
+                "pct": 54.5
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 25,
+                "pct": 56.8
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 19,
+                "pct": 43.2
+              }
+            ],
+            "base": {
+              "n": 44
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 4,
+                "pct": 44.4
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 5,
+                "pct": 55.6
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 6,
+                "pct": 60.0
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 4,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 27,
+                "pct": 60.0
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 18,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 45
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 18,
+                "pct": 47.4
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 20,
+                "pct": 52.6
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 15,
+                "pct": 60.0
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 10,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 7,
+                "pct": 46.7
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 8,
+                "pct": 53.3
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 3,
+                "pct": 60.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 3,
+                "pct": 60.0
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 2,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 4,
+                "pct": 44.4
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 5,
+                "pct": 55.6
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 5,
+                "pct": 45.5
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 11,
+                "pct": 78.6
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 3,
+                "pct": 21.4
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 10,
+                "pct": 45.5
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 12,
+                "pct": 54.5
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 3,
+                "pct": 42.9
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 4,
+                "pct": 57.1
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 5,
+                "pct": 41.7
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 7,
+                "pct": 58.3
+              }
+            ],
+            "base": {
+              "n": 12
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 7,
+                "pct": 87.5
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 1,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 9,
+                "pct": 37.5
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 15,
+                "pct": 62.5
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 30,
+                "pct": 49.2
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 31,
+                "pct": 50.8
+              }
+            ],
+            "base": {
+              "n": 61
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 10,
+                "pct": 50.0
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 10,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 7,
+                "pct": 26.9
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 19,
+                "pct": 73.1
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 3,
+                "pct": 37.5
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 5,
+                "pct": 62.5
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 6,
+                "pct": 66.7
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 3,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 21,
+                "pct": 70.0
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 9,
+                "pct": 30.0
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 19,
+                "pct": 76.0
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 6,
+                "pct": 24.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 5,
+                "pct": 45.5
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 25,
+                "pct": 52.1
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 23,
+                "pct": 47.9
+              }
+            ],
+            "base": {
+              "n": 48
+            }
+          }
+        ]
+      },
+      "Unknown": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 8,
+                "pct": 57.1
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 6,
+                "pct": 42.9
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 7,
+                "pct": 63.6
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 4,
+                "pct": 36.4
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 24,
+                "pct": 51.1
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 23,
+                "pct": 48.9
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 57,
+                "pct": 71.2
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 23,
+                "pct": 28.7
+              }
+            ],
+            "base": {
+              "n": 80
+            }
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 70,
+                "pct": 70.0
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 30,
+                "pct": 30.0
+              }
+            ],
+            "base": {
+              "n": 100
+            }
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 42,
+                "pct": 48.8
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 44,
+                "pct": 51.2
+              }
+            ],
+            "base": {
+              "n": 86
+            }
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 50,
+                "pct": 43.9
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 64,
+                "pct": 56.1
+              }
+            ],
+            "base": {
+              "n": 114
+            }
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 45,
+                "pct": 45.9
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 53,
+                "pct": 54.1
+              }
+            ],
+            "base": {
+              "n": 98
+            }
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 42,
+                "pct": 48.3
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 45,
+                "pct": 51.7
+              }
+            ],
+            "base": {
+              "n": 87
+            }
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a US-based company?",
+            "cells": [
+              {
+                "answer": "Hiring new employees is one of my main responsibilities",
+                "count": 6,
+                "pct": 46.2
+              },
+              {
+                "answer": "Hiring new employees is one of my job duties",
+                "count": 7,
+                "pct": 53.8
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 5,
+    "single_panel": true
+  }
+}
