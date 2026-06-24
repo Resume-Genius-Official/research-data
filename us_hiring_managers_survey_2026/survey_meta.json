@@ -1,0 +1,22 @@
+{
+  "slug": "us_hiring_managers_survey_2026",
+  "title": "US Hiring Managers Survey, 2026",
+  "country": "US",
+  "year": 2026,
+  "fieldwork_start": "2026-06-04",
+  "fieldwork_end": "2026-06-06",
+  "sample_n": 1500,
+  "vendor": "Pollfish",
+  "notes": "Survey of 1,500 US hiring managers on AI in recruitment, ghost jobs, candidate red flags, age and overqualification bias, employment gaps, generational dynamics, degree value, ghosting, workforce changes, and internal mobility.",
+  "topic_tags": [
+    "hiring managers",
+    "ai in hiring",
+    "ghost jobs",
+    "candidate evaluation",
+    "employment gaps",
+    "degree value",
+    "internal mobility",
+    "workforce changes"
+  ],
+  "default_qtype": "matrix"
+}
