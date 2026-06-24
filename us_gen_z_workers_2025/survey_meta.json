@@ -1,0 +1,19 @@
+{
+  "slug": "us_gen_z_workers_2025",
+  "title": "US Gen Z Workers Survey, 2025",
+  "country": "US",
+  "year": 2025,
+  "fieldwork_start": "",
+  "fieldwork_end": "",
+  "sample_n": 1000,
+  "vendor": "Pollfish",
+  "notes": "Survey of US Gen Z workers on AI use at work, workplace culture, and career attitudes.",
+  "topic_tags": [
+    "gen z",
+    "ai at work",
+    "workplace culture",
+    "career attitudes",
+    "social media"
+  ],
+  "default_qtype": "matrix"
+}
