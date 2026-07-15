@@ -28,7 +28,7 @@ research-data/
         └── ...                         # one file per question
 ```
 
-**A note on small cells:** in the tabulated JSON, any demographic group with fewer than 5 respondents is suppressed (shown as `"suppressed": true`) to protect respondent privacy and avoid reporting unreliable percentages. Blank cells are intentional, not missing data.
+**A note on small cells:** in the tabulated JSON, any demographic group with fewer than 5-10 respondents is suppressed (shown as `"suppressed": true`) to protect respondent privacy and avoid reporting unreliable percentages. Blank cells are intentional, not missing data.
 
 ## Privacy & de-identification
 
@@ -40,9 +40,9 @@ The raw CSV has been de-identified before release. Respondents were anonymous to
 - **Details about respondents' children** (specific age/gender) were removed; only a high-level parental-status indicator is retained.
 - **Vendor and operational fields** (internal quota IDs, individual start/finish timestamps) were removed.
 
-The tabulated JSON additionally suppresses any group with fewer than 5 respondents, as noted above.
+The tabulated JSON additionally suppresses any group with fewer than 5-10 respondents (threshold noted in each dataset's metadata), as noted above.
 
-**Surveys published as aggregates only.** For some surveys, the raw respondent-level data carries too much re-identification risk to release safely, even after de-identification. In those cases we publish only the tabulated JSON (with the same n<5 suppression) and withhold the raw CSV. This is a deliberate privacy decision, not an omission.
+**Surveys published as aggregates only.** For some surveys, the raw respondent-level data carries too much re-identification risk to release safely, even after de-identification. In those cases we publish only the tabulated JSON (with the same suppression range) and withhold the raw CSV. This is a deliberate privacy decision, not an omission.
 
 | Dataset (folder) | Survey | Respondents | Field date | Data published |
 | :--------------- | :----- | :---------- | :--------- | :------------- |
