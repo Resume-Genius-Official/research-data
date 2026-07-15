@@ -1,0 +1,18 @@
+{
+  "slug": "us_full_time_workers_2025",
+  "title": "US Full Time Workers Survey, 2025",
+  "country": "US",
+  "year": 2025,
+  "fieldwork_start": "2025-04-05",
+  "fieldwork_end": "2025-05-10",
+  "sample_n": 1000,
+  "vendor": "Pollfish",
+  "notes": "Survey of full-time workers in the US regarding their perspectives on employment trends and workplace expectations in 2025.",
+  "topic_tags": [
+    "employment",
+    "workplace trends",
+    "full-time workers",
+    "US labor market"
+  ],
+  "default_qtype": "matrix"
+}

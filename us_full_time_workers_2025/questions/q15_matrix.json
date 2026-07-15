@@ -1,0 +1,2753 @@
+{
+  "id": "Q15",
+  "text": "Q15",
+  "question_prompt": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+  "type": "matrix",
+  "panels": [
+    "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?"
+  ],
+  "answers": [
+    "$100K to $149K",
+    "$60,000 to $79,000",
+    "$40,000 to $59,000",
+    "$80,000 to $99,000",
+    "$20,000 to $39,000",
+    "$150K to $199K",
+    "$200K and up",
+    "Less than $20,000"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+      "cells": [
+        {
+          "answer": "$100K to $149K",
+          "count": 194,
+          "pct": 19.4
+        },
+        {
+          "answer": "$60,000 to $79,000",
+          "count": 187,
+          "pct": 18.7
+        },
+        {
+          "answer": "$40,000 to $59,000",
+          "count": 176,
+          "pct": 17.6
+        },
+        {
+          "answer": "$80,000 to $99,000",
+          "count": 174,
+          "pct": 17.4
+        },
+        {
+          "answer": "$20,000 to $39,000",
+          "count": 86,
+          "pct": 8.6
+        },
+        {
+          "answer": "$150K to $199K",
+          "count": 80,
+          "pct": 8.0
+        },
+        {
+          "answer": "$200K and up",
+          "count": 59,
+          "pct": 5.9
+        },
+        {
+          "answer": "Less than $20,000",
+          "count": 44,
+          "pct": 4.4
+        }
+      ],
+      "base": {
+        "n": 1000
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 1000
+    },
+    "answers": [
+      {
+        "answer": "$100K to $149K",
+        "count": 194,
+        "pct": 19.4
+      },
+      {
+        "answer": "$60,000 to $79,000",
+        "count": 187,
+        "pct": 18.7
+      },
+      {
+        "answer": "$40,000 to $59,000",
+        "count": 176,
+        "pct": 17.6
+      },
+      {
+        "answer": "$80,000 to $99,000",
+        "count": 174,
+        "pct": 17.4
+      },
+      {
+        "answer": "$20,000 to $39,000",
+        "count": 86,
+        "pct": 8.6
+      },
+      {
+        "answer": "$150K to $199K",
+        "count": 80,
+        "pct": 8.0
+      },
+      {
+        "answer": "$200K and up",
+        "count": 59,
+        "pct": 5.9
+      },
+      {
+        "answer": "Less than $20,000",
+        "count": 44,
+        "pct": 4.4
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Baby Boomers": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 8,
+                "pct": 16.7
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 8,
+                "pct": 16.7
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 7,
+                "pct": 14.6
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 12,
+                "pct": 25.0
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 4,
+                "pct": 8.3
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 7,
+                "pct": 14.6
+              },
+              {
+                "answer": "$200K and up",
+                "count": 1,
+                "pct": 2.1
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 1,
+                "pct": 2.1
+              }
+            ],
+            "base": {
+              "n": 48
+            }
+          }
+        ]
+      },
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 78,
+                "pct": 22.5
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 77,
+                "pct": 22.3
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 59,
+                "pct": 17.1
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 54,
+                "pct": 15.6
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 28,
+                "pct": 8.1
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 22,
+                "pct": 6.4
+              },
+              {
+                "answer": "$200K and up",
+                "count": 25,
+                "pct": 7.2
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 3,
+                "pct": 0.9
+              }
+            ],
+            "base": {
+              "n": 346
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 26,
+                "pct": 15.5
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 35,
+                "pct": 20.8
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 38,
+                "pct": 22.6
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 28,
+                "pct": 16.7
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 15,
+                "pct": 8.9
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 9,
+                "pct": 5.4
+              },
+              {
+                "answer": "$200K and up",
+                "count": 2,
+                "pct": 1.2
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 15,
+                "pct": 8.9
+              }
+            ],
+            "base": {
+              "n": 168
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 82,
+                "pct": 18.7
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 67,
+                "pct": 15.3
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 72,
+                "pct": 16.4
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 80,
+                "pct": 18.3
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 39,
+                "pct": 8.9
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 42,
+                "pct": 9.6
+              },
+              {
+                "answer": "$200K and up",
+                "count": 31,
+                "pct": 7.1
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 25,
+                "pct": 5.7
+              }
+            ],
+            "base": {
+              "n": 438
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "Female": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 109,
+                "pct": 20.4
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 105,
+                "pct": 19.7
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 85,
+                "pct": 15.9
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 91,
+                "pct": 17.0
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 47,
+                "pct": 8.8
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 42,
+                "pct": 7.9
+              },
+              {
+                "answer": "$200K and up",
+                "count": 25,
+                "pct": 4.7
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 30,
+                "pct": 5.6
+              }
+            ],
+            "base": {
+              "n": 534
+            }
+          }
+        ]
+      },
+      "Male": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 85,
+                "pct": 18.2
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 82,
+                "pct": 17.6
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 91,
+                "pct": 19.5
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 83,
+                "pct": 17.8
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 39,
+                "pct": 8.4
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 38,
+                "pct": 8.2
+              },
+              {
+                "answer": "$200K and up",
+                "count": 34,
+                "pct": 7.3
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 14,
+                "pct": 3.0
+              }
+            ],
+            "base": {
+              "n": 466
+            }
+          }
+        ]
+      }
+    },
+    "Education Level": {
+      "Associates Degree": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 27,
+                "pct": 23.1
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 27,
+                "pct": 23.1
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 25,
+                "pct": 21.4
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 18,
+                "pct": 15.4
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 8,
+                "pct": 6.8
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 4,
+                "pct": 3.4
+              },
+              {
+                "answer": "$200K and up",
+                "count": 5,
+                "pct": 4.3
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 3,
+                "pct": 2.6
+              }
+            ],
+            "base": {
+              "n": 117
+            }
+          }
+        ]
+      },
+      "Bachelor's degree": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 70,
+                "pct": 26.7
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 46,
+                "pct": 17.6
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 33,
+                "pct": 12.6
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 54,
+                "pct": 20.6
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 7,
+                "pct": 2.7
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 37,
+                "pct": 14.1
+              },
+              {
+                "answer": "$200K and up",
+                "count": 14,
+                "pct": 5.3
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 1,
+                "pct": 0.4
+              }
+            ],
+            "base": {
+              "n": 262
+            }
+          }
+        ]
+      },
+      "Completed some college": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 21,
+                "pct": 11.9
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 34,
+                "pct": 19.2
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 44,
+                "pct": 24.9
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 31,
+                "pct": 17.5
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 24,
+                "pct": 13.6
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 7,
+                "pct": 4.0
+              },
+              {
+                "answer": "$200K and up",
+                "count": 7,
+                "pct": 4.0
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 9,
+                "pct": 5.1
+              }
+            ],
+            "base": {
+              "n": 177
+            }
+          }
+        ]
+      },
+      "Completed some high school": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 1,
+                "pct": 4.0
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 8,
+                "pct": 32.0
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 4,
+                "pct": 16.0
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 6,
+                "pct": 24.0
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 4,
+                "pct": 16.0
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$200K and up",
+                "count": 1,
+                "pct": 4.0
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 1,
+                "pct": 4.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Completed some postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 3,
+                "pct": 14.3
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 5,
+                "pct": 23.8
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 2,
+                "pct": 9.5
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 4,
+                "pct": 19.0
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 1,
+                "pct": 4.8
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 3,
+                "pct": 14.3
+              },
+              {
+                "answer": "$200K and up",
+                "count": 2,
+                "pct": 9.5
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 1,
+                "pct": 4.8
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "Doctorate /PhD": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 8,
+                "pct": 33.3
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 2,
+                "pct": 8.3
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 6,
+                "pct": 25.0
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 6,
+                "pct": 25.0
+              },
+              {
+                "answer": "$200K and up",
+                "count": 2,
+                "pct": 8.3
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "Elementary School": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "High school graduate": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 29,
+                "pct": 13.2
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 46,
+                "pct": 20.9
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 53,
+                "pct": 24.1
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 21,
+                "pct": 9.5
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 36,
+                "pct": 16.4
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 5,
+                "pct": 2.3
+              },
+              {
+                "answer": "$200K and up",
+                "count": 5,
+                "pct": 2.3
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 25,
+                "pct": 11.4
+              }
+            ],
+            "base": {
+              "n": 220
+            }
+          }
+        ]
+      },
+      "Masters degree": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 31,
+                "pct": 26.7
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 12,
+                "pct": 10.3
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 8,
+                "pct": 6.9
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 24,
+                "pct": 20.7
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 1,
+                "pct": 0.9
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 17,
+                "pct": 14.7
+              },
+              {
+                "answer": "$200K and up",
+                "count": 23,
+                "pct": 19.8
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 116
+            }
+          }
+        ]
+      },
+      "Middle School": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "None of the above/Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Other post high school vocational training": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 2,
+                "pct": 7.7
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 6,
+                "pct": 23.1
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 5,
+                "pct": 19.2
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 7,
+                "pct": 26.9
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 4,
+                "pct": 15.4
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$200K and up",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 2,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      }
+    },
+    "Household income US": {
+      "$1 million +": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "$10,000 to $14,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 2,
+                "pct": 8.7
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 6,
+                "pct": 26.1
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 8,
+                "pct": 34.8
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$200K and up",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 7,
+                "pct": 30.4
+              }
+            ],
+            "base": {
+              "n": 23
+            }
+          }
+        ]
+      },
+      "$100,000 to $124,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 31,
+                "pct": 38.8
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 9,
+                "pct": 11.2
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 6,
+                "pct": 7.5
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 11,
+                "pct": 13.8
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 1,
+                "pct": 1.2
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 15,
+                "pct": 18.8
+              },
+              {
+                "answer": "$200K and up",
+                "count": 7,
+                "pct": 8.8
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 80
+            }
+          }
+        ]
+      },
+      "$125,000 to $149,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 24,
+                "pct": 42.1
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 6,
+                "pct": 10.5
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 4,
+                "pct": 7.0
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 12,
+                "pct": 21.1
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 9,
+                "pct": 15.8
+              },
+              {
+                "answer": "$200K and up",
+                "count": 2,
+                "pct": 3.5
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 57
+            }
+          }
+        ]
+      },
+      "$15,000 to $19,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 4,
+                "pct": 16.0
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 3,
+                "pct": 12.0
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 4,
+                "pct": 16.0
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 1,
+                "pct": 4.0
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 4,
+                "pct": 16.0
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$200K and up",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 9,
+                "pct": 36.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "$150,000 to $174,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 11,
+                "pct": 23.9
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 1,
+                "pct": 2.2
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 3,
+                "pct": 6.5
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 7,
+                "pct": 15.2
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 14,
+                "pct": 30.4
+              },
+              {
+                "answer": "$200K and up",
+                "count": 9,
+                "pct": 19.6
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 1,
+                "pct": 2.2
+              }
+            ],
+            "base": {
+              "n": 46
+            }
+          }
+        ]
+      },
+      "$175,000 to $199,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 11,
+                "pct": 40.7
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 2,
+                "pct": 7.4
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 6,
+                "pct": 22.2
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 4,
+                "pct": 14.8
+              },
+              {
+                "answer": "$200K and up",
+                "count": 4,
+                "pct": 14.8
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "$20,000 to $24,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 2,
+                "pct": 6.5
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 7,
+                "pct": 22.6
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 5,
+                "pct": 16.1
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 1,
+                "pct": 3.2
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 11,
+                "pct": 35.5
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$200K and up",
+                "count": 2,
+                "pct": 6.5
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 3,
+                "pct": 9.7
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          }
+        ]
+      },
+      "$200,000 to $249,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 7,
+                "pct": 26.9
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 1,
+                "pct": 3.8
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 1,
+                "pct": 3.8
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 3,
+                "pct": 11.5
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 4,
+                "pct": 15.4
+              },
+              {
+                "answer": "$200K and up",
+                "count": 10,
+                "pct": 38.5
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "$25,000 to $29,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 1,
+                "pct": 2.6
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 5,
+                "pct": 12.8
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 12,
+                "pct": 30.8
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 2,
+                "pct": 5.1
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 16,
+                "pct": 41.0
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$200K and up",
+                "count": 1,
+                "pct": 2.6
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 2,
+                "pct": 5.1
+              }
+            ],
+            "base": {
+              "n": 39
+            }
+          }
+        ]
+      },
+      "$250,000 to $499,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 4,
+                "pct": 16.7
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 1,
+                "pct": 4.2
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 2,
+                "pct": 8.3
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 5,
+                "pct": 20.8
+              },
+              {
+                "answer": "$200K and up",
+                "count": 12,
+                "pct": 50.0
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "$30,000 to $34,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 3,
+                "pct": 6.7
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 12,
+                "pct": 26.7
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 14,
+                "pct": 31.1
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 2,
+                "pct": 4.4
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 9,
+                "pct": 20.0
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$200K and up",
+                "count": 3,
+                "pct": 6.7
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 2,
+                "pct": 4.4
+              }
+            ],
+            "base": {
+              "n": 45
+            }
+          }
+        ]
+      },
+      "$35,000 to $39,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 5,
+                "pct": 11.6
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 7,
+                "pct": 16.3
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 12,
+                "pct": 27.9
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 2,
+                "pct": 4.7
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 15,
+                "pct": 34.9
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 1,
+                "pct": 2.3
+              },
+              {
+                "answer": "$200K and up",
+                "count": 1,
+                "pct": 2.3
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "$40,000 to $44,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 1,
+                "pct": 2.1
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 15,
+                "pct": 31.9
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 17,
+                "pct": 36.2
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 9,
+                "pct": 19.1
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 3,
+                "pct": 6.4
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$200K and up",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 2,
+                "pct": 4.3
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          }
+        ]
+      },
+      "$45,000 to $49,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 3,
+                "pct": 7.3
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 7,
+                "pct": 17.1
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 20,
+                "pct": 48.8
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 9,
+                "pct": 22.0
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 1,
+                "pct": 2.4
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$200K and up",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 1,
+                "pct": 2.4
+              }
+            ],
+            "base": {
+              "n": 41
+            }
+          }
+        ]
+      },
+      "$5,000 to $9,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 2,
+                "pct": 14.3
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 2,
+                "pct": 14.3
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$200K and up",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 4,
+                "pct": 28.6
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "$50,000 to $54,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 5,
+                "pct": 7.5
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 24,
+                "pct": 35.8
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 25,
+                "pct": 37.3
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 9,
+                "pct": 13.4
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 1,
+                "pct": 1.5
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 3,
+                "pct": 4.5
+              },
+              {
+                "answer": "$200K and up",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 67
+            }
+          }
+        ]
+      },
+      "$500,000 to $999,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "$55,000 to $59,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 10,
+                "pct": 21.3
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 9,
+                "pct": 19.1
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 13,
+                "pct": 27.7
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 11,
+                "pct": 23.4
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 1,
+                "pct": 2.1
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 3,
+                "pct": 6.4
+              },
+              {
+                "answer": "$200K and up",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          }
+        ]
+      },
+      "$60,000 to $64,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 6,
+                "pct": 14.6
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 15,
+                "pct": 36.6
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 2,
+                "pct": 4.9
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 13,
+                "pct": 31.7
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 1,
+                "pct": 2.4
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 1,
+                "pct": 2.4
+              },
+              {
+                "answer": "$200K and up",
+                "count": 2,
+                "pct": 4.9
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 1,
+                "pct": 2.4
+              }
+            ],
+            "base": {
+              "n": 41
+            }
+          }
+        ]
+      },
+      "$65,000 to $69,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 8,
+                "pct": 24.2
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 11,
+                "pct": 33.3
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 2,
+                "pct": 6.1
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 10,
+                "pct": 30.3
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 1,
+                "pct": 3.0
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 1,
+                "pct": 3.0
+              },
+              {
+                "answer": "$200K and up",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          }
+        ]
+      },
+      "$70,000 to $74,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 12,
+                "pct": 34.3
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 10,
+                "pct": 28.6
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 1,
+                "pct": 2.9
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 9,
+                "pct": 25.7
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 2,
+                "pct": 5.7
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 1,
+                "pct": 2.9
+              },
+              {
+                "answer": "$200K and up",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 35
+            }
+          }
+        ]
+      },
+      "$75,000 to $79,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 6,
+                "pct": 14.6
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 9,
+                "pct": 22.0
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 6,
+                "pct": 14.6
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 10,
+                "pct": 24.4
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 1,
+                "pct": 2.4
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 8,
+                "pct": 19.5
+              },
+              {
+                "answer": "$200K and up",
+                "count": 1,
+                "pct": 2.4
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 41
+            }
+          }
+        ]
+      },
+      "$80,000 to $84,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 8,
+                "pct": 25.8
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 7,
+                "pct": 22.6
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 5,
+                "pct": 16.1
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 8,
+                "pct": 25.8
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 2,
+                "pct": 6.5
+              },
+              {
+                "answer": "$200K and up",
+                "count": 1,
+                "pct": 3.2
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          }
+        ]
+      },
+      "$85,000 to $89,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 6,
+                "pct": 33.3
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 3,
+                "pct": 16.7
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 1,
+                "pct": 5.6
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 6,
+                "pct": 33.3
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$200K and up",
+                "count": 2,
+                "pct": 11.1
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "$90,000 to $94,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 4,
+                "pct": 28.6
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 1,
+                "pct": 7.1
+              },
+              {
+                "answer": "$200K and up",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "$95,000 to $99,999": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 14,
+                "pct": 28.0
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 10,
+                "pct": 20.0
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 18,
+                "pct": 36.0
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 1,
+                "pct": 2.0
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 6,
+                "pct": 12.0
+              },
+              {
+                "answer": "$200K and up",
+                "count": 1,
+                "pct": 2.0
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 50
+            }
+          }
+        ]
+      },
+      "Less than $5,000": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 1,
+                "pct": 3.0
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 4,
+                "pct": 12.1
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 6,
+                "pct": 18.2
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 5,
+                "pct": 15.2
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 6,
+                "pct": 18.2
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "$200K and up",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 11,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          }
+        ]
+      },
+      "Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 6,
+                "pct": 30.0
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 2,
+                "pct": 10.0
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 5,
+                "pct": 25.0
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 4,
+                "pct": 20.0
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 1,
+                "pct": 5.0
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 1,
+                "pct": 5.0
+              },
+              {
+                "answer": "$200K and up",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 1,
+                "pct": 5.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      }
+    },
+    "US State": {
+      "(Missing)": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 36,
+                "pct": 23.8
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 17,
+                "pct": 11.3
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 19,
+                "pct": 12.6
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 21,
+                "pct": 13.9
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 13,
+                "pct": 8.6
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 22,
+                "pct": 14.6
+              },
+              {
+                "answer": "$200K and up",
+                "count": 19,
+                "pct": 12.6
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 4,
+                "pct": 2.6
+              }
+            ],
+            "base": {
+              "n": 151
+            }
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 10,
+                "pct": 17.5
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 9,
+                "pct": 15.8
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 5,
+                "pct": 8.8
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 15,
+                "pct": 26.3
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 5,
+                "pct": 8.8
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 7,
+                "pct": 12.3
+              },
+              {
+                "answer": "$200K and up",
+                "count": 3,
+                "pct": 5.3
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 3,
+                "pct": 5.3
+              }
+            ],
+            "base": {
+              "n": 57
+            }
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 3,
+                "pct": 7.0
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 9,
+                "pct": 20.9
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 9,
+                "pct": 20.9
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 16,
+                "pct": 37.2
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 2,
+                "pct": 4.7
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 3,
+                "pct": 7.0
+              },
+              {
+                "answer": "$200K and up",
+                "count": 1,
+                "pct": 2.3
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 13,
+                "pct": 20.3
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 11,
+                "pct": 17.2
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 9,
+                "pct": 14.1
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 15,
+                "pct": 23.4
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 3,
+                "pct": 4.7
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 3,
+                "pct": 4.7
+              },
+              {
+                "answer": "$200K and up",
+                "count": 8,
+                "pct": 12.5
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 2,
+                "pct": 3.1
+              }
+            ],
+            "base": {
+              "n": 64
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 7,
+                "pct": 16.7
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 7,
+                "pct": 16.7
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 6,
+                "pct": 14.3
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 7,
+                "pct": 16.7
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 6,
+                "pct": 14.3
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 3,
+                "pct": 7.1
+              },
+              {
+                "answer": "$200K and up",
+                "count": 1,
+                "pct": 2.4
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 5,
+                "pct": 11.9
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "Other": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 104,
+                "pct": 19.3
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 113,
+                "pct": 21.0
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 104,
+                "pct": 19.3
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 88,
+                "pct": 16.3
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 47,
+                "pct": 8.7
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 36,
+                "pct": 6.7
+              },
+              {
+                "answer": "$200K and up",
+                "count": 24,
+                "pct": 4.5
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 23,
+                "pct": 4.3
+              }
+            ],
+            "base": {
+              "n": 539
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which salary range do you think is the minimum required for you to live comfortably in your geographic area?",
+            "cells": [
+              {
+                "answer": "$100K to $149K",
+                "count": 21,
+                "pct": 20.4
+              },
+              {
+                "answer": "$60,000 to $79,000",
+                "count": 21,
+                "pct": 20.4
+              },
+              {
+                "answer": "$40,000 to $59,000",
+                "count": 24,
+                "pct": 23.3
+              },
+              {
+                "answer": "$80,000 to $99,000",
+                "count": 12,
+                "pct": 11.7
+              },
+              {
+                "answer": "$20,000 to $39,000",
+                "count": 10,
+                "pct": 9.7
+              },
+              {
+                "answer": "$150K to $199K",
+                "count": 6,
+                "pct": 5.8
+              },
+              {
+                "answer": "$200K and up",
+                "count": 3,
+                "pct": 2.9
+              },
+              {
+                "answer": "Less than $20,000",
+                "count": 6,
+                "pct": 5.8
+              }
+            ],
+            "base": {
+              "n": 103
+            }
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 10,
+    "single_panel": true
+  }
+}
