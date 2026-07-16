@@ -76,7 +76,7 @@ The tabulated JSON additionally suppresses any group with fewer than 5-10 respon
 **US Job Seekers Survey, 2026**
 - [2026 Job Seeker Insights Report](https://resumegenius.com/blog/job-hunting/job-seeker-insights-report-2026)
 
-- **US Full Time Workers Survey, 2025**
+**US Full Time Workers Survey, 2025**
 - [2025 Modern Paycheck Report](https://resumegenius.com/blog/career-advice/modern-paycheck-report)
 - [Workplace Realities Report](https://resumegenius.com/blog/career-advice/workplace-realities)
 - [Career Identity Report](https://resumegenius.com/blog/career-advice/career-identity-report)
