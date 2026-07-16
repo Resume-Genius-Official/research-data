@@ -9,7 +9,7 @@ We publish this data openly so journalists, analysts, and researchers can verify
 Each survey lives in its own folder. Most surveys are published in two layers:
 
 - **Raw data** — a single CSV with one row per respondent, for your own analysis.
-- **Tabulated results** — a `questions/` folder with one JSON per survey question. Each file contains the overall result plus crosstabs by Age, Gender, US State, Household income, Education Level, and Employment Status. If you just want the numbers, start here.
+- **Tabulated results** — a `questions/` folder containing `combined.json` (every question's results in one file — the easiest starting point) plus one JSON per individual question. Each contains the overall result plus crosstabs by demographics such as Age, Gender, US State, Household income, and Education Level. If you just want the numbers, start with `combined.json`.
 
 Some surveys are published as **tabulated results only**, with no raw CSV, when the respondent-level data cannot be safely de-identified (see [Privacy & de-identification](#privacy--de-identification)). For these, the aggregated JSON is the complete public release.
 
@@ -27,6 +27,7 @@ research-data/
         ├── q2_*.json
         └── ...                         # one file per question
 ```
+> Folder layout varies slightly between older and newer surveys — in `us_full_time_workers_2025`, `combined.json` sits at the folder root rather than inside `questions/`.
 
 **A note on small cells:** in the tabulated JSON, any demographic group with fewer than 5-10 respondents is suppressed (shown as `"suppressed": true`) to protect respondent privacy and avoid reporting unreliable percentages. Blank cells are intentional, not missing data.
 
@@ -36,7 +37,7 @@ The raw CSV has been de-identified before release. Respondents were anonymous to
 
 - **Geography** is reported no finer than state. ZIP code, county, metro/statistical area, and media-market (DMA) fields were removed; State, Region, and Division are retained.
 - **Age** is reported as generation band rather than exact age.
-- **Household income** is reported in broad bands in the raw CSV (e.g. "$75,000–$99,999"). The tabulated JSON retains the detailed survey brackets, since the n<5 suppression already protects small cells at the aggregate level.
+- **Household income** is reported in broad bands in the raw CSV (e.g. "$75,000–$99,999"). The tabulated JSON retains the detailed survey brackets, since small-cell suppression already protects individuals at the aggregate level.
 - **Details about respondents' children** (specific age/gender) were removed; only a high-level parental-status indicator is retained.
 - **Vendor and operational fields** (internal quota IDs, individual start/finish timestamps) were removed.
 
@@ -49,8 +50,9 @@ The tabulated JSON additionally suppresses any group with fewer than 5-10 respon
 | `us_hiring_trends_2024/` | US Hiring Trends Survey, 2024 | 625 U.S. hiring managers | Jan 2024 | JSON only |
 | `us_hiring_changes_2025/` | US Hiring Changes Survey, 2025 | 1,000 U.S. hiring managers | Jan 2025 | CSV + JSON |
 | `us_gen_z_workers_2025/` | US Gen Z Workers Survey, 2025 | 1,000 U.S. Gen Z workers | 2025 | JSON only |
+| `us_full_time_workers_2025/` | US Full Time Workers Survey, 2025 | 1,000 U.S. full-time workers | Sep 2025 | JSON only |
 | `us_job_seeker_survey_2026/` | US Job Seekers Survey, 2026 | 1,000 U.S. job seekers | Mar 2026 | CSV + JSON |
-| `us_hiring_managers_survey_2026/` | US Hiring Managers Survey, 2026 | 1,500 U.S. hiring managers | Jun 2026 | CSV + JSON |
+| `us_hiring_managers_survey_2026/` | US Hiring Managers Survey, 2026 | 1,500 U.S. hiring managers | Jun 2026 | CSV only |
 
 ## Reports based on each dataset
 
@@ -73,6 +75,11 @@ The tabulated JSON additionally suppresses any group with fewer than 5-10 respon
 
 **US Job Seekers Survey, 2026**
 - [2026 Job Seeker Insights Report](https://resumegenius.com/blog/job-hunting/job-seeker-insights-report-2026)
+
+- **US Full Time Workers Survey, 2025**
+- [2025 Modern Paycheck Report](https://resumegenius.com/blog/career-advice/modern-paycheck-report)
+- [Workplace Realities Report](https://resumegenius.com/blog/career-advice/workplace-realities)
+- [Career Identity Report](https://resumegenius.com/blog/career-advice/career-identity-report)
 
 ## Methodology
 
