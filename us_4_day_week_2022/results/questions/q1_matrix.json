@@ -1,0 +1,1597 @@
+{
+  "id": "Q1",
+  "text": "Q1",
+  "question_prompt": "Q1: Which of the following best describes your current job role?",
+  "type": "matrix",
+  "panels": [
+    "Q1: Which of the following best describes your current job role?"
+  ],
+  "answers": [
+    "Entry to junior-level employee",
+    "Mid to senior-level employee",
+    "Employer",
+    "Manager or above"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q1: Which of the following best describes your current job role?",
+      "cells": [
+        {
+          "answer": "Entry to junior-level employee",
+          "count": 125,
+          "pct": 25.0
+        },
+        {
+          "answer": "Mid to senior-level employee",
+          "count": 125,
+          "pct": 25.0
+        },
+        {
+          "answer": "Employer",
+          "count": 125,
+          "pct": 25.0
+        },
+        {
+          "answer": "Manager or above",
+          "count": 125,
+          "pct": 25.0
+        }
+      ],
+      "base": {
+        "n": 500
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 500
+    },
+    "answers": [
+      {
+        "answer": "Entry to junior-level employee",
+        "count": 125,
+        "pct": 25.0
+      },
+      {
+        "answer": "Mid to senior-level employee",
+        "count": 125,
+        "pct": 25.0
+      },
+      {
+        "answer": "Employer",
+        "count": 125,
+        "pct": 25.0
+      },
+      {
+        "answer": "Manager or above",
+        "count": 125,
+        "pct": 25.0
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 30,
+                "pct": 23.4
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 42,
+                "pct": 32.8
+              },
+              {
+                "answer": "Employer",
+                "count": 21,
+                "pct": 16.4
+              },
+              {
+                "answer": "Manager or above",
+                "count": 35,
+                "pct": 27.3
+              }
+            ],
+            "base": {
+              "n": 128
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 47,
+                "pct": 23.2
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 37,
+                "pct": 18.2
+              },
+              {
+                "answer": "Employer",
+                "count": 69,
+                "pct": 34.0
+              },
+              {
+                "answer": "Manager or above",
+                "count": 50,
+                "pct": 24.6
+              }
+            ],
+            "base": {
+              "n": 203
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 48,
+                "pct": 28.4
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 46,
+                "pct": 27.2
+              },
+              {
+                "answer": "Employer",
+                "count": 35,
+                "pct": 20.7
+              },
+              {
+                "answer": "Manager or above",
+                "count": 40,
+                "pct": 23.7
+              }
+            ],
+            "base": {
+              "n": 169
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 84,
+                "pct": 30.2
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 71,
+                "pct": 25.5
+              },
+              {
+                "answer": "Employer",
+                "count": 66,
+                "pct": 23.7
+              },
+              {
+                "answer": "Manager or above",
+                "count": 57,
+                "pct": 20.5
+              }
+            ],
+            "base": {
+              "n": 278
+            }
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 41,
+                "pct": 18.5
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 54,
+                "pct": 24.3
+              },
+              {
+                "answer": "Employer",
+                "count": 59,
+                "pct": 26.6
+              },
+              {
+                "answer": "Manager or above",
+                "count": 68,
+                "pct": 30.6
+              }
+            ],
+            "base": {
+              "n": 222
+            }
+          }
+        ]
+      }
+    },
+    "Education": {
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 29,
+                "pct": 22.3
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 29,
+                "pct": 22.3
+              },
+              {
+                "answer": "Employer",
+                "count": 41,
+                "pct": 31.5
+              },
+              {
+                "answer": "Manager or above",
+                "count": 31,
+                "pct": 23.8
+              }
+            ],
+            "base": {
+              "n": 130
+            }
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Employer",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "Manager or above",
+                "count": 1,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 24,
+                "pct": 22.6
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 34,
+                "pct": 32.1
+              },
+              {
+                "answer": "Employer",
+                "count": 21,
+                "pct": 19.8
+              },
+              {
+                "answer": "Manager or above",
+                "count": 27,
+                "pct": 25.5
+              }
+            ],
+            "base": {
+              "n": 106
+            }
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 53,
+                "pct": 28.6
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 40,
+                "pct": 21.6
+              },
+              {
+                "answer": "Employer",
+                "count": 44,
+                "pct": 23.8
+              },
+              {
+                "answer": "Manager or above",
+                "count": 48,
+                "pct": 25.9
+              }
+            ],
+            "base": {
+              "n": 185
+            }
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 17,
+                "pct": 24.6
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 20,
+                "pct": 29.0
+              },
+              {
+                "answer": "Employer",
+                "count": 14,
+                "pct": 20.3
+              },
+              {
+                "answer": "Manager or above",
+                "count": 18,
+                "pct": 26.1
+              }
+            ],
+            "base": {
+              "n": 69
+            }
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 24,
+                "pct": 38.1
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 14,
+                "pct": 22.2
+              },
+              {
+                "answer": "Employer",
+                "count": 16,
+                "pct": 25.4
+              },
+              {
+                "answer": "Manager or above",
+                "count": 9,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 63
+            }
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 10,
+                "pct": 23.3
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 10,
+                "pct": 23.3
+              },
+              {
+                "answer": "Employer",
+                "count": 13,
+                "pct": 30.2
+              },
+              {
+                "answer": "Manager or above",
+                "count": 10,
+                "pct": 23.3
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 3,
+                "pct": 7.5
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 11,
+                "pct": 27.5
+              },
+              {
+                "answer": "Employer",
+                "count": 12,
+                "pct": 30.0
+              },
+              {
+                "answer": "Manager or above",
+                "count": 14,
+                "pct": 35.0
+              }
+            ],
+            "base": {
+              "n": 40
+            }
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 18,
+                "pct": 28.6
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 14,
+                "pct": 22.2
+              },
+              {
+                "answer": "Employer",
+                "count": 21,
+                "pct": 33.3
+              },
+              {
+                "answer": "Manager or above",
+                "count": 10,
+                "pct": 15.9
+              }
+            ],
+            "base": {
+              "n": 63
+            }
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 32,
+                "pct": 28.1
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 18,
+                "pct": 15.8
+              },
+              {
+                "answer": "Employer",
+                "count": 29,
+                "pct": 25.4
+              },
+              {
+                "answer": "Manager or above",
+                "count": 35,
+                "pct": 30.7
+              }
+            ],
+            "base": {
+              "n": 114
+            }
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 19,
+                "pct": 27.5
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 24,
+                "pct": 34.8
+              },
+              {
+                "answer": "Employer",
+                "count": 11,
+                "pct": 15.9
+              },
+              {
+                "answer": "Manager or above",
+                "count": 15,
+                "pct": 21.7
+              }
+            ],
+            "base": {
+              "n": 69
+            }
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 13,
+                "pct": 14.1
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 31,
+                "pct": 33.7
+              },
+              {
+                "answer": "Employer",
+                "count": 20,
+                "pct": 21.7
+              },
+              {
+                "answer": "Manager or above",
+                "count": 28,
+                "pct": 30.4
+              }
+            ],
+            "base": {
+              "n": 92
+            }
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 6,
+                "pct": 37.5
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 3,
+                "pct": 18.8
+              },
+              {
+                "answer": "Employer",
+                "count": 3,
+                "pct": 18.8
+              },
+              {
+                "answer": "Manager or above",
+                "count": 4,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Employer",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Manager or above",
+                "count": 4,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "Employer",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Manager or above",
+                "count": 1,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 14,
+                "pct": 29.8
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 9,
+                "pct": 19.1
+              },
+              {
+                "answer": "Employer",
+                "count": 14,
+                "pct": 29.8
+              },
+              {
+                "answer": "Manager or above",
+                "count": 10,
+                "pct": 21.3
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 10,
+                "pct": 29.4
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 5,
+                "pct": 14.7
+              },
+              {
+                "answer": "Employer",
+                "count": 9,
+                "pct": 26.5
+              },
+              {
+                "answer": "Manager or above",
+                "count": 10,
+                "pct": 29.4
+              }
+            ],
+            "base": {
+              "n": 34
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Employer",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Manager or above",
+                "count": 5,
+                "pct": 29.4
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 3,
+                "pct": 18.8
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 7,
+                "pct": 43.8
+              },
+              {
+                "answer": "Employer",
+                "count": 3,
+                "pct": 18.8
+              },
+              {
+                "answer": "Manager or above",
+                "count": 3,
+                "pct": 18.8
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "Employer",
+                "count": 1,
+                "pct": 7.7
+              },
+              {
+                "answer": "Manager or above",
+                "count": 4,
+                "pct": 30.8
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "Employer",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "Manager or above",
+                "count": 5,
+                "pct": 45.5
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Employer",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Manager or above",
+                "count": 3,
+                "pct": 30.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 6,
+                "pct": 33.3
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 2,
+                "pct": 11.1
+              },
+              {
+                "answer": "Employer",
+                "count": 4,
+                "pct": 22.2
+              },
+              {
+                "answer": "Manager or above",
+                "count": 6,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 4,
+                "pct": 28.6
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 6,
+                "pct": 42.9
+              },
+              {
+                "answer": "Employer",
+                "count": 2,
+                "pct": 14.3
+              },
+              {
+                "answer": "Manager or above",
+                "count": 2,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 3,
+                "pct": 18.8
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 2,
+                "pct": 12.5
+              },
+              {
+                "answer": "Employer",
+                "count": 2,
+                "pct": 12.5
+              },
+              {
+                "answer": "Manager or above",
+                "count": 9,
+                "pct": 56.2
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 8,
+                "pct": 29.6
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 6,
+                "pct": 22.2
+              },
+              {
+                "answer": "Employer",
+                "count": 7,
+                "pct": 25.9
+              },
+              {
+                "answer": "Manager or above",
+                "count": 6,
+                "pct": 22.2
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 6,
+                "pct": 23.1
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 10,
+                "pct": 38.5
+              },
+              {
+                "answer": "Employer",
+                "count": 2,
+                "pct": 7.7
+              },
+              {
+                "answer": "Manager or above",
+                "count": 8,
+                "pct": 30.8
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 4,
+                "pct": 16.7
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 6,
+                "pct": 25.0
+              },
+              {
+                "answer": "Employer",
+                "count": 6,
+                "pct": 25.0
+              },
+              {
+                "answer": "Manager or above",
+                "count": 8,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 10,
+                "pct": 32.3
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 11,
+                "pct": 35.5
+              },
+              {
+                "answer": "Employer",
+                "count": 6,
+                "pct": 19.4
+              },
+              {
+                "answer": "Manager or above",
+                "count": 4,
+                "pct": 12.9
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 8
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 9,
+                "pct": 19.1
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 4,
+                "pct": 8.5
+              },
+              {
+                "answer": "Employer",
+                "count": 23,
+                "pct": 48.9
+              },
+              {
+                "answer": "Manager or above",
+                "count": 11,
+                "pct": 23.4
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "Employer",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "Manager or above",
+                "count": 4,
+                "pct": 26.7
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [
+              {
+                "answer": "Entry to junior-level employee",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "Mid to senior-level employee",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "Employer",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "Manager or above",
+                "count": 2,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes your current job role?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 10,
+    "single_panel": true
+  }
+}

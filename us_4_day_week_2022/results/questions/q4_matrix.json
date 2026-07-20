@@ -1,0 +1,1401 @@
+{
+  "id": "Q4",
+  "text": "Q4",
+  "question_prompt": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+  "type": "matrix",
+  "panels": [
+    "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?"
+  ],
+  "answers": [
+    "I like the idea, and support a 4-day work week",
+    "I like the idea, but don’t think a 4-day work week will work",
+    "I don’t like the idea"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+      "cells": [
+        {
+          "answer": "I like the idea, and support a 4-day work week",
+          "count": 405,
+          "pct": 81.0
+        },
+        {
+          "answer": "I like the idea, but don’t think a 4-day work week will work",
+          "count": 89,
+          "pct": 17.8
+        },
+        {
+          "answer": "I don’t like the idea",
+          "count": 6,
+          "pct": 1.2
+        }
+      ],
+      "base": {
+        "n": 500
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 500
+    },
+    "answers": [
+      {
+        "answer": "I like the idea, and support a 4-day work week",
+        "count": 405,
+        "pct": 81.0
+      },
+      {
+        "answer": "I like the idea, but don’t think a 4-day work week will work",
+        "count": 89,
+        "pct": 17.8
+      },
+      {
+        "answer": "I don’t like the idea",
+        "count": 6,
+        "pct": 1.2
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 95,
+                "pct": 74.2
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 30,
+                "pct": 23.4
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 3,
+                "pct": 2.3
+              }
+            ],
+            "base": {
+              "n": 128
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 169,
+                "pct": 83.3
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 32,
+                "pct": 15.8
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 2,
+                "pct": 1.0
+              }
+            ],
+            "base": {
+              "n": 203
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 141,
+                "pct": 83.4
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 27,
+                "pct": 16.0
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 1,
+                "pct": 0.6
+              }
+            ],
+            "base": {
+              "n": 169
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 232,
+                "pct": 83.5
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 43,
+                "pct": 15.5
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 3,
+                "pct": 1.1
+              }
+            ],
+            "base": {
+              "n": 278
+            }
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 173,
+                "pct": 77.9
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 46,
+                "pct": 20.7
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 3,
+                "pct": 1.4
+              }
+            ],
+            "base": {
+              "n": 222
+            }
+          }
+        ]
+      }
+    },
+    "Education": {
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 99,
+                "pct": 76.2
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 27,
+                "pct": 20.8
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 4,
+                "pct": 3.1
+              }
+            ],
+            "base": {
+              "n": 130
+            }
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 8,
+                "pct": 80.0
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 92,
+                "pct": 86.8
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 13,
+                "pct": 12.3
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 1,
+                "pct": 0.9
+              }
+            ],
+            "base": {
+              "n": 106
+            }
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 151,
+                "pct": 81.6
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 33,
+                "pct": 17.8
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 1,
+                "pct": 0.5
+              }
+            ],
+            "base": {
+              "n": 185
+            }
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 55,
+                "pct": 79.7
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 14,
+                "pct": 20.3
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 69
+            }
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 47,
+                "pct": 74.6
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 16,
+                "pct": 25.4
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 63
+            }
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 35,
+                "pct": 81.4
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 8,
+                "pct": 18.6
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 38,
+                "pct": 95.0
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 1,
+                "pct": 2.5
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 1,
+                "pct": 2.5
+              }
+            ],
+            "base": {
+              "n": 40
+            }
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 48,
+                "pct": 76.2
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 14,
+                "pct": 22.2
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 1,
+                "pct": 1.6
+              }
+            ],
+            "base": {
+              "n": 63
+            }
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 91,
+                "pct": 79.8
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 22,
+                "pct": 19.3
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 1,
+                "pct": 0.9
+              }
+            ],
+            "base": {
+              "n": 114
+            }
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 54,
+                "pct": 78.3
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 14,
+                "pct": 20.3
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 1,
+                "pct": 1.4
+              }
+            ],
+            "base": {
+              "n": 69
+            }
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 76,
+                "pct": 82.6
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 14,
+                "pct": 15.2
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 2,
+                "pct": 2.2
+              }
+            ],
+            "base": {
+              "n": 92
+            }
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 16,
+                "pct": 100.0
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 9,
+                "pct": 90.0
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 7,
+                "pct": 70.0
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 39,
+                "pct": 83.0
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 7,
+                "pct": 14.9
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 1,
+                "pct": 2.1
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 28,
+                "pct": 82.4
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 6,
+                "pct": 17.6
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 34
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 12,
+                "pct": 70.6
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 5,
+                "pct": 29.4
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 14,
+                "pct": 87.5
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 1,
+                "pct": 6.2
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 11,
+                "pct": 84.6
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 10,
+                "pct": 90.9
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 1,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 10,
+                "pct": 100.0
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 15,
+                "pct": 83.3
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 3,
+                "pct": 16.7
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 11,
+                "pct": 78.6
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 14,
+                "pct": 87.5
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 2,
+                "pct": 12.5
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 19,
+                "pct": 70.4
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 8,
+                "pct": 29.6
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 21,
+                "pct": 80.8
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 5,
+                "pct": 19.2
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 18,
+                "pct": 75.0
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 6,
+                "pct": 25.0
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 28,
+                "pct": 90.3
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 2,
+                "pct": 6.5
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 1,
+                "pct": 3.2
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 8
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 37,
+                "pct": 78.7
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 9,
+                "pct": 19.1
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 1,
+                "pct": 2.1
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 13,
+                "pct": 86.7
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [
+              {
+                "answer": "I like the idea, and support a 4-day work week",
+                "count": 9,
+                "pct": 81.8
+              },
+              {
+                "answer": "I like the idea, but don’t think a 4-day work week will work",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "I don’t like the idea",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q4: Without any more information, which of the following best describes how you feel about implementing a 4-day work week?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 10,
+    "single_panel": true
+  }
+}

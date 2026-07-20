@@ -1,0 +1,3907 @@
+{
+  "id": "Q8",
+  "text": "Q8",
+  "question_prompt": "Q8: Which of the following factors contribute to your burnout (or have caused you to burnout in the past)?",
+  "type": "matrix",
+  "panels": [
+    "Q8: I don’t find value in my work",
+    "Q8: I spend too much time at work",
+    "Q8: My relationships at work make work stressful",
+    "Q8: My workload is too heavy"
+  ],
+  "answers": [
+    "Not Selected",
+    "Selected"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q8: I don’t find value in my work",
+      "cells": [
+        {
+          "answer": "Not Selected",
+          "count": 375,
+          "pct": 75.0
+        },
+        {
+          "answer": "Selected",
+          "count": 125,
+          "pct": 25.0
+        }
+      ],
+      "base": {
+        "n": 500
+      }
+    },
+    {
+      "panel_id": "Q8: I spend too much time at work",
+      "cells": [
+        {
+          "answer": "Not Selected",
+          "count": 247,
+          "pct": 49.4
+        },
+        {
+          "answer": "Selected",
+          "count": 253,
+          "pct": 50.6
+        }
+      ],
+      "base": {
+        "n": 500
+      }
+    },
+    {
+      "panel_id": "Q8: My relationships at work make work stressful",
+      "cells": [
+        {
+          "answer": "Not Selected",
+          "count": 339,
+          "pct": 67.8
+        },
+        {
+          "answer": "Selected",
+          "count": 161,
+          "pct": 32.2
+        }
+      ],
+      "base": {
+        "n": 500
+      }
+    },
+    {
+      "panel_id": "Q8: My workload is too heavy",
+      "cells": [
+        {
+          "answer": "Not Selected",
+          "count": 267,
+          "pct": 53.4
+        },
+        {
+          "answer": "Selected",
+          "count": 233,
+          "pct": 46.6
+        }
+      ],
+      "base": {
+        "n": 500
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 2000
+    },
+    "answers": [
+      {
+        "answer": "Not Selected",
+        "count": 1228,
+        "pct": 61.4
+      },
+      {
+        "answer": "Selected",
+        "count": 772,
+        "pct": 38.6
+      }
+    ],
+    "note": "Roll-up sums bases across panels."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 90,
+                "pct": 70.3
+              },
+              {
+                "answer": "Selected",
+                "count": 38,
+                "pct": 29.7
+              }
+            ],
+            "base": {
+              "n": 128
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 67,
+                "pct": 52.3
+              },
+              {
+                "answer": "Selected",
+                "count": 61,
+                "pct": 47.7
+              }
+            ],
+            "base": {
+              "n": 128
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 92,
+                "pct": 71.9
+              },
+              {
+                "answer": "Selected",
+                "count": 36,
+                "pct": 28.1
+              }
+            ],
+            "base": {
+              "n": 128
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 77,
+                "pct": 60.2
+              },
+              {
+                "answer": "Selected",
+                "count": 51,
+                "pct": 39.8
+              }
+            ],
+            "base": {
+              "n": 128
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 155,
+                "pct": 76.4
+              },
+              {
+                "answer": "Selected",
+                "count": 48,
+                "pct": 23.6
+              }
+            ],
+            "base": {
+              "n": 203
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 106,
+                "pct": 52.2
+              },
+              {
+                "answer": "Selected",
+                "count": 97,
+                "pct": 47.8
+              }
+            ],
+            "base": {
+              "n": 203
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 138,
+                "pct": 68.0
+              },
+              {
+                "answer": "Selected",
+                "count": 65,
+                "pct": 32.0
+              }
+            ],
+            "base": {
+              "n": 203
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 105,
+                "pct": 51.7
+              },
+              {
+                "answer": "Selected",
+                "count": 98,
+                "pct": 48.3
+              }
+            ],
+            "base": {
+              "n": 203
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 130,
+                "pct": 76.9
+              },
+              {
+                "answer": "Selected",
+                "count": 39,
+                "pct": 23.1
+              }
+            ],
+            "base": {
+              "n": 169
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 74,
+                "pct": 43.8
+              },
+              {
+                "answer": "Selected",
+                "count": 95,
+                "pct": 56.2
+              }
+            ],
+            "base": {
+              "n": 169
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 109,
+                "pct": 64.5
+              },
+              {
+                "answer": "Selected",
+                "count": 60,
+                "pct": 35.5
+              }
+            ],
+            "base": {
+              "n": 169
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 85,
+                "pct": 50.3
+              },
+              {
+                "answer": "Selected",
+                "count": 84,
+                "pct": 49.7
+              }
+            ],
+            "base": {
+              "n": 169
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 202,
+                "pct": 72.7
+              },
+              {
+                "answer": "Selected",
+                "count": 76,
+                "pct": 27.3
+              }
+            ],
+            "base": {
+              "n": 278
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 138,
+                "pct": 49.6
+              },
+              {
+                "answer": "Selected",
+                "count": 140,
+                "pct": 50.4
+              }
+            ],
+            "base": {
+              "n": 278
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 191,
+                "pct": 68.7
+              },
+              {
+                "answer": "Selected",
+                "count": 87,
+                "pct": 31.3
+              }
+            ],
+            "base": {
+              "n": 278
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 139,
+                "pct": 50.0
+              },
+              {
+                "answer": "Selected",
+                "count": 139,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 278
+            }
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 173,
+                "pct": 77.9
+              },
+              {
+                "answer": "Selected",
+                "count": 49,
+                "pct": 22.1
+              }
+            ],
+            "base": {
+              "n": 222
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 109,
+                "pct": 49.1
+              },
+              {
+                "answer": "Selected",
+                "count": 113,
+                "pct": 50.9
+              }
+            ],
+            "base": {
+              "n": 222
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 148,
+                "pct": 66.7
+              },
+              {
+                "answer": "Selected",
+                "count": 74,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 222
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 128,
+                "pct": 57.7
+              },
+              {
+                "answer": "Selected",
+                "count": 94,
+                "pct": 42.3
+              }
+            ],
+            "base": {
+              "n": 222
+            }
+          }
+        ]
+      }
+    },
+    "Education": {
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 105,
+                "pct": 80.8
+              },
+              {
+                "answer": "Selected",
+                "count": 25,
+                "pct": 19.2
+              }
+            ],
+            "base": {
+              "n": 130
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 69,
+                "pct": 53.1
+              },
+              {
+                "answer": "Selected",
+                "count": 61,
+                "pct": 46.9
+              }
+            ],
+            "base": {
+              "n": 130
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 86,
+                "pct": 66.2
+              },
+              {
+                "answer": "Selected",
+                "count": 44,
+                "pct": 33.8
+              }
+            ],
+            "base": {
+              "n": 130
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 82,
+                "pct": 63.1
+              },
+              {
+                "answer": "Selected",
+                "count": 48,
+                "pct": 36.9
+              }
+            ],
+            "base": {
+              "n": 130
+            }
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 7,
+                "pct": 70.0
+              },
+              {
+                "answer": "Selected",
+                "count": 3,
+                "pct": 30.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 70.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 7,
+                "pct": 70.0
+              },
+              {
+                "answer": "Selected",
+                "count": 3,
+                "pct": 30.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 7,
+                "pct": 70.0
+              },
+              {
+                "answer": "Selected",
+                "count": 3,
+                "pct": 30.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 88,
+                "pct": 83.0
+              },
+              {
+                "answer": "Selected",
+                "count": 18,
+                "pct": 17.0
+              }
+            ],
+            "base": {
+              "n": 106
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 46,
+                "pct": 43.4
+              },
+              {
+                "answer": "Selected",
+                "count": 60,
+                "pct": 56.6
+              }
+            ],
+            "base": {
+              "n": 106
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 73,
+                "pct": 68.9
+              },
+              {
+                "answer": "Selected",
+                "count": 33,
+                "pct": 31.1
+              }
+            ],
+            "base": {
+              "n": 106
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 39,
+                "pct": 36.8
+              },
+              {
+                "answer": "Selected",
+                "count": 67,
+                "pct": 63.2
+              }
+            ],
+            "base": {
+              "n": 106
+            }
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 124,
+                "pct": 67.0
+              },
+              {
+                "answer": "Selected",
+                "count": 61,
+                "pct": 33.0
+              }
+            ],
+            "base": {
+              "n": 185
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 99,
+                "pct": 53.5
+              },
+              {
+                "answer": "Selected",
+                "count": 86,
+                "pct": 46.5
+              }
+            ],
+            "base": {
+              "n": 185
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 122,
+                "pct": 65.9
+              },
+              {
+                "answer": "Selected",
+                "count": 63,
+                "pct": 34.1
+              }
+            ],
+            "base": {
+              "n": 185
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 103,
+                "pct": 55.7
+              },
+              {
+                "answer": "Selected",
+                "count": 82,
+                "pct": 44.3
+              }
+            ],
+            "base": {
+              "n": 185
+            }
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 51,
+                "pct": 73.9
+              },
+              {
+                "answer": "Selected",
+                "count": 18,
+                "pct": 26.1
+              }
+            ],
+            "base": {
+              "n": 69
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 30,
+                "pct": 43.5
+              },
+              {
+                "answer": "Selected",
+                "count": 39,
+                "pct": 56.5
+              }
+            ],
+            "base": {
+              "n": 69
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 51,
+                "pct": 73.9
+              },
+              {
+                "answer": "Selected",
+                "count": 18,
+                "pct": 26.1
+              }
+            ],
+            "base": {
+              "n": 69
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 36,
+                "pct": 52.2
+              },
+              {
+                "answer": "Selected",
+                "count": 33,
+                "pct": 47.8
+              }
+            ],
+            "base": {
+              "n": 69
+            }
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 42,
+                "pct": 66.7
+              },
+              {
+                "answer": "Selected",
+                "count": 21,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 63
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 30,
+                "pct": 47.6
+              },
+              {
+                "answer": "Selected",
+                "count": 33,
+                "pct": 52.4
+              }
+            ],
+            "base": {
+              "n": 63
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 49,
+                "pct": 77.8
+              },
+              {
+                "answer": "Selected",
+                "count": 14,
+                "pct": 22.2
+              }
+            ],
+            "base": {
+              "n": 63
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 40,
+                "pct": 63.5
+              },
+              {
+                "answer": "Selected",
+                "count": 23,
+                "pct": 36.5
+              }
+            ],
+            "base": {
+              "n": 63
+            }
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 35,
+                "pct": 81.4
+              },
+              {
+                "answer": "Selected",
+                "count": 8,
+                "pct": 18.6
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 20,
+                "pct": 46.5
+              },
+              {
+                "answer": "Selected",
+                "count": 23,
+                "pct": 53.5
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 23,
+                "pct": 53.5
+              },
+              {
+                "answer": "Selected",
+                "count": 20,
+                "pct": 46.5
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 18,
+                "pct": 41.9
+              },
+              {
+                "answer": "Selected",
+                "count": 25,
+                "pct": 58.1
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 33,
+                "pct": 82.5
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 17.5
+              }
+            ],
+            "base": {
+              "n": 40
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 21,
+                "pct": 52.5
+              },
+              {
+                "answer": "Selected",
+                "count": 19,
+                "pct": 47.5
+              }
+            ],
+            "base": {
+              "n": 40
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 26,
+                "pct": 65.0
+              },
+              {
+                "answer": "Selected",
+                "count": 14,
+                "pct": 35.0
+              }
+            ],
+            "base": {
+              "n": 40
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 19,
+                "pct": 47.5
+              },
+              {
+                "answer": "Selected",
+                "count": 21,
+                "pct": 52.5
+              }
+            ],
+            "base": {
+              "n": 40
+            }
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 50,
+                "pct": 79.4
+              },
+              {
+                "answer": "Selected",
+                "count": 13,
+                "pct": 20.6
+              }
+            ],
+            "base": {
+              "n": 63
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 31,
+                "pct": 49.2
+              },
+              {
+                "answer": "Selected",
+                "count": 32,
+                "pct": 50.8
+              }
+            ],
+            "base": {
+              "n": 63
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 45,
+                "pct": 71.4
+              },
+              {
+                "answer": "Selected",
+                "count": 18,
+                "pct": 28.6
+              }
+            ],
+            "base": {
+              "n": 63
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 42,
+                "pct": 66.7
+              },
+              {
+                "answer": "Selected",
+                "count": 21,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 63
+            }
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 91,
+                "pct": 79.8
+              },
+              {
+                "answer": "Selected",
+                "count": 23,
+                "pct": 20.2
+              }
+            ],
+            "base": {
+              "n": 114
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 62,
+                "pct": 54.4
+              },
+              {
+                "answer": "Selected",
+                "count": 52,
+                "pct": 45.6
+              }
+            ],
+            "base": {
+              "n": 114
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 81,
+                "pct": 71.1
+              },
+              {
+                "answer": "Selected",
+                "count": 33,
+                "pct": 28.9
+              }
+            ],
+            "base": {
+              "n": 114
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 59,
+                "pct": 51.8
+              },
+              {
+                "answer": "Selected",
+                "count": 55,
+                "pct": 48.2
+              }
+            ],
+            "base": {
+              "n": 114
+            }
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 49,
+                "pct": 71.0
+              },
+              {
+                "answer": "Selected",
+                "count": 20,
+                "pct": 29.0
+              }
+            ],
+            "base": {
+              "n": 69
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 31,
+                "pct": 44.9
+              },
+              {
+                "answer": "Selected",
+                "count": 38,
+                "pct": 55.1
+              }
+            ],
+            "base": {
+              "n": 69
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 43,
+                "pct": 62.3
+              },
+              {
+                "answer": "Selected",
+                "count": 26,
+                "pct": 37.7
+              }
+            ],
+            "base": {
+              "n": 69
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 36,
+                "pct": 52.2
+              },
+              {
+                "answer": "Selected",
+                "count": 33,
+                "pct": 47.8
+              }
+            ],
+            "base": {
+              "n": 69
+            }
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 63,
+                "pct": 68.5
+              },
+              {
+                "answer": "Selected",
+                "count": 29,
+                "pct": 31.5
+              }
+            ],
+            "base": {
+              "n": 92
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 43,
+                "pct": 46.7
+              },
+              {
+                "answer": "Selected",
+                "count": 49,
+                "pct": 53.3
+              }
+            ],
+            "base": {
+              "n": 92
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 62,
+                "pct": 67.4
+              },
+              {
+                "answer": "Selected",
+                "count": 30,
+                "pct": 32.6
+              }
+            ],
+            "base": {
+              "n": 92
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 46,
+                "pct": 50.0
+              },
+              {
+                "answer": "Selected",
+                "count": 46,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 92
+            }
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 12,
+                "pct": 75.0
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 9,
+                "pct": 56.2
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 43.8
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 10,
+                "pct": 62.5
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 37.5
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 7,
+                "pct": 43.8
+              },
+              {
+                "answer": "Selected",
+                "count": 9,
+                "pct": 56.2
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 9,
+                "pct": 90.0
+              },
+              {
+                "answer": "Selected",
+                "count": 1,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 70.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 6,
+                "pct": 60.0
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "Selected",
+                "count": 5,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "Selected",
+                "count": 5,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 8,
+                "pct": 80.0
+              },
+              {
+                "answer": "Selected",
+                "count": 2,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 60.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 70.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 38,
+                "pct": 80.9
+              },
+              {
+                "answer": "Selected",
+                "count": 9,
+                "pct": 19.1
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 24,
+                "pct": 51.1
+              },
+              {
+                "answer": "Selected",
+                "count": 23,
+                "pct": 48.9
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 34,
+                "pct": 72.3
+              },
+              {
+                "answer": "Selected",
+                "count": 13,
+                "pct": 27.7
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 27,
+                "pct": 57.4
+              },
+              {
+                "answer": "Selected",
+                "count": 20,
+                "pct": 42.6
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 28,
+                "pct": 82.4
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 17.6
+              }
+            ],
+            "base": {
+              "n": 34
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 17,
+                "pct": 50.0
+              },
+              {
+                "answer": "Selected",
+                "count": 17,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 34
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 26,
+                "pct": 76.5
+              },
+              {
+                "answer": "Selected",
+                "count": 8,
+                "pct": 23.5
+              }
+            ],
+            "base": {
+              "n": 34
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 16,
+                "pct": 47.1
+              },
+              {
+                "answer": "Selected",
+                "count": 18,
+                "pct": 52.9
+              }
+            ],
+            "base": {
+              "n": 34
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 13,
+                "pct": 76.5
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 23.5
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 5,
+                "pct": 29.4
+              },
+              {
+                "answer": "Selected",
+                "count": 12,
+                "pct": 70.6
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 11,
+                "pct": 64.7
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 35.3
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 12,
+                "pct": 70.6
+              },
+              {
+                "answer": "Selected",
+                "count": 5,
+                "pct": 29.4
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 13,
+                "pct": 81.2
+              },
+              {
+                "answer": "Selected",
+                "count": 3,
+                "pct": 18.8
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 6,
+                "pct": 37.5
+              },
+              {
+                "answer": "Selected",
+                "count": 10,
+                "pct": 62.5
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 11,
+                "pct": 68.8
+              },
+              {
+                "answer": "Selected",
+                "count": 5,
+                "pct": 31.2
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 9,
+                "pct": 56.2
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 43.8
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 10,
+                "pct": 76.9
+              },
+              {
+                "answer": "Selected",
+                "count": 3,
+                "pct": 23.1
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 7,
+                "pct": 53.8
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 46.2
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 11,
+                "pct": 84.6
+              },
+              {
+                "answer": "Selected",
+                "count": 2,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 7,
+                "pct": 53.8
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 46.2
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 10,
+                "pct": 90.9
+              },
+              {
+                "answer": "Selected",
+                "count": 1,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 54.5
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 9,
+                "pct": 81.8
+              },
+              {
+                "answer": "Selected",
+                "count": 2,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "Selected",
+                "count": 5,
+                "pct": 45.5
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 9,
+                "pct": 90.0
+              },
+              {
+                "answer": "Selected",
+                "count": 1,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 60.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 6,
+                "pct": 60.0
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 60.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 18,
+                "pct": 100.0
+              },
+              {
+                "answer": "Selected",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 9,
+                "pct": 50.0
+              },
+              {
+                "answer": "Selected",
+                "count": 9,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 12,
+                "pct": 66.7
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 9,
+                "pct": 50.0
+              },
+              {
+                "answer": "Selected",
+                "count": 9,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 13,
+                "pct": 92.9
+              },
+              {
+                "answer": "Selected",
+                "count": 1,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 4,
+                "pct": 28.6
+              },
+              {
+                "answer": "Selected",
+                "count": 10,
+                "pct": 71.4
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 11,
+                "pct": 78.6
+              },
+              {
+                "answer": "Selected",
+                "count": 3,
+                "pct": 21.4
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 5,
+                "pct": 35.7
+              },
+              {
+                "answer": "Selected",
+                "count": 9,
+                "pct": 64.3
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 10,
+                "pct": 62.5
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 37.5
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 11,
+                "pct": 68.8
+              },
+              {
+                "answer": "Selected",
+                "count": 5,
+                "pct": 31.2
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 8,
+                "pct": 50.0
+              },
+              {
+                "answer": "Selected",
+                "count": 8,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 7,
+                "pct": 43.8
+              },
+              {
+                "answer": "Selected",
+                "count": 9,
+                "pct": 56.2
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 16,
+                "pct": 59.3
+              },
+              {
+                "answer": "Selected",
+                "count": 11,
+                "pct": 40.7
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 14,
+                "pct": 51.9
+              },
+              {
+                "answer": "Selected",
+                "count": 13,
+                "pct": 48.1
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 20,
+                "pct": 74.1
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 25.9
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 12,
+                "pct": 44.4
+              },
+              {
+                "answer": "Selected",
+                "count": 15,
+                "pct": 55.6
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 17,
+                "pct": 65.4
+              },
+              {
+                "answer": "Selected",
+                "count": 9,
+                "pct": 34.6
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 15,
+                "pct": 57.7
+              },
+              {
+                "answer": "Selected",
+                "count": 11,
+                "pct": 42.3
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 17,
+                "pct": 65.4
+              },
+              {
+                "answer": "Selected",
+                "count": 9,
+                "pct": 34.6
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 12,
+                "pct": 46.2
+              },
+              {
+                "answer": "Selected",
+                "count": 14,
+                "pct": 53.8
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 16,
+                "pct": 66.7
+              },
+              {
+                "answer": "Selected",
+                "count": 8,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 14,
+                "pct": 58.3
+              },
+              {
+                "answer": "Selected",
+                "count": 10,
+                "pct": 41.7
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 21,
+                "pct": 87.5
+              },
+              {
+                "answer": "Selected",
+                "count": 3,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 11,
+                "pct": 45.8
+              },
+              {
+                "answer": "Selected",
+                "count": 13,
+                "pct": 54.2
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 21,
+                "pct": 67.7
+              },
+              {
+                "answer": "Selected",
+                "count": 10,
+                "pct": 32.3
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 9,
+                "pct": 29.0
+              },
+              {
+                "answer": "Selected",
+                "count": 22,
+                "pct": 71.0
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 19,
+                "pct": 61.3
+              },
+              {
+                "answer": "Selected",
+                "count": 12,
+                "pct": 38.7
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 19,
+                "pct": 61.3
+              },
+              {
+                "answer": "Selected",
+                "count": 12,
+                "pct": 38.7
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 8
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 8
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 8
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 8
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 38,
+                "pct": 80.9
+              },
+              {
+                "answer": "Selected",
+                "count": 9,
+                "pct": 19.1
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 26,
+                "pct": 55.3
+              },
+              {
+                "answer": "Selected",
+                "count": 21,
+                "pct": 44.7
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 29,
+                "pct": 61.7
+              },
+              {
+                "answer": "Selected",
+                "count": 18,
+                "pct": 38.3
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 27,
+                "pct": 57.4
+              },
+              {
+                "answer": "Selected",
+                "count": 20,
+                "pct": 42.6
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 13,
+                "pct": 86.7
+              },
+              {
+                "answer": "Selected",
+                "count": 2,
+                "pct": 13.3
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "Selected",
+                "count": 10,
+                "pct": 66.7
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 11,
+                "pct": 73.3
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 26.7
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 9,
+                "pct": 60.0
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "Selected",
+                "count": 5,
+                "pct": 45.5
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 7,
+                "pct": 63.6
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 36.4
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 54.5
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "Selected",
+                "count": 5,
+                "pct": 45.5
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q8: I don’t find value in my work",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I spend too much time at work",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My relationships at work make work stressful",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: My workload is too heavy",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 10
+  }
+}

@@ -1,0 +1,1597 @@
+{
+  "id": "Q2",
+  "text": "Q2",
+  "question_prompt": "Q2: Which of the following best describes your relationship status?",
+  "type": "matrix",
+  "panels": [
+    "Q2: Which of the following best describes your relationship status?"
+  ],
+  "answers": [
+    "Single (including widowed, separated, divorced) with dependents",
+    "In a relationship (including dating, common law partner, married)",
+    "Single (including widowed, separated, divorced)",
+    "In a relationship (including dating, common law partner, married) with dependents"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q2: Which of the following best describes your relationship status?",
+      "cells": [
+        {
+          "answer": "Single (including widowed, separated, divorced) with dependents",
+          "count": 125,
+          "pct": 25.0
+        },
+        {
+          "answer": "In a relationship (including dating, common law partner, married)",
+          "count": 125,
+          "pct": 25.0
+        },
+        {
+          "answer": "Single (including widowed, separated, divorced)",
+          "count": 125,
+          "pct": 25.0
+        },
+        {
+          "answer": "In a relationship (including dating, common law partner, married) with dependents",
+          "count": 125,
+          "pct": 25.0
+        }
+      ],
+      "base": {
+        "n": 500
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 500
+    },
+    "answers": [
+      {
+        "answer": "Single (including widowed, separated, divorced) with dependents",
+        "count": 125,
+        "pct": 25.0
+      },
+      {
+        "answer": "In a relationship (including dating, common law partner, married)",
+        "count": 125,
+        "pct": 25.0
+      },
+      {
+        "answer": "Single (including widowed, separated, divorced)",
+        "count": 125,
+        "pct": 25.0
+      },
+      {
+        "answer": "In a relationship (including dating, common law partner, married) with dependents",
+        "count": 125,
+        "pct": 25.0
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 25,
+                "pct": 19.5
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 34,
+                "pct": 26.6
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 35,
+                "pct": 27.3
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 34,
+                "pct": 26.6
+              }
+            ],
+            "base": {
+              "n": 128
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 52,
+                "pct": 25.6
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 54,
+                "pct": 26.6
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 60,
+                "pct": 29.6
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 37,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 203
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 48,
+                "pct": 28.4
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 37,
+                "pct": 21.9
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 30,
+                "pct": 17.8
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 54,
+                "pct": 32.0
+              }
+            ],
+            "base": {
+              "n": 169
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 80,
+                "pct": 28.8
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 70,
+                "pct": 25.2
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 66,
+                "pct": 23.7
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 62,
+                "pct": 22.3
+              }
+            ],
+            "base": {
+              "n": 278
+            }
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 45,
+                "pct": 20.3
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 55,
+                "pct": 24.8
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 59,
+                "pct": 26.6
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 63,
+                "pct": 28.4
+              }
+            ],
+            "base": {
+              "n": 222
+            }
+          }
+        ]
+      }
+    },
+    "Education": {
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 24,
+                "pct": 18.5
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 33,
+                "pct": 25.4
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 41,
+                "pct": 31.5
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 32,
+                "pct": 24.6
+              }
+            ],
+            "base": {
+              "n": 130
+            }
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 27,
+                "pct": 25.5
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 25,
+                "pct": 23.6
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 19,
+                "pct": 17.9
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 35,
+                "pct": 33.0
+              }
+            ],
+            "base": {
+              "n": 106
+            }
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 55,
+                "pct": 29.7
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 44,
+                "pct": 23.8
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 44,
+                "pct": 23.8
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 42,
+                "pct": 22.7
+              }
+            ],
+            "base": {
+              "n": 185
+            }
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 15,
+                "pct": 21.7
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 20,
+                "pct": 29.0
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 18,
+                "pct": 26.1
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 16,
+                "pct": 23.2
+              }
+            ],
+            "base": {
+              "n": 69
+            }
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 31,
+                "pct": 49.2
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 11,
+                "pct": 17.5
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 5,
+                "pct": 7.9
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 16,
+                "pct": 25.4
+              }
+            ],
+            "base": {
+              "n": 63
+            }
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 20,
+                "pct": 46.5
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 9,
+                "pct": 20.9
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 3,
+                "pct": 7.0
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 11,
+                "pct": 25.6
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 5,
+                "pct": 12.5
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 13,
+                "pct": 32.5
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 2,
+                "pct": 5.0
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 20,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 40
+            }
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 17,
+                "pct": 27.0
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 9,
+                "pct": 14.3
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 26,
+                "pct": 41.3
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 11,
+                "pct": 17.5
+              }
+            ],
+            "base": {
+              "n": 63
+            }
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 19,
+                "pct": 16.7
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 30,
+                "pct": 26.3
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 45,
+                "pct": 39.5
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 20,
+                "pct": 17.5
+              }
+            ],
+            "base": {
+              "n": 114
+            }
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 10,
+                "pct": 14.5
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 20,
+                "pct": 29.0
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 22,
+                "pct": 31.9
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 17,
+                "pct": 24.6
+              }
+            ],
+            "base": {
+              "n": 69
+            }
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 18,
+                "pct": 19.6
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 27,
+                "pct": 29.3
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 17,
+                "pct": 18.5
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 30,
+                "pct": 32.6
+              }
+            ],
+            "base": {
+              "n": 92
+            }
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 5,
+                "pct": 31.2
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 6,
+                "pct": 37.5
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 5,
+                "pct": 31.2
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 4,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 2,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 11,
+                "pct": 23.4
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 9,
+                "pct": 19.1
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 13,
+                "pct": 27.7
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 14,
+                "pct": 29.8
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 9,
+                "pct": 26.5
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 8,
+                "pct": 23.5
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 12,
+                "pct": 35.3
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 5,
+                "pct": 14.7
+              }
+            ],
+            "base": {
+              "n": 34
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 5,
+                "pct": 29.4
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 5,
+                "pct": 29.4
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 3,
+                "pct": 17.6
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 5,
+                "pct": 31.2
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 2,
+                "pct": 12.5
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 4,
+                "pct": 25.0
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 5,
+                "pct": 31.2
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 4,
+                "pct": 30.8
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 5,
+                "pct": 45.5
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 3,
+                "pct": 16.7
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 6,
+                "pct": 33.3
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 4,
+                "pct": 22.2
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 5,
+                "pct": 27.8
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 6,
+                "pct": 42.9
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 1,
+                "pct": 7.1
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 2,
+                "pct": 14.3
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 5,
+                "pct": 35.7
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 6,
+                "pct": 37.5
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 3,
+                "pct": 18.8
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 5,
+                "pct": 31.2
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 2,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 6,
+                "pct": 22.2
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 8,
+                "pct": 29.6
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 6,
+                "pct": 22.2
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 7,
+                "pct": 25.9
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 4,
+                "pct": 15.4
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 9,
+                "pct": 34.6
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 6,
+                "pct": 23.1
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 7,
+                "pct": 26.9
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 8,
+                "pct": 33.3
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 8,
+                "pct": 33.3
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 2,
+                "pct": 8.3
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 6,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 2,
+                "pct": 6.5
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 8,
+                "pct": 25.8
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 10,
+                "pct": 32.3
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 11,
+                "pct": 35.5
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 8
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 14,
+                "pct": 29.8
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 10,
+                "pct": 21.3
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 14,
+                "pct": 29.8
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 9,
+                "pct": 19.1
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 6,
+                "pct": 40.0
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 3,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [
+              {
+                "answer": "Single (including widowed, separated, divorced) with dependents",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married)",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "Single (including widowed, separated, divorced)",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "In a relationship (including dating, common law partner, married) with dependents",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q2: Which of the following best describes your relationship status?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 10,
+    "single_panel": true
+  }
+}

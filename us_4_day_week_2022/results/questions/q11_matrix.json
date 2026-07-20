@@ -1,0 +1,3143 @@
+{
+  "id": "Q11",
+  "text": "Q11",
+  "question_prompt": "Q11: Which of the following are you most likely to do on your extra day off?",
+  "type": "matrix",
+  "panels": [
+    "Q11: Which of the following are you most likely to do on your extra day off?",
+    "Q11: oe"
+  ],
+  "answers": [
+    "Work on household chores and other family obligations",
+    "Rest",
+    "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+    "Spend more leisure time with family and friends",
+    "Travel",
+    "Other",
+    "All of the above",
+    "Schoolwork",
+    "Spend more time in my ministry"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+      "cells": [
+        {
+          "answer": "Work on household chores and other family obligations",
+          "count": 147,
+          "pct": 29.4
+        },
+        {
+          "answer": "Rest",
+          "count": 124,
+          "pct": 24.8
+        },
+        {
+          "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+          "count": 103,
+          "pct": 20.6
+        },
+        {
+          "answer": "Spend more leisure time with family and friends",
+          "count": 92,
+          "pct": 18.4
+        },
+        {
+          "answer": "Travel",
+          "count": 31,
+          "pct": 6.2
+        },
+        {
+          "answer": "Other",
+          "count": 3,
+          "pct": 0.6
+        },
+        {
+          "answer": "All of the above",
+          "count": 0,
+          "pct": 0.0
+        },
+        {
+          "answer": "Schoolwork",
+          "count": 0,
+          "pct": 0.0
+        },
+        {
+          "answer": "Spend more time in my ministry",
+          "count": 0,
+          "pct": 0.0
+        }
+      ],
+      "base": {
+        "n": 500
+      }
+    },
+    {
+      "panel_id": "Q11: oe",
+      "cells": [
+        {
+          "answer": "Work on household chores and other family obligations",
+          "count": 0,
+          "pct": 0.0
+        },
+        {
+          "answer": "Rest",
+          "count": 0,
+          "pct": 0.0
+        },
+        {
+          "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+          "count": 0,
+          "pct": 0.0
+        },
+        {
+          "answer": "Spend more leisure time with family and friends",
+          "count": 0,
+          "pct": 0.0
+        },
+        {
+          "answer": "Travel",
+          "count": 0,
+          "pct": 0.0
+        },
+        {
+          "answer": "Other",
+          "count": 0,
+          "pct": 0.0
+        },
+        {
+          "answer": "All of the above",
+          "count": 1,
+          "pct": 33.3
+        },
+        {
+          "answer": "Schoolwork",
+          "count": 1,
+          "pct": 33.3
+        },
+        {
+          "answer": "Spend more time in my ministry",
+          "count": 1,
+          "pct": 33.3
+        }
+      ],
+      "base": {
+        "n": 3
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 503
+    },
+    "answers": [
+      {
+        "answer": "Work on household chores and other family obligations",
+        "count": 147,
+        "pct": 29.2
+      },
+      {
+        "answer": "Rest",
+        "count": 124,
+        "pct": 24.7
+      },
+      {
+        "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+        "count": 103,
+        "pct": 20.5
+      },
+      {
+        "answer": "Spend more leisure time with family and friends",
+        "count": 92,
+        "pct": 18.3
+      },
+      {
+        "answer": "Travel",
+        "count": 31,
+        "pct": 6.2
+      },
+      {
+        "answer": "Other",
+        "count": 3,
+        "pct": 0.6
+      },
+      {
+        "answer": "All of the above",
+        "count": 1,
+        "pct": 0.2
+      },
+      {
+        "answer": "Schoolwork",
+        "count": 1,
+        "pct": 0.2
+      },
+      {
+        "answer": "Spend more time in my ministry",
+        "count": 1,
+        "pct": 0.2
+      }
+    ],
+    "note": "Roll-up sums bases across panels.",
+    "cells": null
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 47,
+                "pct": 36.7
+              },
+              {
+                "answer": "Rest",
+                "count": 25,
+                "pct": 19.5
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 24,
+                "pct": 18.8
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 28,
+                "pct": 21.9
+              },
+              {
+                "answer": "Travel",
+                "count": 4,
+                "pct": 3.1
+              },
+              {
+                "answer": "Other",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 128
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 42,
+                "pct": 20.7
+              },
+              {
+                "answer": "Rest",
+                "count": 63,
+                "pct": 31.0
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 53,
+                "pct": 26.1
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 26,
+                "pct": 12.8
+              },
+              {
+                "answer": "Travel",
+                "count": 18,
+                "pct": 8.9
+              },
+              {
+                "answer": "Other",
+                "count": 1,
+                "pct": 0.5
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 203
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 58,
+                "pct": 34.3
+              },
+              {
+                "answer": "Rest",
+                "count": 36,
+                "pct": 21.3
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 26,
+                "pct": 15.4
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 38,
+                "pct": 22.5
+              },
+              {
+                "answer": "Travel",
+                "count": 9,
+                "pct": 5.3
+              },
+              {
+                "answer": "Other",
+                "count": 2,
+                "pct": 1.2
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 169
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 91,
+                "pct": 32.7
+              },
+              {
+                "answer": "Rest",
+                "count": 71,
+                "pct": 25.5
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 48,
+                "pct": 17.3
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 47,
+                "pct": 16.9
+              },
+              {
+                "answer": "Travel",
+                "count": 19,
+                "pct": 6.8
+              },
+              {
+                "answer": "Other",
+                "count": 2,
+                "pct": 0.7
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 278
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 56,
+                "pct": 25.2
+              },
+              {
+                "answer": "Rest",
+                "count": 53,
+                "pct": 23.9
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 55,
+                "pct": 24.8
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 45,
+                "pct": 20.3
+              },
+              {
+                "answer": "Travel",
+                "count": 12,
+                "pct": 5.4
+              },
+              {
+                "answer": "Other",
+                "count": 1,
+                "pct": 0.5
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 222
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Education": {
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 31,
+                "pct": 23.8
+              },
+              {
+                "answer": "Rest",
+                "count": 43,
+                "pct": 33.1
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 22,
+                "pct": 16.9
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 25,
+                "pct": 19.2
+              },
+              {
+                "answer": "Travel",
+                "count": 9,
+                "pct": 6.9
+              },
+              {
+                "answer": "Other",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 130
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "Rest",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Travel",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Other",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 35,
+                "pct": 33.0
+              },
+              {
+                "answer": "Rest",
+                "count": 17,
+                "pct": 16.0
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 23,
+                "pct": 21.7
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 23,
+                "pct": 21.7
+              },
+              {
+                "answer": "Travel",
+                "count": 7,
+                "pct": 6.6
+              },
+              {
+                "answer": "Other",
+                "count": 1,
+                "pct": 0.9
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 106
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 57,
+                "pct": 30.8
+              },
+              {
+                "answer": "Rest",
+                "count": 40,
+                "pct": 21.6
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 45,
+                "pct": 24.3
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 32,
+                "pct": 17.3
+              },
+              {
+                "answer": "Travel",
+                "count": 10,
+                "pct": 5.4
+              },
+              {
+                "answer": "Other",
+                "count": 1,
+                "pct": 0.5
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 185
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 19,
+                "pct": 27.5
+              },
+              {
+                "answer": "Rest",
+                "count": 21,
+                "pct": 30.4
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 12,
+                "pct": 17.4
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 12,
+                "pct": 17.4
+              },
+              {
+                "answer": "Travel",
+                "count": 4,
+                "pct": 5.8
+              },
+              {
+                "answer": "Other",
+                "count": 1,
+                "pct": 1.4
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 69
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 21,
+                "pct": 33.3
+              },
+              {
+                "answer": "Rest",
+                "count": 8,
+                "pct": 12.7
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 21,
+                "pct": 33.3
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 9,
+                "pct": 14.3
+              },
+              {
+                "answer": "Travel",
+                "count": 3,
+                "pct": 4.8
+              },
+              {
+                "answer": "Other",
+                "count": 1,
+                "pct": 1.6
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 63
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 12,
+                "pct": 27.9
+              },
+              {
+                "answer": "Rest",
+                "count": 6,
+                "pct": 14.0
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 11,
+                "pct": 25.6
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 8,
+                "pct": 18.6
+              },
+              {
+                "answer": "Travel",
+                "count": 6,
+                "pct": 14.0
+              },
+              {
+                "answer": "Other",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 11,
+                "pct": 27.5
+              },
+              {
+                "answer": "Rest",
+                "count": 6,
+                "pct": 15.0
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 10,
+                "pct": 25.0
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 10,
+                "pct": 25.0
+              },
+              {
+                "answer": "Travel",
+                "count": 3,
+                "pct": 7.5
+              },
+              {
+                "answer": "Other",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 40
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 14,
+                "pct": 22.2
+              },
+              {
+                "answer": "Rest",
+                "count": 26,
+                "pct": 41.3
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 10,
+                "pct": 15.9
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 6,
+                "pct": 9.5
+              },
+              {
+                "answer": "Travel",
+                "count": 7,
+                "pct": 11.1
+              },
+              {
+                "answer": "Other",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 63
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 33,
+                "pct": 28.9
+              },
+              {
+                "answer": "Rest",
+                "count": 34,
+                "pct": 29.8
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 13,
+                "pct": 11.4
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 29,
+                "pct": 25.4
+              },
+              {
+                "answer": "Travel",
+                "count": 4,
+                "pct": 3.5
+              },
+              {
+                "answer": "Other",
+                "count": 1,
+                "pct": 0.9
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 114
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 24,
+                "pct": 34.8
+              },
+              {
+                "answer": "Rest",
+                "count": 15,
+                "pct": 21.7
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 13,
+                "pct": 18.8
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 14,
+                "pct": 20.3
+              },
+              {
+                "answer": "Travel",
+                "count": 2,
+                "pct": 2.9
+              },
+              {
+                "answer": "Other",
+                "count": 1,
+                "pct": 1.4
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 69
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 28,
+                "pct": 30.4
+              },
+              {
+                "answer": "Rest",
+                "count": 25,
+                "pct": 27.2
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 20,
+                "pct": 21.7
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 13,
+                "pct": 14.1
+              },
+              {
+                "answer": "Travel",
+                "count": 6,
+                "pct": 6.5
+              },
+              {
+                "answer": "Other",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 92
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 4,
+                "pct": 25.0
+              },
+              {
+                "answer": "Rest",
+                "count": 4,
+                "pct": 25.0
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 5,
+                "pct": 31.2
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 3,
+                "pct": 18.8
+              },
+              {
+                "answer": "Travel",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Other",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Rest",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 6,
+                "pct": 60.0
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Travel",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Other",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Rest",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "Travel",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Other",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 10,
+                "pct": 21.3
+              },
+              {
+                "answer": "Rest",
+                "count": 13,
+                "pct": 27.7
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 13,
+                "pct": 27.7
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 7,
+                "pct": 14.9
+              },
+              {
+                "answer": "Travel",
+                "count": 4,
+                "pct": 8.5
+              },
+              {
+                "answer": "Other",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 10,
+                "pct": 29.4
+              },
+              {
+                "answer": "Rest",
+                "count": 7,
+                "pct": 20.6
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 6,
+                "pct": 17.6
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 6,
+                "pct": 17.6
+              },
+              {
+                "answer": "Travel",
+                "count": 5,
+                "pct": 14.7
+              },
+              {
+                "answer": "Other",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 34
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 5,
+                "pct": 29.4
+              },
+              {
+                "answer": "Rest",
+                "count": 8,
+                "pct": 47.1
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "Travel",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "Other",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 5,
+                "pct": 31.2
+              },
+              {
+                "answer": "Rest",
+                "count": 2,
+                "pct": 12.5
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 2,
+                "pct": 12.5
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 5,
+                "pct": 31.2
+              },
+              {
+                "answer": "Travel",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "Other",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 5,
+                "pct": 38.5
+              },
+              {
+                "answer": "Rest",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "Travel",
+                "count": 1,
+                "pct": 7.7
+              },
+              {
+                "answer": "Other",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "Rest",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "Travel",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "Other",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Rest",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Travel",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Other",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 6,
+                "pct": 33.3
+              },
+              {
+                "answer": "Rest",
+                "count": 3,
+                "pct": 16.7
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 3,
+                "pct": 16.7
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 3,
+                "pct": 16.7
+              },
+              {
+                "answer": "Travel",
+                "count": 2,
+                "pct": 11.1
+              },
+              {
+                "answer": "Other",
+                "count": 1,
+                "pct": 5.6
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 7,
+                "pct": 50.0
+              },
+              {
+                "answer": "Rest",
+                "count": 4,
+                "pct": 28.6
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 1,
+                "pct": 7.1
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 2,
+                "pct": 14.3
+              },
+              {
+                "answer": "Travel",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Other",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 4,
+                "pct": 25.0
+              },
+              {
+                "answer": "Rest",
+                "count": 5,
+                "pct": 31.2
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 2,
+                "pct": 12.5
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 4,
+                "pct": 25.0
+              },
+              {
+                "answer": "Travel",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Other",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 7,
+                "pct": 25.9
+              },
+              {
+                "answer": "Rest",
+                "count": 8,
+                "pct": 29.6
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 4,
+                "pct": 14.8
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 5,
+                "pct": 18.5
+              },
+              {
+                "answer": "Travel",
+                "count": 3,
+                "pct": 11.1
+              },
+              {
+                "answer": "Other",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 5,
+                "pct": 19.2
+              },
+              {
+                "answer": "Rest",
+                "count": 7,
+                "pct": 26.9
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 4,
+                "pct": 15.4
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 9,
+                "pct": 34.6
+              },
+              {
+                "answer": "Travel",
+                "count": 1,
+                "pct": 3.8
+              },
+              {
+                "answer": "Other",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 9,
+                "pct": 37.5
+              },
+              {
+                "answer": "Rest",
+                "count": 4,
+                "pct": 16.7
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 5,
+                "pct": 20.8
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 4,
+                "pct": 16.7
+              },
+              {
+                "answer": "Travel",
+                "count": 2,
+                "pct": 8.3
+              },
+              {
+                "answer": "Other",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 10,
+                "pct": 32.3
+              },
+              {
+                "answer": "Rest",
+                "count": 7,
+                "pct": 22.6
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 6,
+                "pct": 19.4
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 6,
+                "pct": 19.4
+              },
+              {
+                "answer": "Travel",
+                "count": 2,
+                "pct": 6.5
+              },
+              {
+                "answer": "Other",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 8
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 16,
+                "pct": 34.0
+              },
+              {
+                "answer": "Rest",
+                "count": 17,
+                "pct": 36.2
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 7,
+                "pct": 14.9
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 4,
+                "pct": 8.5
+              },
+              {
+                "answer": "Travel",
+                "count": 3,
+                "pct": 6.4
+              },
+              {
+                "answer": "Other",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 8,
+                "pct": 53.3
+              },
+              {
+                "answer": "Rest",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "Travel",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Other",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": [
+              {
+                "answer": "Work on household chores and other family obligations",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "Rest",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "Spend time on my hobbies or other extracurricular activities (e.g., volunteer work, start a side business.)",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Spend more leisure time with family and friends",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Travel",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Other",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "All of the above",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Schoolwork",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Spend more time in my ministry",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q11: Which of the following are you most likely to do on your extra day off?",
+            "cells": null,
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q11: oe",
+            "cells": null,
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 10
+  }
+}

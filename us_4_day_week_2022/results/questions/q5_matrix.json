@@ -1,0 +1,4341 @@
+{
+  "id": "Q5",
+  "text": "Q5",
+  "question_prompt": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+  "type": "matrix",
+  "panels": [
+    "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?"
+  ],
+  "answers": [
+    "8.0",
+    "6.0",
+    "7.0",
+    "5.0",
+    "10.0",
+    "9.0",
+    "12.0",
+    "4.0",
+    "2.0",
+    "3.0",
+    "13.0",
+    "11.0",
+    "7.5",
+    "17.0",
+    "6.5",
+    "3.5",
+    "9.5",
+    "8.5"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+      "cells": [
+        {
+          "answer": "8.0",
+          "count": 137,
+          "pct": 27.4
+        },
+        {
+          "answer": "6.0",
+          "count": 99,
+          "pct": 19.8
+        },
+        {
+          "answer": "7.0",
+          "count": 62,
+          "pct": 12.4
+        },
+        {
+          "answer": "5.0",
+          "count": 49,
+          "pct": 9.8
+        },
+        {
+          "answer": "10.0",
+          "count": 47,
+          "pct": 9.4
+        },
+        {
+          "answer": "9.0",
+          "count": 35,
+          "pct": 7.0
+        },
+        {
+          "answer": "12.0",
+          "count": 19,
+          "pct": 3.8
+        },
+        {
+          "answer": "4.0",
+          "count": 15,
+          "pct": 3.0
+        },
+        {
+          "answer": "2.0",
+          "count": 13,
+          "pct": 2.6
+        },
+        {
+          "answer": "3.0",
+          "count": 7,
+          "pct": 1.4
+        },
+        {
+          "answer": "13.0",
+          "count": 5,
+          "pct": 1.0
+        },
+        {
+          "answer": "11.0",
+          "count": 4,
+          "pct": 0.8
+        },
+        {
+          "answer": "7.5",
+          "count": 3,
+          "pct": 0.6
+        },
+        {
+          "answer": "17.0",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "answer": "6.5",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "answer": "3.5",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "answer": "9.5",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "answer": "8.5",
+          "count": 1,
+          "pct": 0.2
+        }
+      ],
+      "base": {
+        "n": 500
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 500
+    },
+    "answers": [
+      {
+        "answer": "8.0",
+        "count": 137,
+        "pct": 27.4
+      },
+      {
+        "answer": "6.0",
+        "count": 99,
+        "pct": 19.8
+      },
+      {
+        "answer": "7.0",
+        "count": 62,
+        "pct": 12.4
+      },
+      {
+        "answer": "5.0",
+        "count": 49,
+        "pct": 9.8
+      },
+      {
+        "answer": "10.0",
+        "count": 47,
+        "pct": 9.4
+      },
+      {
+        "answer": "9.0",
+        "count": 35,
+        "pct": 7.0
+      },
+      {
+        "answer": "12.0",
+        "count": 19,
+        "pct": 3.8
+      },
+      {
+        "answer": "4.0",
+        "count": 15,
+        "pct": 3.0
+      },
+      {
+        "answer": "2.0",
+        "count": 13,
+        "pct": 2.6
+      },
+      {
+        "answer": "3.0",
+        "count": 7,
+        "pct": 1.4
+      },
+      {
+        "answer": "13.0",
+        "count": 5,
+        "pct": 1.0
+      },
+      {
+        "answer": "11.0",
+        "count": 4,
+        "pct": 0.8
+      },
+      {
+        "answer": "7.5",
+        "count": 3,
+        "pct": 0.6
+      },
+      {
+        "answer": "17.0",
+        "count": 1,
+        "pct": 0.2
+      },
+      {
+        "answer": "6.5",
+        "count": 1,
+        "pct": 0.2
+      },
+      {
+        "answer": "3.5",
+        "count": 1,
+        "pct": 0.2
+      },
+      {
+        "answer": "9.5",
+        "count": 1,
+        "pct": 0.2
+      },
+      {
+        "answer": "8.5",
+        "count": 1,
+        "pct": 0.2
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 37,
+                "pct": 28.9
+              },
+              {
+                "answer": "6.0",
+                "count": 21,
+                "pct": 16.4
+              },
+              {
+                "answer": "7.0",
+                "count": 15,
+                "pct": 11.7
+              },
+              {
+                "answer": "5.0",
+                "count": 5,
+                "pct": 3.9
+              },
+              {
+                "answer": "10.0",
+                "count": 18,
+                "pct": 14.1
+              },
+              {
+                "answer": "9.0",
+                "count": 13,
+                "pct": 10.2
+              },
+              {
+                "answer": "12.0",
+                "count": 4,
+                "pct": 3.1
+              },
+              {
+                "answer": "4.0",
+                "count": 5,
+                "pct": 3.9
+              },
+              {
+                "answer": "2.0",
+                "count": 2,
+                "pct": 1.6
+              },
+              {
+                "answer": "3.0",
+                "count": 2,
+                "pct": 1.6
+              },
+              {
+                "answer": "13.0",
+                "count": 1,
+                "pct": 0.8
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 2,
+                "pct": 1.6
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 1,
+                "pct": 0.8
+              },
+              {
+                "answer": "3.5",
+                "count": 1,
+                "pct": 0.8
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 1,
+                "pct": 0.8
+              }
+            ],
+            "base": {
+              "n": 128
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 51,
+                "pct": 25.1
+              },
+              {
+                "answer": "6.0",
+                "count": 40,
+                "pct": 19.7
+              },
+              {
+                "answer": "7.0",
+                "count": 26,
+                "pct": 12.8
+              },
+              {
+                "answer": "5.0",
+                "count": 25,
+                "pct": 12.3
+              },
+              {
+                "answer": "10.0",
+                "count": 19,
+                "pct": 9.4
+              },
+              {
+                "answer": "9.0",
+                "count": 10,
+                "pct": 4.9
+              },
+              {
+                "answer": "12.0",
+                "count": 10,
+                "pct": 4.9
+              },
+              {
+                "answer": "4.0",
+                "count": 5,
+                "pct": 2.5
+              },
+              {
+                "answer": "2.0",
+                "count": 10,
+                "pct": 4.9
+              },
+              {
+                "answer": "3.0",
+                "count": 2,
+                "pct": 1.0
+              },
+              {
+                "answer": "13.0",
+                "count": 3,
+                "pct": 1.5
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 1,
+                "pct": 0.5
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 1,
+                "pct": 0.5
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 203
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 49,
+                "pct": 29.0
+              },
+              {
+                "answer": "6.0",
+                "count": 38,
+                "pct": 22.5
+              },
+              {
+                "answer": "7.0",
+                "count": 21,
+                "pct": 12.4
+              },
+              {
+                "answer": "5.0",
+                "count": 19,
+                "pct": 11.2
+              },
+              {
+                "answer": "10.0",
+                "count": 10,
+                "pct": 5.9
+              },
+              {
+                "answer": "9.0",
+                "count": 12,
+                "pct": 7.1
+              },
+              {
+                "answer": "12.0",
+                "count": 5,
+                "pct": 3.0
+              },
+              {
+                "answer": "4.0",
+                "count": 5,
+                "pct": 3.0
+              },
+              {
+                "answer": "2.0",
+                "count": 1,
+                "pct": 0.6
+              },
+              {
+                "answer": "3.0",
+                "count": 3,
+                "pct": 1.8
+              },
+              {
+                "answer": "13.0",
+                "count": 1,
+                "pct": 0.6
+              },
+              {
+                "answer": "11.0",
+                "count": 4,
+                "pct": 2.4
+              },
+              {
+                "answer": "7.5",
+                "count": 1,
+                "pct": 0.6
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 169
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 79,
+                "pct": 28.4
+              },
+              {
+                "answer": "6.0",
+                "count": 59,
+                "pct": 21.2
+              },
+              {
+                "answer": "7.0",
+                "count": 31,
+                "pct": 11.2
+              },
+              {
+                "answer": "5.0",
+                "count": 25,
+                "pct": 9.0
+              },
+              {
+                "answer": "10.0",
+                "count": 24,
+                "pct": 8.6
+              },
+              {
+                "answer": "9.0",
+                "count": 17,
+                "pct": 6.1
+              },
+              {
+                "answer": "12.0",
+                "count": 8,
+                "pct": 2.9
+              },
+              {
+                "answer": "4.0",
+                "count": 7,
+                "pct": 2.5
+              },
+              {
+                "answer": "2.0",
+                "count": 11,
+                "pct": 4.0
+              },
+              {
+                "answer": "3.0",
+                "count": 6,
+                "pct": 2.2
+              },
+              {
+                "answer": "13.0",
+                "count": 3,
+                "pct": 1.1
+              },
+              {
+                "answer": "11.0",
+                "count": 4,
+                "pct": 1.4
+              },
+              {
+                "answer": "7.5",
+                "count": 2,
+                "pct": 0.7
+              },
+              {
+                "answer": "17.0",
+                "count": 1,
+                "pct": 0.4
+              },
+              {
+                "answer": "6.5",
+                "count": 1,
+                "pct": 0.4
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 278
+            }
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 58,
+                "pct": 26.1
+              },
+              {
+                "answer": "6.0",
+                "count": 40,
+                "pct": 18.0
+              },
+              {
+                "answer": "7.0",
+                "count": 31,
+                "pct": 14.0
+              },
+              {
+                "answer": "5.0",
+                "count": 24,
+                "pct": 10.8
+              },
+              {
+                "answer": "10.0",
+                "count": 23,
+                "pct": 10.4
+              },
+              {
+                "answer": "9.0",
+                "count": 18,
+                "pct": 8.1
+              },
+              {
+                "answer": "12.0",
+                "count": 11,
+                "pct": 5.0
+              },
+              {
+                "answer": "4.0",
+                "count": 8,
+                "pct": 3.6
+              },
+              {
+                "answer": "2.0",
+                "count": 2,
+                "pct": 0.9
+              },
+              {
+                "answer": "3.0",
+                "count": 1,
+                "pct": 0.5
+              },
+              {
+                "answer": "13.0",
+                "count": 2,
+                "pct": 0.9
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 1,
+                "pct": 0.5
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 1,
+                "pct": 0.5
+              },
+              {
+                "answer": "9.5",
+                "count": 1,
+                "pct": 0.5
+              },
+              {
+                "answer": "8.5",
+                "count": 1,
+                "pct": 0.5
+              }
+            ],
+            "base": {
+              "n": 222
+            }
+          }
+        ]
+      }
+    },
+    "Education": {
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 40,
+                "pct": 30.8
+              },
+              {
+                "answer": "6.0",
+                "count": 21,
+                "pct": 16.2
+              },
+              {
+                "answer": "7.0",
+                "count": 13,
+                "pct": 10.0
+              },
+              {
+                "answer": "5.0",
+                "count": 11,
+                "pct": 8.5
+              },
+              {
+                "answer": "10.0",
+                "count": 17,
+                "pct": 13.1
+              },
+              {
+                "answer": "9.0",
+                "count": 7,
+                "pct": 5.4
+              },
+              {
+                "answer": "12.0",
+                "count": 5,
+                "pct": 3.8
+              },
+              {
+                "answer": "4.0",
+                "count": 4,
+                "pct": 3.1
+              },
+              {
+                "answer": "2.0",
+                "count": 4,
+                "pct": 3.1
+              },
+              {
+                "answer": "3.0",
+                "count": 2,
+                "pct": 1.5
+              },
+              {
+                "answer": "13.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "11.0",
+                "count": 2,
+                "pct": 1.5
+              },
+              {
+                "answer": "7.5",
+                "count": 2,
+                "pct": 1.5
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 1,
+                "pct": 0.8
+              },
+              {
+                "answer": "9.5",
+                "count": 1,
+                "pct": 0.8
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 130
+            }
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "6.0",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "7.0",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "5.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "10.0",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "9.0",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "12.0",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "4.0",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "2.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.0",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "13.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 30,
+                "pct": 28.3
+              },
+              {
+                "answer": "6.0",
+                "count": 19,
+                "pct": 17.9
+              },
+              {
+                "answer": "7.0",
+                "count": 15,
+                "pct": 14.2
+              },
+              {
+                "answer": "5.0",
+                "count": 10,
+                "pct": 9.4
+              },
+              {
+                "answer": "10.0",
+                "count": 8,
+                "pct": 7.5
+              },
+              {
+                "answer": "9.0",
+                "count": 6,
+                "pct": 5.7
+              },
+              {
+                "answer": "12.0",
+                "count": 3,
+                "pct": 2.8
+              },
+              {
+                "answer": "4.0",
+                "count": 5,
+                "pct": 4.7
+              },
+              {
+                "answer": "2.0",
+                "count": 6,
+                "pct": 5.7
+              },
+              {
+                "answer": "3.0",
+                "count": 2,
+                "pct": 1.9
+              },
+              {
+                "answer": "13.0",
+                "count": 2,
+                "pct": 1.9
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 106
+            }
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 39,
+                "pct": 21.1
+              },
+              {
+                "answer": "6.0",
+                "count": 47,
+                "pct": 25.4
+              },
+              {
+                "answer": "7.0",
+                "count": 25,
+                "pct": 13.5
+              },
+              {
+                "answer": "5.0",
+                "count": 20,
+                "pct": 10.8
+              },
+              {
+                "answer": "10.0",
+                "count": 16,
+                "pct": 8.6
+              },
+              {
+                "answer": "9.0",
+                "count": 15,
+                "pct": 8.1
+              },
+              {
+                "answer": "12.0",
+                "count": 6,
+                "pct": 3.2
+              },
+              {
+                "answer": "4.0",
+                "count": 4,
+                "pct": 2.2
+              },
+              {
+                "answer": "2.0",
+                "count": 3,
+                "pct": 1.6
+              },
+              {
+                "answer": "3.0",
+                "count": 2,
+                "pct": 1.1
+              },
+              {
+                "answer": "13.0",
+                "count": 3,
+                "pct": 1.6
+              },
+              {
+                "answer": "11.0",
+                "count": 2,
+                "pct": 1.1
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 1,
+                "pct": 0.5
+              },
+              {
+                "answer": "6.5",
+                "count": 1,
+                "pct": 0.5
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 1,
+                "pct": 0.5
+              }
+            ],
+            "base": {
+              "n": 185
+            }
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 27,
+                "pct": 39.1
+              },
+              {
+                "answer": "6.0",
+                "count": 10,
+                "pct": 14.5
+              },
+              {
+                "answer": "7.0",
+                "count": 8,
+                "pct": 11.6
+              },
+              {
+                "answer": "5.0",
+                "count": 8,
+                "pct": 11.6
+              },
+              {
+                "answer": "10.0",
+                "count": 5,
+                "pct": 7.2
+              },
+              {
+                "answer": "9.0",
+                "count": 5,
+                "pct": 7.2
+              },
+              {
+                "answer": "12.0",
+                "count": 4,
+                "pct": 5.8
+              },
+              {
+                "answer": "4.0",
+                "count": 1,
+                "pct": 1.4
+              },
+              {
+                "answer": "2.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "13.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 1,
+                "pct": 1.4
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 69
+            }
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 19,
+                "pct": 30.2
+              },
+              {
+                "answer": "6.0",
+                "count": 21,
+                "pct": 33.3
+              },
+              {
+                "answer": "7.0",
+                "count": 5,
+                "pct": 7.9
+              },
+              {
+                "answer": "5.0",
+                "count": 7,
+                "pct": 11.1
+              },
+              {
+                "answer": "10.0",
+                "count": 1,
+                "pct": 1.6
+              },
+              {
+                "answer": "9.0",
+                "count": 4,
+                "pct": 6.3
+              },
+              {
+                "answer": "12.0",
+                "count": 2,
+                "pct": 3.2
+              },
+              {
+                "answer": "4.0",
+                "count": 1,
+                "pct": 1.6
+              },
+              {
+                "answer": "2.0",
+                "count": 1,
+                "pct": 1.6
+              },
+              {
+                "answer": "3.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "13.0",
+                "count": 1,
+                "pct": 1.6
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 1,
+                "pct": 1.6
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 63
+            }
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 9,
+                "pct": 20.9
+              },
+              {
+                "answer": "6.0",
+                "count": 7,
+                "pct": 16.3
+              },
+              {
+                "answer": "7.0",
+                "count": 6,
+                "pct": 14.0
+              },
+              {
+                "answer": "5.0",
+                "count": 3,
+                "pct": 7.0
+              },
+              {
+                "answer": "10.0",
+                "count": 1,
+                "pct": 2.3
+              },
+              {
+                "answer": "9.0",
+                "count": 4,
+                "pct": 9.3
+              },
+              {
+                "answer": "12.0",
+                "count": 3,
+                "pct": 7.0
+              },
+              {
+                "answer": "4.0",
+                "count": 2,
+                "pct": 4.7
+              },
+              {
+                "answer": "2.0",
+                "count": 4,
+                "pct": 9.3
+              },
+              {
+                "answer": "3.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "13.0",
+                "count": 2,
+                "pct": 4.7
+              },
+              {
+                "answer": "11.0",
+                "count": 1,
+                "pct": 2.3
+              },
+              {
+                "answer": "7.5",
+                "count": 1,
+                "pct": 2.3
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 12,
+                "pct": 30.0
+              },
+              {
+                "answer": "6.0",
+                "count": 6,
+                "pct": 15.0
+              },
+              {
+                "answer": "7.0",
+                "count": 4,
+                "pct": 10.0
+              },
+              {
+                "answer": "5.0",
+                "count": 6,
+                "pct": 15.0
+              },
+              {
+                "answer": "10.0",
+                "count": 3,
+                "pct": 7.5
+              },
+              {
+                "answer": "9.0",
+                "count": 2,
+                "pct": 5.0
+              },
+              {
+                "answer": "12.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "4.0",
+                "count": 3,
+                "pct": 7.5
+              },
+              {
+                "answer": "2.0",
+                "count": 1,
+                "pct": 2.5
+              },
+              {
+                "answer": "3.0",
+                "count": 1,
+                "pct": 2.5
+              },
+              {
+                "answer": "13.0",
+                "count": 1,
+                "pct": 2.5
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 1,
+                "pct": 2.5
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 40
+            }
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 23,
+                "pct": 36.5
+              },
+              {
+                "answer": "6.0",
+                "count": 9,
+                "pct": 14.3
+              },
+              {
+                "answer": "7.0",
+                "count": 2,
+                "pct": 3.2
+              },
+              {
+                "answer": "5.0",
+                "count": 5,
+                "pct": 7.9
+              },
+              {
+                "answer": "10.0",
+                "count": 7,
+                "pct": 11.1
+              },
+              {
+                "answer": "9.0",
+                "count": 6,
+                "pct": 9.5
+              },
+              {
+                "answer": "12.0",
+                "count": 2,
+                "pct": 3.2
+              },
+              {
+                "answer": "4.0",
+                "count": 2,
+                "pct": 3.2
+              },
+              {
+                "answer": "2.0",
+                "count": 4,
+                "pct": 6.3
+              },
+              {
+                "answer": "3.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "13.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "11.0",
+                "count": 2,
+                "pct": 3.2
+              },
+              {
+                "answer": "7.5",
+                "count": 1,
+                "pct": 1.6
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 63
+            }
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 31,
+                "pct": 27.2
+              },
+              {
+                "answer": "6.0",
+                "count": 23,
+                "pct": 20.2
+              },
+              {
+                "answer": "7.0",
+                "count": 14,
+                "pct": 12.3
+              },
+              {
+                "answer": "5.0",
+                "count": 11,
+                "pct": 9.6
+              },
+              {
+                "answer": "10.0",
+                "count": 15,
+                "pct": 13.2
+              },
+              {
+                "answer": "9.0",
+                "count": 6,
+                "pct": 5.3
+              },
+              {
+                "answer": "12.0",
+                "count": 6,
+                "pct": 5.3
+              },
+              {
+                "answer": "4.0",
+                "count": 1,
+                "pct": 0.9
+              },
+              {
+                "answer": "2.0",
+                "count": 1,
+                "pct": 0.9
+              },
+              {
+                "answer": "3.0",
+                "count": 3,
+                "pct": 2.6
+              },
+              {
+                "answer": "13.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "11.0",
+                "count": 1,
+                "pct": 0.9
+              },
+              {
+                "answer": "7.5",
+                "count": 1,
+                "pct": 0.9
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 1,
+                "pct": 0.9
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 114
+            }
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 17,
+                "pct": 24.6
+              },
+              {
+                "answer": "6.0",
+                "count": 12,
+                "pct": 17.4
+              },
+              {
+                "answer": "7.0",
+                "count": 12,
+                "pct": 17.4
+              },
+              {
+                "answer": "5.0",
+                "count": 8,
+                "pct": 11.6
+              },
+              {
+                "answer": "10.0",
+                "count": 9,
+                "pct": 13.0
+              },
+              {
+                "answer": "9.0",
+                "count": 3,
+                "pct": 4.3
+              },
+              {
+                "answer": "12.0",
+                "count": 1,
+                "pct": 1.4
+              },
+              {
+                "answer": "4.0",
+                "count": 2,
+                "pct": 2.9
+              },
+              {
+                "answer": "2.0",
+                "count": 1,
+                "pct": 1.4
+              },
+              {
+                "answer": "3.0",
+                "count": 1,
+                "pct": 1.4
+              },
+              {
+                "answer": "13.0",
+                "count": 1,
+                "pct": 1.4
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 1,
+                "pct": 1.4
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 1,
+                "pct": 1.4
+              }
+            ],
+            "base": {
+              "n": 69
+            }
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 24,
+                "pct": 26.1
+              },
+              {
+                "answer": "6.0",
+                "count": 18,
+                "pct": 19.6
+              },
+              {
+                "answer": "7.0",
+                "count": 16,
+                "pct": 17.4
+              },
+              {
+                "answer": "5.0",
+                "count": 6,
+                "pct": 6.5
+              },
+              {
+                "answer": "10.0",
+                "count": 10,
+                "pct": 10.9
+              },
+              {
+                "answer": "9.0",
+                "count": 8,
+                "pct": 8.7
+              },
+              {
+                "answer": "12.0",
+                "count": 4,
+                "pct": 4.3
+              },
+              {
+                "answer": "4.0",
+                "count": 3,
+                "pct": 3.3
+              },
+              {
+                "answer": "2.0",
+                "count": 1,
+                "pct": 1.1
+              },
+              {
+                "answer": "3.0",
+                "count": 2,
+                "pct": 2.2
+              },
+              {
+                "answer": "13.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 92
+            }
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 2,
+                "pct": 12.5
+              },
+              {
+                "answer": "6.0",
+                "count": 3,
+                "pct": 18.8
+              },
+              {
+                "answer": "7.0",
+                "count": 3,
+                "pct": 18.8
+              },
+              {
+                "answer": "5.0",
+                "count": 3,
+                "pct": 18.8
+              },
+              {
+                "answer": "10.0",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "9.0",
+                "count": 2,
+                "pct": 12.5
+              },
+              {
+                "answer": "12.0",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "4.0",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "2.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "13.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "6.0",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "7.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "5.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "10.0",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "9.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "12.0",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "4.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "2.0",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "3.0",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "13.0",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "6.0",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "7.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "5.0",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "10.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "12.0",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "4.0",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "2.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "13.0",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 13,
+                "pct": 27.7
+              },
+              {
+                "answer": "6.0",
+                "count": 9,
+                "pct": 19.1
+              },
+              {
+                "answer": "7.0",
+                "count": 5,
+                "pct": 10.6
+              },
+              {
+                "answer": "5.0",
+                "count": 8,
+                "pct": 17.0
+              },
+              {
+                "answer": "10.0",
+                "count": 4,
+                "pct": 8.5
+              },
+              {
+                "answer": "9.0",
+                "count": 4,
+                "pct": 8.5
+              },
+              {
+                "answer": "12.0",
+                "count": 1,
+                "pct": 2.1
+              },
+              {
+                "answer": "4.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "2.0",
+                "count": 2,
+                "pct": 4.3
+              },
+              {
+                "answer": "3.0",
+                "count": 1,
+                "pct": 2.1
+              },
+              {
+                "answer": "13.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 12,
+                "pct": 35.3
+              },
+              {
+                "answer": "6.0",
+                "count": 8,
+                "pct": 23.5
+              },
+              {
+                "answer": "7.0",
+                "count": 5,
+                "pct": 14.7
+              },
+              {
+                "answer": "5.0",
+                "count": 4,
+                "pct": 11.8
+              },
+              {
+                "answer": "10.0",
+                "count": 1,
+                "pct": 2.9
+              },
+              {
+                "answer": "9.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "12.0",
+                "count": 1,
+                "pct": 2.9
+              },
+              {
+                "answer": "4.0",
+                "count": 1,
+                "pct": 2.9
+              },
+              {
+                "answer": "2.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "13.0",
+                "count": 1,
+                "pct": 2.9
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 1,
+                "pct": 2.9
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 34
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "6.0",
+                "count": 5,
+                "pct": 29.4
+              },
+              {
+                "answer": "7.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "5.0",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "10.0",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "9.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "12.0",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "4.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "2.0",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "3.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "13.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "11.0",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 8,
+                "pct": 50.0
+              },
+              {
+                "answer": "6.0",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "7.0",
+                "count": 2,
+                "pct": 12.5
+              },
+              {
+                "answer": "5.0",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "10.0",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "9.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "12.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "4.0",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "2.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.0",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "13.0",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "6.0",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "7.0",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "5.0",
+                "count": 1,
+                "pct": 7.7
+              },
+              {
+                "answer": "10.0",
+                "count": 1,
+                "pct": 7.7
+              },
+              {
+                "answer": "9.0",
+                "count": 1,
+                "pct": 7.7
+              },
+              {
+                "answer": "12.0",
+                "count": 1,
+                "pct": 7.7
+              },
+              {
+                "answer": "4.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "2.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "13.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "6.0",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "7.0",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "5.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "10.0",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "9.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "12.0",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "4.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "2.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "13.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "11.0",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "6.0",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "7.0",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "5.0",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "10.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.0",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "12.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "4.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "2.0",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "3.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "13.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 6,
+                "pct": 33.3
+              },
+              {
+                "answer": "6.0",
+                "count": 4,
+                "pct": 22.2
+              },
+              {
+                "answer": "7.0",
+                "count": 1,
+                "pct": 5.6
+              },
+              {
+                "answer": "5.0",
+                "count": 1,
+                "pct": 5.6
+              },
+              {
+                "answer": "10.0",
+                "count": 1,
+                "pct": 5.6
+              },
+              {
+                "answer": "9.0",
+                "count": 2,
+                "pct": 11.1
+              },
+              {
+                "answer": "12.0",
+                "count": 2,
+                "pct": 11.1
+              },
+              {
+                "answer": "4.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "2.0",
+                "count": 1,
+                "pct": 5.6
+              },
+              {
+                "answer": "3.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "13.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 7,
+                "pct": 50.0
+              },
+              {
+                "answer": "6.0",
+                "count": 4,
+                "pct": 28.6
+              },
+              {
+                "answer": "7.0",
+                "count": 1,
+                "pct": 7.1
+              },
+              {
+                "answer": "5.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "10.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "12.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "4.0",
+                "count": 1,
+                "pct": 7.1
+              },
+              {
+                "answer": "2.0",
+                "count": 1,
+                "pct": 7.1
+              },
+              {
+                "answer": "3.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "13.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 3,
+                "pct": 18.8
+              },
+              {
+                "answer": "6.0",
+                "count": 4,
+                "pct": 25.0
+              },
+              {
+                "answer": "7.0",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "5.0",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "10.0",
+                "count": 4,
+                "pct": 25.0
+              },
+              {
+                "answer": "9.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "12.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "4.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "2.0",
+                "count": 2,
+                "pct": 12.5
+              },
+              {
+                "answer": "3.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "13.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 4,
+                "pct": 14.8
+              },
+              {
+                "answer": "6.0",
+                "count": 9,
+                "pct": 33.3
+              },
+              {
+                "answer": "7.0",
+                "count": 4,
+                "pct": 14.8
+              },
+              {
+                "answer": "5.0",
+                "count": 2,
+                "pct": 7.4
+              },
+              {
+                "answer": "10.0",
+                "count": 4,
+                "pct": 14.8
+              },
+              {
+                "answer": "9.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "12.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "4.0",
+                "count": 3,
+                "pct": 11.1
+              },
+              {
+                "answer": "2.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "13.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 1,
+                "pct": 3.7
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 9,
+                "pct": 34.6
+              },
+              {
+                "answer": "6.0",
+                "count": 3,
+                "pct": 11.5
+              },
+              {
+                "answer": "7.0",
+                "count": 6,
+                "pct": 23.1
+              },
+              {
+                "answer": "5.0",
+                "count": 5,
+                "pct": 19.2
+              },
+              {
+                "answer": "10.0",
+                "count": 1,
+                "pct": 3.8
+              },
+              {
+                "answer": "9.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "12.0",
+                "count": 1,
+                "pct": 3.8
+              },
+              {
+                "answer": "4.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "2.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "13.0",
+                "count": 1,
+                "pct": 3.8
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 5,
+                "pct": 20.8
+              },
+              {
+                "answer": "6.0",
+                "count": 3,
+                "pct": 12.5
+              },
+              {
+                "answer": "7.0",
+                "count": 4,
+                "pct": 16.7
+              },
+              {
+                "answer": "5.0",
+                "count": 4,
+                "pct": 16.7
+              },
+              {
+                "answer": "10.0",
+                "count": 2,
+                "pct": 8.3
+              },
+              {
+                "answer": "9.0",
+                "count": 2,
+                "pct": 8.3
+              },
+              {
+                "answer": "12.0",
+                "count": 2,
+                "pct": 8.3
+              },
+              {
+                "answer": "4.0",
+                "count": 1,
+                "pct": 4.2
+              },
+              {
+                "answer": "2.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "13.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 1,
+                "pct": 4.2
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 7,
+                "pct": 22.6
+              },
+              {
+                "answer": "6.0",
+                "count": 8,
+                "pct": 25.8
+              },
+              {
+                "answer": "7.0",
+                "count": 5,
+                "pct": 16.1
+              },
+              {
+                "answer": "5.0",
+                "count": 2,
+                "pct": 6.5
+              },
+              {
+                "answer": "10.0",
+                "count": 3,
+                "pct": 9.7
+              },
+              {
+                "answer": "9.0",
+                "count": 3,
+                "pct": 9.7
+              },
+              {
+                "answer": "12.0",
+                "count": 1,
+                "pct": 3.2
+              },
+              {
+                "answer": "4.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "2.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.0",
+                "count": 1,
+                "pct": 3.2
+              },
+              {
+                "answer": "13.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "11.0",
+                "count": 1,
+                "pct": 3.2
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 8
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 17,
+                "pct": 36.2
+              },
+              {
+                "answer": "6.0",
+                "count": 6,
+                "pct": 12.8
+              },
+              {
+                "answer": "7.0",
+                "count": 3,
+                "pct": 6.4
+              },
+              {
+                "answer": "5.0",
+                "count": 4,
+                "pct": 8.5
+              },
+              {
+                "answer": "10.0",
+                "count": 4,
+                "pct": 8.5
+              },
+              {
+                "answer": "9.0",
+                "count": 7,
+                "pct": 14.9
+              },
+              {
+                "answer": "12.0",
+                "count": 2,
+                "pct": 4.3
+              },
+              {
+                "answer": "4.0",
+                "count": 2,
+                "pct": 4.3
+              },
+              {
+                "answer": "2.0",
+                "count": 1,
+                "pct": 2.1
+              },
+              {
+                "answer": "3.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "13.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "11.0",
+                "count": 1,
+                "pct": 2.1
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "6.0",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "7.0",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "5.0",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "10.0",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "9.0",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "12.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "4.0",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "2.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "13.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [
+              {
+                "answer": "8.0",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "6.0",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "7.0",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "5.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "10.0",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "9.0",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "12.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "4.0",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "2.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.0",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "13.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "11.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "7.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "17.0",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "3.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "9.5",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "8.5",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how many hours in a regular workday do you actually spend working (so not counting taking breaks, using social media, etc.)?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 10,
+    "single_panel": true
+  }
+}

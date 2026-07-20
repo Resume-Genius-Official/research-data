@@ -1,0 +1,19 @@
+{
+  "slug": "us_4_day_week_2022",
+  "title": "US 4-Day Work Week Survey, 2022",
+  "country": "US",
+  "year": 2022,
+  "fieldwork_start": "",
+  "fieldwork_end": "",
+  "sample_n": 500,
+  "vendor": "Pollfish",
+  "notes": "Survey of US workers on attitudes toward a 4-day work week and perceived benefits or trade-offs.",
+  "topic_tags": [
+    "4-day workweek",
+    "work schedule",
+    "work-life balance",
+    "employee preferences",
+    "productivity"
+  ],
+  "default_qtype": "matrix"
+}
