@@ -1,0 +1,361 @@
+{
+  "source_file": "Pollfish_Survey_RG_%7C_2022_Q4_%7C_Cover_Letter_Significance_Survey_332644822.csv",
+  "generated_at": "2025-12-31T11:46:58.331094+08:00",
+  "version": "v1.2.0",
+  "options": {
+    "age_bins": [
+      {
+        "label": "Under 18",
+        "min": null,
+        "max": 17
+      },
+      {
+        "label": "18-24",
+        "min": 18,
+        "max": 24
+      },
+      {
+        "label": "25-34",
+        "min": 25,
+        "max": 34
+      },
+      {
+        "label": "35-44",
+        "min": 35,
+        "max": 44
+      },
+      {
+        "label": "45-54",
+        "min": 45,
+        "max": 54
+      },
+      {
+        "label": "55-64",
+        "min": 55,
+        "max": 64
+      },
+      {
+        "label": "65+",
+        "min": 65,
+        "max": null
+      }
+    ],
+    "age_binning_enabled": true,
+    "children_derived_modes": [
+      "has_u18",
+      "youngest_band"
+    ],
+    "child_bins": [
+      {
+        "label": "0-5",
+        "min": 0,
+        "max": 5
+      },
+      {
+        "label": "6-12",
+        "min": 6,
+        "max": 12
+      },
+      {
+        "label": "13-17",
+        "min": 13,
+        "max": 17
+      },
+      {
+        "label": "18+",
+        "min": 18,
+        "max": null
+      }
+    ],
+    "child_binning_enabled": true,
+    "children_keep_raw": false,
+    "question_auto_binning": true,
+    "generation_bins": [
+      {
+        "label": "Gen Z",
+        "min": 13,
+        "max": 28
+      },
+      {
+        "label": "Millennials",
+        "min": 29,
+        "max": 44
+      },
+      {
+        "label": "Gen X",
+        "min": 45,
+        "max": 60
+      },
+      {
+        "label": "Baby Boomers",
+        "min": 61,
+        "max": 79
+      },
+      {
+        "label": "Silent Generation",
+        "min": 80,
+        "max": null
+      }
+    ]
+  },
+  "selections": {
+    "questions": [],
+    "demos": [
+      "Age",
+      "Gender",
+      "Education",
+      "Income",
+      "Area"
+    ],
+    "demo_configs": {
+      "Age": {
+        "mode": "generation_bins",
+        "bins": [
+          {
+            "label": "Gen Z",
+            "max": 28,
+            "min": 13
+          },
+          {
+            "label": "Millennials",
+            "max": 44,
+            "min": 29
+          },
+          {
+            "label": "Gen X",
+            "max": 60,
+            "min": 45
+          },
+          {
+            "label": "Baby Boomers",
+            "max": 79,
+            "min": 61
+          },
+          {
+            "label": "Silent Generation",
+            "max": null,
+            "min": 80
+          }
+        ],
+        "other_label": "Other"
+      },
+      "Gender": {
+        "mode": "none",
+        "other_label": "Other"
+      },
+      "Education": {
+        "mode": "none",
+        "other_label": "Other"
+      },
+      "Income": {
+        "mode": "none",
+        "other_label": "Other"
+      },
+      "Area": {
+        "mode": "none",
+        "other_label": "Other"
+      }
+    },
+    "matrices": [
+      "matrix:Q1",
+      "matrix:Q2",
+      "matrix:Q3",
+      "matrix:Q4",
+      "matrix:Q5",
+      "matrix:Q6",
+      "matrix:Q7",
+      "matrix:Q8",
+      "matrix:Q9",
+      "matrix:Q10",
+      "matrix:Q11",
+      "matrix:Q12",
+      "matrix:Q13",
+      "matrix:Q14",
+      "matrix:Q15",
+      "matrix:Q16"
+    ],
+    "question_options": {
+      "auto_bin_numeric": true
+    }
+  },
+  "suppression_threshold": 10,
+  "detection": {
+    "demo_candidates": [
+      "Manufacturer",
+      "OS",
+      "Country",
+      "Area",
+      "Gender",
+      "Age",
+      "Year Of Birth",
+      "Marital Status",
+      "Number of children",
+      "Education",
+      "Race",
+      "Income",
+      "Spoken Languages",
+      "Number of Employees",
+      "US Census Region",
+      "US Census Division",
+      "US Congressional District",
+      "Audience",
+      "Weight"
+    ],
+    "recommended_demos": [
+      "Age",
+      "Country",
+      "Education",
+      "Gender",
+      "Income",
+      "Spoken Languages",
+      "US Census Region"
+    ],
+    "demo_rejections": {
+      "ID": "id-like/high cardinality",
+      "Time Started": "datetime-like (header)",
+      "Time Finished": "datetime-like (header)",
+      "County": "high-cardinality",
+      "City": "high-cardinality",
+      "Provider": "id-like/high cardinality",
+      "Q1: Are you currently responsible for hiring new employees at a US-based company?": "question-like label",
+      "Q2: On average, how many open positions are you in charge of filling per year?": "question-like label",
+      "Q3: How often do you read cover letters?": "question-like label",
+      "Q4: Which part of an application do you read first?": "question-like label",
+      "Q5: On average, how long do you spend reading a cover letter?": "question-like label",
+      "Q6: Does your company require applicants to submit cover letters?": "question-like label",
+      "Q7: How important is a cover letter to you in determining whether to invite an applicant for an interview?": "question-like label",
+      "Q8: Which of the following describes how cover letters influence your hiring decisions?": "question-like label",
+      "Q9: How important is it to you that a cover letter is tailored for your company when reviewing a job application?": "question-like label",
+      "Q10: How important is it for the following sections of a cover letter to be customized for your company // the job you're hiring for? Hiring manager name / salutation": "question-like label",
+      "Q10: How important is it for the following sections of a cover letter to be customized for your company // the job you're hiring for? Mention of the company's name in the letter": "question-like label",
+      "Q10: How important is it for the following sections of a cover letter to be customized for your company // the job you're hiring for? Mention of the company's goals, values, or mission statement": "question-like label",
+      "Q10: How important is it for the following sections of a cover letter to be customized for your company // the job you're hiring for? Customization of the body to the responsibilities or skills called for in the job posting": "question-like label",
+      "Q11: Rank these non-personalized cover letter salutations based on which you most prefer (1) to least prefer (5). Dear Sir or Madam,": "question-like label",
+      "Q11: Rank these non-personalized cover letter salutations based on which you most prefer (1) to least prefer (5). To Whom It May Concern,": "question-like label",
+      "Q11: Rank these non-personalized cover letter salutations based on which you most prefer (1) to least prefer (5). Dear Hiring Manager,": "question-like label",
+      "Q11: Rank these non-personalized cover letter salutations based on which you most prefer (1) to least prefer (5). Dear [Department] Head,": "question-like label",
+      "Q11: Rank these non-personalized cover letter salutations based on which you most prefer (1) to least prefer (5). Dear [Job Title],": "question-like label",
+      "Q12: On average, how long should a cover letter be? Please specify word count.": "question-like label",
+      "Q13: Rank the following purposes of a cover letter from most to least important (1 = most important, 5 = least important). To provide additional information and context as to why an applicant is applying": "question-like label",
+      "Q13: Rank the following purposes of a cover letter from most to least important (1 = most important, 5 = least important). To help me check the writing ability and communication skills of the applicant": "question-like label",
+      "Q13: Rank the following purposes of a cover letter from most to least important (1 = most important, 5 = least important). To demonstrate why an applicant is the right fit for the position": "question-like label",
+      "Q13: Rank the following purposes of a cover letter from most to least important (1 = most important, 5 = least important). To show the applicant’s personality": "question-like label",
+      "Q13: Rank the following purposes of a cover letter from most to least important (1 = most important, 5 = least important). To give candidates who don’t meet the requirements a chance to pitch their qualifications": "question-like label",
+      "Q14: Rate how important a cover letter is to you when hiring for an internal position.": "question-like label",
+      "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?": "question-like label",
+      "Q16: Rank how you prefer to receive a cover letter (1 = most preferred method, 4 = least preferred method). In an email body": "question-like label",
+      "Q16: Rank how you prefer to receive a cover letter (1 = most preferred method, 4 = least preferred method). Word attachment": "question-like label",
+      "Q16: Rank how you prefer to receive a cover letter (1 = most preferred method, 4 = least preferred method). PDF attachment": "question-like label",
+      "Q16: Rank how you prefer to receive a cover letter (1 = most preferred method, 4 = least preferred method). Physical paper copy sent in the mail": "question-like label",
+      "Location Postal Code": "high-cardinality numeric",
+      "DMA Code": "high-cardinality",
+      "DMA Name": "high-cardinality"
+    },
+    "demo_overrides": [],
+    "demo_semantics": {
+      "Country": "location",
+      "Gender": "gender",
+      "Age": "age",
+      "Number of children": "children",
+      "Education": "education",
+      "Income": "income",
+      "Spoken Languages": "language",
+      "US Census Region": "location"
+    },
+    "demo_families": {
+      "Languages": [
+        "Spoken Languages"
+      ],
+      "Children": [
+        "Number of children"
+      ],
+      "Location": [
+        "Country",
+        "US Census Region"
+      ],
+      "Household": [
+        "Education",
+        "Income",
+        "Marital Status"
+      ]
+    },
+    "derived_children": [],
+    "rolled_children_columns": [],
+    "age_bucketed_columns": [
+      "Age"
+    ],
+    "age_binning_enabled": true,
+    "age_bins": [
+      {
+        "label": "Under 18",
+        "min": null,
+        "max": 17
+      },
+      {
+        "label": "18-24",
+        "min": 18,
+        "max": 24
+      },
+      {
+        "label": "25-34",
+        "min": 25,
+        "max": 34
+      },
+      {
+        "label": "35-44",
+        "min": 35,
+        "max": 44
+      },
+      {
+        "label": "45-54",
+        "min": 45,
+        "max": 54
+      },
+      {
+        "label": "55-64",
+        "min": 55,
+        "max": 64
+      },
+      {
+        "label": "65+",
+        "min": 65,
+        "max": null
+      }
+    ],
+    "children_option_types": {},
+    "children_source_columns": [],
+    "children_parental_columns": [],
+    "children_requested_modes": [
+      "has_u18",
+      "youngest_band"
+    ],
+    "children_mode_option_types": {},
+    "children_mode_to_column": {},
+    "children_available_modes": [],
+    "children_candidate_modes": [],
+    "child_bins": [
+      {
+        "label": "0-5",
+        "min": 0,
+        "max": 5
+      },
+      {
+        "label": "6-12",
+        "min": 6,
+        "max": 12
+      },
+      {
+        "label": "13-17",
+        "min": 13,
+        "max": 17
+      },
+      {
+        "label": "18+",
+        "min": 18,
+        "max": null
+      }
+    ],
+    "child_binning_enabled": true,
+    "children_keep_raw": false
+  }
+}

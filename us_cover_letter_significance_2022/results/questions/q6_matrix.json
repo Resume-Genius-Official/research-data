@@ -1,0 +1,1425 @@
+{
+  "id": "Q6",
+  "text": "Q6",
+  "question_prompt": "Q6: Does your company require applicants to submit cover letters?",
+  "type": "matrix",
+  "panels": [
+    "Q6: Does your company require applicants to submit cover letters?"
+  ],
+  "answers": [
+    "Yes",
+    "No",
+    "We don't say in our job posting"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+      "cells": [
+        {
+          "answer": "Yes",
+          "count": 377,
+          "pct": 60.3
+        },
+        {
+          "answer": "No",
+          "count": 192,
+          "pct": 30.7
+        },
+        {
+          "answer": "We don't say in our job posting",
+          "count": 56,
+          "pct": 9.0
+        }
+      ],
+      "base": {
+        "n": 625
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 625
+    },
+    "answers": [
+      {
+        "answer": "Yes",
+        "count": 377,
+        "pct": 60.3
+      },
+      {
+        "answer": "No",
+        "count": 192,
+        "pct": 30.7
+      },
+      {
+        "answer": "We don't say in our job posting",
+        "count": 56,
+        "pct": 9.0
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 53,
+                "pct": 55.2
+              },
+              {
+                "answer": "No",
+                "count": 31,
+                "pct": 32.3
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 12,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 96
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 184,
+                "pct": 57.9
+              },
+              {
+                "answer": "No",
+                "count": 109,
+                "pct": 34.3
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 25,
+                "pct": 7.9
+              }
+            ],
+            "base": {
+              "n": 318
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 140,
+                "pct": 66.4
+              },
+              {
+                "answer": "No",
+                "count": 52,
+                "pct": 24.6
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 19,
+                "pct": 9.0
+              }
+            ],
+            "base": {
+              "n": 211
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 142,
+                "pct": 50.5
+              },
+              {
+                "answer": "No",
+                "count": 107,
+                "pct": 38.1
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 32,
+                "pct": 11.4
+              }
+            ],
+            "base": {
+              "n": 281
+            }
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 235,
+                "pct": 68.3
+              },
+              {
+                "answer": "No",
+                "count": 85,
+                "pct": 24.7
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 24,
+                "pct": 7.0
+              }
+            ],
+            "base": {
+              "n": 344
+            }
+          }
+        ]
+      }
+    },
+    "Education": {
+      "elementary_school": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 83,
+                "pct": 50.0
+              },
+              {
+                "answer": "No",
+                "count": 67,
+                "pct": 40.4
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 16,
+                "pct": 9.6
+              }
+            ],
+            "base": {
+              "n": 166
+            }
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "No",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 2,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 134,
+                "pct": 88.2
+              },
+              {
+                "answer": "No",
+                "count": 15,
+                "pct": 9.9
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 3,
+                "pct": 2.0
+              }
+            ],
+            "base": {
+              "n": 152
+            }
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 125,
+                "pct": 54.8
+              },
+              {
+                "answer": "No",
+                "count": 76,
+                "pct": 33.3
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 27,
+                "pct": 11.8
+              }
+            ],
+            "base": {
+              "n": 228
+            }
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 28,
+                "pct": 43.1
+              },
+              {
+                "answer": "No",
+                "count": 29,
+                "pct": 44.6
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 8,
+                "pct": 12.3
+              }
+            ],
+            "base": {
+              "n": 65
+            }
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 38,
+                "pct": 67.9
+              },
+              {
+                "answer": "No",
+                "count": 14,
+                "pct": 25.0
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 4,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 56
+            }
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 54,
+                "pct": 88.5
+              },
+              {
+                "answer": "No",
+                "count": 5,
+                "pct": 8.2
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 2,
+                "pct": 3.3
+              }
+            ],
+            "base": {
+              "n": 61
+            }
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 64,
+                "pct": 88.9
+              },
+              {
+                "answer": "No",
+                "count": 4,
+                "pct": 5.6
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 4,
+                "pct": 5.6
+              }
+            ],
+            "base": {
+              "n": 72
+            }
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 83,
+                "pct": 56.1
+              },
+              {
+                "answer": "No",
+                "count": 55,
+                "pct": 37.2
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 10,
+                "pct": 6.8
+              }
+            ],
+            "base": {
+              "n": 148
+            }
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 58,
+                "pct": 46.0
+              },
+              {
+                "answer": "No",
+                "count": 52,
+                "pct": 41.3
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 16,
+                "pct": 12.7
+              }
+            ],
+            "base": {
+              "n": 126
+            }
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 35,
+                "pct": 47.3
+              },
+              {
+                "answer": "No",
+                "count": 33,
+                "pct": 44.6
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 6,
+                "pct": 8.1
+              }
+            ],
+            "base": {
+              "n": 74
+            }
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 42,
+                "pct": 51.2
+              },
+              {
+                "answer": "No",
+                "count": 27,
+                "pct": 32.9
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 13,
+                "pct": 15.9
+              }
+            ],
+            "base": {
+              "n": 82
+            }
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 10,
+                "pct": 66.7
+              },
+              {
+                "answer": "No",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "No",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 42,
+                "pct": 59.2
+              },
+              {
+                "answer": "No",
+                "count": 21,
+                "pct": 29.6
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 8,
+                "pct": 11.3
+              }
+            ],
+            "base": {
+              "n": 71
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "No",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 3,
+                "pct": 30.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 24,
+                "pct": 53.3
+              },
+              {
+                "answer": "No",
+                "count": 15,
+                "pct": 33.3
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 6,
+                "pct": 13.3
+              }
+            ],
+            "base": {
+              "n": 45
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 22,
+                "pct": 66.7
+              },
+              {
+                "answer": "No",
+                "count": 7,
+                "pct": 21.2
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 4,
+                "pct": 12.1
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 14,
+                "pct": 73.7
+              },
+              {
+                "answer": "No",
+                "count": 4,
+                "pct": 21.1
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 1,
+                "pct": 5.3
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "No",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 1,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 11,
+                "pct": 52.4
+              },
+              {
+                "answer": "No",
+                "count": 7,
+                "pct": 33.3
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 3,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 8
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 8
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "No",
+                "count": 6,
+                "pct": 60.0
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 8
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 28,
+                "pct": 66.7
+              },
+              {
+                "answer": "No",
+                "count": 11,
+                "pct": 26.2
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 3,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 18,
+                "pct": 66.7
+              },
+              {
+                "answer": "No",
+                "count": 7,
+                "pct": 25.9
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 2,
+                "pct": 7.4
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 6,
+                "pct": 33.3
+              },
+              {
+                "answer": "No",
+                "count": 11,
+                "pct": 61.1
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 1,
+                "pct": 5.6
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 7,
+                "pct": 70.0
+              },
+              {
+                "answer": "No",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 13,
+                "pct": 50.0
+              },
+              {
+                "answer": "No",
+                "count": 13,
+                "pct": 50.0
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 17,
+                "pct": 68.0
+              },
+              {
+                "answer": "No",
+                "count": 7,
+                "pct": 28.0
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 1,
+                "pct": 4.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 12,
+                "pct": 70.6
+              },
+              {
+                "answer": "No",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 2,
+                "pct": 11.8
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 37,
+                "pct": 58.7
+              },
+              {
+                "answer": "No",
+                "count": 19,
+                "pct": 30.2
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 7,
+                "pct": 11.1
+              }
+            ],
+            "base": {
+              "n": 63
+            }
+          }
+        ]
+      },
+      "Unknown": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 11,
+                "pct": 68.8
+              },
+              {
+                "answer": "No",
+                "count": 5,
+                "pct": 31.2
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "No",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "We don't say in our job posting",
+                "count": 2,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q6: Does your company require applicants to submit cover letters?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 10,
+    "single_panel": true
+  }
+}

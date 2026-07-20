@@ -1,0 +1,1621 @@
+{
+  "id": "Q8",
+  "text": "Q8",
+  "question_prompt": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+  "type": "matrix",
+  "panels": [
+    "Q8: Which of the following describes how cover letters influence your hiring decisions?"
+  ],
+  "answers": [
+    "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+    "Both of the above",
+    "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+    "None of the above — I don’t read cover letters"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+      "cells": [
+        {
+          "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+          "count": 304,
+          "pct": 48.6
+        },
+        {
+          "answer": "Both of the above",
+          "count": 206,
+          "pct": 33.0
+        },
+        {
+          "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+          "count": 110,
+          "pct": 17.6
+        },
+        {
+          "answer": "None of the above — I don’t read cover letters",
+          "count": 5,
+          "pct": 0.8
+        }
+      ],
+      "base": {
+        "n": 625
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 625
+    },
+    "answers": [
+      {
+        "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+        "count": 304,
+        "pct": 48.6
+      },
+      {
+        "answer": "Both of the above",
+        "count": 206,
+        "pct": 33.0
+      },
+      {
+        "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+        "count": 110,
+        "pct": 17.6
+      },
+      {
+        "answer": "None of the above — I don’t read cover letters",
+        "count": 5,
+        "pct": 0.8
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 44,
+                "pct": 45.8
+              },
+              {
+                "answer": "Both of the above",
+                "count": 40,
+                "pct": 41.7
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 12,
+                "pct": 12.5
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 96
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 158,
+                "pct": 49.7
+              },
+              {
+                "answer": "Both of the above",
+                "count": 90,
+                "pct": 28.3
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 67,
+                "pct": 21.1
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 3,
+                "pct": 0.9
+              }
+            ],
+            "base": {
+              "n": 318
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 102,
+                "pct": 48.3
+              },
+              {
+                "answer": "Both of the above",
+                "count": 76,
+                "pct": 36.0
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 31,
+                "pct": 14.7
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 2,
+                "pct": 0.9
+              }
+            ],
+            "base": {
+              "n": 211
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 125,
+                "pct": 44.5
+              },
+              {
+                "answer": "Both of the above",
+                "count": 112,
+                "pct": 39.9
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 42,
+                "pct": 14.9
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 2,
+                "pct": 0.7
+              }
+            ],
+            "base": {
+              "n": 281
+            }
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 179,
+                "pct": 52.0
+              },
+              {
+                "answer": "Both of the above",
+                "count": 94,
+                "pct": 27.3
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 68,
+                "pct": 19.8
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 3,
+                "pct": 0.9
+              }
+            ],
+            "base": {
+              "n": 344
+            }
+          }
+        ]
+      }
+    },
+    "Education": {
+      "elementary_school": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 70,
+                "pct": 42.2
+              },
+              {
+                "answer": "Both of the above",
+                "count": 60,
+                "pct": 36.1
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 34,
+                "pct": 20.5
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 2,
+                "pct": 1.2
+              }
+            ],
+            "base": {
+              "n": 166
+            }
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "Both of the above",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 99,
+                "pct": 65.1
+              },
+              {
+                "answer": "Both of the above",
+                "count": 36,
+                "pct": 23.7
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 17,
+                "pct": 11.2
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 152
+            }
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 106,
+                "pct": 46.5
+              },
+              {
+                "answer": "Both of the above",
+                "count": 81,
+                "pct": 35.5
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 40,
+                "pct": 17.5
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 1,
+                "pct": 0.4
+              }
+            ],
+            "base": {
+              "n": 228
+            }
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 24,
+                "pct": 36.9
+              },
+              {
+                "answer": "Both of the above",
+                "count": 23,
+                "pct": 35.4
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 16,
+                "pct": 24.6
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 2,
+                "pct": 3.1
+              }
+            ],
+            "base": {
+              "n": 65
+            }
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 31,
+                "pct": 55.4
+              },
+              {
+                "answer": "Both of the above",
+                "count": 16,
+                "pct": 28.6
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 8,
+                "pct": 14.3
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 1,
+                "pct": 1.8
+              }
+            ],
+            "base": {
+              "n": 56
+            }
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 37,
+                "pct": 60.7
+              },
+              {
+                "answer": "Both of the above",
+                "count": 16,
+                "pct": 26.2
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 8,
+                "pct": 13.1
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 61
+            }
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 46,
+                "pct": 63.9
+              },
+              {
+                "answer": "Both of the above",
+                "count": 16,
+                "pct": 22.2
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 10,
+                "pct": 13.9
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 72
+            }
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 68,
+                "pct": 45.9
+              },
+              {
+                "answer": "Both of the above",
+                "count": 47,
+                "pct": 31.8
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 30,
+                "pct": 20.3
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 3,
+                "pct": 2.0
+              }
+            ],
+            "base": {
+              "n": 148
+            }
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 45,
+                "pct": 35.7
+              },
+              {
+                "answer": "Both of the above",
+                "count": 58,
+                "pct": 46.0
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 22,
+                "pct": 17.5
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 1,
+                "pct": 0.8
+              }
+            ],
+            "base": {
+              "n": 126
+            }
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 30,
+                "pct": 40.5
+              },
+              {
+                "answer": "Both of the above",
+                "count": 26,
+                "pct": 35.1
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 18,
+                "pct": 24.3
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 74
+            }
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 46,
+                "pct": 56.1
+              },
+              {
+                "answer": "Both of the above",
+                "count": 24,
+                "pct": 29.3
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 12,
+                "pct": 14.6
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 82
+            }
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "Both of the above",
+                "count": 8,
+                "pct": 53.3
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "Both of the above",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 1,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 28,
+                "pct": 39.4
+              },
+              {
+                "answer": "Both of the above",
+                "count": 26,
+                "pct": 36.6
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 17,
+                "pct": 23.9
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 71
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Both of the above",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 20,
+                "pct": 44.4
+              },
+              {
+                "answer": "Both of the above",
+                "count": 15,
+                "pct": 33.3
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 10,
+                "pct": 22.2
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 45
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 19,
+                "pct": 57.6
+              },
+              {
+                "answer": "Both of the above",
+                "count": 8,
+                "pct": 24.2
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 6,
+                "pct": 18.2
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 12,
+                "pct": 63.2
+              },
+              {
+                "answer": "Both of the above",
+                "count": 5,
+                "pct": 26.3
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "Both of the above",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 13,
+                "pct": 61.9
+              },
+              {
+                "answer": "Both of the above",
+                "count": 4,
+                "pct": 19.0
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 4,
+                "pct": 19.0
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 8
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 8
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "Both of the above",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 8
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 21,
+                "pct": 50.0
+              },
+              {
+                "answer": "Both of the above",
+                "count": 12,
+                "pct": 28.6
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 9,
+                "pct": 21.4
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 13,
+                "pct": 48.1
+              },
+              {
+                "answer": "Both of the above",
+                "count": 12,
+                "pct": 44.4
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 2,
+                "pct": 7.4
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 9,
+                "pct": 50.0
+              },
+              {
+                "answer": "Both of the above",
+                "count": 5,
+                "pct": 27.8
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 4,
+                "pct": 22.2
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "Both of the above",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 12,
+                "pct": 46.2
+              },
+              {
+                "answer": "Both of the above",
+                "count": 12,
+                "pct": 46.2
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 1,
+                "pct": 3.8
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 1,
+                "pct": 3.8
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 12,
+                "pct": 48.0
+              },
+              {
+                "answer": "Both of the above",
+                "count": 8,
+                "pct": 32.0
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 4,
+                "pct": 16.0
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 1,
+                "pct": 4.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 8,
+                "pct": 47.1
+              },
+              {
+                "answer": "Both of the above",
+                "count": 8,
+                "pct": 47.1
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 32,
+                "pct": 50.8
+              },
+              {
+                "answer": "Both of the above",
+                "count": 20,
+                "pct": 31.7
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 10,
+                "pct": 15.9
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 1,
+                "pct": 1.6
+              }
+            ],
+            "base": {
+              "n": 63
+            }
+          }
+        ]
+      },
+      "Unknown": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 11,
+                "pct": 68.8
+              },
+              {
+                "answer": "Both of the above",
+                "count": 3,
+                "pct": 18.8
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 2,
+                "pct": 12.5
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A strong cover letter can persuade me to invite an otherwise weak candidate for an interview",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Both of the above",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "A weak cover letter can cause me to toss out the application of an otherwise strong applicant",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "None of the above — I don’t read cover letters",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q8: Which of the following describes how cover letters influence your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 10,
+    "single_panel": true
+  }
+}

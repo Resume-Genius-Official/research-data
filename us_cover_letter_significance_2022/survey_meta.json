@@ -1,0 +1,19 @@
+{
+  "slug": "us_cover_letter_significance_2022",
+  "title": "US Cover Letter Significance Survey, 2022",
+  "country": "US",
+  "year": 2022,
+  "fieldwork_start": "",
+  "fieldwork_end": "",
+  "sample_n": 625,
+  "vendor": "Pollfish",
+  "notes": "Survey of US hiring managers on how they use cover letters in the hiring process.",
+  "topic_tags": [
+    "cover letters",
+    "resume screening",
+    "hiring managers",
+    "job applications",
+    "recruitment"
+  ],
+  "default_qtype": "matrix"
+}

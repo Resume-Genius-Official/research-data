@@ -1,0 +1,1817 @@
+{
+  "id": "Q15",
+  "text": "Q15",
+  "question_prompt": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+  "type": "matrix",
+  "panels": [
+    "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?"
+  ],
+  "answers": [
+    "Introduction",
+    "Body paragraphs",
+    "Header (applicant contact information)",
+    "Formatting",
+    "Closing remarks"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+      "cells": [
+        {
+          "answer": "Introduction",
+          "count": 259,
+          "pct": 41.4
+        },
+        {
+          "answer": "Body paragraphs",
+          "count": 132,
+          "pct": 21.1
+        },
+        {
+          "answer": "Header (applicant contact information)",
+          "count": 111,
+          "pct": 17.8
+        },
+        {
+          "answer": "Formatting",
+          "count": 84,
+          "pct": 13.4
+        },
+        {
+          "answer": "Closing remarks",
+          "count": 39,
+          "pct": 6.2
+        }
+      ],
+      "base": {
+        "n": 625
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 625
+    },
+    "answers": [
+      {
+        "answer": "Introduction",
+        "count": 259,
+        "pct": 41.4
+      },
+      {
+        "answer": "Body paragraphs",
+        "count": 132,
+        "pct": 21.1
+      },
+      {
+        "answer": "Header (applicant contact information)",
+        "count": 111,
+        "pct": 17.8
+      },
+      {
+        "answer": "Formatting",
+        "count": 84,
+        "pct": 13.4
+      },
+      {
+        "answer": "Closing remarks",
+        "count": 39,
+        "pct": 6.2
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 43,
+                "pct": 44.8
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 23,
+                "pct": 24.0
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 13,
+                "pct": 13.5
+              },
+              {
+                "answer": "Formatting",
+                "count": 9,
+                "pct": 9.4
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 8,
+                "pct": 8.3
+              }
+            ],
+            "base": {
+              "n": 96
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 139,
+                "pct": 43.7
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 70,
+                "pct": 22.0
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 50,
+                "pct": 15.7
+              },
+              {
+                "answer": "Formatting",
+                "count": 45,
+                "pct": 14.2
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 14,
+                "pct": 4.4
+              }
+            ],
+            "base": {
+              "n": 318
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 77,
+                "pct": 36.5
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 39,
+                "pct": 18.5
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 48,
+                "pct": 22.7
+              },
+              {
+                "answer": "Formatting",
+                "count": 30,
+                "pct": 14.2
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 17,
+                "pct": 8.1
+              }
+            ],
+            "base": {
+              "n": 211
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 120,
+                "pct": 42.7
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 69,
+                "pct": 24.6
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 40,
+                "pct": 14.2
+              },
+              {
+                "answer": "Formatting",
+                "count": 33,
+                "pct": 11.7
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 19,
+                "pct": 6.8
+              }
+            ],
+            "base": {
+              "n": 281
+            }
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 139,
+                "pct": 40.4
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 63,
+                "pct": 18.3
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 71,
+                "pct": 20.6
+              },
+              {
+                "answer": "Formatting",
+                "count": 51,
+                "pct": 14.8
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 20,
+                "pct": 5.8
+              }
+            ],
+            "base": {
+              "n": 344
+            }
+          }
+        ]
+      }
+    },
+    "Education": {
+      "elementary_school": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 78,
+                "pct": 47.0
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 31,
+                "pct": 18.7
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 30,
+                "pct": 18.1
+              },
+              {
+                "answer": "Formatting",
+                "count": 19,
+                "pct": 11.4
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 8,
+                "pct": 4.8
+              }
+            ],
+            "base": {
+              "n": 166
+            }
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "Formatting",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 3,
+                "pct": 27.3
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 48,
+                "pct": 31.6
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 29,
+                "pct": 19.1
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 39,
+                "pct": 25.7
+              },
+              {
+                "answer": "Formatting",
+                "count": 26,
+                "pct": 17.1
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 10,
+                "pct": 6.6
+              }
+            ],
+            "base": {
+              "n": 152
+            }
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 99,
+                "pct": 43.4
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 57,
+                "pct": 25.0
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 32,
+                "pct": 14.0
+              },
+              {
+                "answer": "Formatting",
+                "count": 28,
+                "pct": 12.3
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 12,
+                "pct": 5.3
+              }
+            ],
+            "base": {
+              "n": 228
+            }
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 28,
+                "pct": 43.1
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 13,
+                "pct": 20.0
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 8,
+                "pct": 12.3
+              },
+              {
+                "answer": "Formatting",
+                "count": 10,
+                "pct": 15.4
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 6,
+                "pct": 9.2
+              }
+            ],
+            "base": {
+              "n": 65
+            }
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 22,
+                "pct": 39.3
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 10,
+                "pct": 17.9
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 12,
+                "pct": 21.4
+              },
+              {
+                "answer": "Formatting",
+                "count": 6,
+                "pct": 10.7
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 6,
+                "pct": 10.7
+              }
+            ],
+            "base": {
+              "n": 56
+            }
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 20,
+                "pct": 32.8
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 9,
+                "pct": 14.8
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 16,
+                "pct": 26.2
+              },
+              {
+                "answer": "Formatting",
+                "count": 14,
+                "pct": 23.0
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 2,
+                "pct": 3.3
+              }
+            ],
+            "base": {
+              "n": 61
+            }
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 24,
+                "pct": 33.3
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 14,
+                "pct": 19.4
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 20,
+                "pct": 27.8
+              },
+              {
+                "answer": "Formatting",
+                "count": 10,
+                "pct": 13.9
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 4,
+                "pct": 5.6
+              }
+            ],
+            "base": {
+              "n": 72
+            }
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 65,
+                "pct": 43.9
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 26,
+                "pct": 17.6
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 29,
+                "pct": 19.6
+              },
+              {
+                "answer": "Formatting",
+                "count": 17,
+                "pct": 11.5
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 11,
+                "pct": 7.4
+              }
+            ],
+            "base": {
+              "n": 148
+            }
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 57,
+                "pct": 45.2
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 34,
+                "pct": 27.0
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 16,
+                "pct": 12.7
+              },
+              {
+                "answer": "Formatting",
+                "count": 16,
+                "pct": 12.7
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 3,
+                "pct": 2.4
+              }
+            ],
+            "base": {
+              "n": 126
+            }
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 41,
+                "pct": 55.4
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 13,
+                "pct": 17.6
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 5,
+                "pct": 6.8
+              },
+              {
+                "answer": "Formatting",
+                "count": 11,
+                "pct": 14.9
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 4,
+                "pct": 5.4
+              }
+            ],
+            "base": {
+              "n": 74
+            }
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 28,
+                "pct": 34.1
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 25,
+                "pct": 30.5
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 13,
+                "pct": 15.9
+              },
+              {
+                "answer": "Formatting",
+                "count": 8,
+                "pct": 9.8
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 8,
+                "pct": 9.8
+              }
+            ],
+            "base": {
+              "n": 82
+            }
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 6,
+                "pct": 40.0
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "Formatting",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 1,
+                "pct": 6.7
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "Formatting",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 34,
+                "pct": 47.9
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 15,
+                "pct": 21.1
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 13,
+                "pct": 18.3
+              },
+              {
+                "answer": "Formatting",
+                "count": 3,
+                "pct": 4.2
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 6,
+                "pct": 8.5
+              }
+            ],
+            "base": {
+              "n": 71
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Formatting",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 16,
+                "pct": 35.6
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 10,
+                "pct": 22.2
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 8,
+                "pct": 17.8
+              },
+              {
+                "answer": "Formatting",
+                "count": 9,
+                "pct": 20.0
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 2,
+                "pct": 4.4
+              }
+            ],
+            "base": {
+              "n": 45
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 10,
+                "pct": 30.3
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 8,
+                "pct": 24.2
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 8,
+                "pct": 24.2
+              },
+              {
+                "answer": "Formatting",
+                "count": 7,
+                "pct": 21.2
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 10,
+                "pct": 52.6
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 4,
+                "pct": 21.1
+              },
+              {
+                "answer": "Formatting",
+                "count": 3,
+                "pct": 15.8
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "Formatting",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 1,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 12,
+                "pct": 57.1
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 2,
+                "pct": 9.5
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 4,
+                "pct": 19.0
+              },
+              {
+                "answer": "Formatting",
+                "count": 1,
+                "pct": 4.8
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 2,
+                "pct": 9.5
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 8
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 8
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Formatting",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 8
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 11,
+                "pct": 26.2
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 10,
+                "pct": 23.8
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 8,
+                "pct": 19.0
+              },
+              {
+                "answer": "Formatting",
+                "count": 8,
+                "pct": 19.0
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 5,
+                "pct": 11.9
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 12,
+                "pct": 44.4
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 4,
+                "pct": 14.8
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 5,
+                "pct": 18.5
+              },
+              {
+                "answer": "Formatting",
+                "count": 3,
+                "pct": 11.1
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 3,
+                "pct": 11.1
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 14,
+                "pct": 77.8
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 2,
+                "pct": 11.1
+              },
+              {
+                "answer": "Formatting",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 2,
+                "pct": 11.1
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Formatting",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 9,
+                "pct": 34.6
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 6,
+                "pct": 23.1
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 5,
+                "pct": 19.2
+              },
+              {
+                "answer": "Formatting",
+                "count": 5,
+                "pct": 19.2
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 1,
+                "pct": 3.8
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 9,
+                "pct": 36.0
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 5,
+                "pct": 20.0
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 4,
+                "pct": 16.0
+              },
+              {
+                "answer": "Formatting",
+                "count": 4,
+                "pct": 16.0
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 3,
+                "pct": 12.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 8,
+                "pct": 47.1
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "Formatting",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 26,
+                "pct": 41.3
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 15,
+                "pct": 23.8
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 11,
+                "pct": 17.5
+              },
+              {
+                "answer": "Formatting",
+                "count": 7,
+                "pct": 11.1
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 4,
+                "pct": 6.3
+              }
+            ],
+            "base": {
+              "n": 63
+            }
+          }
+        ]
+      },
+      "Unknown": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 7,
+                "pct": 43.8
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 5,
+                "pct": 31.2
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "Formatting",
+                "count": 2,
+                "pct": 12.5
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 1,
+                "pct": 6.2
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [
+              {
+                "answer": "Introduction",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "Body paragraphs",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Header (applicant contact information)",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Formatting",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Closing remarks",
+                "count": 1,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which part of a cover letter makes the biggest impression on you as a hiring manager?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 10,
+    "single_panel": true
+  }
+}

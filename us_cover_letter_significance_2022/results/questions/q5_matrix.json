@@ -1,0 +1,2209 @@
+{
+  "id": "Q5",
+  "text": "Q5",
+  "question_prompt": "Q5: On average, how long do you spend reading a cover letter?",
+  "type": "matrix",
+  "panels": [
+    "Q5: On average, how long do you spend reading a cover letter?"
+  ],
+  "answers": [
+    "Between 30 seconds and 1 min",
+    "Between 1-2 minutes",
+    "11-30 seconds",
+    "More than 2 minutes",
+    "6-10 seconds",
+    "0-5 seconds",
+    "Not applicable"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+      "cells": [
+        {
+          "answer": "Between 30 seconds and 1 min",
+          "count": 150,
+          "pct": 24.0
+        },
+        {
+          "answer": "Between 1-2 minutes",
+          "count": 150,
+          "pct": 24.0
+        },
+        {
+          "answer": "11-30 seconds",
+          "count": 139,
+          "pct": 22.2
+        },
+        {
+          "answer": "More than 2 minutes",
+          "count": 93,
+          "pct": 14.9
+        },
+        {
+          "answer": "6-10 seconds",
+          "count": 70,
+          "pct": 11.2
+        },
+        {
+          "answer": "0-5 seconds",
+          "count": 16,
+          "pct": 2.6
+        },
+        {
+          "answer": "Not applicable",
+          "count": 7,
+          "pct": 1.1
+        }
+      ],
+      "base": {
+        "n": 625
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 625
+    },
+    "answers": [
+      {
+        "answer": "Between 30 seconds and 1 min",
+        "count": 150,
+        "pct": 24.0
+      },
+      {
+        "answer": "Between 1-2 minutes",
+        "count": 150,
+        "pct": 24.0
+      },
+      {
+        "answer": "11-30 seconds",
+        "count": 139,
+        "pct": 22.2
+      },
+      {
+        "answer": "More than 2 minutes",
+        "count": 93,
+        "pct": 14.9
+      },
+      {
+        "answer": "6-10 seconds",
+        "count": 70,
+        "pct": 11.2
+      },
+      {
+        "answer": "0-5 seconds",
+        "count": 16,
+        "pct": 2.6
+      },
+      {
+        "answer": "Not applicable",
+        "count": 7,
+        "pct": 1.1
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 23,
+                "pct": 24.0
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 26,
+                "pct": 27.1
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 25,
+                "pct": 26.0
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 6,
+                "pct": 6.2
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 12,
+                "pct": 12.5
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 3,
+                "pct": 3.1
+              },
+              {
+                "answer": "Not applicable",
+                "count": 1,
+                "pct": 1.0
+              }
+            ],
+            "base": {
+              "n": 96
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 74,
+                "pct": 23.3
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 71,
+                "pct": 22.3
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 67,
+                "pct": 21.1
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 53,
+                "pct": 16.7
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 38,
+                "pct": 11.9
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 10,
+                "pct": 3.1
+              },
+              {
+                "answer": "Not applicable",
+                "count": 5,
+                "pct": 1.6
+              }
+            ],
+            "base": {
+              "n": 318
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 53,
+                "pct": 25.1
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 53,
+                "pct": 25.1
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 47,
+                "pct": 22.3
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 34,
+                "pct": 16.1
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 20,
+                "pct": 9.5
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 3,
+                "pct": 1.4
+              },
+              {
+                "answer": "Not applicable",
+                "count": 1,
+                "pct": 0.5
+              }
+            ],
+            "base": {
+              "n": 211
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 61,
+                "pct": 21.7
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 63,
+                "pct": 22.4
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 69,
+                "pct": 24.6
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 35,
+                "pct": 12.5
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 40,
+                "pct": 14.2
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 10,
+                "pct": 3.6
+              },
+              {
+                "answer": "Not applicable",
+                "count": 3,
+                "pct": 1.1
+              }
+            ],
+            "base": {
+              "n": 281
+            }
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 89,
+                "pct": 25.9
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 87,
+                "pct": 25.3
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 70,
+                "pct": 20.3
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 58,
+                "pct": 16.9
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 30,
+                "pct": 8.7
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 6,
+                "pct": 1.7
+              },
+              {
+                "answer": "Not applicable",
+                "count": 4,
+                "pct": 1.2
+              }
+            ],
+            "base": {
+              "n": 344
+            }
+          }
+        ]
+      }
+    },
+    "Education": {
+      "elementary_school": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 35,
+                "pct": 21.1
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 42,
+                "pct": 25.3
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 29,
+                "pct": 17.5
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 23,
+                "pct": 13.9
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 28,
+                "pct": 16.9
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 6,
+                "pct": 3.6
+              },
+              {
+                "answer": "Not applicable",
+                "count": 3,
+                "pct": 1.8
+              }
+            ],
+            "base": {
+              "n": 166
+            }
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not applicable",
+                "count": 1,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 40,
+                "pct": 26.3
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 43,
+                "pct": 28.3
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 27,
+                "pct": 17.8
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 30,
+                "pct": 19.7
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 9,
+                "pct": 5.9
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 3,
+                "pct": 2.0
+              },
+              {
+                "answer": "Not applicable",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 152
+            }
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 56,
+                "pct": 24.6
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 51,
+                "pct": 22.4
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 51,
+                "pct": 22.4
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 35,
+                "pct": 15.4
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 29,
+                "pct": 12.7
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 5,
+                "pct": 2.2
+              },
+              {
+                "answer": "Not applicable",
+                "count": 1,
+                "pct": 0.4
+              }
+            ],
+            "base": {
+              "n": 228
+            }
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 14,
+                "pct": 21.5
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 12,
+                "pct": 18.5
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 27,
+                "pct": 41.5
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 4,
+                "pct": 6.2
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 4,
+                "pct": 6.2
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 2,
+                "pct": 3.1
+              },
+              {
+                "answer": "Not applicable",
+                "count": 2,
+                "pct": 3.1
+              }
+            ],
+            "base": {
+              "n": 65
+            }
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 12,
+                "pct": 21.4
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 10,
+                "pct": 17.9
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 17,
+                "pct": 30.4
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 7,
+                "pct": 12.5
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 7,
+                "pct": 12.5
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 2,
+                "pct": 3.6
+              },
+              {
+                "answer": "Not applicable",
+                "count": 1,
+                "pct": 1.8
+              }
+            ],
+            "base": {
+              "n": 56
+            }
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 16,
+                "pct": 26.2
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 14,
+                "pct": 23.0
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 15,
+                "pct": 24.6
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 8,
+                "pct": 13.1
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 7,
+                "pct": 11.5
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 1,
+                "pct": 1.6
+              },
+              {
+                "answer": "Not applicable",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 61
+            }
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 16,
+                "pct": 22.2
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 22,
+                "pct": 30.6
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 6,
+                "pct": 8.3
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 22,
+                "pct": 30.6
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 6,
+                "pct": 8.3
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not applicable",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 72
+            }
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 28,
+                "pct": 18.9
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 34,
+                "pct": 23.0
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 28,
+                "pct": 18.9
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 25,
+                "pct": 16.9
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 23,
+                "pct": 15.5
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 5,
+                "pct": 3.4
+              },
+              {
+                "answer": "Not applicable",
+                "count": 5,
+                "pct": 3.4
+              }
+            ],
+            "base": {
+              "n": 148
+            }
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 29,
+                "pct": 23.0
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 25,
+                "pct": 19.8
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 30,
+                "pct": 23.8
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 21,
+                "pct": 16.7
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 15,
+                "pct": 11.9
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 5,
+                "pct": 4.0
+              },
+              {
+                "answer": "Not applicable",
+                "count": 1,
+                "pct": 0.8
+              }
+            ],
+            "base": {
+              "n": 126
+            }
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 19,
+                "pct": 25.7
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 25,
+                "pct": 33.8
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 20,
+                "pct": 27.0
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 4,
+                "pct": 5.4
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 5,
+                "pct": 6.8
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 1,
+                "pct": 1.4
+              },
+              {
+                "answer": "Not applicable",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 74
+            }
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 28,
+                "pct": 34.1
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 18,
+                "pct": 22.0
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 22,
+                "pct": 26.8
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 5,
+                "pct": 6.1
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 7,
+                "pct": 8.5
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 2,
+                "pct": 2.4
+              },
+              {
+                "answer": "Not applicable",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 82
+            }
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "Not applicable",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "Not applicable",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 21,
+                "pct": 29.6
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 13,
+                "pct": 18.3
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 15,
+                "pct": 21.1
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 16,
+                "pct": 22.5
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 6,
+                "pct": 8.5
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not applicable",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 71
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 6,
+                "pct": 60.0
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not applicable",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 8,
+                "pct": 17.8
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 16,
+                "pct": 35.6
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 7,
+                "pct": 15.6
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 6,
+                "pct": 13.3
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 6,
+                "pct": 13.3
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 2,
+                "pct": 4.4
+              },
+              {
+                "answer": "Not applicable",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 45
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 8,
+                "pct": 24.2
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 6,
+                "pct": 18.2
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 6,
+                "pct": 18.2
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 8,
+                "pct": 24.2
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 4,
+                "pct": 12.1
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not applicable",
+                "count": 1,
+                "pct": 3.0
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 5,
+                "pct": 26.3
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 5,
+                "pct": 26.3
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 6,
+                "pct": 31.6
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "Not applicable",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not applicable",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 5,
+                "pct": 23.8
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 4,
+                "pct": 19.0
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 3,
+                "pct": 14.3
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 4,
+                "pct": 19.0
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 5,
+                "pct": 23.8
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not applicable",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 8
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 8
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not applicable",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 8
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 14,
+                "pct": 33.3
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 14,
+                "pct": 33.3
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 9,
+                "pct": 21.4
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 3,
+                "pct": 7.1
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 2,
+                "pct": 4.8
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not applicable",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 7,
+                "pct": 25.9
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 6,
+                "pct": 22.2
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 4,
+                "pct": 14.8
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 7,
+                "pct": 25.9
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 1,
+                "pct": 3.7
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 2,
+                "pct": 7.4
+              },
+              {
+                "answer": "Not applicable",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 6,
+                "pct": 33.3
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 3,
+                "pct": 16.7
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 4,
+                "pct": 22.2
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 1,
+                "pct": 5.6
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 4,
+                "pct": 22.2
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not applicable",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Not applicable",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 7,
+                "pct": 26.9
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 8,
+                "pct": 30.8
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 5,
+                "pct": 19.2
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 4,
+                "pct": 15.4
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 1,
+                "pct": 3.8
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not applicable",
+                "count": 1,
+                "pct": 3.8
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 4,
+                "pct": 16.0
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 7,
+                "pct": 28.0
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 6,
+                "pct": 24.0
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 3,
+                "pct": 12.0
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 4,
+                "pct": 16.0
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not applicable",
+                "count": 1,
+                "pct": 4.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 7,
+                "pct": 41.2
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not applicable",
+                "count": 1,
+                "pct": 5.9
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 13,
+                "pct": 20.6
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 12,
+                "pct": 19.0
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 20,
+                "pct": 31.7
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 5,
+                "pct": 7.9
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 11,
+                "pct": 17.5
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not applicable",
+                "count": 2,
+                "pct": 3.2
+              }
+            ],
+            "base": {
+              "n": 63
+            }
+          }
+        ]
+      },
+      "Unknown": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 6,
+                "pct": 37.5
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 4,
+                "pct": 25.0
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 3,
+                "pct": 18.8
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 2,
+                "pct": 12.5
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not applicable",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [
+              {
+                "answer": "Between 30 seconds and 1 min",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Between 1-2 minutes",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "11-30 seconds",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "More than 2 minutes",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "6-10 seconds",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "0-5 seconds",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Not applicable",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q5: On average, how long do you spend reading a cover letter?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 10,
+    "single_panel": true
+  }
+}

@@ -1,0 +1,1229 @@
+{
+  "id": "Q4",
+  "text": "Q4",
+  "question_prompt": "Q4: Which part of an application do you read first?",
+  "type": "matrix",
+  "panels": [
+    "Q4: Which part of an application do you read first?"
+  ],
+  "answers": [
+    "Resume",
+    "Cover letter"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q4: Which part of an application do you read first?",
+      "cells": [
+        {
+          "answer": "Resume",
+          "count": 344,
+          "pct": 55.0
+        },
+        {
+          "answer": "Cover letter",
+          "count": 281,
+          "pct": 45.0
+        }
+      ],
+      "base": {
+        "n": 625
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 625
+    },
+    "answers": [
+      {
+        "answer": "Resume",
+        "count": 344,
+        "pct": 55.0
+      },
+      {
+        "answer": "Cover letter",
+        "count": 281,
+        "pct": 45.0
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 45,
+                "pct": 46.9
+              },
+              {
+                "answer": "Cover letter",
+                "count": 51,
+                "pct": 53.1
+              }
+            ],
+            "base": {
+              "n": 96
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 183,
+                "pct": 57.5
+              },
+              {
+                "answer": "Cover letter",
+                "count": 135,
+                "pct": 42.5
+              }
+            ],
+            "base": {
+              "n": 318
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 116,
+                "pct": 55.0
+              },
+              {
+                "answer": "Cover letter",
+                "count": 95,
+                "pct": 45.0
+              }
+            ],
+            "base": {
+              "n": 211
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 160,
+                "pct": 56.9
+              },
+              {
+                "answer": "Cover letter",
+                "count": 121,
+                "pct": 43.1
+              }
+            ],
+            "base": {
+              "n": 281
+            }
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 184,
+                "pct": 53.5
+              },
+              {
+                "answer": "Cover letter",
+                "count": 160,
+                "pct": 46.5
+              }
+            ],
+            "base": {
+              "n": 344
+            }
+          }
+        ]
+      }
+    },
+    "Education": {
+      "elementary_school": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 91,
+                "pct": 54.8
+              },
+              {
+                "answer": "Cover letter",
+                "count": 75,
+                "pct": 45.2
+              }
+            ],
+            "base": {
+              "n": 166
+            }
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "Cover letter",
+                "count": 7,
+                "pct": 63.6
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 82,
+                "pct": 53.9
+              },
+              {
+                "answer": "Cover letter",
+                "count": 70,
+                "pct": 46.1
+              }
+            ],
+            "base": {
+              "n": 152
+            }
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 123,
+                "pct": 53.9
+              },
+              {
+                "answer": "Cover letter",
+                "count": 105,
+                "pct": 46.1
+              }
+            ],
+            "base": {
+              "n": 228
+            }
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 43,
+                "pct": 66.2
+              },
+              {
+                "answer": "Cover letter",
+                "count": 22,
+                "pct": 33.8
+              }
+            ],
+            "base": {
+              "n": 65
+            }
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 33,
+                "pct": 58.9
+              },
+              {
+                "answer": "Cover letter",
+                "count": 23,
+                "pct": 41.1
+              }
+            ],
+            "base": {
+              "n": 56
+            }
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 27,
+                "pct": 44.3
+              },
+              {
+                "answer": "Cover letter",
+                "count": 34,
+                "pct": 55.7
+              }
+            ],
+            "base": {
+              "n": 61
+            }
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 39,
+                "pct": 54.2
+              },
+              {
+                "answer": "Cover letter",
+                "count": 33,
+                "pct": 45.8
+              }
+            ],
+            "base": {
+              "n": 72
+            }
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 92,
+                "pct": 62.2
+              },
+              {
+                "answer": "Cover letter",
+                "count": 56,
+                "pct": 37.8
+              }
+            ],
+            "base": {
+              "n": 148
+            }
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 69,
+                "pct": 54.8
+              },
+              {
+                "answer": "Cover letter",
+                "count": 57,
+                "pct": 45.2
+              }
+            ],
+            "base": {
+              "n": 126
+            }
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 42,
+                "pct": 56.8
+              },
+              {
+                "answer": "Cover letter",
+                "count": 32,
+                "pct": 43.2
+              }
+            ],
+            "base": {
+              "n": 74
+            }
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 39,
+                "pct": 47.6
+              },
+              {
+                "answer": "Cover letter",
+                "count": 43,
+                "pct": 52.4
+              }
+            ],
+            "base": {
+              "n": 82
+            }
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 11,
+                "pct": 73.3
+              },
+              {
+                "answer": "Cover letter",
+                "count": 4,
+                "pct": 26.7
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "Cover letter",
+                "count": 6,
+                "pct": 54.5
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 38,
+                "pct": 53.5
+              },
+              {
+                "answer": "Cover letter",
+                "count": 33,
+                "pct": 46.5
+              }
+            ],
+            "base": {
+              "n": 71
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "Cover letter",
+                "count": 5,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 25,
+                "pct": 55.6
+              },
+              {
+                "answer": "Cover letter",
+                "count": 20,
+                "pct": 44.4
+              }
+            ],
+            "base": {
+              "n": 45
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 18,
+                "pct": 54.5
+              },
+              {
+                "answer": "Cover letter",
+                "count": 15,
+                "pct": 45.5
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 9,
+                "pct": 47.4
+              },
+              {
+                "answer": "Cover letter",
+                "count": 10,
+                "pct": 52.6
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 7,
+                "pct": 63.6
+              },
+              {
+                "answer": "Cover letter",
+                "count": 4,
+                "pct": 36.4
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 17,
+                "pct": 81.0
+              },
+              {
+                "answer": "Cover letter",
+                "count": 4,
+                "pct": 19.0
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 8
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 8
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "Cover letter",
+                "count": 5,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 8
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 25,
+                "pct": 59.5
+              },
+              {
+                "answer": "Cover letter",
+                "count": 17,
+                "pct": 40.5
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 15,
+                "pct": 55.6
+              },
+              {
+                "answer": "Cover letter",
+                "count": 12,
+                "pct": 44.4
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 10,
+                "pct": 55.6
+              },
+              {
+                "answer": "Cover letter",
+                "count": 8,
+                "pct": 44.4
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 7,
+                "pct": 70.0
+              },
+              {
+                "answer": "Cover letter",
+                "count": 3,
+                "pct": 30.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 16,
+                "pct": 61.5
+              },
+              {
+                "answer": "Cover letter",
+                "count": 10,
+                "pct": 38.5
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 11,
+                "pct": 44.0
+              },
+              {
+                "answer": "Cover letter",
+                "count": 14,
+                "pct": 56.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 9,
+                "pct": 52.9
+              },
+              {
+                "answer": "Cover letter",
+                "count": 8,
+                "pct": 47.1
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 36,
+                "pct": 57.1
+              },
+              {
+                "answer": "Cover letter",
+                "count": 27,
+                "pct": 42.9
+              }
+            ],
+            "base": {
+              "n": 63
+            }
+          }
+        ]
+      },
+      "Unknown": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 8,
+                "pct": 50.0
+              },
+              {
+                "answer": "Cover letter",
+                "count": 8,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [
+              {
+                "answer": "Resume",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Cover letter",
+                "count": 9,
+                "pct": 90.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q4: Which part of an application do you read first?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 10,
+    "single_panel": true
+  }
+}
