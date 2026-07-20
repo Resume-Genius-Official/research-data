@@ -1,0 +1,19 @@
+{
+  "slug": "us_post_election_salary_and_romance_2024",
+  "title": "US Workers Mini Survey: Post-Election, Salary Expectations, and Workplace Romance, 2024",
+  "country": "US",
+  "year": 2024,
+  "fieldwork_start": "",
+  "fieldwork_end": "",
+  "sample_n": 1000,
+  "vendor": "Pollfish",
+  "notes": "Survey of US workers on post-election job market expectations, salary outlook, and workplace romance.",
+  "topic_tags": [
+    "election impact",
+    "salary expectations",
+    "workplace romance",
+    "job market",
+    "us workers"
+  ],
+  "default_qtype": "matrix"
+}

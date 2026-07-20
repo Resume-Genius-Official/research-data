@@ -1,0 +1,2877 @@
+{
+  "id": "Q3",
+  "text": "Q3",
+  "question_prompt": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+  "type": "matrix",
+  "panels": [
+    "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?"
+  ],
+  "answers": [
+    "Optimistic",
+    "Very optimistic",
+    "Pessimistic (not optimistic)",
+    "Very pessimistic"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+      "cells": [
+        {
+          "answer": "Optimistic",
+          "count": 339,
+          "pct": 33.9
+        },
+        {
+          "answer": "Very optimistic",
+          "count": 305,
+          "pct": 30.5
+        },
+        {
+          "answer": "Pessimistic (not optimistic)",
+          "count": 222,
+          "pct": 22.2
+        },
+        {
+          "answer": "Very pessimistic",
+          "count": 134,
+          "pct": 13.4
+        }
+      ],
+      "base": {
+        "n": 1000
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 1000
+    },
+    "answers": [
+      {
+        "answer": "Optimistic",
+        "count": 339,
+        "pct": 33.9
+      },
+      {
+        "answer": "Very optimistic",
+        "count": 305,
+        "pct": 30.5
+      },
+      {
+        "answer": "Pessimistic (not optimistic)",
+        "count": 222,
+        "pct": 22.2
+      },
+      {
+        "answer": "Very pessimistic",
+        "count": 134,
+        "pct": 13.4
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Baby Boomers": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 43,
+                "pct": 30.5
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 41,
+                "pct": 29.1
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 35,
+                "pct": 24.8
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 22,
+                "pct": 15.6
+              }
+            ],
+            "base": {
+              "n": 141
+            }
+          }
+        ]
+      },
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 137,
+                "pct": 36.0
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 106,
+                "pct": 27.8
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 84,
+                "pct": 22.0
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 54,
+                "pct": 14.2
+              }
+            ],
+            "base": {
+              "n": 381
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 33,
+                "pct": 37.5
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 25,
+                "pct": 28.4
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 22,
+                "pct": 25.0
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 8,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 88
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 125,
+                "pct": 32.2
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 132,
+                "pct": 34.0
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 81,
+                "pct": 20.9
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 50,
+                "pct": 12.9
+              }
+            ],
+            "base": {
+              "n": 388
+            }
+          }
+        ]
+      },
+      "Silent Generation": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "Female": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 166,
+                "pct": 33.4
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 138,
+                "pct": 27.8
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 114,
+                "pct": 22.9
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 79,
+                "pct": 15.9
+              }
+            ],
+            "base": {
+              "n": 497
+            }
+          }
+        ]
+      },
+      "Male": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 173,
+                "pct": 34.4
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 167,
+                "pct": 33.2
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 108,
+                "pct": 21.5
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 55,
+                "pct": 10.9
+              }
+            ],
+            "base": {
+              "n": 503
+            }
+          }
+        ]
+      }
+    },
+    "Household income US": {
+      "$1 million +": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "$10,000 to $14,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 3,
+                "pct": 50.0
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 1,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "$100,000 to $124,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 40,
+                "pct": 37.0
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 33,
+                "pct": 30.6
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 22,
+                "pct": 20.4
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 13,
+                "pct": 12.0
+              }
+            ],
+            "base": {
+              "n": 108
+            }
+          }
+        ]
+      },
+      "$125,000 to $149,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 22,
+                "pct": 33.8
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 21,
+                "pct": 32.3
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 11,
+                "pct": 16.9
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 11,
+                "pct": 16.9
+              }
+            ],
+            "base": {
+              "n": 65
+            }
+          }
+        ]
+      },
+      "$15,000 to $19,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 2,
+                "pct": 16.7
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 6,
+                "pct": 50.0
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 2,
+                "pct": 16.7
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 2,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 12
+            }
+          }
+        ]
+      },
+      "$150,000 to $174,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 10,
+                "pct": 25.6
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 12,
+                "pct": 30.8
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 10,
+                "pct": 25.6
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 7,
+                "pct": 17.9
+              }
+            ],
+            "base": {
+              "n": 39
+            }
+          }
+        ]
+      },
+      "$175,000 to $199,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 11,
+                "pct": 28.9
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 12,
+                "pct": 31.6
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 11,
+                "pct": 28.9
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 4,
+                "pct": 10.5
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "$20,000 to $24,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 8,
+                "pct": 30.8
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 6,
+                "pct": 23.1
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 8,
+                "pct": 30.8
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 4,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "$200,000 to $249,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 10,
+                "pct": 24.4
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 14,
+                "pct": 34.1
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 14,
+                "pct": 34.1
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 3,
+                "pct": 7.3
+              }
+            ],
+            "base": {
+              "n": 41
+            }
+          }
+        ]
+      },
+      "$25,000 to $29,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 16,
+                "pct": 44.4
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 10,
+                "pct": 27.8
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 4,
+                "pct": 11.1
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 6,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 36
+            }
+          }
+        ]
+      },
+      "$250,000 to $499,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 13,
+                "pct": 31.0
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 12,
+                "pct": 28.6
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 11,
+                "pct": 26.2
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 6,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "$30,000 to $34,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 14,
+                "pct": 36.8
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 15,
+                "pct": 39.5
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 3,
+                "pct": 7.9
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 6,
+                "pct": 15.8
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "$35,000 to $39,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 15,
+                "pct": 34.9
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 16,
+                "pct": 37.2
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 8,
+                "pct": 18.6
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 4,
+                "pct": 9.3
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "$40,000 to $44,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 15,
+                "pct": 39.5
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 11,
+                "pct": 28.9
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 8,
+                "pct": 21.1
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 4,
+                "pct": 10.5
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "$45,000 to $49,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 11,
+                "pct": 26.8
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 16,
+                "pct": 39.0
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 10,
+                "pct": 24.4
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 4,
+                "pct": 9.8
+              }
+            ],
+            "base": {
+              "n": 41
+            }
+          }
+        ]
+      },
+      "$5,000 to $9,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "$50,000 to $54,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 16,
+                "pct": 27.1
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 22,
+                "pct": 37.3
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 14,
+                "pct": 23.7
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 7,
+                "pct": 11.9
+              }
+            ],
+            "base": {
+              "n": 59
+            }
+          }
+        ]
+      },
+      "$500,000 to $999,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "$55,000 to $59,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 12,
+                "pct": 33.3
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 11,
+                "pct": 30.6
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 12,
+                "pct": 33.3
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 1,
+                "pct": 2.8
+              }
+            ],
+            "base": {
+              "n": 36
+            }
+          }
+        ]
+      },
+      "$60,000 to $64,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 11,
+                "pct": 42.3
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 6,
+                "pct": 23.1
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 5,
+                "pct": 19.2
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 4,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "$65,000 to $69,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 11,
+                "pct": 36.7
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 10,
+                "pct": 33.3
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 6,
+                "pct": 20.0
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 3,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "$70,000 to $74,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 17,
+                "pct": 38.6
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 10,
+                "pct": 22.7
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 11,
+                "pct": 25.0
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 6,
+                "pct": 13.6
+              }
+            ],
+            "base": {
+              "n": 44
+            }
+          }
+        ]
+      },
+      "$75,000 to $79,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 19,
+                "pct": 42.2
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 11,
+                "pct": 24.4
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 11,
+                "pct": 24.4
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 4,
+                "pct": 8.9
+              }
+            ],
+            "base": {
+              "n": 45
+            }
+          }
+        ]
+      },
+      "$80,000 to $84,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 9,
+                "pct": 29.0
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 8,
+                "pct": 25.8
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 9,
+                "pct": 29.0
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 5,
+                "pct": 16.1
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          }
+        ]
+      },
+      "$85,000 to $89,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 13,
+                "pct": 40.6
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 10,
+                "pct": 31.2
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 2,
+                "pct": 6.2
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 7,
+                "pct": 21.9
+              }
+            ],
+            "base": {
+              "n": 32
+            }
+          }
+        ]
+      },
+      "$90,000 to $94,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 9,
+                "pct": 34.6
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 8,
+                "pct": 30.8
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 7,
+                "pct": 26.9
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 2,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "$95,000 to $99,999": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 20,
+                "pct": 39.2
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 10,
+                "pct": 19.6
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 8,
+                "pct": 15.7
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 13,
+                "pct": 25.5
+              }
+            ],
+            "base": {
+              "n": 51
+            }
+          }
+        ]
+      },
+      "Less than $5,000": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 7,
+                "pct": 35.0
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 6,
+                "pct": 30.0
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 5,
+                "pct": 25.0
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 2,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 5,
+                "pct": 25.0
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 3,
+                "pct": 15.0
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 7,
+                "pct": 35.0
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 5,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      }
+    },
+    "US State": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 3,
+                "pct": 50.0
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 2,
+                "pct": 33.3
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "Alaska": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 9,
+                "pct": 33.3
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 10,
+                "pct": 37.0
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 6,
+                "pct": 22.2
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 2,
+                "pct": 7.4
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 3,
+                "pct": 42.9
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 3,
+                "pct": 42.9
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 1,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 41,
+                "pct": 33.9
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 25,
+                "pct": 20.7
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 38,
+                "pct": 31.4
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 17,
+                "pct": 14.0
+              }
+            ],
+            "base": {
+              "n": 121
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 5,
+                "pct": 27.8
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 4,
+                "pct": 22.2
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 6,
+                "pct": 33.3
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 3,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 6,
+                "pct": 46.2
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 1,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 1,
+                "pct": 14.3
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 4,
+                "pct": 57.1
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 1,
+                "pct": 14.3
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 1,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 22,
+                "pct": 36.7
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 23,
+                "pct": 38.3
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 9,
+                "pct": 15.0
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 6,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 60
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 8,
+                "pct": 25.0
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 14,
+                "pct": 43.8
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 6,
+                "pct": 18.8
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 4,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 32
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 5,
+                "pct": 71.4
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 1,
+                "pct": 14.3
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 1,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 10,
+                "pct": 27.8
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 10,
+                "pct": 27.8
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 7,
+                "pct": 19.4
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 9,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 36
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 7,
+                "pct": 36.8
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 6,
+                "pct": 31.6
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 4,
+                "pct": 21.1
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 4,
+                "pct": 33.3
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 5,
+                "pct": 41.7
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 3,
+                "pct": 25.0
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 12
+            }
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 2,
+                "pct": 22.2
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 4,
+                "pct": 44.4
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 5,
+                "pct": 38.5
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 1,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 6,
+                "pct": 40.0
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 3,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 7,
+                "pct": 41.2
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 3,
+                "pct": 17.6
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 13,
+                "pct": 41.9
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 8,
+                "pct": 25.8
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 8,
+                "pct": 25.8
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 2,
+                "pct": 6.5
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 9,
+                "pct": 40.9
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 9,
+                "pct": 40.9
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 2,
+                "pct": 9.1
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 2,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 5,
+                "pct": 71.4
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 3,
+                "pct": 18.8
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 4,
+                "pct": 25.0
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 5,
+                "pct": 31.2
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 4,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 7,
+                "pct": 38.9
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 5,
+                "pct": 27.8
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 5,
+                "pct": 27.8
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 1,
+                "pct": 5.6
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 3,
+                "pct": 42.9
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 10,
+                "pct": 29.4
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 12,
+                "pct": 35.3
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 10,
+                "pct": 29.4
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 2,
+                "pct": 5.9
+              }
+            ],
+            "base": {
+              "n": 34
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 21,
+                "pct": 31.8
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 15,
+                "pct": 22.7
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 14,
+                "pct": 21.2
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 16,
+                "pct": 24.2
+              }
+            ],
+            "base": {
+              "n": 66
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 11,
+                "pct": 35.5
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 8,
+                "pct": 25.8
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 8,
+                "pct": 25.8
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 4,
+                "pct": 12.9
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 27,
+                "pct": 49.1
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 17,
+                "pct": 30.9
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 6,
+                "pct": 10.9
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 5,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 55
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 6,
+                "pct": 46.2
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 7,
+                "pct": 53.8
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 7,
+                "pct": 53.8
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 2,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 18,
+                "pct": 36.0
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 17,
+                "pct": 34.0
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 7,
+                "pct": 14.0
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 8,
+                "pct": 16.0
+              }
+            ],
+            "base": {
+              "n": 50
+            }
+          }
+        ]
+      },
+      "Puerto Rico": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 2,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "South Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 6,
+                "pct": 40.0
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 8,
+                "pct": 53.3
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 1,
+                "pct": 6.7
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 21,
+                "pct": 28.0
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 32,
+                "pct": 42.7
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 16,
+                "pct": 21.3
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 6,
+                "pct": 8.0
+              }
+            ],
+            "base": {
+              "n": 75
+            }
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 8,
+                "pct": 42.1
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 5,
+                "pct": 26.3
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 3,
+                "pct": 15.8
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 3,
+                "pct": 15.8
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 6,
+                "pct": 28.6
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 5,
+                "pct": 23.8
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 5,
+                "pct": 23.8
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 5,
+                "pct": 23.8
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 10,
+                "pct": 40.0
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 2,
+                "pct": 8.0
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 9,
+                "pct": 36.0
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 4,
+                "pct": 16.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Wyoming": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Education Level": {
+      "Associates Degree": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 48,
+                "pct": 42.1
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 40,
+                "pct": 35.1
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 20,
+                "pct": 17.5
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 6,
+                "pct": 5.3
+              }
+            ],
+            "base": {
+              "n": 114
+            }
+          }
+        ]
+      },
+      "Bachelor's degree": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 94,
+                "pct": 31.2
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 83,
+                "pct": 27.6
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 72,
+                "pct": 23.9
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 52,
+                "pct": 17.3
+              }
+            ],
+            "base": {
+              "n": 301
+            }
+          }
+        ]
+      },
+      "Completed some college": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 61,
+                "pct": 36.5
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 46,
+                "pct": 27.5
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 36,
+                "pct": 21.6
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 24,
+                "pct": 14.4
+              }
+            ],
+            "base": {
+              "n": 167
+            }
+          }
+        ]
+      },
+      "Completed some high school": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 12,
+                "pct": 75.0
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 2,
+                "pct": 12.5
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 1,
+                "pct": 6.2
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Completed some postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 9,
+                "pct": 36.0
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 5,
+                "pct": 20.0
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 7,
+                "pct": 28.0
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 4,
+                "pct": 16.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Doctorate /PhD": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 9,
+                "pct": 36.0
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 8,
+                "pct": 32.0
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 7,
+                "pct": 28.0
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 1,
+                "pct": 4.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "High school graduate": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 62,
+                "pct": 35.0
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 66,
+                "pct": 37.3
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 30,
+                "pct": 16.9
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 19,
+                "pct": 10.7
+              }
+            ],
+            "base": {
+              "n": 177
+            }
+          }
+        ]
+      },
+      "Masters degree": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 28,
+                "pct": 21.2
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 40,
+                "pct": 30.3
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 42,
+                "pct": 31.8
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 22,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 132
+            }
+          }
+        ]
+      },
+      "Middle School": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "None of the above/Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 2,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Other post high school vocational training": {
+        "rows": [
+          {
+            "panel_id": "Q3: How optimistic are you about the impact of the next presidential administration on your work and career?",
+            "cells": [
+              {
+                "answer": "Optimistic",
+                "count": 13,
+                "pct": 37.1
+              },
+              {
+                "answer": "Very optimistic",
+                "count": 13,
+                "pct": 37.1
+              },
+              {
+                "answer": "Pessimistic (not optimistic)",
+                "count": 6,
+                "pct": 17.1
+              },
+              {
+                "answer": "Very pessimistic",
+                "count": 3,
+                "pct": 8.6
+              }
+            ],
+            "base": {
+              "n": 35
+            }
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 5,
+    "single_panel": true
+  }
+}
