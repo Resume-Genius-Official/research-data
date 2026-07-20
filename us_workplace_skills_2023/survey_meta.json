@@ -1,0 +1,19 @@
+{
+  "slug": "us_workplace_skills_2023",
+  "title": "US Workplace Skills Survey, 2023",
+  "country": "US",
+  "year": 2023,
+  "fieldwork_start": "",
+  "fieldwork_end": "",
+  "sample_n": 812,
+  "vendor": "Pollfish",
+  "notes": "Survey of US employees and managers on skills gaps, resume skills, and top-performing skill sets.",
+  "topic_tags": [
+    "workplace skills",
+    "skills gaps",
+    "training",
+    "hiring",
+    "performance"
+  ],
+  "default_qtype": "matrix"
+}

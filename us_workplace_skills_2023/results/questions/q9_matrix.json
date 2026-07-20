@@ -1,0 +1,2385 @@
+{
+  "id": "Q9",
+  "text": "Q9",
+  "question_prompt": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+  "type": "matrix",
+  "panels": [
+    "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+    "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills"
+  ],
+  "answers": [
+    "Yes, I do",
+    "No, I don't"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+      "cells": [
+        {
+          "answer": "Yes, I do",
+          "count": 685,
+          "pct": 84.4
+        },
+        {
+          "answer": "No, I don't",
+          "count": 127,
+          "pct": 15.6
+        }
+      ],
+      "base": {
+        "n": 812
+      }
+    },
+    {
+      "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+      "cells": [
+        {
+          "answer": "Yes, I do",
+          "count": 639,
+          "pct": 78.7
+        },
+        {
+          "answer": "No, I don't",
+          "count": 173,
+          "pct": 21.3
+        }
+      ],
+      "base": {
+        "n": 812
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 1624
+    },
+    "answers": [
+      {
+        "answer": "Yes, I do",
+        "count": 1324,
+        "pct": 81.5
+      },
+      {
+        "answer": "No, I don't",
+        "count": 300,
+        "pct": 18.5
+      }
+    ],
+    "note": "Roll-up sums bases across panels."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 140,
+                "pct": 79.1
+              },
+              {
+                "answer": "No, I don't",
+                "count": 37,
+                "pct": 20.9
+              }
+            ],
+            "base": {
+              "n": 177
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 122,
+                "pct": 68.9
+              },
+              {
+                "answer": "No, I don't",
+                "count": 55,
+                "pct": 31.1
+              }
+            ],
+            "base": {
+              "n": 177
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 321,
+                "pct": 85.6
+              },
+              {
+                "answer": "No, I don't",
+                "count": 54,
+                "pct": 14.4
+              }
+            ],
+            "base": {
+              "n": 375
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 296,
+                "pct": 78.9
+              },
+              {
+                "answer": "No, I don't",
+                "count": 79,
+                "pct": 21.1
+              }
+            ],
+            "base": {
+              "n": 375
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 224,
+                "pct": 86.2
+              },
+              {
+                "answer": "No, I don't",
+                "count": 36,
+                "pct": 13.8
+              }
+            ],
+            "base": {
+              "n": 260
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 221,
+                "pct": 85.0
+              },
+              {
+                "answer": "No, I don't",
+                "count": 39,
+                "pct": 15.0
+              }
+            ],
+            "base": {
+              "n": 260
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 377,
+                "pct": 84.5
+              },
+              {
+                "answer": "No, I don't",
+                "count": 69,
+                "pct": 15.5
+              }
+            ],
+            "base": {
+              "n": 446
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 346,
+                "pct": 77.6
+              },
+              {
+                "answer": "No, I don't",
+                "count": 100,
+                "pct": 22.4
+              }
+            ],
+            "base": {
+              "n": 446
+            }
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 308,
+                "pct": 84.2
+              },
+              {
+                "answer": "No, I don't",
+                "count": 58,
+                "pct": 15.8
+              }
+            ],
+            "base": {
+              "n": 366
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 293,
+                "pct": 80.1
+              },
+              {
+                "answer": "No, I don't",
+                "count": 73,
+                "pct": 19.9
+              }
+            ],
+            "base": {
+              "n": 366
+            }
+          }
+        ]
+      }
+    },
+    "Education": {
+      "elementary_school": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 17,
+                "pct": 63.0
+              },
+              {
+                "answer": "No, I don't",
+                "count": 10,
+                "pct": 37.0
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 14,
+                "pct": 51.9
+              },
+              {
+                "answer": "No, I don't",
+                "count": 13,
+                "pct": 48.1
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 158,
+                "pct": 78.6
+              },
+              {
+                "answer": "No, I don't",
+                "count": 43,
+                "pct": 21.4
+              }
+            ],
+            "base": {
+              "n": 201
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 135,
+                "pct": 67.2
+              },
+              {
+                "answer": "No, I don't",
+                "count": 66,
+                "pct": 32.8
+              }
+            ],
+            "base": {
+              "n": 201
+            }
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 17,
+                "pct": 70.8
+              },
+              {
+                "answer": "No, I don't",
+                "count": 7,
+                "pct": 29.2
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 17,
+                "pct": 70.8
+              },
+              {
+                "answer": "No, I don't",
+                "count": 7,
+                "pct": 29.2
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 117,
+                "pct": 93.6
+              },
+              {
+                "answer": "No, I don't",
+                "count": 8,
+                "pct": 6.4
+              }
+            ],
+            "base": {
+              "n": 125
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 105,
+                "pct": 84.0
+              },
+              {
+                "answer": "No, I don't",
+                "count": 20,
+                "pct": 16.0
+              }
+            ],
+            "base": {
+              "n": 125
+            }
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 282,
+                "pct": 90.4
+              },
+              {
+                "answer": "No, I don't",
+                "count": 30,
+                "pct": 9.6
+              }
+            ],
+            "base": {
+              "n": 312
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 280,
+                "pct": 89.7
+              },
+              {
+                "answer": "No, I don't",
+                "count": 32,
+                "pct": 10.3
+              }
+            ],
+            "base": {
+              "n": 312
+            }
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 94,
+                "pct": 76.4
+              },
+              {
+                "answer": "No, I don't",
+                "count": 29,
+                "pct": 23.6
+              }
+            ],
+            "base": {
+              "n": 123
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 88,
+                "pct": 71.5
+              },
+              {
+                "answer": "No, I don't",
+                "count": 35,
+                "pct": 28.5
+              }
+            ],
+            "base": {
+              "n": 123
+            }
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 85,
+                "pct": 86.7
+              },
+              {
+                "answer": "No, I don't",
+                "count": 13,
+                "pct": 13.3
+              }
+            ],
+            "base": {
+              "n": 98
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 91,
+                "pct": 92.9
+              },
+              {
+                "answer": "No, I don't",
+                "count": 7,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 98
+            }
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 114,
+                "pct": 90.5
+              },
+              {
+                "answer": "No, I don't",
+                "count": 12,
+                "pct": 9.5
+              }
+            ],
+            "base": {
+              "n": 126
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 107,
+                "pct": 84.9
+              },
+              {
+                "answer": "No, I don't",
+                "count": 19,
+                "pct": 15.1
+              }
+            ],
+            "base": {
+              "n": 126
+            }
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 68,
+                "pct": 90.7
+              },
+              {
+                "answer": "No, I don't",
+                "count": 7,
+                "pct": 9.3
+              }
+            ],
+            "base": {
+              "n": 75
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 60,
+                "pct": 80.0
+              },
+              {
+                "answer": "No, I don't",
+                "count": 15,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 75
+            }
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 109,
+                "pct": 87.2
+              },
+              {
+                "answer": "No, I don't",
+                "count": 16,
+                "pct": 12.8
+              }
+            ],
+            "base": {
+              "n": 125
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 83,
+                "pct": 66.4
+              },
+              {
+                "answer": "No, I don't",
+                "count": 42,
+                "pct": 33.6
+              }
+            ],
+            "base": {
+              "n": 125
+            }
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 122,
+                "pct": 85.3
+              },
+              {
+                "answer": "No, I don't",
+                "count": 21,
+                "pct": 14.7
+              }
+            ],
+            "base": {
+              "n": 143
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 113,
+                "pct": 79.0
+              },
+              {
+                "answer": "No, I don't",
+                "count": 30,
+                "pct": 21.0
+              }
+            ],
+            "base": {
+              "n": 143
+            }
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 74,
+                "pct": 73.3
+              },
+              {
+                "answer": "No, I don't",
+                "count": 27,
+                "pct": 26.7
+              }
+            ],
+            "base": {
+              "n": 101
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 76,
+                "pct": 75.2
+              },
+              {
+                "answer": "No, I don't",
+                "count": 25,
+                "pct": 24.8
+              }
+            ],
+            "base": {
+              "n": 101
+            }
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 101,
+                "pct": 79.5
+              },
+              {
+                "answer": "No, I don't",
+                "count": 26,
+                "pct": 20.5
+              }
+            ],
+            "base": {
+              "n": 127
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 100,
+                "pct": 78.7
+              },
+              {
+                "answer": "No, I don't",
+                "count": 27,
+                "pct": 21.3
+              }
+            ],
+            "base": {
+              "n": 127
+            }
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 12,
+                "pct": 70.6
+              },
+              {
+                "answer": "No, I don't",
+                "count": 5,
+                "pct": 29.4
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 9,
+                "pct": 52.9
+              },
+              {
+                "answer": "No, I don't",
+                "count": 8,
+                "pct": 47.1
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 9,
+                "pct": 81.8
+              },
+              {
+                "answer": "No, I don't",
+                "count": 2,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 8,
+                "pct": 72.7
+              },
+              {
+                "answer": "No, I don't",
+                "count": 3,
+                "pct": 27.3
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Alaska": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 19,
+                "pct": 90.5
+              },
+              {
+                "answer": "No, I don't",
+                "count": 2,
+                "pct": 9.5
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 17,
+                "pct": 81.0
+              },
+              {
+                "answer": "No, I don't",
+                "count": 4,
+                "pct": 19.0
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 97,
+                "pct": 80.2
+              },
+              {
+                "answer": "No, I don't",
+                "count": 24,
+                "pct": 19.8
+              }
+            ],
+            "base": {
+              "n": 121
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 97,
+                "pct": 80.2
+              },
+              {
+                "answer": "No, I don't",
+                "count": 24,
+                "pct": 19.8
+              }
+            ],
+            "base": {
+              "n": 121
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 12,
+                "pct": 92.3
+              },
+              {
+                "answer": "No, I don't",
+                "count": 1,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 11,
+                "pct": 84.6
+              },
+              {
+                "answer": "No, I don't",
+                "count": 2,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 14,
+                "pct": 100.0
+              },
+              {
+                "answer": "No, I don't",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 12,
+                "pct": 85.7
+              },
+              {
+                "answer": "No, I don't",
+                "count": 2,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 44,
+                "pct": 83.0
+              },
+              {
+                "answer": "No, I don't",
+                "count": 9,
+                "pct": 17.0
+              }
+            ],
+            "base": {
+              "n": 53
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 46,
+                "pct": 86.8
+              },
+              {
+                "answer": "No, I don't",
+                "count": 7,
+                "pct": 13.2
+              }
+            ],
+            "base": {
+              "n": 53
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 24,
+                "pct": 96.0
+              },
+              {
+                "answer": "No, I don't",
+                "count": 1,
+                "pct": 4.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 19,
+                "pct": 76.0
+              },
+              {
+                "answer": "No, I don't",
+                "count": 6,
+                "pct": 24.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 28,
+                "pct": 80.0
+              },
+              {
+                "answer": "No, I don't",
+                "count": 7,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 35
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 26,
+                "pct": 74.3
+              },
+              {
+                "answer": "No, I don't",
+                "count": 9,
+                "pct": 25.7
+              }
+            ],
+            "base": {
+              "n": 35
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 15,
+                "pct": 83.3
+              },
+              {
+                "answer": "No, I don't",
+                "count": 3,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 14,
+                "pct": 77.8
+              },
+              {
+                "answer": "No, I don't",
+                "count": 4,
+                "pct": 22.2
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 7,
+                "pct": 70.0
+              },
+              {
+                "answer": "No, I don't",
+                "count": 3,
+                "pct": 30.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 7,
+                "pct": 70.0
+              },
+              {
+                "answer": "No, I don't",
+                "count": 3,
+                "pct": 30.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 9,
+                "pct": 81.8
+              },
+              {
+                "answer": "No, I don't",
+                "count": 2,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 8,
+                "pct": 72.7
+              },
+              {
+                "answer": "No, I don't",
+                "count": 3,
+                "pct": 27.3
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 14,
+                "pct": 70.0
+              },
+              {
+                "answer": "No, I don't",
+                "count": 6,
+                "pct": 30.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 15,
+                "pct": 75.0
+              },
+              {
+                "answer": "No, I don't",
+                "count": 5,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 16,
+                "pct": 94.1
+              },
+              {
+                "answer": "No, I don't",
+                "count": 1,
+                "pct": 5.9
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 16,
+                "pct": 94.1
+              },
+              {
+                "answer": "No, I don't",
+                "count": 1,
+                "pct": 5.9
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 22,
+                "pct": 84.6
+              },
+              {
+                "answer": "No, I don't",
+                "count": 4,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 17,
+                "pct": 65.4
+              },
+              {
+                "answer": "No, I don't",
+                "count": 9,
+                "pct": 34.6
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 14,
+                "pct": 77.8
+              },
+              {
+                "answer": "No, I don't",
+                "count": 4,
+                "pct": 22.2
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 14,
+                "pct": 77.8
+              },
+              {
+                "answer": "No, I don't",
+                "count": 4,
+                "pct": 22.2
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 13,
+                "pct": 100.0
+              },
+              {
+                "answer": "No, I don't",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 12,
+                "pct": 92.3
+              },
+              {
+                "answer": "No, I don't",
+                "count": 1,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 14,
+                "pct": 82.4
+              },
+              {
+                "answer": "No, I don't",
+                "count": 3,
+                "pct": 17.6
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 14,
+                "pct": 82.4
+              },
+              {
+                "answer": "No, I don't",
+                "count": 3,
+                "pct": 17.6
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 39,
+                "pct": 81.2
+              },
+              {
+                "answer": "No, I don't",
+                "count": 9,
+                "pct": 18.8
+              }
+            ],
+            "base": {
+              "n": 48
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 39,
+                "pct": 81.2
+              },
+              {
+                "answer": "No, I don't",
+                "count": 9,
+                "pct": 18.8
+              }
+            ],
+            "base": {
+              "n": 48
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 19,
+                "pct": 67.9
+              },
+              {
+                "answer": "No, I don't",
+                "count": 9,
+                "pct": 32.1
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 19,
+                "pct": 67.9
+              },
+              {
+                "answer": "No, I don't",
+                "count": 9,
+                "pct": 32.1
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 23,
+                "pct": 92.0
+              },
+              {
+                "answer": "No, I don't",
+                "count": 2,
+                "pct": 8.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 20,
+                "pct": 80.0
+              },
+              {
+                "answer": "No, I don't",
+                "count": 5,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 11,
+                "pct": 78.6
+              },
+              {
+                "answer": "No, I don't",
+                "count": 3,
+                "pct": 21.4
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 10,
+                "pct": 71.4
+              },
+              {
+                "answer": "No, I don't",
+                "count": 4,
+                "pct": 28.6
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 24,
+                "pct": 92.3
+              },
+              {
+                "answer": "No, I don't",
+                "count": 2,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 24,
+                "pct": 92.3
+              },
+              {
+                "answer": "No, I don't",
+                "count": 2,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 8,
+                "pct": 80.0
+              },
+              {
+                "answer": "No, I don't",
+                "count": 2,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 6,
+                "pct": 60.0
+              },
+              {
+                "answer": "No, I don't",
+                "count": 4,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 9,
+                "pct": 90.0
+              },
+              {
+                "answer": "No, I don't",
+                "count": 1,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 7,
+                "pct": 70.0
+              },
+              {
+                "answer": "No, I don't",
+                "count": 3,
+                "pct": 30.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 76,
+                "pct": 91.6
+              },
+              {
+                "answer": "No, I don't",
+                "count": 7,
+                "pct": 8.4
+              }
+            ],
+            "base": {
+              "n": 83
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 65,
+                "pct": 78.3
+              },
+              {
+                "answer": "No, I don't",
+                "count": 18,
+                "pct": 21.7
+              }
+            ],
+            "base": {
+              "n": 83
+            }
+          }
+        ]
+      },
+      "Unknown": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 11,
+                "pct": 84.6
+              },
+              {
+                "answer": "No, I don't",
+                "count": 2,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 8,
+                "pct": 61.5
+              },
+              {
+                "answer": "No, I don't",
+                "count": 5,
+                "pct": 38.5
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 12,
+                "pct": 70.6
+              },
+              {
+                "answer": "No, I don't",
+                "count": 5,
+                "pct": 29.4
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 13,
+                "pct": 76.5
+              },
+              {
+                "answer": "No, I don't",
+                "count": 4,
+                "pct": 23.5
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 12,
+                "pct": 85.7
+              },
+              {
+                "answer": "No, I don't",
+                "count": 2,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          },
+          {
+            "panel_id": "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills",
+            "cells": [
+              {
+                "answer": "Yes, I do",
+                "count": 10,
+                "pct": 71.4
+              },
+              {
+                "answer": "No, I don't",
+                "count": 4,
+                "pct": 28.6
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 10
+  }
+}

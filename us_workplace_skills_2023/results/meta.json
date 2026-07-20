@@ -1,0 +1,415 @@
+{
+  "source_file": "Pollfish_Survey_RG_%7C_2023_Q1_%7C_Workplace_Skills_Survey_366110146.csv",
+  "generated_at": "2025-12-31T11:48:17.772372+08:00",
+  "version": "v1.2.0",
+  "options": {
+    "age_bins": [
+      {
+        "label": "Under 18",
+        "min": null,
+        "max": 17
+      },
+      {
+        "label": "18-24",
+        "min": 18,
+        "max": 24
+      },
+      {
+        "label": "25-34",
+        "min": 25,
+        "max": 34
+      },
+      {
+        "label": "35-44",
+        "min": 35,
+        "max": 44
+      },
+      {
+        "label": "45-54",
+        "min": 45,
+        "max": 54
+      },
+      {
+        "label": "55-64",
+        "min": 55,
+        "max": 64
+      },
+      {
+        "label": "65+",
+        "min": 65,
+        "max": null
+      }
+    ],
+    "age_binning_enabled": true,
+    "children_derived_modes": [
+      "has_u18",
+      "youngest_band"
+    ],
+    "child_bins": [
+      {
+        "label": "0-5",
+        "min": 0,
+        "max": 5
+      },
+      {
+        "label": "6-12",
+        "min": 6,
+        "max": 12
+      },
+      {
+        "label": "13-17",
+        "min": 13,
+        "max": 17
+      },
+      {
+        "label": "18+",
+        "min": 18,
+        "max": null
+      }
+    ],
+    "child_binning_enabled": true,
+    "children_keep_raw": false,
+    "question_auto_binning": true,
+    "generation_bins": [
+      {
+        "label": "Gen Z",
+        "min": 13,
+        "max": 28
+      },
+      {
+        "label": "Millennials",
+        "min": 29,
+        "max": 44
+      },
+      {
+        "label": "Gen X",
+        "min": 45,
+        "max": 60
+      },
+      {
+        "label": "Baby Boomers",
+        "min": 61,
+        "max": 79
+      },
+      {
+        "label": "Silent Generation",
+        "min": 80,
+        "max": null
+      }
+    ]
+  },
+  "selections": {
+    "questions": [],
+    "demos": [
+      "Age",
+      "Gender",
+      "Education",
+      "Income",
+      "Area"
+    ],
+    "demo_configs": {
+      "Age": {
+        "mode": "generation_bins",
+        "bins": [
+          {
+            "label": "Gen Z",
+            "max": 28,
+            "min": 13
+          },
+          {
+            "label": "Millennials",
+            "max": 44,
+            "min": 29
+          },
+          {
+            "label": "Gen X",
+            "max": 60,
+            "min": 45
+          },
+          {
+            "label": "Baby Boomers",
+            "max": 79,
+            "min": 61
+          },
+          {
+            "label": "Silent Generation",
+            "max": null,
+            "min": 80
+          }
+        ],
+        "other_label": "Other"
+      },
+      "Gender": {
+        "mode": "none",
+        "other_label": "Other"
+      },
+      "Education": {
+        "mode": "none",
+        "other_label": "Other"
+      },
+      "Income": {
+        "mode": "none",
+        "other_label": "Other"
+      },
+      "Area": {
+        "mode": "none",
+        "other_label": "Other"
+      }
+    },
+    "matrices": [
+      "matrix:Q1",
+      "matrix:Q2",
+      "matrix:Q3",
+      "matrix:Q4",
+      "matrix:Q5",
+      "matrix:Q6",
+      "matrix:Q7",
+      "matrix:Q8",
+      "matrix:Q9",
+      "matrix:Q10",
+      "matrix:Q11",
+      "matrix:Q12",
+      "matrix:Q13",
+      "matrix:Q14",
+      "matrix:Q15",
+      "matrix:Q16"
+    ],
+    "question_options": {
+      "auto_bin_numeric": true
+    }
+  },
+  "suppression_threshold": 10,
+  "detection": {
+    "demo_candidates": [
+      "Manufacturer",
+      "OS",
+      "Country",
+      "Area",
+      "Gender",
+      "Age",
+      "Year Of Birth",
+      "Q1: Which of the following best describes you?",
+      "Q3: Which of the following is the main problem with skills on resumes that you see?",
+      "Marital Status",
+      "Number of children",
+      "Education",
+      "Employment Status",
+      "Career",
+      "Race",
+      "Income",
+      "Spoken Languages",
+      "Number of Employees",
+      "US Census Region",
+      "US Census Division",
+      "US Congressional District",
+      "Audience",
+      "Weight"
+    ],
+    "recommended_demos": [
+      "Age",
+      "Career",
+      "Country",
+      "Education",
+      "Gender",
+      "Income",
+      "Q1: Which of the following best describes you?",
+      "Q3: Which of the following is the main problem with skills on resumes that you see?",
+      "Spoken Languages",
+      "US Census Region"
+    ],
+    "demo_rejections": {
+      "ID": "id-like/high cardinality",
+      "Time Started": "datetime-like (header)",
+      "Time Finished": "datetime-like (header)",
+      "County": "high-cardinality",
+      "City": "high-cardinality",
+      "Provider": "id-like/high cardinality",
+      "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?": "question-like label",
+      "Q4: Rank the following parts of an application according to how useful they are in giving you an idea of the candidate's skills (1 = most useful for giving me an idea of a candidate's skills, 4 = least useful). Their resume and cover letter": "question-like label",
+      "Q4: Rank the following parts of an application according to how useful they are in giving you an idea of the candidate's skills (1 = most useful for giving me an idea of a candidate's skills, 4 = least useful). Their interview performance": "question-like label",
+      "Q4: Rank the following parts of an application according to how useful they are in giving you an idea of the candidate's skills (1 = most useful for giving me an idea of a candidate's skills, 4 = least useful). Their performance on skills tests": "question-like label",
+      "Q4: Rank the following parts of an application according to how useful they are in giving you an idea of the candidate's skills (1 = most useful for giving me an idea of a candidate's skills, 4 = least useful). Their references": "question-like label",
+      "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?": "question-like label",
+      "Q6: Why do you learn new skills? Rank the following reasons to learn new skills from most important (1) to least important (5). So that I can successfully complete my work tasks": "question-like label",
+      "Q6: Why do you learn new skills? Rank the following reasons to learn new skills from most important (1) to least important (5). So that I can work well with others": "question-like label",
+      "Q6: Why do you learn new skills? Rank the following reasons to learn new skills from most important (1) to least important (5). So I can help my company’s bottom line (e.g., helping customers, generating revenue)": "question-like label",
+      "Q6: Why do you learn new skills? Rank the following reasons to learn new skills from most important (1) to least important (5). So I can advance my career": "question-like label",
+      "Q6: Why do you learn new skills? Rank the following reasons to learn new skills from most important (1) to least important (5). So I can grow personally": "question-like label",
+      "Q7: Which of the following soft skills will become more important because of AI and automation? Select 5._Creativity": "question-like label",
+      "Q7: Which of the following soft skills will become more important because of AI and automation? Select 5._Critical thinking and problem solving": "question-like label",
+      "Q7: Which of the following soft skills will become more important because of AI and automation? Select 5._Adaptability": "question-like label",
+      "Q7: Which of the following soft skills will become more important because of AI and automation? Select 5._Leadership skills": "question-like label",
+      "Q7: Which of the following soft skills will become more important because of AI and automation? Select 5._Communication skills": "question-like label",
+      "Q7: Which of the following soft skills will become more important because of AI and automation? Select 5._Interpersonal skills": "question-like label",
+      "Q7: Which of the following soft skills will become more important because of AI and automation? Select 5._Work ethic (integrity, discipline, responsibility, initiative)": "question-like label",
+      "Q7: Which of the following soft skills will become more important because of AI and automation? Select 5._Time management": "question-like label",
+      "Q7: Which of the following soft skills will become more important because of AI and automation? Select 5._Organization": "question-like label",
+      "Q8: Choose the percentage of hard to soft skills you like to see for 1) technical roles and 2) non-technical roles. technical roles": "question-like label",
+      "Q8: Choose the percentage of hard to soft skills you like to see for 1) technical roles and 2) non-technical roles. non-technical roles": "question-like label",
+      "Q9: Mark whether you pay attention to the following on an applicant’s resume. Soft skills": "question-like label",
+      "Q9: Mark whether you pay attention to the following on an applicant’s resume. Hard skills": "question-like label",
+      "Q10: Choose the top 3 skills that separate the top performers from everyone else at your company._Analytical skills": "question-like label",
+      "Q10: Choose the top 3 skills that separate the top performers from everyone else at your company._Communication skills": "question-like label",
+      "Q10: Choose the top 3 skills that separate the top performers from everyone else at your company._Computer skills": "question-like label",
+      "Q10: Choose the top 3 skills that separate the top performers from everyone else at your company._Customer service skills": "question-like label",
+      "Q10: Choose the top 3 skills that separate the top performers from everyone else at your company._Interpersonal skills": "question-like label",
+      "Q10: Choose the top 3 skills that separate the top performers from everyone else at your company._Leadership skills": "question-like label",
+      "Q10: Choose the top 3 skills that separate the top performers from everyone else at your company._Management skills": "question-like label",
+      "Q10: Choose the top 3 skills that separate the top performers from everyone else at your company._Organizational skills": "question-like label",
+      "Q10: Choose the top 3 skills that separate the top performers from everyone else at your company._Technical skills": "question-like label",
+      "Q10: Choose the top 3 skills that separate the top performers from everyone else at your company._Time management skills": "question-like label",
+      "Q10: Choose the top 3 skills that separate the top performers from everyone else at your company._Foreign language skills": "question-like label",
+      "Q11: Which of these transferable skills are you most looking for in applicants? Pick the top 3._Foreign language skills": "question-like label",
+      "Q11: Which of these transferable skills are you most looking for in applicants? Pick the top 3._Computer skills": "question-like label",
+      "Q11: Which of these transferable skills are you most looking for in applicants? Pick the top 3._Writing skills": "question-like label",
+      "Q11: Which of these transferable skills are you most looking for in applicants? Pick the top 3._Leadership skills": "question-like label",
+      "Q11: Which of these transferable skills are you most looking for in applicants? Pick the top 3._Organizational skills": "question-like label",
+      "Q11: Which of these transferable skills are you most looking for in applicants? Pick the top 3._Time management": "question-like label",
+      "Q11: Which of these transferable skills are you most looking for in applicants? Pick the top 3._Teamwork": "question-like label",
+      "Q11: Which of these transferable skills are you most looking for in applicants? Pick the top 3._Research": "question-like label",
+      "Q11: Which of these transferable skills are you most looking for in applicants? Pick the top 3._Communication skills": "question-like label",
+      "Q11: Which of these transferable skills are you most looking for in applicants? Pick the top 3._Critical thinking skills": "question-like label",
+      "Q12: High-value skills are those that are desirable to employers in any job or industry and are rewarded with above-average pay. Choose the top 3 skills you believe are high-value today and will continue to be in the next few years._Data analysis": "question-like label",
+      "Q12: High-value skills are those that are desirable to employers in any job or industry and are rewarded with above-average pay. Choose the top 3 skills you believe are high-value today and will continue to be in the next few years._Software development": "question-like label",
+      "Q12: High-value skills are those that are desirable to employers in any job or industry and are rewarded with above-average pay. Choose the top 3 skills you believe are high-value today and will continue to be in the next few years._UX": "question-like label",
+      "Q12: High-value skills are those that are desirable to employers in any job or industry and are rewarded with above-average pay. Choose the top 3 skills you believe are high-value today and will continue to be in the next few years._Web development": "question-like label",
+      "Q12: High-value skills are those that are desirable to employers in any job or industry and are rewarded with above-average pay. Choose the top 3 skills you believe are high-value today and will continue to be in the next few years._Project management": "question-like label",
+      "Q12: High-value skills are those that are desirable to employers in any job or industry and are rewarded with above-average pay. Choose the top 3 skills you believe are high-value today and will continue to be in the next few years._Content creation": "question-like label",
+      "Q12: High-value skills are those that are desirable to employers in any job or industry and are rewarded with above-average pay. Choose the top 3 skills you believe are high-value today and will continue to be in the next few years._Copywriting": "question-like label",
+      "Q12: High-value skills are those that are desirable to employers in any job or industry and are rewarded with above-average pay. Choose the top 3 skills you believe are high-value today and will continue to be in the next few years._Graphic design": "question-like label",
+      "Q12: High-value skills are those that are desirable to employers in any job or industry and are rewarded with above-average pay. Choose the top 3 skills you believe are high-value today and will continue to be in the next few years._IT (blockchain, cloud computing, artificial intelligence, cybersecurity)": "question-like label",
+      "Q12: High-value skills are those that are desirable to employers in any job or industry and are rewarded with above-average pay. Choose the top 3 skills you believe are high-value today and will continue to be in the next few years._Social media marketing": "question-like label",
+      "Q12: High-value skills are those that are desirable to employers in any job or industry and are rewarded with above-average pay. Choose the top 3 skills you believe are high-value today and will continue to be in the next few years._SEO": "question-like label",
+      "Q12: High-value skills are those that are desirable to employers in any job or industry and are rewarded with above-average pay. Choose the top 3 skills you believe are high-value today and will continue to be in the next few years._Marketing": "question-like label",
+      "Q12: High-value skills are those that are desirable to employers in any job or industry and are rewarded with above-average pay. Choose the top 3 skills you believe are high-value today and will continue to be in the next few years._Audio and video production": "question-like label",
+      "Q12: High-value skills are those that are desirable to employers in any job or industry and are rewarded with above-average pay. Choose the top 3 skills you believe are high-value today and will continue to be in the next few years._Public speaking": "question-like label",
+      "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?": "question-like label",
+      "Q14: How common do you think skills-based hiring (e.g., coding tests, writing tests, technical knowledge tests) will become in the future?": "question-like label",
+      "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?": "question-like label",
+      "Q16: Which of the following candidate qualities do you like to hire for, assuming candidates have the same hard skills and skill levels? Pick your top 3._Kindness and empathy": "question-like label",
+      "Q16: Which of the following candidate qualities do you like to hire for, assuming candidates have the same hard skills and skill levels? Pick your top 3._Enthusiasm": "question-like label",
+      "Q16: Which of the following candidate qualities do you like to hire for, assuming candidates have the same hard skills and skill levels? Pick your top 3._Curiosity": "question-like label",
+      "Q16: Which of the following candidate qualities do you like to hire for, assuming candidates have the same hard skills and skill levels? Pick your top 3._Hardworking": "question-like label",
+      "Q16: Which of the following candidate qualities do you like to hire for, assuming candidates have the same hard skills and skill levels? Pick your top 3._Integrity": "question-like label",
+      "Q16: Which of the following candidate qualities do you like to hire for, assuming candidates have the same hard skills and skill levels? Pick your top 3._Self-awareness": "question-like label",
+      "Q16: Which of the following candidate qualities do you like to hire for, assuming candidates have the same hard skills and skill levels? Pick your top 3._Responsibility and dependability": "question-like label",
+      "Q16: Which of the following candidate qualities do you like to hire for, assuming candidates have the same hard skills and skill levels? Pick your top 3._Trainable/quick learning": "question-like label",
+      "Location Postal Code": "high-cardinality numeric",
+      "DMA Code": "high-cardinality",
+      "DMA Name": "high-cardinality"
+    },
+    "demo_overrides": [
+      "Q1: Which of the following best describes you?",
+      "Q3: Which of the following is the main problem with skills on resumes that you see?"
+    ],
+    "demo_semantics": {
+      "Country": "location",
+      "Gender": "gender",
+      "Age": "age",
+      "Q1: Which of the following best describes you?": "gender",
+      "Q3: Which of the following is the main problem with skills on resumes that you see?": "gender",
+      "Number of children": "children",
+      "Education": "education",
+      "Employment Status": "employment",
+      "Career": "gender",
+      "Income": "income",
+      "Spoken Languages": "language",
+      "US Census Region": "location"
+    },
+    "demo_families": {
+      "Languages": [
+        "Spoken Languages"
+      ],
+      "Children": [
+        "Number of children"
+      ],
+      "Location": [
+        "Country",
+        "US Census Region"
+      ],
+      "Household": [
+        "Education",
+        "Income",
+        "Marital Status"
+      ]
+    },
+    "derived_children": [],
+    "rolled_children_columns": [],
+    "age_bucketed_columns": [
+      "Age"
+    ],
+    "age_binning_enabled": true,
+    "age_bins": [
+      {
+        "label": "Under 18",
+        "min": null,
+        "max": 17
+      },
+      {
+        "label": "18-24",
+        "min": 18,
+        "max": 24
+      },
+      {
+        "label": "25-34",
+        "min": 25,
+        "max": 34
+      },
+      {
+        "label": "35-44",
+        "min": 35,
+        "max": 44
+      },
+      {
+        "label": "45-54",
+        "min": 45,
+        "max": 54
+      },
+      {
+        "label": "55-64",
+        "min": 55,
+        "max": 64
+      },
+      {
+        "label": "65+",
+        "min": 65,
+        "max": null
+      }
+    ],
+    "children_option_types": {},
+    "children_source_columns": [],
+    "children_parental_columns": [],
+    "children_requested_modes": [
+      "has_u18",
+      "youngest_band"
+    ],
+    "children_mode_option_types": {},
+    "children_mode_to_column": {},
+    "children_available_modes": [],
+    "children_candidate_modes": [],
+    "child_bins": [
+      {
+        "label": "0-5",
+        "min": 0,
+        "max": 5
+      },
+      {
+        "label": "6-12",
+        "min": 6,
+        "max": 12
+      },
+      {
+        "label": "13-17",
+        "min": 13,
+        "max": 17
+      },
+      {
+        "label": "18+",
+        "min": 18,
+        "max": null
+      }
+    ],
+    "child_binning_enabled": true,
+    "children_keep_raw": false
+  }
+}

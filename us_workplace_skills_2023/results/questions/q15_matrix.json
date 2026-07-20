@@ -1,0 +1,2091 @@
+{
+  "id": "Q15",
+  "text": "Q15",
+  "question_prompt": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+  "type": "matrix",
+  "panels": [
+    "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?"
+  ],
+  "answers": [
+    "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+    "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+    "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+    "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+    "Not applicable — I don’t think we will do more skills-based hiring in the future"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+      "cells": [
+        {
+          "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+          "count": 309,
+          "pct": 38.1
+        },
+        {
+          "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+          "count": 163,
+          "pct": 20.1
+        },
+        {
+          "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+          "count": 135,
+          "pct": 16.6
+        },
+        {
+          "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+          "count": 135,
+          "pct": 16.6
+        },
+        {
+          "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+          "count": 70,
+          "pct": 8.6
+        }
+      ],
+      "base": {
+        "n": 812
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 812
+    },
+    "answers": [
+      {
+        "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+        "count": 309,
+        "pct": 38.1
+      },
+      {
+        "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+        "count": 163,
+        "pct": 20.1
+      },
+      {
+        "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+        "count": 135,
+        "pct": 16.6
+      },
+      {
+        "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+        "count": 135,
+        "pct": 16.6
+      },
+      {
+        "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+        "count": 70,
+        "pct": 8.6
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 63,
+                "pct": 35.6
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 26,
+                "pct": 14.7
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 27,
+                "pct": 15.3
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 34,
+                "pct": 19.2
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 27,
+                "pct": 15.3
+              }
+            ],
+            "base": {
+              "n": 177
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 125,
+                "pct": 33.3
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 89,
+                "pct": 23.7
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 65,
+                "pct": 17.3
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 67,
+                "pct": 17.9
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 29,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 375
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 121,
+                "pct": 46.5
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 48,
+                "pct": 18.5
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 43,
+                "pct": 16.5
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 34,
+                "pct": 13.1
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 14,
+                "pct": 5.4
+              }
+            ],
+            "base": {
+              "n": 260
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 171,
+                "pct": 38.3
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 87,
+                "pct": 19.5
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 79,
+                "pct": 17.7
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 75,
+                "pct": 16.8
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 34,
+                "pct": 7.6
+              }
+            ],
+            "base": {
+              "n": 446
+            }
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 138,
+                "pct": 37.7
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 76,
+                "pct": 20.8
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 56,
+                "pct": 15.3
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 60,
+                "pct": 16.4
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 36,
+                "pct": 9.8
+              }
+            ],
+            "base": {
+              "n": 366
+            }
+          }
+        ]
+      }
+    },
+    "Education": {
+      "elementary_school": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 5,
+                "pct": 18.5
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 8,
+                "pct": 29.6
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 4,
+                "pct": 14.8
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 6,
+                "pct": 22.2
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 4,
+                "pct": 14.8
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 59,
+                "pct": 29.4
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 45,
+                "pct": 22.4
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 41,
+                "pct": 20.4
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 35,
+                "pct": 17.4
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 21,
+                "pct": 10.4
+              }
+            ],
+            "base": {
+              "n": 201
+            }
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 2,
+                "pct": 8.3
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 1,
+                "pct": 4.2
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 6,
+                "pct": 25.0
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 10,
+                "pct": 41.7
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 5,
+                "pct": 20.8
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 62,
+                "pct": 49.6
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 25,
+                "pct": 20.0
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 17,
+                "pct": 13.6
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 16,
+                "pct": 12.8
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 5,
+                "pct": 4.0
+              }
+            ],
+            "base": {
+              "n": 125
+            }
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 143,
+                "pct": 45.8
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 63,
+                "pct": 20.2
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 41,
+                "pct": 13.1
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 46,
+                "pct": 14.7
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 19,
+                "pct": 6.1
+              }
+            ],
+            "base": {
+              "n": 312
+            }
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 38,
+                "pct": 30.9
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 21,
+                "pct": 17.1
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 26,
+                "pct": 21.1
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 22,
+                "pct": 17.9
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 16,
+                "pct": 13.0
+              }
+            ],
+            "base": {
+              "n": 123
+            }
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 50,
+                "pct": 51.0
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 19,
+                "pct": 19.4
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 17,
+                "pct": 17.3
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 8,
+                "pct": 8.2
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 4,
+                "pct": 4.1
+              }
+            ],
+            "base": {
+              "n": 98
+            }
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 50,
+                "pct": 39.7
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 31,
+                "pct": 24.6
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 17,
+                "pct": 13.5
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 25,
+                "pct": 19.8
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 3,
+                "pct": 2.4
+              }
+            ],
+            "base": {
+              "n": 126
+            }
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 33,
+                "pct": 44.0
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 16,
+                "pct": 21.3
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 13,
+                "pct": 17.3
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 10,
+                "pct": 13.3
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 3,
+                "pct": 4.0
+              }
+            ],
+            "base": {
+              "n": 75
+            }
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 47,
+                "pct": 37.6
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 22,
+                "pct": 17.6
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 16,
+                "pct": 12.8
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 26,
+                "pct": 20.8
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 14,
+                "pct": 11.2
+              }
+            ],
+            "base": {
+              "n": 125
+            }
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 45,
+                "pct": 31.5
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 29,
+                "pct": 20.3
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 27,
+                "pct": 18.9
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 23,
+                "pct": 16.1
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 19,
+                "pct": 13.3
+              }
+            ],
+            "base": {
+              "n": 143
+            }
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 29,
+                "pct": 28.7
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 16,
+                "pct": 15.8
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 19,
+                "pct": 18.8
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 22,
+                "pct": 21.8
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 15,
+                "pct": 14.9
+              }
+            ],
+            "base": {
+              "n": 101
+            }
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 54,
+                "pct": 42.5
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 26,
+                "pct": 20.5
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 22,
+                "pct": 17.3
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 14,
+                "pct": 11.0
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 11,
+                "pct": 8.7
+              }
+            ],
+            "base": {
+              "n": 127
+            }
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 7,
+                "pct": 41.2
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 1,
+                "pct": 5.9
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Alaska": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 10,
+                "pct": 47.6
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 1,
+                "pct": 4.8
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 2,
+                "pct": 9.5
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 6,
+                "pct": 28.6
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 2,
+                "pct": 9.5
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 42,
+                "pct": 34.7
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 23,
+                "pct": 19.0
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 25,
+                "pct": 20.7
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 22,
+                "pct": 18.2
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 9,
+                "pct": 7.4
+              }
+            ],
+            "base": {
+              "n": 121
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 5,
+                "pct": 38.5
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 1,
+                "pct": 7.7
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 1,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 7,
+                "pct": 50.0
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 2,
+                "pct": 14.3
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 2,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 18,
+                "pct": 34.0
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 12,
+                "pct": 22.6
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 9,
+                "pct": 17.0
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 11,
+                "pct": 20.8
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 3,
+                "pct": 5.7
+              }
+            ],
+            "base": {
+              "n": 53
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 8,
+                "pct": 32.0
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 9,
+                "pct": 36.0
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 4,
+                "pct": 16.0
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 2,
+                "pct": 8.0
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 2,
+                "pct": 8.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 10,
+                "pct": 28.6
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 10,
+                "pct": 28.6
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 6,
+                "pct": 17.1
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 5,
+                "pct": 14.3
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 4,
+                "pct": 11.4
+              }
+            ],
+            "base": {
+              "n": 35
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 6,
+                "pct": 33.3
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 4,
+                "pct": 22.2
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 1,
+                "pct": 5.6
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 6,
+                "pct": 33.3
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 1,
+                "pct": 5.6
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 7,
+                "pct": 63.6
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 9,
+                "pct": 45.0
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 6,
+                "pct": 30.0
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 2,
+                "pct": 10.0
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 3,
+                "pct": 15.0
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 6,
+                "pct": 35.3
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 6,
+                "pct": 35.3
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 12,
+                "pct": 46.2
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 5,
+                "pct": 19.2
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 2,
+                "pct": 7.7
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 4,
+                "pct": 15.4
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 3,
+                "pct": 11.5
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 9,
+                "pct": 50.0
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 3,
+                "pct": 16.7
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 4,
+                "pct": 22.2
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 2,
+                "pct": 11.1
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 1,
+                "pct": 7.7
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 5,
+                "pct": 38.5
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 2,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 8,
+                "pct": 47.1
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 1,
+                "pct": 5.9
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 17,
+                "pct": 35.4
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 9,
+                "pct": 18.8
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 14,
+                "pct": 29.2
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 5,
+                "pct": 10.4
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 3,
+                "pct": 6.2
+              }
+            ],
+            "base": {
+              "n": 48
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 13,
+                "pct": 46.4
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 7,
+                "pct": 25.0
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 4,
+                "pct": 14.3
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 2,
+                "pct": 7.1
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 2,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 7,
+                "pct": 28.0
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 7,
+                "pct": 28.0
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 5,
+                "pct": 20.0
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 5,
+                "pct": 20.0
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 1,
+                "pct": 4.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 1,
+                "pct": 7.1
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 4,
+                "pct": 28.6
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 4,
+                "pct": 28.6
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 2,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 11,
+                "pct": 42.3
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 4,
+                "pct": 15.4
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 5,
+                "pct": 19.2
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 2,
+                "pct": 7.7
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 4,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 6,
+                "pct": 60.0
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 1,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 6,
+                "pct": 60.0
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 1,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 37,
+                "pct": 44.6
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 13,
+                "pct": 15.7
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 11,
+                "pct": 13.3
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 16,
+                "pct": 19.3
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 6,
+                "pct": 7.2
+              }
+            ],
+            "base": {
+              "n": 83
+            }
+          }
+        ]
+      },
+      "Unknown": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 1,
+                "pct": 7.7
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 3,
+                "pct": 23.1
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 3,
+                "pct": 17.6
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q15: Which of the following trends is the most important reason why your company would do more skills-based hiring (e.g., coding tests, writing tests, technical knowledge standardized tests) in the future?",
+            "cells": [
+              {
+                "answer": "Increasing use of technology, AI, and automation — skills tests are the most accurate way to see if applicants have good digital skills",
+                "count": 6,
+                "pct": 42.9
+              },
+              {
+                "answer": "Increased diversity, equity, and inclusion — evaluating based on skills tests removes unconscious bias",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "People switching careers into our industry, so we rely on skills tests rather than traditional education or work experience to evaluate them",
+                "count": 4,
+                "pct": 28.6
+              },
+              {
+                "answer": "Remote work opening up our candidate pool, so we need tests to weed out more candidates quickly and fairly",
+                "count": 2,
+                "pct": 14.3
+              },
+              {
+                "answer": "Not applicable — I don’t think we will do more skills-based hiring in the future",
+                "count": 2,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 10,
+    "single_panel": true
+  }
+}

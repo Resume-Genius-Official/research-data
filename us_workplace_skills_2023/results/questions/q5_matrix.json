@@ -1,0 +1,1599 @@
+{
+  "id": "Q5",
+  "text": "Q5",
+  "question_prompt": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+  "type": "matrix",
+  "panels": [
+    "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?"
+  ],
+  "answers": [
+    "Their resume accurately represented their job skills",
+    "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+    "Employees had more skills or higher-level skills than they represented on their resume"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+      "cells": [
+        {
+          "answer": "Their resume accurately represented their job skills",
+          "count": 328,
+          "pct": 40.4
+        },
+        {
+          "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+          "count": 280,
+          "pct": 34.5
+        },
+        {
+          "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+          "count": 204,
+          "pct": 25.1
+        }
+      ],
+      "base": {
+        "n": 812
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 812
+    },
+    "answers": [
+      {
+        "answer": "Their resume accurately represented their job skills",
+        "count": 328,
+        "pct": 40.4
+      },
+      {
+        "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+        "count": 280,
+        "pct": 34.5
+      },
+      {
+        "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+        "count": 204,
+        "pct": 25.1
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 56,
+                "pct": 31.6
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 75,
+                "pct": 42.4
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 46,
+                "pct": 26.0
+              }
+            ],
+            "base": {
+              "n": 177
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 168,
+                "pct": 44.8
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 117,
+                "pct": 31.2
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 90,
+                "pct": 24.0
+              }
+            ],
+            "base": {
+              "n": 375
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 104,
+                "pct": 40.0
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 88,
+                "pct": 33.8
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 68,
+                "pct": 26.2
+              }
+            ],
+            "base": {
+              "n": 260
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 192,
+                "pct": 43.0
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 138,
+                "pct": 30.9
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 116,
+                "pct": 26.0
+              }
+            ],
+            "base": {
+              "n": 446
+            }
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 136,
+                "pct": 37.2
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 142,
+                "pct": 38.8
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 88,
+                "pct": 24.0
+              }
+            ],
+            "base": {
+              "n": 366
+            }
+          }
+        ]
+      }
+    },
+    "Education": {
+      "elementary_school": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 10,
+                "pct": 37.0
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 10,
+                "pct": 37.0
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 7,
+                "pct": 25.9
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 81,
+                "pct": 40.3
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 83,
+                "pct": 41.3
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 37,
+                "pct": 18.4
+              }
+            ],
+            "base": {
+              "n": 201
+            }
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 13,
+                "pct": 54.2
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 9,
+                "pct": 37.5
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 2,
+                "pct": 8.3
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 46,
+                "pct": 36.8
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 33,
+                "pct": 26.4
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 46,
+                "pct": 36.8
+              }
+            ],
+            "base": {
+              "n": 125
+            }
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 134,
+                "pct": 42.9
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 100,
+                "pct": 32.1
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 78,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 312
+            }
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 44,
+                "pct": 35.8
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 45,
+                "pct": 36.6
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 34,
+                "pct": 27.6
+              }
+            ],
+            "base": {
+              "n": 123
+            }
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 48,
+                "pct": 49.0
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 19,
+                "pct": 19.4
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 31,
+                "pct": 31.6
+              }
+            ],
+            "base": {
+              "n": 98
+            }
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 53,
+                "pct": 42.1
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 30,
+                "pct": 23.8
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 43,
+                "pct": 34.1
+              }
+            ],
+            "base": {
+              "n": 126
+            }
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 26,
+                "pct": 34.7
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 34,
+                "pct": 45.3
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 15,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 75
+            }
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 44,
+                "pct": 35.2
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 52,
+                "pct": 41.6
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 29,
+                "pct": 23.2
+              }
+            ],
+            "base": {
+              "n": 125
+            }
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 63,
+                "pct": 44.1
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 52,
+                "pct": 36.4
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 28,
+                "pct": 19.6
+              }
+            ],
+            "base": {
+              "n": 143
+            }
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 45,
+                "pct": 44.6
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 35,
+                "pct": 34.7
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 21,
+                "pct": 20.8
+              }
+            ],
+            "base": {
+              "n": 101
+            }
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 45,
+                "pct": 35.4
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 47,
+                "pct": 37.0
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 35,
+                "pct": 27.6
+              }
+            ],
+            "base": {
+              "n": 127
+            }
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 11,
+                "pct": 64.7
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 2,
+                "pct": 11.8
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 7,
+                "pct": 63.6
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 2,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Alaska": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 7,
+                "pct": 33.3
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 9,
+                "pct": 42.9
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 5,
+                "pct": 23.8
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 46,
+                "pct": 38.0
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 45,
+                "pct": 37.2
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 30,
+                "pct": 24.8
+              }
+            ],
+            "base": {
+              "n": 121
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 6,
+                "pct": 46.2
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 3,
+                "pct": 23.1
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 6,
+                "pct": 42.9
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 1,
+                "pct": 7.1
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 7,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 21,
+                "pct": 39.6
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 16,
+                "pct": 30.2
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 16,
+                "pct": 30.2
+              }
+            ],
+            "base": {
+              "n": 53
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 13,
+                "pct": 52.0
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 8,
+                "pct": 32.0
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 4,
+                "pct": 16.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 13,
+                "pct": 37.1
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 10,
+                "pct": 28.6
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 12,
+                "pct": 34.3
+              }
+            ],
+            "base": {
+              "n": 35
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 10,
+                "pct": 55.6
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 2,
+                "pct": 11.1
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 6,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 6,
+                "pct": 60.0
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 2,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 2,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 6,
+                "pct": 30.0
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 9,
+                "pct": 45.0
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 5,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 7,
+                "pct": 41.2
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 6,
+                "pct": 35.3
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 7,
+                "pct": 26.9
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 12,
+                "pct": 46.2
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 7,
+                "pct": 26.9
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 6,
+                "pct": 33.3
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 9,
+                "pct": 50.0
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 3,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 5,
+                "pct": 38.5
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 4,
+                "pct": 30.8
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 6,
+                "pct": 35.3
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 10,
+                "pct": 58.8
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 1,
+                "pct": 5.9
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 26,
+                "pct": 54.2
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 15,
+                "pct": 31.2
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 7,
+                "pct": 14.6
+              }
+            ],
+            "base": {
+              "n": 48
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 8,
+                "pct": 28.6
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 15,
+                "pct": 53.6
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 5,
+                "pct": 17.9
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 10,
+                "pct": 40.0
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 9,
+                "pct": 36.0
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 6,
+                "pct": 24.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 8,
+                "pct": 57.1
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 3,
+                "pct": 21.4
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 10,
+                "pct": 38.5
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 11,
+                "pct": 42.3
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 5,
+                "pct": 19.2
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 2,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 2,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 36,
+                "pct": 43.4
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 23,
+                "pct": 27.7
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 24,
+                "pct": 28.9
+              }
+            ],
+            "base": {
+              "n": 83
+            }
+          }
+        ]
+      },
+      "Unknown": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 8,
+                "pct": 61.5
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 2,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 5,
+                "pct": 29.4
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 8,
+                "pct": 47.1
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 4,
+                "pct": 23.5
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q5: For the candidates you’ve hired in the past, which of the following most accurately describes the skills on their resume compared to the skills they demonstrate on the job?",
+            "cells": [
+              {
+                "answer": "Their resume accurately represented their job skills",
+                "count": 6,
+                "pct": 42.9
+              },
+              {
+                "answer": "Employees did not have the skills they listed on their resume (at all or to the degree they described)",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "Employees had more skills or higher-level skills than they represented on their resume",
+                "count": 5,
+                "pct": 35.7
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 10,
+    "single_panel": true
+  }
+}

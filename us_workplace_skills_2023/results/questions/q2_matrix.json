@@ -1,0 +1,1845 @@
+{
+  "id": "Q2",
+  "text": "Q2",
+  "question_prompt": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+  "type": "matrix",
+  "panels": [
+    "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?"
+  ],
+  "answers": [
+    "Hire new employees with the right skills",
+    "Reskill or upskill existing employees",
+    "Hire contractors / freelancers",
+    "Not applicable — my company doesn’t have a skills gap"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+      "cells": [
+        {
+          "answer": "Hire new employees with the right skills",
+          "count": 324,
+          "pct": 39.9
+        },
+        {
+          "answer": "Reskill or upskill existing employees",
+          "count": 296,
+          "pct": 36.5
+        },
+        {
+          "answer": "Hire contractors / freelancers",
+          "count": 120,
+          "pct": 14.8
+        },
+        {
+          "answer": "Not applicable — my company doesn’t have a skills gap",
+          "count": 72,
+          "pct": 8.9
+        }
+      ],
+      "base": {
+        "n": 812
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 812
+    },
+    "answers": [
+      {
+        "answer": "Hire new employees with the right skills",
+        "count": 324,
+        "pct": 39.9
+      },
+      {
+        "answer": "Reskill or upskill existing employees",
+        "count": 296,
+        "pct": 36.5
+      },
+      {
+        "answer": "Hire contractors / freelancers",
+        "count": 120,
+        "pct": 14.8
+      },
+      {
+        "answer": "Not applicable — my company doesn’t have a skills gap",
+        "count": 72,
+        "pct": 8.9
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 55,
+                "pct": 31.1
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 58,
+                "pct": 32.8
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 34,
+                "pct": 19.2
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 30,
+                "pct": 16.9
+              }
+            ],
+            "base": {
+              "n": 177
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 159,
+                "pct": 42.4
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 139,
+                "pct": 37.1
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 51,
+                "pct": 13.6
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 26,
+                "pct": 6.9
+              }
+            ],
+            "base": {
+              "n": 375
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 110,
+                "pct": 42.3
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 99,
+                "pct": 38.1
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 35,
+                "pct": 13.5
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 16,
+                "pct": 6.2
+              }
+            ],
+            "base": {
+              "n": 260
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 178,
+                "pct": 39.9
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 155,
+                "pct": 34.8
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 66,
+                "pct": 14.8
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 47,
+                "pct": 10.5
+              }
+            ],
+            "base": {
+              "n": 446
+            }
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 146,
+                "pct": 39.9
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 141,
+                "pct": 38.5
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 54,
+                "pct": 14.8
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 25,
+                "pct": 6.8
+              }
+            ],
+            "base": {
+              "n": 366
+            }
+          }
+        ]
+      }
+    },
+    "Education": {
+      "elementary_school": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 6,
+                "pct": 22.2
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 7,
+                "pct": 25.9
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 7,
+                "pct": 25.9
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 7,
+                "pct": 25.9
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 88,
+                "pct": 43.8
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 66,
+                "pct": 32.8
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 25,
+                "pct": 12.4
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 22,
+                "pct": 10.9
+              }
+            ],
+            "base": {
+              "n": 201
+            }
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 7,
+                "pct": 29.2
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 7,
+                "pct": 29.2
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 5,
+                "pct": 20.8
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 5,
+                "pct": 20.8
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 51,
+                "pct": 40.8
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 50,
+                "pct": 40.0
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 22,
+                "pct": 17.6
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 2,
+                "pct": 1.6
+              }
+            ],
+            "base": {
+              "n": 125
+            }
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 129,
+                "pct": 41.3
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 127,
+                "pct": 40.7
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 38,
+                "pct": 12.2
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 18,
+                "pct": 5.8
+              }
+            ],
+            "base": {
+              "n": 312
+            }
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 43,
+                "pct": 35.0
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 39,
+                "pct": 31.7
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 23,
+                "pct": 18.7
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 18,
+                "pct": 14.6
+              }
+            ],
+            "base": {
+              "n": 123
+            }
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 36,
+                "pct": 36.7
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 39,
+                "pct": 39.8
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 21,
+                "pct": 21.4
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 2,
+                "pct": 2.0
+              }
+            ],
+            "base": {
+              "n": 98
+            }
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 57,
+                "pct": 45.2
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 48,
+                "pct": 38.1
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 19,
+                "pct": 15.1
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 2,
+                "pct": 1.6
+              }
+            ],
+            "base": {
+              "n": 126
+            }
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 32,
+                "pct": 42.7
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 27,
+                "pct": 36.0
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 12,
+                "pct": 16.0
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 4,
+                "pct": 5.3
+              }
+            ],
+            "base": {
+              "n": 75
+            }
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 52,
+                "pct": 41.6
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 35,
+                "pct": 28.0
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 17,
+                "pct": 13.6
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 21,
+                "pct": 16.8
+              }
+            ],
+            "base": {
+              "n": 125
+            }
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 59,
+                "pct": 41.3
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 49,
+                "pct": 34.3
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 19,
+                "pct": 13.3
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 16,
+                "pct": 11.2
+              }
+            ],
+            "base": {
+              "n": 143
+            }
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 39,
+                "pct": 38.6
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 43,
+                "pct": 42.6
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 9,
+                "pct": 8.9
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 10,
+                "pct": 9.9
+              }
+            ],
+            "base": {
+              "n": 101
+            }
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 44,
+                "pct": 34.6
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 50,
+                "pct": 39.4
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 19,
+                "pct": 15.0
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 14,
+                "pct": 11.0
+              }
+            ],
+            "base": {
+              "n": 127
+            }
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 5,
+                "pct": 29.4
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 5,
+                "pct": 29.4
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 3,
+                "pct": 17.6
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 2,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Alaska": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 7,
+                "pct": 33.3
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 9,
+                "pct": 42.9
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 3,
+                "pct": 14.3
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 2,
+                "pct": 9.5
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 53,
+                "pct": 43.8
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 39,
+                "pct": 32.2
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 20,
+                "pct": 16.5
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 9,
+                "pct": 7.4
+              }
+            ],
+            "base": {
+              "n": 121
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 8,
+                "pct": 61.5
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 5,
+                "pct": 38.5
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 5,
+                "pct": 35.7
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 6,
+                "pct": 42.9
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 1,
+                "pct": 7.1
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 2,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 18,
+                "pct": 34.0
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 22,
+                "pct": 41.5
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 8,
+                "pct": 15.1
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 5,
+                "pct": 9.4
+              }
+            ],
+            "base": {
+              "n": 53
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 9,
+                "pct": 36.0
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 8,
+                "pct": 32.0
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 5,
+                "pct": 20.0
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 3,
+                "pct": 12.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 10,
+                "pct": 28.6
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 15,
+                "pct": 42.9
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 9,
+                "pct": 25.7
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 1,
+                "pct": 2.9
+              }
+            ],
+            "base": {
+              "n": 35
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 5,
+                "pct": 27.8
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 10,
+                "pct": 55.6
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 1,
+                "pct": 5.6
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 2,
+                "pct": 11.1
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 1,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 2,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 8,
+                "pct": 40.0
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 8,
+                "pct": 40.0
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 2,
+                "pct": 10.0
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 2,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 6,
+                "pct": 35.3
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 8,
+                "pct": 47.1
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 1,
+                "pct": 5.9
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 11,
+                "pct": 42.3
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 8,
+                "pct": 30.8
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 5,
+                "pct": 19.2
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 2,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 6,
+                "pct": 33.3
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 8,
+                "pct": 44.4
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 2,
+                "pct": 11.1
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 2,
+                "pct": 11.1
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 8,
+                "pct": 61.5
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 1,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 10,
+                "pct": 58.8
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 2,
+                "pct": 11.8
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 16,
+                "pct": 33.3
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 17,
+                "pct": 35.4
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 9,
+                "pct": 18.8
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 6,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 48
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 9,
+                "pct": 32.1
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 11,
+                "pct": 39.3
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 5,
+                "pct": 17.9
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 3,
+                "pct": 10.7
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 16,
+                "pct": 64.0
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 8,
+                "pct": 32.0
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 1,
+                "pct": 4.0
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 9,
+                "pct": 64.3
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 1,
+                "pct": 7.1
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 1,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 9,
+                "pct": 34.6
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 9,
+                "pct": 34.6
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 5,
+                "pct": 19.2
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 3,
+                "pct": 11.5
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 1,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 33,
+                "pct": 39.8
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 25,
+                "pct": 30.1
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 17,
+                "pct": 20.5
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 8,
+                "pct": 9.6
+              }
+            ],
+            "base": {
+              "n": 83
+            }
+          }
+        ]
+      },
+      "Unknown": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 6,
+                "pct": 46.2
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 1,
+                "pct": 7.7
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 2,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 8,
+                "pct": 47.1
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 5,
+                "pct": 29.4
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 1,
+                "pct": 5.9
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q2: Skills gaps are defined as the difference between the skills most candidates and employees have and the skills needed by employers. Which of the following is the main way your company closes hard skills gaps?",
+            "cells": [
+              {
+                "answer": "Hire new employees with the right skills",
+                "count": 4,
+                "pct": 28.6
+              },
+              {
+                "answer": "Reskill or upskill existing employees",
+                "count": 5,
+                "pct": 35.7
+              },
+              {
+                "answer": "Hire contractors / freelancers",
+                "count": 2,
+                "pct": 14.3
+              },
+              {
+                "answer": "Not applicable — my company doesn’t have a skills gap",
+                "count": 3,
+                "pct": 21.4
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 10,
+    "single_panel": true
+  }
+}

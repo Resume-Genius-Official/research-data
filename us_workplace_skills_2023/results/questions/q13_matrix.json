@@ -1,0 +1,1599 @@
+{
+  "id": "Q13",
+  "text": "Q13",
+  "question_prompt": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+  "type": "matrix",
+  "panels": [
+    "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?"
+  ],
+  "answers": [
+    "A must-have, along with the right hard skills, for a candidate to be hired",
+    "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+    "A bonus to a candidate’s hard skills"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+      "cells": [
+        {
+          "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+          "count": 392,
+          "pct": 48.3
+        },
+        {
+          "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+          "count": 224,
+          "pct": 27.6
+        },
+        {
+          "answer": "A bonus to a candidate’s hard skills",
+          "count": 196,
+          "pct": 24.1
+        }
+      ],
+      "base": {
+        "n": 812
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 812
+    },
+    "answers": [
+      {
+        "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+        "count": 392,
+        "pct": 48.3
+      },
+      {
+        "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+        "count": 224,
+        "pct": 27.6
+      },
+      {
+        "answer": "A bonus to a candidate’s hard skills",
+        "count": 196,
+        "pct": 24.1
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 87,
+                "pct": 49.2
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 49,
+                "pct": 27.7
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 41,
+                "pct": 23.2
+              }
+            ],
+            "base": {
+              "n": 177
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 183,
+                "pct": 48.8
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 99,
+                "pct": 26.4
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 93,
+                "pct": 24.8
+              }
+            ],
+            "base": {
+              "n": 375
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 122,
+                "pct": 46.9
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 76,
+                "pct": 29.2
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 62,
+                "pct": 23.8
+              }
+            ],
+            "base": {
+              "n": 260
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 220,
+                "pct": 49.3
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 125,
+                "pct": 28.0
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 101,
+                "pct": 22.6
+              }
+            ],
+            "base": {
+              "n": 446
+            }
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 172,
+                "pct": 47.0
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 99,
+                "pct": 27.0
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 95,
+                "pct": 26.0
+              }
+            ],
+            "base": {
+              "n": 366
+            }
+          }
+        ]
+      }
+    },
+    "Education": {
+      "elementary_school": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 11,
+                "pct": 40.7
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 7,
+                "pct": 25.9
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 9,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 93,
+                "pct": 46.3
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 52,
+                "pct": 25.9
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 56,
+                "pct": 27.9
+              }
+            ],
+            "base": {
+              "n": 201
+            }
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 7,
+                "pct": 29.2
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 9,
+                "pct": 37.5
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 8,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 62,
+                "pct": 49.6
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 40,
+                "pct": 32.0
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 23,
+                "pct": 18.4
+              }
+            ],
+            "base": {
+              "n": 125
+            }
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 161,
+                "pct": 51.6
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 87,
+                "pct": 27.9
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 64,
+                "pct": 20.5
+              }
+            ],
+            "base": {
+              "n": 312
+            }
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 58,
+                "pct": 47.2
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 29,
+                "pct": 23.6
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 36,
+                "pct": 29.3
+              }
+            ],
+            "base": {
+              "n": 123
+            }
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 56,
+                "pct": 57.1
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 30,
+                "pct": 30.6
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 12,
+                "pct": 12.2
+              }
+            ],
+            "base": {
+              "n": 98
+            }
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 71,
+                "pct": 56.3
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 30,
+                "pct": 23.8
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 25,
+                "pct": 19.8
+              }
+            ],
+            "base": {
+              "n": 126
+            }
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 35,
+                "pct": 46.7
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 24,
+                "pct": 32.0
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 16,
+                "pct": 21.3
+              }
+            ],
+            "base": {
+              "n": 75
+            }
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 54,
+                "pct": 43.2
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 31,
+                "pct": 24.8
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 40,
+                "pct": 32.0
+              }
+            ],
+            "base": {
+              "n": 125
+            }
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 73,
+                "pct": 51.0
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 39,
+                "pct": 27.3
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 31,
+                "pct": 21.7
+              }
+            ],
+            "base": {
+              "n": 143
+            }
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 48,
+                "pct": 47.5
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 21,
+                "pct": 20.8
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 32,
+                "pct": 31.7
+              }
+            ],
+            "base": {
+              "n": 101
+            }
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 50,
+                "pct": 39.4
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 41,
+                "pct": 32.3
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 36,
+                "pct": 28.3
+              }
+            ],
+            "base": {
+              "n": 127
+            }
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 5,
+                "pct": 29.4
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 8,
+                "pct": 47.1
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 4,
+                "pct": 23.5
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 4,
+                "pct": 36.4
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Alaska": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 11,
+                "pct": 52.4
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 2,
+                "pct": 9.5
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 8,
+                "pct": 38.1
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 54,
+                "pct": 44.6
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 43,
+                "pct": 35.5
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 24,
+                "pct": 19.8
+              }
+            ],
+            "base": {
+              "n": 121
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 7,
+                "pct": 53.8
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 2,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 8,
+                "pct": 57.1
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 2,
+                "pct": 14.3
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 4,
+                "pct": 28.6
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 28,
+                "pct": 52.8
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 12,
+                "pct": 22.6
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 13,
+                "pct": 24.5
+              }
+            ],
+            "base": {
+              "n": 53
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 9,
+                "pct": 36.0
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 7,
+                "pct": 28.0
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 9,
+                "pct": 36.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 14,
+                "pct": 40.0
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 12,
+                "pct": 34.3
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 9,
+                "pct": 25.7
+              }
+            ],
+            "base": {
+              "n": 35
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 7,
+                "pct": 38.9
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 9,
+                "pct": 50.0
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 2,
+                "pct": 11.1
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 3,
+                "pct": 30.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 3,
+                "pct": 27.3
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 14,
+                "pct": 70.0
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 2,
+                "pct": 10.0
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 4,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 11,
+                "pct": 64.7
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 2,
+                "pct": 11.8
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 16,
+                "pct": 61.5
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 8,
+                "pct": 30.8
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 2,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 13,
+                "pct": 72.2
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 4,
+                "pct": 22.2
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 1,
+                "pct": 5.6
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 10,
+                "pct": 76.9
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 9,
+                "pct": 52.9
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 5,
+                "pct": 29.4
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 24,
+                "pct": 50.0
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 10,
+                "pct": 20.8
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 14,
+                "pct": 29.2
+              }
+            ],
+            "base": {
+              "n": 48
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 11,
+                "pct": 39.3
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 7,
+                "pct": 25.0
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 10,
+                "pct": 35.7
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 11,
+                "pct": 44.0
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 9,
+                "pct": 36.0
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 5,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 9,
+                "pct": 64.3
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 2,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 14,
+                "pct": 53.8
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 6,
+                "pct": 23.1
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 6,
+                "pct": 23.1
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 3,
+                "pct": 30.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 6,
+                "pct": 60.0
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 4,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 41,
+                "pct": 49.4
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 22,
+                "pct": 26.5
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 20,
+                "pct": 24.1
+              }
+            ],
+            "base": {
+              "n": 83
+            }
+          }
+        ]
+      },
+      "Unknown": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 8,
+                "pct": 61.5
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 3,
+                "pct": 23.1
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 9,
+                "pct": 52.9
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 5,
+                "pct": 29.4
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q13: Which of the following best describes your view of soft skills for the majority of your hiring decisions?",
+            "cells": [
+              {
+                "answer": "A must-have, along with the right hard skills, for a candidate to be hired",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "More important than a candidate’s hard skills — I will hire a candidate that has great soft skills even if they don’t have all the right hard skills",
+                "count": 6,
+                "pct": 42.9
+              },
+              {
+                "answer": "A bonus to a candidate’s hard skills",
+                "count": 5,
+                "pct": 35.7
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 10,
+    "single_panel": true
+  }
+}

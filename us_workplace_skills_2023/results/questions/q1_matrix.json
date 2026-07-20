@@ -1,0 +1,1599 @@
+{
+  "id": "Q1",
+  "text": "Q1",
+  "question_prompt": "Q1: Which of the following best describes you?",
+  "type": "matrix",
+  "panels": [
+    "Q1: Which of the following best describes you?"
+  ],
+  "answers": [
+    "I am a manager in charge of hiring new employees",
+    "I am a member of my team who has helped hire new employees before",
+    "I am a senior member of my team who helps hire new employees"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q1: Which of the following best describes you?",
+      "cells": [
+        {
+          "answer": "I am a manager in charge of hiring new employees",
+          "count": 438,
+          "pct": 53.9
+        },
+        {
+          "answer": "I am a member of my team who has helped hire new employees before",
+          "count": 203,
+          "pct": 25.0
+        },
+        {
+          "answer": "I am a senior member of my team who helps hire new employees",
+          "count": 171,
+          "pct": 21.1
+        }
+      ],
+      "base": {
+        "n": 812
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 812
+    },
+    "answers": [
+      {
+        "answer": "I am a manager in charge of hiring new employees",
+        "count": 438,
+        "pct": 53.9
+      },
+      {
+        "answer": "I am a member of my team who has helped hire new employees before",
+        "count": 203,
+        "pct": 25.0
+      },
+      {
+        "answer": "I am a senior member of my team who helps hire new employees",
+        "count": 171,
+        "pct": 21.1
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 78,
+                "pct": 44.1
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 55,
+                "pct": 31.1
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 44,
+                "pct": 24.9
+              }
+            ],
+            "base": {
+              "n": 177
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 195,
+                "pct": 52.0
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 100,
+                "pct": 26.7
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 80,
+                "pct": 21.3
+              }
+            ],
+            "base": {
+              "n": 375
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 165,
+                "pct": 63.5
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 48,
+                "pct": 18.5
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 47,
+                "pct": 18.1
+              }
+            ],
+            "base": {
+              "n": 260
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 234,
+                "pct": 52.5
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 125,
+                "pct": 28.0
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 87,
+                "pct": 19.5
+              }
+            ],
+            "base": {
+              "n": 446
+            }
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 204,
+                "pct": 55.7
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 78,
+                "pct": 21.3
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 84,
+                "pct": 23.0
+              }
+            ],
+            "base": {
+              "n": 366
+            }
+          }
+        ]
+      }
+    },
+    "Education": {
+      "elementary_school": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 11,
+                "pct": 40.7
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 9,
+                "pct": 33.3
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 7,
+                "pct": 25.9
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 90,
+                "pct": 44.8
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 75,
+                "pct": 37.3
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 36,
+                "pct": 17.9
+              }
+            ],
+            "base": {
+              "n": 201
+            }
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 6,
+                "pct": 25.0
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 10,
+                "pct": 41.7
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 8,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 84,
+                "pct": 67.2
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 13,
+                "pct": 10.4
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 28,
+                "pct": 22.4
+              }
+            ],
+            "base": {
+              "n": 125
+            }
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 200,
+                "pct": 64.1
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 56,
+                "pct": 17.9
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 56,
+                "pct": 17.9
+              }
+            ],
+            "base": {
+              "n": 312
+            }
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 47,
+                "pct": 38.2
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 40,
+                "pct": 32.5
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 36,
+                "pct": 29.3
+              }
+            ],
+            "base": {
+              "n": 123
+            }
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 68,
+                "pct": 69.4
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 13,
+                "pct": 13.3
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 17,
+                "pct": 17.3
+              }
+            ],
+            "base": {
+              "n": 98
+            }
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 87,
+                "pct": 69.0
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 11,
+                "pct": 8.7
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 28,
+                "pct": 22.2
+              }
+            ],
+            "base": {
+              "n": 126
+            }
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 53,
+                "pct": 70.7
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 5,
+                "pct": 6.7
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 17,
+                "pct": 22.7
+              }
+            ],
+            "base": {
+              "n": 75
+            }
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 45,
+                "pct": 36.0
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 53,
+                "pct": 42.4
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 27,
+                "pct": 21.6
+              }
+            ],
+            "base": {
+              "n": 125
+            }
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 60,
+                "pct": 42.0
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 50,
+                "pct": 35.0
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 33,
+                "pct": 23.1
+              }
+            ],
+            "base": {
+              "n": 143
+            }
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 39,
+                "pct": 38.6
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 37,
+                "pct": 36.6
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 25,
+                "pct": 24.8
+              }
+            ],
+            "base": {
+              "n": 101
+            }
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 77,
+                "pct": 60.6
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 29,
+                "pct": 22.8
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 21,
+                "pct": 16.5
+              }
+            ],
+            "base": {
+              "n": 127
+            }
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 9,
+                "pct": 52.9
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 5,
+                "pct": 29.4
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 3,
+                "pct": 17.6
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 3,
+                "pct": 27.3
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Alaska": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 11,
+                "pct": 52.4
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 7,
+                "pct": 33.3
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 3,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 53,
+                "pct": 43.8
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 38,
+                "pct": 31.4
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 30,
+                "pct": 24.8
+              }
+            ],
+            "base": {
+              "n": 121
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 7,
+                "pct": 53.8
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 4,
+                "pct": 30.8
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 8,
+                "pct": 57.1
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 3,
+                "pct": 21.4
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 39,
+                "pct": 73.6
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 3,
+                "pct": 5.7
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 11,
+                "pct": 20.8
+              }
+            ],
+            "base": {
+              "n": 53
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 16,
+                "pct": 64.0
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 5,
+                "pct": 20.0
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 4,
+                "pct": 16.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [],
+            "base": {
+              "n": 9
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 21,
+                "pct": 60.0
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 10,
+                "pct": 28.6
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 4,
+                "pct": 11.4
+              }
+            ],
+            "base": {
+              "n": 35
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 10,
+                "pct": 55.6
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 7,
+                "pct": 38.9
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 1,
+                "pct": 5.6
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 4,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 2,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 10,
+                "pct": 50.0
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 6,
+                "pct": 30.0
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 4,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 9,
+                "pct": 52.9
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 6,
+                "pct": 35.3
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 16,
+                "pct": 61.5
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 6,
+                "pct": 23.1
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 4,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 9,
+                "pct": 50.0
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 6,
+                "pct": 33.3
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 3,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 6,
+                "pct": 46.2
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 3,
+                "pct": 23.1
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 11,
+                "pct": 64.7
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 3,
+                "pct": 17.6
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [],
+            "base": {
+              "n": 6
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 27,
+                "pct": 56.2
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 11,
+                "pct": 22.9
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 10,
+                "pct": 20.8
+              }
+            ],
+            "base": {
+              "n": 48
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 16,
+                "pct": 57.1
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 5,
+                "pct": 17.9
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 7,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 11,
+                "pct": 44.0
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 5,
+                "pct": 20.0
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 9,
+                "pct": 36.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [],
+            "base": {
+              "n": 7
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 4,
+                "pct": 28.6
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 4,
+                "pct": 28.6
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 6,
+                "pct": 42.9
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 15,
+                "pct": 57.7
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 6,
+                "pct": 23.1
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 5,
+                "pct": 19.2
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [],
+            "base": {
+              "n": 5
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 4,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 2,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 50,
+                "pct": 60.2
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 18,
+                "pct": 21.7
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 15,
+                "pct": 18.1
+              }
+            ],
+            "base": {
+              "n": 83
+            }
+          }
+        ]
+      },
+      "Unknown": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 6,
+                "pct": 46.2
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 5,
+                "pct": 38.5
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 2,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 7,
+                "pct": 41.2
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 7,
+                "pct": 41.2
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which of the following best describes you?",
+            "cells": [
+              {
+                "answer": "I am a manager in charge of hiring new employees",
+                "count": 7,
+                "pct": 50.0
+              },
+              {
+                "answer": "I am a member of my team who has helped hire new employees before",
+                "count": 5,
+                "pct": 35.7
+              },
+              {
+                "answer": "I am a senior member of my team who helps hire new employees",
+                "count": 2,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 10,
+    "single_panel": true
+  }
+}
