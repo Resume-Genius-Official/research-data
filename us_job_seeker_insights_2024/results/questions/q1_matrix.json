@@ -1,0 +1,1411 @@
+{
+  "id": "Q1",
+  "text": "Q1",
+  "question_prompt": "Q1: Which best describes your employment status?",
+  "type": "matrix",
+  "panels": [
+    "Q1: Which best describes your employment status?"
+  ],
+  "answers": [
+    "I'm unemployed and looking for work",
+    "I'm employed but am actively looking for new opportunities"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q1: Which best describes your employment status?",
+      "cells": [
+        {
+          "answer": "I'm unemployed and looking for work",
+          "count": 500,
+          "pct": 50.0
+        },
+        {
+          "answer": "I'm employed but am actively looking for new opportunities",
+          "count": 500,
+          "pct": 50.0
+        }
+      ],
+      "base": {
+        "n": 1000
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 1000
+    },
+    "answers": [
+      {
+        "answer": "I'm unemployed and looking for work",
+        "count": 500,
+        "pct": 50.0
+      },
+      {
+        "answer": "I'm employed but am actively looking for new opportunities",
+        "count": 500,
+        "pct": 50.0
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 206,
+                "pct": 65.8
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 107,
+                "pct": 34.2
+              }
+            ],
+            "base": {
+              "n": 313
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 197,
+                "pct": 44.7
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 244,
+                "pct": 55.3
+              }
+            ],
+            "base": {
+              "n": 441
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 97,
+                "pct": 39.4
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 149,
+                "pct": 60.6
+              }
+            ],
+            "base": {
+              "n": 246
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 312,
+                "pct": 56.7
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 238,
+                "pct": 43.3
+              }
+            ],
+            "base": {
+              "n": 550
+            }
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 188,
+                "pct": 41.8
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 262,
+                "pct": 58.2
+              }
+            ],
+            "base": {
+              "n": 450
+            }
+          }
+        ]
+      }
+    },
+    "Education": {
+      "elementary_school": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 266,
+                "pct": 58.0
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 193,
+                "pct": 42.0
+              }
+            ],
+            "base": {
+              "n": 459
+            }
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 29,
+                "pct": 53.7
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 25,
+                "pct": 46.3
+              }
+            ],
+            "base": {
+              "n": 54
+            }
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 28,
+                "pct": 26.2
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 79,
+                "pct": 73.8
+              }
+            ],
+            "base": {
+              "n": 107
+            }
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 97,
+                "pct": 41.1
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 139,
+                "pct": 58.9
+              }
+            ],
+            "base": {
+              "n": 236
+            }
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 79,
+                "pct": 55.2
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 64,
+                "pct": 44.8
+              }
+            ],
+            "base": {
+              "n": 143
+            }
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 22,
+                "pct": 47.8
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 24,
+                "pct": 52.2
+              }
+            ],
+            "base": {
+              "n": 46
+            }
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 16,
+                "pct": 30.8
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 36,
+                "pct": 69.2
+              }
+            ],
+            "base": {
+              "n": 52
+            }
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 19,
+                "pct": 23.5
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 62,
+                "pct": 76.5
+              }
+            ],
+            "base": {
+              "n": 81
+            }
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 233,
+                "pct": 65.8
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 121,
+                "pct": 34.2
+              }
+            ],
+            "base": {
+              "n": 354
+            }
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 85,
+                "pct": 47.0
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 96,
+                "pct": 53.0
+              }
+            ],
+            "base": {
+              "n": 181
+            }
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 55,
+                "pct": 43.3
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 72,
+                "pct": 56.7
+              }
+            ],
+            "base": {
+              "n": 127
+            }
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 43,
+                "pct": 37.7
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 71,
+                "pct": 62.3
+              }
+            ],
+            "base": {
+              "n": 114
+            }
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 27,
+                "pct": 60.0
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 18,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 45
+            }
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 13,
+                "pct": 61.9
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 8,
+                "pct": 38.1
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 8,
+                "pct": 57.1
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 6,
+                "pct": 42.9
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 5,
+                "pct": 55.6
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 4,
+                "pct": 44.4
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 40,
+                "pct": 43.5
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 52,
+                "pct": 56.5
+              }
+            ],
+            "base": {
+              "n": 92
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 8,
+                "pct": 47.1
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 9,
+                "pct": 52.9
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 3,
+                "pct": 37.5
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 5,
+                "pct": 62.5
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 35,
+                "pct": 50.0
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 35,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 70
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 18,
+                "pct": 41.9
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 25,
+                "pct": 58.1
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 4,
+                "pct": 80.0
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 1,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 4,
+                "pct": 80.0
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 1,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 19,
+                "pct": 45.2
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 23,
+                "pct": 54.8
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 10,
+                "pct": 43.5
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 13,
+                "pct": 56.5
+              }
+            ],
+            "base": {
+              "n": 23
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 4,
+                "pct": 80.0
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 1,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 12,
+                "pct": 60.0
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 8,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 13,
+                "pct": 72.2
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 5,
+                "pct": 27.8
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 17,
+                "pct": 70.8
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 7,
+                "pct": 29.2
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 10,
+                "pct": 66.7
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 27,
+                "pct": 60.0
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 18,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 45
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 6,
+                "pct": 60.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 12,
+                "pct": 48.0
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 13,
+                "pct": 52.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 5,
+                "pct": 71.4
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 21,
+                "pct": 55.3
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 17,
+                "pct": 44.7
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 25,
+                "pct": 44.6
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 31,
+                "pct": 55.4
+              }
+            ],
+            "base": {
+              "n": 56
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 23,
+                "pct": 53.5
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 20,
+                "pct": 46.5
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 16,
+                "pct": 57.1
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 12,
+                "pct": 42.9
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 6,
+                "pct": 66.7
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 6,
+                "pct": 60.0
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 4,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 26,
+                "pct": 50.0
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 26,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 52
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 6,
+                "pct": 31.6
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 13,
+                "pct": 68.4
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "South Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 18,
+                "pct": 51.4
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 17,
+                "pct": 48.6
+              }
+            ],
+            "base": {
+              "n": 35
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 41,
+                "pct": 49.4
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 42,
+                "pct": 50.6
+              }
+            ],
+            "base": {
+              "n": 83
+            }
+          }
+        ]
+      },
+      "Unknown": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 3,
+                "pct": 60.0
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 2,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 14,
+                "pct": 42.4
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 19,
+                "pct": 57.6
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 10,
+                "pct": 50.0
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 10,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 4,
+                "pct": 80.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [
+              {
+                "answer": "I'm unemployed and looking for work",
+                "count": 7,
+                "pct": 41.2
+              },
+              {
+                "answer": "I'm employed but am actively looking for new opportunities",
+                "count": 10,
+                "pct": 58.8
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Wyoming": {
+        "rows": [
+          {
+            "panel_id": "Q1: Which best describes your employment status?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 5,
+    "single_panel": true
+  }
+}

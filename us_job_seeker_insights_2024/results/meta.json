@@ -1,0 +1,463 @@
+{
+  "source_file": "Pollfish_Survey_RG_%7C_2024_Q3_%7C_Job_Seeker_Insights_Survey_390848038.csv",
+  "generated_at": "2025-12-31T11:59:49.645537+08:00",
+  "version": "v1.2.0",
+  "options": {
+    "age_bins": [
+      {
+        "label": "Under 18",
+        "min": null,
+        "max": 17
+      },
+      {
+        "label": "18-24",
+        "min": 18,
+        "max": 24
+      },
+      {
+        "label": "25-34",
+        "min": 25,
+        "max": 34
+      },
+      {
+        "label": "35-44",
+        "min": 35,
+        "max": 44
+      },
+      {
+        "label": "45-54",
+        "min": 45,
+        "max": 54
+      },
+      {
+        "label": "55-64",
+        "min": 55,
+        "max": 64
+      },
+      {
+        "label": "65+",
+        "min": 65,
+        "max": null
+      }
+    ],
+    "age_binning_enabled": true,
+    "children_derived_modes": [
+      "has_u18",
+      "youngest_band"
+    ],
+    "child_bins": [
+      {
+        "label": "0-5",
+        "min": 0,
+        "max": 5
+      },
+      {
+        "label": "6-12",
+        "min": 6,
+        "max": 12
+      },
+      {
+        "label": "13-17",
+        "min": 13,
+        "max": 17
+      },
+      {
+        "label": "18+",
+        "min": 18,
+        "max": null
+      }
+    ],
+    "child_binning_enabled": true,
+    "children_keep_raw": false,
+    "question_auto_binning": true,
+    "generation_bins": [
+      {
+        "label": "Gen Z",
+        "min": 13,
+        "max": 28
+      },
+      {
+        "label": "Millennials",
+        "min": 29,
+        "max": 44
+      },
+      {
+        "label": "Gen X",
+        "min": 45,
+        "max": 60
+      },
+      {
+        "label": "Baby Boomers",
+        "min": 61,
+        "max": 79
+      },
+      {
+        "label": "Silent Generation",
+        "min": 80,
+        "max": null
+      }
+    ]
+  },
+  "selections": {
+    "questions": [],
+    "demos": [
+      "Age",
+      "Gender",
+      "Education",
+      "Income",
+      "Area"
+    ],
+    "demo_configs": {
+      "Age": {
+        "mode": "generation_bins",
+        "bins": [
+          {
+            "label": "Gen Z",
+            "max": 28,
+            "min": 13
+          },
+          {
+            "label": "Millennials",
+            "max": 44,
+            "min": 29
+          },
+          {
+            "label": "Gen X",
+            "max": 60,
+            "min": 45
+          },
+          {
+            "label": "Baby Boomers",
+            "max": 79,
+            "min": 61
+          },
+          {
+            "label": "Silent Generation",
+            "max": null,
+            "min": 80
+          }
+        ],
+        "other_label": "Other"
+      },
+      "Gender": {
+        "mode": "none",
+        "other_label": "Other"
+      },
+      "Education": {
+        "mode": "none",
+        "other_label": "Other"
+      },
+      "Income": {
+        "mode": "none",
+        "other_label": "Other"
+      },
+      "Area": {
+        "mode": "none",
+        "other_label": "Other"
+      }
+    },
+    "matrices": [
+      "matrix:Q1",
+      "matrix:Q2",
+      "matrix:Q3",
+      "matrix:Q4",
+      "matrix:Q5",
+      "matrix:Q6",
+      "matrix:Q7",
+      "matrix:Q8",
+      "matrix:Q9",
+      "matrix:Q10",
+      "matrix:Q11",
+      "matrix:Q12",
+      "matrix:Q13",
+      "matrix:Q14",
+      "matrix:Q15",
+      "matrix:Q16"
+    ],
+    "question_options": {
+      "auto_bin_numeric": true
+    }
+  },
+  "suppression_threshold": 5,
+  "detection": {
+    "demo_candidates": [
+      "apiKey",
+      "sdkVersion",
+      "Manufacturer",
+      "OS",
+      "Country",
+      "Area",
+      "Gender",
+      "Age",
+      "Year Of Birth",
+      "Marital Status",
+      "Number of children",
+      "Education",
+      "Career",
+      "Race",
+      "Income",
+      "Spoken Languages",
+      "Organization Role",
+      "Number of Employees",
+      "US Census Region",
+      "US Census Division",
+      "US Congressional District",
+      "DMA Name",
+      "Audience",
+      "Weight"
+    ],
+    "recommended_demos": [
+      "Age",
+      "Country",
+      "DMA Name",
+      "Education",
+      "Gender",
+      "Income",
+      "Organization Role",
+      "Spoken Languages",
+      "US Census Region"
+    ],
+    "demo_rejections": {
+      "deviceId": "id-like/high cardinality",
+      "sessionId": "id-like/high cardinality",
+      "ID": "id-like/high cardinality",
+      "Time Started": "datetime-like (header)",
+      "Time Finished": "datetime-like (header)",
+      "County": "high-cardinality",
+      "City": "high-cardinality",
+      "Provider": "id-like/high cardinality",
+      "Q1: Which best describes your employment status?": "question-like label",
+      "Q2: When deciding what company to join, what’s most important to you? Rank from least (1) to most (10) important. Salary": "question-like label",
+      "Q2: When deciding what company to join, what’s most important to you? Rank from least (1) to most (10) important. Benefits": "question-like label",
+      "Q2: When deciding what company to join, what’s most important to you? Rank from least (1) to most (10) important. Company’s mission, vision, and values": "question-like label",
+      "Q2: When deciding what company to join, what’s most important to you? Rank from least (1) to most (10) important. Work-life balance": "question-like label",
+      "Q2: When deciding what company to join, what’s most important to you? Rank from least (1) to most (10) important. Career growth opportunities": "question-like label",
+      "Q2: When deciding what company to join, what’s most important to you? Rank from least (1) to most (10) important. Flexible working arrangement (hybrid, remote, etc.)": "question-like label",
+      "Q2: When deciding what company to join, what’s most important to you? Rank from least (1) to most (10) important. The actual work you’ll be doing": "question-like label",
+      "Q2: When deciding what company to join, what’s most important to you? Rank from least (1) to most (10) important. Company’s leadership style and management approach": "question-like label",
+      "Q2: When deciding what company to join, what’s most important to you? Rank from least (1) to most (10) important. Company culture (e.g., the expectations around employee behavior and attitudes)": "question-like label",
+      "Q2: When deciding what company to join, what’s most important to you? Rank from least (1) to most (10) important. The social aspect of work (e.g., friendships with colleagues)": "question-like label",
+      "Q3: When considering whether to accept a job offer, to what degree will the following scenarios affect your decision? No diversity in leadership ": "question-like label",
+      "Q3: When considering whether to accept a job offer, to what degree will the following scenarios affect your decision? Company lacks adequate diversity, equity, and inclusion (DEI) practices": "question-like label",
+      "Q3: When considering whether to accept a job offer, to what degree will the following scenarios affect your decision? No flexibility in work hours and/or location": "question-like label",
+      "Q3: When considering whether to accept a job offer, to what degree will the following scenarios affect your decision? Being expected to regularly work overtime": "question-like label",
+      "Q3: When considering whether to accept a job offer, to what degree will the following scenarios affect your decision? Enforced dress code": "question-like label",
+      "Q3: When considering whether to accept a job offer, to what degree will the following scenarios affect your decision? Seniority is valued over ability": "question-like label",
+      "Q3: When considering whether to accept a job offer, to what degree will the following scenarios affect your decision? Company has poor work-life balance": "question-like label",
+      "Q3: When considering whether to accept a job offer, to what degree will the following scenarios affect your decision? There’s limited potential for advancing my career": "question-like label",
+      "Q3: When considering whether to accept a job offer, to what degree will the following scenarios affect your decision? Company’s values conflict with my personal beliefs": "question-like label",
+      "Q3: When considering whether to accept a job offer, to what degree will the following scenarios affect your decision? Job’s location isn’t ideal or requires a relocation": "question-like label",
+      "Q4: Which of the following matters the most to you when considering a job offer? Choose your top three._Higher than average salary": "question-like label",
+      "Q4: Which of the following matters the most to you when considering a job offer? Choose your top three._Performance bonuses": "question-like label",
+      "Q4: Which of the following matters the most to you when considering a job offer? Choose your top three._Unlimited PTO": "question-like label",
+      "Q4: Which of the following matters the most to you when considering a job offer? Choose your top three._4-day work week": "question-like label",
+      "Q4: Which of the following matters the most to you when considering a job offer? Choose your top three._Work from home": "question-like label",
+      "Q4: Which of the following matters the most to you when considering a job offer? Choose your top three._Retirement savings plan (401(k) matching, etc.)": "question-like label",
+      "Q4: Which of the following matters the most to you when considering a job offer? Choose your top three._Comprehensive health insurance": "question-like label",
+      "Q4: Which of the following matters the most to you when considering a job offer? Choose your top three._Paid parental leave": "question-like label",
+      "Q4: Which of the following matters the most to you when considering a job offer? Choose your top three._Professional development opportunities (courses, certifications, etc.)": "question-like label",
+      "Q5: What are some of your office pet peeves? Select all that apply._Being forced to “look” busy": "question-like label",
+      "Q5: What are some of your office pet peeves? Select all that apply._Unorganized or unnecessary meetings": "question-like label",
+      "Q5: What are some of your office pet peeves? Select all that apply._Mandatory work socials": "question-like label",
+      "Q5: What are some of your office pet peeves? Select all that apply._Managers or coworkers stealing credit for your work": "question-like label",
+      "Q5: What are some of your office pet peeves? Select all that apply._Micromanagement": "question-like label",
+      "Q5: What are some of your office pet peeves? Select all that apply._Office politics": "question-like label",
+      "Q5: What are some of your office pet peeves? Select all that apply._Office gossip": "question-like label",
+      "Q5: What are some of your office pet peeves? Select all that apply._Poor email etiquette (overuse of “reply all,” excessive email chains, etc.)": "question-like label",
+      "Q5: What are some of your office pet peeves? Select all that apply._Colleagues not meeting deadlines": "question-like label",
+      "Q5: What are some of your office pet peeves? Select all that apply._Colleagues constantly complaining": "question-like label",
+      "Q5: What are some of your office pet peeves? Select all that apply._Constant distractions during focused work": "question-like label",
+      "Q5: What are some of your office pet peeves? Select all that apply._I don't have any office pet peeves": "question-like label",
+      "Q6: Which of the following sentences describes your ideal supervisor? Choose up to three options._They give me constructive feedback": "question-like label",
+      "Q6: Which of the following sentences describes your ideal supervisor? Choose up to three options._They trust me to get my work done on my own": "question-like label",
+      "Q6: Which of the following sentences describes your ideal supervisor? Choose up to three options._They’re very hands-on with providing step-by-step instructions": "question-like label",
+      "Q6: Which of the following sentences describes your ideal supervisor? Choose up to three options._They give me the autonomy to decide my own tasks": "question-like label",
+      "Q6: Which of the following sentences describes your ideal supervisor? Choose up to three options._They’re invested in my personal well-being": "question-like label",
+      "Q6: Which of the following sentences describes your ideal supervisor? Choose up to three options._They’re supportive of my long-term career goals": "question-like label",
+      "Q6: Which of the following sentences describes your ideal supervisor? Choose up to three options._They’re knowledgeable and experienced in their role": "question-like label",
+      "Q6: Which of the following sentences describes your ideal supervisor? Choose up to three options._They promote work-life balance": "question-like label",
+      "Q7: Which of the following beliefs do you have about AI in the workplace? Select all that apply._AI will replace me in the future": "question-like label",
+      "Q7: Which of the following beliefs do you have about AI in the workplace? Select all that apply._AI will increase my workload": "question-like label",
+      "Q7: Which of the following beliefs do you have about AI in the workplace? Select all that apply._AI will increase competition for jobs in my field": "question-like label",
+      "Q7: Which of the following beliefs do you have about AI in the workplace? Select all that apply._AI is competition and will therefore hurt my salary": "question-like label",
+      "Q7: Which of the following beliefs do you have about AI in the workplace? Select all that apply._AI will steal my work to train its algorithm": "question-like label",
+      "Q7: Which of the following beliefs do you have about AI in the workplace? Select all that apply._AI is a security risk": "question-like label",
+      "Q7: Which of the following beliefs do you have about AI in the workplace? Select all that apply._AI will reduce my workload": "question-like label",
+      "Q7: Which of the following beliefs do you have about AI in the workplace? Select all that apply._AI will increase my job performance": "question-like label",
+      "Q7: Which of the following beliefs do you have about AI in the workplace? Select all that apply._Knowing how to use AI tools will make me more hireable": "question-like label",
+      "Q7: Which of the following beliefs do you have about AI in the workplace? Select all that apply._Other": "question-like label",
+      "Q7: Which of the following beliefs do you have about AI in the workplace? Select all that apply._Other_oe": "question-like label",
+      "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?": "question-like label",
+      "Q9: How often do you think it's appropriate to switch jobs?": "question-like label",
+      "Q10: How do you create your resume?": "question-like label",
+      "Q10: How do you create your resume?_oe": "question-like label",
+      "Q11: Have you ever lied on your resume?": "question-like label",
+      "Q12: What did you lie about on your resume? Choose all that apply._The length of time I was employed at a job": "question-like label",
+      "Q12: What did you lie about on your resume? Choose all that apply._My job title (I made it sound more impressive)": "question-like label",
+      "Q12: What did you lie about on your resume? Choose all that apply._Embellishing responsibilities in general ": "question-like label",
+      "Q12: What did you lie about on your resume? Choose all that apply._Fabricating how many people I actually managed": "question-like label",
+      "Q12: What did you lie about on your resume? Choose all that apply._The name of the company that employed me": "question-like label",
+      "Q12: What did you lie about on your resume? Choose all that apply._I made up the entire position": "question-like label",
+      "Q12: What did you lie about on your resume? Choose all that apply._Inflating metrics or accomplishments I achieved (e.g., sales numbers)": "question-like label",
+      "Q12: What did you lie about on your resume? Choose all that apply._GPA": "question-like label",
+      "Q12: What did you lie about on your resume? Choose all that apply._Awards or accolades": "question-like label",
+      "Q12: What did you lie about on your resume? Choose all that apply._My education credentials": "question-like label",
+      "Q12: What did you lie about on your resume? Choose all that apply._Language skills": "question-like label",
+      "Q12: What did you lie about on your resume? Choose all that apply._Volunteer work": "question-like label",
+      "Q12: What did you lie about on your resume? Choose all that apply._I covered up a career gap": "question-like label",
+      "Q12: What did you lie about on your resume? Choose all that apply._Technology capabilities (e.g., knowing tools like Trello, Asana)": "question-like label",
+      "Q12: What did you lie about on your resume? Choose all that apply._Other": "question-like label",
+      "Q12: What did you lie about on your resume? Choose all that apply._Other_oe": "question-like label",
+      "Q13: What are your frustrations concerning job searching? Choose all that apply._Not hearing back from employers": "question-like label",
+      "Q13: What are your frustrations concerning job searching? Choose all that apply._Unreasonable requirements (work experience, degree, or skills)": "question-like label",
+      "Q13: What are your frustrations concerning job searching? Choose all that apply._Lengthy submission processes": "question-like label",
+      "Q13: What are your frustrations concerning job searching? Choose all that apply._The prevalence of job scams": "question-like label",
+      "Q13: What are your frustrations concerning job searching? Choose all that apply._Formatting my application specifically for Applicant Tracking Systems (ATS)": "question-like label",
+      "Q13: What are your frustrations concerning job searching? Choose all that apply._Not being able to identify the hiring manager": "question-like label",
+      "Q13: What are your frustrations concerning job searching? Choose all that apply._Not finding jobs that I qualify for": "question-like label",
+      "Q13: What are your frustrations concerning job searching? Choose all that apply._Not finding jobs at companies I'm interested in": "question-like label",
+      "Q13: What are your frustrations concerning job searching? Choose all that apply._Jobs are too low-paying": "question-like label",
+      "Q13: What are your frustrations concerning job searching? Choose all that apply._Not sure where to look for jobs": "question-like label",
+      "Q13: What are your frustrations concerning job searching? Choose all that apply._Seeing a job reposted that I already applied to": "question-like label",
+      "Q13: What are your frustrations concerning job searching? Choose all that apply._Ghost jobs (applying for jobs visible on job boards that aren’t actually open)": "question-like label",
+      "Q13: What are your frustrations concerning job searching? Choose all that apply._None of the above": "question-like label",
+      "Q14: Does the job search process negatively affect your mental health?": "question-like label",
+      "Q15: What aspects of the job search process most impact your mental health? Choose up to two._The uncertainty of not knowing when you'll find a job": "question-like label",
+      "Q15: What aspects of the job search process most impact your mental health? Choose up to two._The pressure of needing to find a job quickly": "question-like label",
+      "Q15: What aspects of the job search process most impact your mental health? Choose up to two._The repetitive nature of sending applications without responses": "question-like label",
+      "Q15: What aspects of the job search process most impact your mental health? Choose up to two._The stress of interviews and meeting potential employers' expectations": "question-like label",
+      "Q15: What aspects of the job search process most impact your mental health? Choose up to two._The feeling of rejection from not getting offers": "question-like label",
+      "Q15: What aspects of the job search process most impact your mental health? Choose up to two._Balancing job searching with other personal or professional responsibilities": "question-like label",
+      "Q15: What aspects of the job search process most impact your mental health? Choose up to two._None of these": "question-like label",
+      "Q16: In your experience, what have been the most successful methods for applying to jobs and receiving an interview invitation? Choose up to five methods._Instagram": "question-like label",
+      "Q16: In your experience, what have been the most successful methods for applying to jobs and receiving an interview invitation? Choose up to five methods._Job search engines (LinkedIn, Flexjobs, Craigslist, Upwork)": "question-like label",
+      "Q16: In your experience, what have been the most successful methods for applying to jobs and receiving an interview invitation? Choose up to five methods._Facebook": "question-like label",
+      "Q16: In your experience, what have been the most successful methods for applying to jobs and receiving an interview invitation? Choose up to five methods._TikTok": "question-like label",
+      "Q16: In your experience, what have been the most successful methods for applying to jobs and receiving an interview invitation? Choose up to five methods._Internal referral": "question-like label",
+      "Q16: In your experience, what have been the most successful methods for applying to jobs and receiving an interview invitation? Choose up to five methods._Word of mouth": "question-like label",
+      "Q16: In your experience, what have been the most successful methods for applying to jobs and receiving an interview invitation? Choose up to five methods._Recruiter": "question-like label",
+      "Q16: In your experience, what have been the most successful methods for applying to jobs and receiving an interview invitation? Choose up to five methods._Volunteer or internship": "question-like label",
+      "Q16: In your experience, what have been the most successful methods for applying to jobs and receiving an interview invitation? Choose up to five methods._Industry events": "question-like label",
+      "Q16: In your experience, what have been the most successful methods for applying to jobs and receiving an interview invitation? Choose up to five methods._Emailing or calling directly": "question-like label",
+      "Q16: In your experience, what have been the most successful methods for applying to jobs and receiving an interview invitation? Choose up to five methods._Job fairs": "question-like label",
+      "Q16: In your experience, what have been the most successful methods for applying to jobs and receiving an interview invitation? Choose up to five methods._Company’s website": "question-like label",
+      "Q16: In your experience, what have been the most successful methods for applying to jobs and receiving an interview invitation? Choose up to five methods._Other": "question-like label",
+      "Q16: In your experience, what have been the most successful methods for applying to jobs and receiving an interview invitation? Choose up to five methods._Other_oe": "id-like/high cardinality",
+      "Location Postal Code": "high-cardinality numeric",
+      "DMA Code": "high-cardinality"
+    },
+    "demo_overrides": [
+      "Q16: In your experience, what have been the most successful methods for applying to jobs and receiving an interview invitation? Choose up to five methods._Other_oe"
+    ],
+    "demo_semantics": {
+      "Country": "location",
+      "Gender": "gender",
+      "Age": "age",
+      "Number of children": "children",
+      "Education": "education",
+      "Income": "income",
+      "Spoken Languages": "language",
+      "Organization Role": "role",
+      "US Census Region": "location",
+      "DMA Name": "gender"
+    },
+    "demo_families": {
+      "Languages": [
+        "Spoken Languages"
+      ],
+      "Children": [
+        "Number of children"
+      ],
+      "Location": [
+        "Country",
+        "US Census Region"
+      ],
+      "Household": [
+        "Education",
+        "Income",
+        "Marital Status"
+      ],
+      "Employment": [
+        "Organization Role"
+      ]
+    },
+    "derived_children": [],
+    "rolled_children_columns": [],
+    "age_bucketed_columns": [
+      "Age"
+    ],
+    "age_binning_enabled": true,
+    "age_bins": [
+      {
+        "label": "Under 18",
+        "min": null,
+        "max": 17
+      },
+      {
+        "label": "18-24",
+        "min": 18,
+        "max": 24
+      },
+      {
+        "label": "25-34",
+        "min": 25,
+        "max": 34
+      },
+      {
+        "label": "35-44",
+        "min": 35,
+        "max": 44
+      },
+      {
+        "label": "45-54",
+        "min": 45,
+        "max": 54
+      },
+      {
+        "label": "55-64",
+        "min": 55,
+        "max": 64
+      },
+      {
+        "label": "65+",
+        "min": 65,
+        "max": null
+      }
+    ],
+    "children_option_types": {},
+    "children_source_columns": [],
+    "children_parental_columns": [],
+    "children_requested_modes": [
+      "has_u18",
+      "youngest_band"
+    ],
+    "children_mode_option_types": {},
+    "children_mode_to_column": {},
+    "children_available_modes": [],
+    "children_candidate_modes": [],
+    "child_bins": [
+      {
+        "label": "0-5",
+        "min": 0,
+        "max": 5
+      },
+      {
+        "label": "6-12",
+        "min": 6,
+        "max": 12
+      },
+      {
+        "label": "13-17",
+        "min": 13,
+        "max": 17
+      },
+      {
+        "label": "18+",
+        "min": 18,
+        "max": null
+      }
+    ],
+    "child_binning_enabled": true,
+    "children_keep_raw": false
+  }
+}

@@ -1,0 +1,2254 @@
+{
+  "id": "Q8",
+  "text": "Q8",
+  "question_prompt": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+  "type": "matrix",
+  "panels": [
+    "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?"
+  ],
+  "answers": [
+    "No Change",
+    "Slightly more difficult",
+    "Slightly easier",
+    "Much easier",
+    "Much more difficult"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+      "cells": [
+        {
+          "answer": "No Change",
+          "count": 233,
+          "pct": 23.3
+        },
+        {
+          "answer": "Slightly more difficult",
+          "count": 217,
+          "pct": 21.7
+        },
+        {
+          "answer": "Slightly easier",
+          "count": 212,
+          "pct": 21.2
+        },
+        {
+          "answer": "Much easier",
+          "count": 182,
+          "pct": 18.2
+        },
+        {
+          "answer": "Much more difficult",
+          "count": 156,
+          "pct": 15.6
+        }
+      ],
+      "base": {
+        "n": 1000
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 1000
+    },
+    "answers": [
+      {
+        "answer": "No Change",
+        "count": 233,
+        "pct": 23.3
+      },
+      {
+        "answer": "Slightly more difficult",
+        "count": 217,
+        "pct": 21.7
+      },
+      {
+        "answer": "Slightly easier",
+        "count": 212,
+        "pct": 21.2
+      },
+      {
+        "answer": "Much easier",
+        "count": 182,
+        "pct": 18.2
+      },
+      {
+        "answer": "Much more difficult",
+        "count": 156,
+        "pct": 15.6
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 91,
+                "pct": 29.1
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 73,
+                "pct": 23.3
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 58,
+                "pct": 18.5
+              },
+              {
+                "answer": "Much easier",
+                "count": 49,
+                "pct": 15.7
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 42,
+                "pct": 13.4
+              }
+            ],
+            "base": {
+              "n": 313
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 76,
+                "pct": 17.2
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 96,
+                "pct": 21.8
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 108,
+                "pct": 24.5
+              },
+              {
+                "answer": "Much easier",
+                "count": 71,
+                "pct": 16.1
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 90,
+                "pct": 20.4
+              }
+            ],
+            "base": {
+              "n": 441
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 66,
+                "pct": 26.8
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 48,
+                "pct": 19.5
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 46,
+                "pct": 18.7
+              },
+              {
+                "answer": "Much easier",
+                "count": 62,
+                "pct": 25.2
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 24,
+                "pct": 9.8
+              }
+            ],
+            "base": {
+              "n": 246
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 138,
+                "pct": 25.1
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 132,
+                "pct": 24.0
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 107,
+                "pct": 19.5
+              },
+              {
+                "answer": "Much easier",
+                "count": 80,
+                "pct": 14.5
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 93,
+                "pct": 16.9
+              }
+            ],
+            "base": {
+              "n": 550
+            }
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 95,
+                "pct": 21.1
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 85,
+                "pct": 18.9
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 105,
+                "pct": 23.3
+              },
+              {
+                "answer": "Much easier",
+                "count": 102,
+                "pct": 22.7
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 63,
+                "pct": 14.0
+              }
+            ],
+            "base": {
+              "n": 450
+            }
+          }
+        ]
+      }
+    },
+    "Education": {
+      "elementary_school": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 119,
+                "pct": 25.9
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 111,
+                "pct": 24.2
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 98,
+                "pct": 21.4
+              },
+              {
+                "answer": "Much easier",
+                "count": 62,
+                "pct": 13.5
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 69,
+                "pct": 15.0
+              }
+            ],
+            "base": {
+              "n": 459
+            }
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 14,
+                "pct": 25.9
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 12,
+                "pct": 22.2
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 13,
+                "pct": 24.1
+              },
+              {
+                "answer": "Much easier",
+                "count": 5,
+                "pct": 9.3
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 10,
+                "pct": 18.5
+              }
+            ],
+            "base": {
+              "n": 54
+            }
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 16,
+                "pct": 15.0
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 17,
+                "pct": 15.9
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 22,
+                "pct": 20.6
+              },
+              {
+                "answer": "Much easier",
+                "count": 44,
+                "pct": 41.1
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 8,
+                "pct": 7.5
+              }
+            ],
+            "base": {
+              "n": 107
+            }
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 56,
+                "pct": 23.7
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 47,
+                "pct": 19.9
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 47,
+                "pct": 19.9
+              },
+              {
+                "answer": "Much easier",
+                "count": 44,
+                "pct": 18.6
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 42,
+                "pct": 17.8
+              }
+            ],
+            "base": {
+              "n": 236
+            }
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 28,
+                "pct": 19.6
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 29,
+                "pct": 20.3
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 32,
+                "pct": 22.4
+              },
+              {
+                "answer": "Much easier",
+                "count": 27,
+                "pct": 18.9
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 27,
+                "pct": 18.9
+              }
+            ],
+            "base": {
+              "n": 143
+            }
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 4,
+                "pct": 8.7
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 12,
+                "pct": 26.1
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 9,
+                "pct": 19.6
+              },
+              {
+                "answer": "Much easier",
+                "count": 14,
+                "pct": 30.4
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 7,
+                "pct": 15.2
+              }
+            ],
+            "base": {
+              "n": 46
+            }
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 8,
+                "pct": 15.4
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 11,
+                "pct": 21.2
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 7,
+                "pct": 13.5
+              },
+              {
+                "answer": "Much easier",
+                "count": 20,
+                "pct": 38.5
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 6,
+                "pct": 11.5
+              }
+            ],
+            "base": {
+              "n": 52
+            }
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 15,
+                "pct": 18.5
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 6,
+                "pct": 7.4
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 17,
+                "pct": 21.0
+              },
+              {
+                "answer": "Much easier",
+                "count": 29,
+                "pct": 35.8
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 14,
+                "pct": 17.3
+              }
+            ],
+            "base": {
+              "n": 81
+            }
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 97,
+                "pct": 27.4
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 86,
+                "pct": 24.3
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 75,
+                "pct": 21.2
+              },
+              {
+                "answer": "Much easier",
+                "count": 47,
+                "pct": 13.3
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 49,
+                "pct": 13.8
+              }
+            ],
+            "base": {
+              "n": 354
+            }
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 38,
+                "pct": 21.0
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 45,
+                "pct": 24.9
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 42,
+                "pct": 23.2
+              },
+              {
+                "answer": "Much easier",
+                "count": 30,
+                "pct": 16.6
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 26,
+                "pct": 14.4
+              }
+            ],
+            "base": {
+              "n": 181
+            }
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 32,
+                "pct": 25.2
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 27,
+                "pct": 21.3
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 26,
+                "pct": 20.5
+              },
+              {
+                "answer": "Much easier",
+                "count": 19,
+                "pct": 15.0
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 23,
+                "pct": 18.1
+              }
+            ],
+            "base": {
+              "n": 127
+            }
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 27,
+                "pct": 23.7
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 20,
+                "pct": 17.5
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 26,
+                "pct": 22.8
+              },
+              {
+                "answer": "Much easier",
+                "count": 17,
+                "pct": 14.9
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 24,
+                "pct": 21.1
+              }
+            ],
+            "base": {
+              "n": 114
+            }
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 12,
+                "pct": 26.7
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 10,
+                "pct": 22.2
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 10,
+                "pct": 22.2
+              },
+              {
+                "answer": "Much easier",
+                "count": 6,
+                "pct": 13.3
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 7,
+                "pct": 15.6
+              }
+            ],
+            "base": {
+              "n": 45
+            }
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 5,
+                "pct": 23.8
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 4,
+                "pct": 19.0
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 3,
+                "pct": 14.3
+              },
+              {
+                "answer": "Much easier",
+                "count": 2,
+                "pct": 9.5
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 7,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 2,
+                "pct": 14.3
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 4,
+                "pct": 28.6
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 4,
+                "pct": 28.6
+              },
+              {
+                "answer": "Much easier",
+                "count": 1,
+                "pct": 7.1
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 3,
+                "pct": 21.4
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 2,
+                "pct": 22.2
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "Much easier",
+                "count": 1,
+                "pct": 11.1
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 3,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 23,
+                "pct": 25.0
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 13,
+                "pct": 14.1
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 21,
+                "pct": 22.8
+              },
+              {
+                "answer": "Much easier",
+                "count": 18,
+                "pct": 19.6
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 17,
+                "pct": 18.5
+              }
+            ],
+            "base": {
+              "n": 92
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 6,
+                "pct": 35.3
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Much easier",
+                "count": 6,
+                "pct": 35.3
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 3,
+                "pct": 17.6
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 2,
+                "pct": 25.0
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 4,
+                "pct": 50.0
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Much easier",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 13,
+                "pct": 18.6
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 16,
+                "pct": 22.9
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 17,
+                "pct": 24.3
+              },
+              {
+                "answer": "Much easier",
+                "count": 12,
+                "pct": 17.1
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 12,
+                "pct": 17.1
+              }
+            ],
+            "base": {
+              "n": 70
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 6,
+                "pct": 14.0
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 11,
+                "pct": 25.6
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 12,
+                "pct": 27.9
+              },
+              {
+                "answer": "Much easier",
+                "count": 7,
+                "pct": 16.3
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 7,
+                "pct": 16.3
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Much easier",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 2,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Much easier",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 1,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 9,
+                "pct": 21.4
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 9,
+                "pct": 21.4
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 10,
+                "pct": 23.8
+              },
+              {
+                "answer": "Much easier",
+                "count": 7,
+                "pct": 16.7
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 7,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 9,
+                "pct": 39.1
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 4,
+                "pct": 17.4
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 3,
+                "pct": 13.0
+              },
+              {
+                "answer": "Much easier",
+                "count": 5,
+                "pct": 21.7
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 2,
+                "pct": 8.7
+              }
+            ],
+            "base": {
+              "n": 23
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Much easier",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 2,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 5,
+                "pct": 25.0
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 3,
+                "pct": 15.0
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 5,
+                "pct": 25.0
+              },
+              {
+                "answer": "Much easier",
+                "count": 4,
+                "pct": 20.0
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 3,
+                "pct": 15.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 7,
+                "pct": 38.9
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 4,
+                "pct": 22.2
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 1,
+                "pct": 5.6
+              },
+              {
+                "answer": "Much easier",
+                "count": 3,
+                "pct": 16.7
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 3,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 8,
+                "pct": 33.3
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 5,
+                "pct": 20.8
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 4,
+                "pct": 16.7
+              },
+              {
+                "answer": "Much easier",
+                "count": 3,
+                "pct": 12.5
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 4,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "Much easier",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 6,
+                "pct": 13.3
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 10,
+                "pct": 22.2
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 14,
+                "pct": 31.1
+              },
+              {
+                "answer": "Much easier",
+                "count": 11,
+                "pct": 24.4
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 4,
+                "pct": 8.9
+              }
+            ],
+            "base": {
+              "n": 45
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Much easier",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 7,
+                "pct": 28.0
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 2,
+                "pct": 8.0
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 7,
+                "pct": 28.0
+              },
+              {
+                "answer": "Much easier",
+                "count": 6,
+                "pct": 24.0
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 3,
+                "pct": 12.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 1,
+                "pct": 14.3
+              },
+              {
+                "answer": "Much easier",
+                "count": 4,
+                "pct": 57.1
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 7,
+                "pct": 18.4
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 9,
+                "pct": 23.7
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 12,
+                "pct": 31.6
+              },
+              {
+                "answer": "Much easier",
+                "count": 6,
+                "pct": 15.8
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 4,
+                "pct": 10.5
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 14,
+                "pct": 25.0
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 12,
+                "pct": 21.4
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 8,
+                "pct": 14.3
+              },
+              {
+                "answer": "Much easier",
+                "count": 16,
+                "pct": 28.6
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 6,
+                "pct": 10.7
+              }
+            ],
+            "base": {
+              "n": 56
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 14,
+                "pct": 32.6
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 7,
+                "pct": 16.3
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 9,
+                "pct": 20.9
+              },
+              {
+                "answer": "Much easier",
+                "count": 8,
+                "pct": 18.6
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 5,
+                "pct": 11.6
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 8,
+                "pct": 28.6
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 6,
+                "pct": 21.4
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 8,
+                "pct": 28.6
+              },
+              {
+                "answer": "Much easier",
+                "count": 2,
+                "pct": 7.1
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 4,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 1,
+                "pct": 11.1
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 1,
+                "pct": 11.1
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "Much easier",
+                "count": 1,
+                "pct": 11.1
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 3,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Much easier",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 5,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 11,
+                "pct": 21.2
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 16,
+                "pct": 30.8
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 8,
+                "pct": 15.4
+              },
+              {
+                "answer": "Much easier",
+                "count": 9,
+                "pct": 17.3
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 8,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 52
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 4,
+                "pct": 21.1
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 4,
+                "pct": 21.1
+              },
+              {
+                "answer": "Much easier",
+                "count": 8,
+                "pct": 42.1
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 1,
+                "pct": 5.3
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "South Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 10,
+                "pct": 28.6
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 9,
+                "pct": 25.7
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 7,
+                "pct": 20.0
+              },
+              {
+                "answer": "Much easier",
+                "count": 6,
+                "pct": 17.1
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 3,
+                "pct": 8.6
+              }
+            ],
+            "base": {
+              "n": 35
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 18,
+                "pct": 21.7
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 20,
+                "pct": 24.1
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 16,
+                "pct": 19.3
+              },
+              {
+                "answer": "Much easier",
+                "count": 9,
+                "pct": 10.8
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 20,
+                "pct": 24.1
+              }
+            ],
+            "base": {
+              "n": 83
+            }
+          }
+        ]
+      },
+      "Unknown": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Much easier",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 1,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 6,
+                "pct": 18.2
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 8,
+                "pct": 24.2
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 9,
+                "pct": 27.3
+              },
+              {
+                "answer": "Much easier",
+                "count": 6,
+                "pct": 18.2
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 4,
+                "pct": 12.1
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 4,
+                "pct": 20.0
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 5,
+                "pct": 25.0
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 3,
+                "pct": 15.0
+              },
+              {
+                "answer": "Much easier",
+                "count": 5,
+                "pct": 25.0
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 3,
+                "pct": 15.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Much easier",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 1,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [
+              {
+                "answer": "No Change",
+                "count": 7,
+                "pct": 41.2
+              },
+              {
+                "answer": "Slightly more difficult",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Slightly easier",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Much easier",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "Much more difficult",
+                "count": 1,
+                "pct": 5.9
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Wyoming": {
+        "rows": [
+          {
+            "panel_id": "Q8: Compared to previous generations, do you think it’s easier or more difficult for Gen Z job seekers to land a job?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 5,
+    "single_panel": true
+  }
+}

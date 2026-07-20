@@ -1,0 +1,1973 @@
+{
+  "id": "Q11",
+  "text": "Q11",
+  "question_prompt": "Q11: Have you ever lied on your resume?",
+  "type": "matrix",
+  "panels": [
+    "Q11: Have you ever lied on your resume?"
+  ],
+  "answers": [
+    "No, and I’ve never considered lying",
+    "No, but I’ve considered lying",
+    "White lies or minor exaggerations",
+    "Yes"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q11: Have you ever lied on your resume?",
+      "cells": [
+        {
+          "answer": "No, and I’ve never considered lying",
+          "count": 524,
+          "pct": 52.4
+        },
+        {
+          "answer": "No, but I’ve considered lying",
+          "count": 186,
+          "pct": 18.6
+        },
+        {
+          "answer": "White lies or minor exaggerations",
+          "count": 154,
+          "pct": 15.4
+        },
+        {
+          "answer": "Yes",
+          "count": 136,
+          "pct": 13.6
+        }
+      ],
+      "base": {
+        "n": 1000
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 1000
+    },
+    "answers": [
+      {
+        "answer": "No, and I’ve never considered lying",
+        "count": 524,
+        "pct": 52.4
+      },
+      {
+        "answer": "No, but I’ve considered lying",
+        "count": 186,
+        "pct": 18.6
+      },
+      {
+        "answer": "White lies or minor exaggerations",
+        "count": 154,
+        "pct": 15.4
+      },
+      {
+        "answer": "Yes",
+        "count": 136,
+        "pct": 13.6
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 193,
+                "pct": 61.7
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 57,
+                "pct": 18.2
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 30,
+                "pct": 9.6
+              },
+              {
+                "answer": "Yes",
+                "count": 33,
+                "pct": 10.5
+              }
+            ],
+            "base": {
+              "n": 313
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 203,
+                "pct": 46.0
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 82,
+                "pct": 18.6
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 91,
+                "pct": 20.6
+              },
+              {
+                "answer": "Yes",
+                "count": 65,
+                "pct": 14.7
+              }
+            ],
+            "base": {
+              "n": 441
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 128,
+                "pct": 52.0
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 47,
+                "pct": 19.1
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 33,
+                "pct": 13.4
+              },
+              {
+                "answer": "Yes",
+                "count": 38,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 246
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "female": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 316,
+                "pct": 57.5
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 106,
+                "pct": 19.3
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 73,
+                "pct": 13.3
+              },
+              {
+                "answer": "Yes",
+                "count": 55,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 550
+            }
+          }
+        ]
+      },
+      "male": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 208,
+                "pct": 46.2
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 80,
+                "pct": 17.8
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 81,
+                "pct": 18.0
+              },
+              {
+                "answer": "Yes",
+                "count": 81,
+                "pct": 18.0
+              }
+            ],
+            "base": {
+              "n": 450
+            }
+          }
+        ]
+      }
+    },
+    "Education": {
+      "elementary_school": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "high_school": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 256,
+                "pct": 55.8
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 85,
+                "pct": 18.5
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 70,
+                "pct": 15.3
+              },
+              {
+                "answer": "Yes",
+                "count": 48,
+                "pct": 10.5
+              }
+            ],
+            "base": {
+              "n": 459
+            }
+          }
+        ]
+      },
+      "middle_school": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 15,
+                "pct": 27.8
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 17,
+                "pct": 31.5
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 10,
+                "pct": 18.5
+              },
+              {
+                "answer": "Yes",
+                "count": 12,
+                "pct": 22.2
+              }
+            ],
+            "base": {
+              "n": 54
+            }
+          }
+        ]
+      },
+      "postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 54,
+                "pct": 50.5
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 9,
+                "pct": 8.4
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 14,
+                "pct": 13.1
+              },
+              {
+                "answer": "Yes",
+                "count": 30,
+                "pct": 28.0
+              }
+            ],
+            "base": {
+              "n": 107
+            }
+          }
+        ]
+      },
+      "university": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 135,
+                "pct": 57.2
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 42,
+                "pct": 17.8
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 34,
+                "pct": 14.4
+              },
+              {
+                "answer": "Yes",
+                "count": 25,
+                "pct": 10.6
+              }
+            ],
+            "base": {
+              "n": 236
+            }
+          }
+        ]
+      },
+      "vocational_technical_college": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 63,
+                "pct": 44.1
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 33,
+                "pct": 23.1
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 26,
+                "pct": 18.2
+              },
+              {
+                "answer": "Yes",
+                "count": 21,
+                "pct": 14.7
+              }
+            ],
+            "base": {
+              "n": 143
+            }
+          }
+        ]
+      }
+    },
+    "Income": {
+      "high_i": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 21,
+                "pct": 45.7
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 10,
+                "pct": 21.7
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 2,
+                "pct": 4.3
+              },
+              {
+                "answer": "Yes",
+                "count": 13,
+                "pct": 28.3
+              }
+            ],
+            "base": {
+              "n": 46
+            }
+          }
+        ]
+      },
+      "high_ii": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 21,
+                "pct": 40.4
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 6,
+                "pct": 11.5
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 9,
+                "pct": 17.3
+              },
+              {
+                "answer": "Yes",
+                "count": 16,
+                "pct": 30.8
+              }
+            ],
+            "base": {
+              "n": 52
+            }
+          }
+        ]
+      },
+      "high_iii": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 37,
+                "pct": 45.7
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 8,
+                "pct": 9.9
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 13,
+                "pct": 16.0
+              },
+              {
+                "answer": "Yes",
+                "count": 23,
+                "pct": 28.4
+              }
+            ],
+            "base": {
+              "n": 81
+            }
+          }
+        ]
+      },
+      "lower_i": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 199,
+                "pct": 56.2
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 74,
+                "pct": 20.9
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 45,
+                "pct": 12.7
+              },
+              {
+                "answer": "Yes",
+                "count": 36,
+                "pct": 10.2
+              }
+            ],
+            "base": {
+              "n": 354
+            }
+          }
+        ]
+      },
+      "lower_ii": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 92,
+                "pct": 50.8
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 40,
+                "pct": 22.1
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 34,
+                "pct": 18.8
+              },
+              {
+                "answer": "Yes",
+                "count": 15,
+                "pct": 8.3
+              }
+            ],
+            "base": {
+              "n": 181
+            }
+          }
+        ]
+      },
+      "middle_i": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 71,
+                "pct": 55.9
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 24,
+                "pct": 18.9
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 19,
+                "pct": 15.0
+              },
+              {
+                "answer": "Yes",
+                "count": 13,
+                "pct": 10.2
+              }
+            ],
+            "base": {
+              "n": 127
+            }
+          }
+        ]
+      },
+      "middle_ii": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 57,
+                "pct": 50.0
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 15,
+                "pct": 13.2
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 28,
+                "pct": 24.6
+              },
+              {
+                "answer": "Yes",
+                "count": 14,
+                "pct": 12.3
+              }
+            ],
+            "base": {
+              "n": 114
+            }
+          }
+        ]
+      },
+      "prefer_not_to_say": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 26,
+                "pct": 57.8
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 9,
+                "pct": 20.0
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 4,
+                "pct": 8.9
+              },
+              {
+                "answer": "Yes",
+                "count": 6,
+                "pct": 13.3
+              }
+            ],
+            "base": {
+              "n": 45
+            }
+          }
+        ]
+      }
+    },
+    "Area": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 14,
+                "pct": 66.7
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 4,
+                "pct": 19.0
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 3,
+                "pct": 14.3
+              },
+              {
+                "answer": "Yes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 5,
+                "pct": 35.7
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 5,
+                "pct": 35.7
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 2,
+                "pct": 14.3
+              },
+              {
+                "answer": "Yes",
+                "count": 2,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 7,
+                "pct": 77.8
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 1,
+                "pct": 11.1
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Yes",
+                "count": 1,
+                "pct": 11.1
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 42,
+                "pct": 45.7
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 13,
+                "pct": 14.1
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 19,
+                "pct": 20.7
+              },
+              {
+                "answer": "Yes",
+                "count": 18,
+                "pct": 19.6
+              }
+            ],
+            "base": {
+              "n": 92
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 7,
+                "pct": 41.2
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "Yes",
+                "count": 6,
+                "pct": 35.3
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 4,
+                "pct": 50.0
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 2,
+                "pct": 25.0
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Yes",
+                "count": 1,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 40,
+                "pct": 57.1
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 11,
+                "pct": 15.7
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 7,
+                "pct": 10.0
+              },
+              {
+                "answer": "Yes",
+                "count": 12,
+                "pct": 17.1
+              }
+            ],
+            "base": {
+              "n": 70
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 21,
+                "pct": 48.8
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 6,
+                "pct": 14.0
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 7,
+                "pct": 16.3
+              },
+              {
+                "answer": "Yes",
+                "count": 9,
+                "pct": 20.9
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 3,
+                "pct": 60.0
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Yes",
+                "count": 1,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 4,
+                "pct": 80.0
+              },
+              {
+                "answer": "Yes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 17,
+                "pct": 40.5
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 10,
+                "pct": 23.8
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 9,
+                "pct": 21.4
+              },
+              {
+                "answer": "Yes",
+                "count": 6,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 15,
+                "pct": 65.2
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 4,
+                "pct": 17.4
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 4,
+                "pct": 17.4
+              },
+              {
+                "answer": "Yes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 23
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 3,
+                "pct": 60.0
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Yes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 16,
+                "pct": 80.0
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 1,
+                "pct": 5.0
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 2,
+                "pct": 10.0
+              },
+              {
+                "answer": "Yes",
+                "count": 1,
+                "pct": 5.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 12,
+                "pct": 66.7
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 3,
+                "pct": 16.7
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 2,
+                "pct": 11.1
+              },
+              {
+                "answer": "Yes",
+                "count": 1,
+                "pct": 5.6
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 10,
+                "pct": 41.7
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 6,
+                "pct": 25.0
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 5,
+                "pct": 20.8
+              },
+              {
+                "answer": "Yes",
+                "count": 3,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 7,
+                "pct": 46.7
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "Yes",
+                "count": 3,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 22,
+                "pct": 48.9
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 10,
+                "pct": 22.2
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 7,
+                "pct": 15.6
+              },
+              {
+                "answer": "Yes",
+                "count": 6,
+                "pct": 13.3
+              }
+            ],
+            "base": {
+              "n": 45
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 6,
+                "pct": 60.0
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Yes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 12,
+                "pct": 48.0
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 4,
+                "pct": 16.0
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 3,
+                "pct": 12.0
+              },
+              {
+                "answer": "Yes",
+                "count": 6,
+                "pct": 24.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 4,
+                "pct": 57.1
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 1,
+                "pct": 14.3
+              },
+              {
+                "answer": "Yes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 21,
+                "pct": 55.3
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 7,
+                "pct": 18.4
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 3,
+                "pct": 7.9
+              },
+              {
+                "answer": "Yes",
+                "count": 7,
+                "pct": 18.4
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 24,
+                "pct": 42.9
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 11,
+                "pct": 19.6
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 11,
+                "pct": 19.6
+              },
+              {
+                "answer": "Yes",
+                "count": 10,
+                "pct": 17.9
+              }
+            ],
+            "base": {
+              "n": 56
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 23,
+                "pct": 53.5
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 8,
+                "pct": 18.6
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 5,
+                "pct": 11.6
+              },
+              {
+                "answer": "Yes",
+                "count": 7,
+                "pct": 16.3
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 19,
+                "pct": 67.9
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 5,
+                "pct": 17.9
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 2,
+                "pct": 7.1
+              },
+              {
+                "answer": "Yes",
+                "count": 2,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 1,
+                "pct": 11.1
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 2,
+                "pct": 22.2
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 4,
+                "pct": 44.4
+              },
+              {
+                "answer": "Yes",
+                "count": 2,
+                "pct": 22.2
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Yes",
+                "count": 2,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 27,
+                "pct": 51.9
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 10,
+                "pct": 19.2
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 6,
+                "pct": 11.5
+              },
+              {
+                "answer": "Yes",
+                "count": 9,
+                "pct": 17.3
+              }
+            ],
+            "base": {
+              "n": 52
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 7,
+                "pct": 36.8
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 7,
+                "pct": 36.8
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 3,
+                "pct": 15.8
+              },
+              {
+                "answer": "Yes",
+                "count": 2,
+                "pct": 10.5
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "South Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 16,
+                "pct": 45.7
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 10,
+                "pct": 28.6
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 6,
+                "pct": 17.1
+              },
+              {
+                "answer": "Yes",
+                "count": 3,
+                "pct": 8.6
+              }
+            ],
+            "base": {
+              "n": 35
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 45,
+                "pct": 54.2
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 15,
+                "pct": 18.1
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 16,
+                "pct": 19.3
+              },
+              {
+                "answer": "Yes",
+                "count": 7,
+                "pct": 8.4
+              }
+            ],
+            "base": {
+              "n": 83
+            }
+          }
+        ]
+      },
+      "Unknown": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 5,
+                "pct": 100.0
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Yes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 18,
+                "pct": 54.5
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 6,
+                "pct": 18.2
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 7,
+                "pct": 21.2
+              },
+              {
+                "answer": "Yes",
+                "count": 2,
+                "pct": 6.1
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 13,
+                "pct": 65.0
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 3,
+                "pct": 15.0
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 2,
+                "pct": 10.0
+              },
+              {
+                "answer": "Yes",
+                "count": 2,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 4,
+                "pct": 80.0
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Yes",
+                "count": 1,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [
+              {
+                "answer": "No, and I’ve never considered lying",
+                "count": 8,
+                "pct": 47.1
+              },
+              {
+                "answer": "No, but I’ve considered lying",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "White lies or minor exaggerations",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "Yes",
+                "count": 4,
+                "pct": 23.5
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Wyoming": {
+        "rows": [
+          {
+            "panel_id": "Q11: Have you ever lied on your resume?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 5,
+    "single_panel": true
+  }
+}

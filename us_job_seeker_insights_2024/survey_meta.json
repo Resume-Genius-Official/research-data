@@ -1,0 +1,19 @@
+{
+  "slug": "us_job_seeker_insights_2024",
+  "title": "US Job Seeker Insights Survey, 2024",
+  "country": "US",
+  "year": 2024,
+  "fieldwork_start": "",
+  "fieldwork_end": "",
+  "sample_n": 1000,
+  "vendor": "Pollfish",
+  "notes": "Survey of US job seekers on priorities, job search behavior, and offer decision factors.",
+  "topic_tags": [
+    "job seekers",
+    "job search",
+    "offer decisions",
+    "career priorities",
+    "employment status"
+  ],
+  "default_qtype": "matrix"
+}
