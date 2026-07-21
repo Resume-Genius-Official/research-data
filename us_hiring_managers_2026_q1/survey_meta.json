@@ -1,0 +1,19 @@
+{
+  "slug": "us_hiring_managers_2025",
+  "title": "US Hiring Managers Survey, 2025",
+  "country": "US",
+  "year": 2025,
+  "fieldwork_start": "",
+  "fieldwork_end": "",
+  "sample_n": 1000,
+  "vendor": "Pollfish",
+  "notes": "Survey of US hiring managers on ATS usage, resume screening, AI in hiring, and candidate evaluation.",
+  "topic_tags": [
+    "hiring managers",
+    "applicant tracking systems",
+    "resume screening",
+    "ai in hiring",
+    "candidate evaluation"
+  ],
+  "default_qtype": "matrix"
+}

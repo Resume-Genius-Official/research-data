@@ -1,0 +1,3327 @@
+{
+  "id": "Q21",
+  "text": "Q21",
+  "question_prompt": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+  "type": "matrix",
+  "panels": [
+    "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?"
+  ],
+  "answers": [
+    "Demonstrated in an interview or task",
+    "I don’t want candidates emphasizing AI skills",
+    "Mentioned briefly on a resume",
+    "Through work examples or outcomes",
+    "Certifications or courses"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+      "cells": [
+        {
+          "answer": "Demonstrated in an interview or task",
+          "count": 264,
+          "pct": 26.4
+        },
+        {
+          "answer": "I don’t want candidates emphasizing AI skills",
+          "count": 208,
+          "pct": 20.8
+        },
+        {
+          "answer": "Mentioned briefly on a resume",
+          "count": 194,
+          "pct": 19.4
+        },
+        {
+          "answer": "Through work examples or outcomes",
+          "count": 187,
+          "pct": 18.7
+        },
+        {
+          "answer": "Certifications or courses",
+          "count": 147,
+          "pct": 14.7
+        }
+      ],
+      "base": {
+        "n": 1000
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 1000
+    },
+    "answers": [
+      {
+        "answer": "Demonstrated in an interview or task",
+        "count": 264,
+        "pct": 26.4
+      },
+      {
+        "answer": "I don’t want candidates emphasizing AI skills",
+        "count": 208,
+        "pct": 20.8
+      },
+      {
+        "answer": "Mentioned briefly on a resume",
+        "count": 194,
+        "pct": 19.4
+      },
+      {
+        "answer": "Through work examples or outcomes",
+        "count": 187,
+        "pct": 18.7
+      },
+      {
+        "answer": "Certifications or courses",
+        "count": 147,
+        "pct": 14.7
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Baby Boomers": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 15,
+                "pct": 15.8
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 40,
+                "pct": 42.1
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 22,
+                "pct": 23.2
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 11,
+                "pct": 11.6
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 7,
+                "pct": 7.4
+              }
+            ],
+            "base": {
+              "n": 95
+            }
+          }
+        ]
+      },
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 65,
+                "pct": 23.4
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 72,
+                "pct": 25.9
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 54,
+                "pct": 19.4
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 56,
+                "pct": 20.1
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 31,
+                "pct": 11.2
+              }
+            ],
+            "base": {
+              "n": 278
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 60,
+                "pct": 35.3
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 22,
+                "pct": 12.9
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 25,
+                "pct": 14.7
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 32,
+                "pct": 18.8
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 31,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 170
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 124,
+                "pct": 27.1
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 74,
+                "pct": 16.2
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 93,
+                "pct": 20.4
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 88,
+                "pct": 19.3
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 78,
+                "pct": 17.1
+              }
+            ],
+            "base": {
+              "n": 457
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "Female": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 98,
+                "pct": 25.0
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 104,
+                "pct": 26.5
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 82,
+                "pct": 20.9
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 55,
+                "pct": 14.0
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 53,
+                "pct": 13.5
+              }
+            ],
+            "base": {
+              "n": 392
+            }
+          }
+        ]
+      },
+      "Male": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 166,
+                "pct": 27.3
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 104,
+                "pct": 17.1
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 112,
+                "pct": 18.4
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 132,
+                "pct": 21.7
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 94,
+                "pct": 15.5
+              }
+            ],
+            "base": {
+              "n": 608
+            }
+          }
+        ]
+      }
+    },
+    "Education Level": {
+      "Associates Degree": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 18,
+                "pct": 15.1
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 28,
+                "pct": 23.5
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 25,
+                "pct": 21.0
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 26,
+                "pct": 21.8
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 22,
+                "pct": 18.5
+              }
+            ],
+            "base": {
+              "n": 119
+            }
+          }
+        ]
+      },
+      "Bachelor's degree": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 72,
+                "pct": 25.5
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 60,
+                "pct": 21.3
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 61,
+                "pct": 21.6
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 49,
+                "pct": 17.4
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 40,
+                "pct": 14.2
+              }
+            ],
+            "base": {
+              "n": 282
+            }
+          }
+        ]
+      },
+      "Completed some college": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 44,
+                "pct": 29.9
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 37,
+                "pct": 25.2
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 23,
+                "pct": 15.6
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 21,
+                "pct": 14.3
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 22,
+                "pct": 15.0
+              }
+            ],
+            "base": {
+              "n": 147
+            }
+          }
+        ]
+      },
+      "Completed some high school": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 4,
+                "pct": 23.5
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Completed some postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 2,
+                "pct": 13.3
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Doctorate /PhD": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 3,
+                "pct": 13.6
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 6,
+                "pct": 27.3
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 7,
+                "pct": 31.8
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 5,
+                "pct": 22.7
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 1,
+                "pct": 4.5
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "Elementary School": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "High school graduate": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 75,
+                "pct": 30.7
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 48,
+                "pct": 19.7
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 40,
+                "pct": 16.4
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 46,
+                "pct": 18.9
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 35,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 244
+            }
+          }
+        ]
+      },
+      "Masters degree": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 27,
+                "pct": 25.5
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 17,
+                "pct": 16.0
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 21,
+                "pct": 19.8
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 23,
+                "pct": 21.7
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 18,
+                "pct": 17.0
+              }
+            ],
+            "base": {
+              "n": 106
+            }
+          }
+        ]
+      },
+      "Middle School": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "None of the above/Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Other post high school vocational training": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 14,
+                "pct": 35.9
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 6,
+                "pct": 15.4
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 9,
+                "pct": 23.1
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 7,
+                "pct": 17.9
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 3,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 39
+            }
+          }
+        ]
+      }
+    },
+    "Household income US": {
+      "$10,000 to $14,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 7,
+                "pct": 63.6
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 2,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "$100,000 to $124,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 29,
+                "pct": 25.7
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 25,
+                "pct": 22.1
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 22,
+                "pct": 19.5
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 21,
+                "pct": 18.6
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 16,
+                "pct": 14.2
+              }
+            ],
+            "base": {
+              "n": 113
+            }
+          }
+        ]
+      },
+      "$125,000 to $149,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 14,
+                "pct": 18.2
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 9,
+                "pct": 11.7
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 25,
+                "pct": 32.5
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 11,
+                "pct": 14.3
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 18,
+                "pct": 23.4
+              }
+            ],
+            "base": {
+              "n": 77
+            }
+          }
+        ]
+      },
+      "$15,000 to $19,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 7,
+                "pct": 30.4
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 5,
+                "pct": 21.7
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 3,
+                "pct": 13.0
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 4,
+                "pct": 17.4
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 4,
+                "pct": 17.4
+              }
+            ],
+            "base": {
+              "n": 23
+            }
+          }
+        ]
+      },
+      "$150,000 to $174,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 11,
+                "pct": 24.4
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 6,
+                "pct": 13.3
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 10,
+                "pct": 22.2
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 12,
+                "pct": 26.7
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 6,
+                "pct": 13.3
+              }
+            ],
+            "base": {
+              "n": 45
+            }
+          }
+        ]
+      },
+      "$175,000 to $199,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 7,
+                "pct": 24.1
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 6,
+                "pct": 20.7
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 3,
+                "pct": 10.3
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 8,
+                "pct": 27.6
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 5,
+                "pct": 17.2
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          }
+        ]
+      },
+      "$20,000 to $24,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 13,
+                "pct": 39.4
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 6,
+                "pct": 18.2
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 6,
+                "pct": 18.2
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 2,
+                "pct": 6.1
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 6,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          }
+        ]
+      },
+      "$200,000 to $249,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 1,
+                "pct": 4.8
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 5,
+                "pct": 23.8
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 2,
+                "pct": 9.5
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 8,
+                "pct": 38.1
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 5,
+                "pct": 23.8
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "$25,000 to $29,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 9,
+                "pct": 22.0
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 10,
+                "pct": 24.4
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 6,
+                "pct": 14.6
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 9,
+                "pct": 22.0
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 7,
+                "pct": 17.1
+              }
+            ],
+            "base": {
+              "n": 41
+            }
+          }
+        ]
+      },
+      "$250,000 to $499,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 5,
+                "pct": 18.5
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 4,
+                "pct": 14.8
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 5,
+                "pct": 18.5
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 11,
+                "pct": 40.7
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 2,
+                "pct": 7.4
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "$30,000 to $34,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 13,
+                "pct": 36.1
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 6,
+                "pct": 16.7
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 7,
+                "pct": 19.4
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 4,
+                "pct": 11.1
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 6,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 36
+            }
+          }
+        ]
+      },
+      "$35,000 to $39,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 11,
+                "pct": 28.9
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 8,
+                "pct": 21.1
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 8,
+                "pct": 21.1
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 6,
+                "pct": 15.8
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 5,
+                "pct": 13.2
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "$40,000 to $44,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 7,
+                "pct": 24.1
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 9,
+                "pct": 31.0
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 7,
+                "pct": 24.1
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 4,
+                "pct": 13.8
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 2,
+                "pct": 6.9
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          }
+        ]
+      },
+      "$45,000 to $49,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 6,
+                "pct": 16.7
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 8,
+                "pct": 22.2
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 9,
+                "pct": 25.0
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 9,
+                "pct": 25.0
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 4,
+                "pct": 11.1
+              }
+            ],
+            "base": {
+              "n": 36
+            }
+          }
+        ]
+      },
+      "$5,000 to $9,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 8,
+                "pct": 47.1
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 1,
+                "pct": 5.9
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "$50,000 to $54,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 19,
+                "pct": 32.2
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 16,
+                "pct": 27.1
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 10,
+                "pct": 16.9
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 10,
+                "pct": 16.9
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 4,
+                "pct": 6.8
+              }
+            ],
+            "base": {
+              "n": 59
+            }
+          }
+        ]
+      },
+      "$500,000 to $999,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 3,
+                "pct": 50.0
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 2,
+                "pct": 33.3
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "$55,000 to $59,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 8,
+                "pct": 28.6
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 2,
+                "pct": 7.1
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 5,
+                "pct": 17.9
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 7,
+                "pct": 25.0
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 6,
+                "pct": 21.4
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "$60,000 to $64,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 6,
+                "pct": 14.6
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 9,
+                "pct": 22.0
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 9,
+                "pct": 22.0
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 9,
+                "pct": 22.0
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 8,
+                "pct": 19.5
+              }
+            ],
+            "base": {
+              "n": 41
+            }
+          }
+        ]
+      },
+      "$65,000 to $69,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 10,
+                "pct": 31.2
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 11,
+                "pct": 34.4
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 6,
+                "pct": 18.8
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 4,
+                "pct": 12.5
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 1,
+                "pct": 3.1
+              }
+            ],
+            "base": {
+              "n": 32
+            }
+          }
+        ]
+      },
+      "$70,000 to $74,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 9,
+                "pct": 22.5
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 11,
+                "pct": 27.5
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 7,
+                "pct": 17.5
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 6,
+                "pct": 15.0
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 7,
+                "pct": 17.5
+              }
+            ],
+            "base": {
+              "n": 40
+            }
+          }
+        ]
+      },
+      "$75,000 to $79,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 12,
+                "pct": 24.5
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 10,
+                "pct": 20.4
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 10,
+                "pct": 20.4
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 8,
+                "pct": 16.3
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 9,
+                "pct": 18.4
+              }
+            ],
+            "base": {
+              "n": 49
+            }
+          }
+        ]
+      },
+      "$80,000 to $84,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 2,
+                "pct": 8.7
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 12,
+                "pct": 52.2
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 3,
+                "pct": 13.0
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 3,
+                "pct": 13.0
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 3,
+                "pct": 13.0
+              }
+            ],
+            "base": {
+              "n": 23
+            }
+          }
+        ]
+      },
+      "$85,000 to $89,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 7,
+                "pct": 36.8
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 4,
+                "pct": 21.1
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 4,
+                "pct": 21.1
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 3,
+                "pct": 15.8
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "$90,000 to $94,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 2,
+                "pct": 13.3
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "$95,000 to $99,999": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 15,
+                "pct": 28.8
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 11,
+                "pct": 21.2
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 7,
+                "pct": 13.5
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 10,
+                "pct": 19.2
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 9,
+                "pct": 17.3
+              }
+            ],
+            "base": {
+              "n": 52
+            }
+          }
+        ]
+      },
+      "Less than $5,000": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 16,
+                "pct": 32.0
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 6,
+                "pct": 12.0
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 11,
+                "pct": 22.0
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 11,
+                "pct": 22.0
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 6,
+                "pct": 12.0
+              }
+            ],
+            "base": {
+              "n": 50
+            }
+          }
+        ]
+      },
+      "Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      }
+    },
+    "US State": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 2,
+                "pct": 11.1
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 6,
+                "pct": 33.3
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 3,
+                "pct": 16.7
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 3,
+                "pct": 16.7
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 4,
+                "pct": 22.2
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Alaska": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 4,
+                "pct": 21.1
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 6,
+                "pct": 31.6
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 4,
+                "pct": 21.1
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 3,
+                "pct": 15.8
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 33,
+                "pct": 23.1
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 24,
+                "pct": 16.8
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 37,
+                "pct": 25.9
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 24,
+                "pct": 16.8
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 25,
+                "pct": 17.5
+              }
+            ],
+            "base": {
+              "n": 143
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 2,
+                "pct": 10.0
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 5,
+                "pct": 25.0
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 2,
+                "pct": 10.0
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 8,
+                "pct": 40.0
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 3,
+                "pct": 15.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 1,
+                "pct": 11.1
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 1,
+                "pct": 11.1
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 4,
+                "pct": 44.4
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 3,
+                "pct": 50.0
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 2,
+                "pct": 33.3
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 19,
+                "pct": 32.8
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 10,
+                "pct": 17.2
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 7,
+                "pct": 12.1
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 9,
+                "pct": 15.5
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 13,
+                "pct": 22.4
+              }
+            ],
+            "base": {
+              "n": 58
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 6,
+                "pct": 17.1
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 8,
+                "pct": 22.9
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 8,
+                "pct": 22.9
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 7,
+                "pct": 20.0
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 6,
+                "pct": 17.1
+              }
+            ],
+            "base": {
+              "n": 35
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 2,
+                "pct": 33.3
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 2,
+                "pct": 33.3
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 1,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 3,
+                "pct": 60.0
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 9,
+                "pct": 25.7
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 5,
+                "pct": 14.3
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 4,
+                "pct": 11.4
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 10,
+                "pct": 28.6
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 7,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 35
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 3,
+                "pct": 17.6
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 4,
+                "pct": 57.1
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 1,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 5,
+                "pct": 35.7
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 1,
+                "pct": 7.1
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 2,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 2,
+                "pct": 13.3
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 10,
+                "pct": 52.6
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 4,
+                "pct": 21.1
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 4,
+                "pct": 21.1
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 1,
+                "pct": 5.3
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 4,
+                "pct": 21.1
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 6,
+                "pct": 31.6
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 5,
+                "pct": 26.3
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 3,
+                "pct": 15.8
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 15,
+                "pct": 39.5
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 7,
+                "pct": 18.4
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 8,
+                "pct": 21.1
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 3,
+                "pct": 7.9
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 5,
+                "pct": 13.2
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 1,
+                "pct": 6.7
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 5,
+                "pct": 35.7
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 2,
+                "pct": 14.3
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 2,
+                "pct": 14.3
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 2,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 5,
+                "pct": 38.5
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 1,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 4,
+                "pct": 22.2
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 5,
+                "pct": 27.8
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 4,
+                "pct": 22.2
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 1,
+                "pct": 5.6
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 4,
+                "pct": 22.2
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 6,
+                "pct": 21.4
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 10,
+                "pct": 35.7
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 6,
+                "pct": 21.4
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 3,
+                "pct": 10.7
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 3,
+                "pct": 10.7
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 23,
+                "pct": 29.5
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 10,
+                "pct": 12.8
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 16,
+                "pct": 20.5
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 19,
+                "pct": 24.4
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 10,
+                "pct": 12.8
+              }
+            ],
+            "base": {
+              "n": 78
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 7,
+                "pct": 25.0
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 5,
+                "pct": 17.9
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 5,
+                "pct": 17.9
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 8,
+                "pct": 28.6
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 3,
+                "pct": 10.7
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 12,
+                "pct": 30.8
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 12,
+                "pct": 30.8
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 3,
+                "pct": 7.7
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 9,
+                "pct": 23.1
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 3,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 39
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 2,
+                "pct": 13.3
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 11,
+                "pct": 26.2
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 9,
+                "pct": 21.4
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 8,
+                "pct": 19.0
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 8,
+                "pct": 19.0
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 6,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 3,
+                "pct": 60.0
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 5,
+                "pct": 29.4
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 2,
+                "pct": 11.8
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "South Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 6,
+                "pct": 30.0
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 6,
+                "pct": 30.0
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 3,
+                "pct": 15.0
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 4,
+                "pct": 20.0
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 1,
+                "pct": 5.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 25,
+                "pct": 28.7
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 12,
+                "pct": 13.8
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 16,
+                "pct": 18.4
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 19,
+                "pct": 21.8
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 15,
+                "pct": 17.2
+              }
+            ],
+            "base": {
+              "n": 87
+            }
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 2,
+                "pct": 33.3
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 3,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 6,
+                "pct": 31.6
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 5,
+                "pct": 26.3
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 5,
+                "pct": 26.3
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 1,
+                "pct": 7.7
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 1,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 1,
+                "pct": 14.3
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 3,
+                "pct": 42.9
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 1,
+                "pct": 14.3
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [
+              {
+                "answer": "Demonstrated in an interview or task",
+                "count": 2,
+                "pct": 16.7
+              },
+              {
+                "answer": "I don’t want candidates emphasizing AI skills",
+                "count": 2,
+                "pct": 16.7
+              },
+              {
+                "answer": "Mentioned briefly on a resume",
+                "count": 4,
+                "pct": 33.3
+              },
+              {
+                "answer": "Through work examples or outcomes",
+                "count": 4,
+                "pct": 33.3
+              },
+              {
+                "answer": "Certifications or courses",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 12
+            }
+          }
+        ]
+      },
+      "Wyoming": {
+        "rows": [
+          {
+            "panel_id": "Q21: When evaluating candidates, how do you prefer to see AI skills demonstrated?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 5,
+    "single_panel": true
+  }
+}

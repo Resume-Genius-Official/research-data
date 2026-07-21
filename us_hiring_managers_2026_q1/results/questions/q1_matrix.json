@@ -1,0 +1,2049 @@
+{
+  "id": "Q1",
+  "text": "Q1",
+  "question_prompt": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+  "type": "matrix",
+  "panels": [
+    "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?"
+  ],
+  "answers": [
+    "Yes, it’s my main job responsibility",
+    "Yes, but it’s not my main job responsibility"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+      "cells": [
+        {
+          "answer": "Yes, it’s my main job responsibility",
+          "count": 540,
+          "pct": 54.0
+        },
+        {
+          "answer": "Yes, but it’s not my main job responsibility",
+          "count": 460,
+          "pct": 46.0
+        }
+      ],
+      "base": {
+        "n": 1000
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 1000
+    },
+    "answers": [
+      {
+        "answer": "Yes, it’s my main job responsibility",
+        "count": 540,
+        "pct": 54.0
+      },
+      {
+        "answer": "Yes, but it’s not my main job responsibility",
+        "count": 460,
+        "pct": 46.0
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Baby Boomers": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 27,
+                "pct": 28.4
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 68,
+                "pct": 71.6
+              }
+            ],
+            "base": {
+              "n": 95
+            }
+          }
+        ]
+      },
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 132,
+                "pct": 47.5
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 146,
+                "pct": 52.5
+              }
+            ],
+            "base": {
+              "n": 278
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 109,
+                "pct": 64.1
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 61,
+                "pct": 35.9
+              }
+            ],
+            "base": {
+              "n": 170
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 272,
+                "pct": 59.5
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 185,
+                "pct": 40.5
+              }
+            ],
+            "base": {
+              "n": 457
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "Female": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 197,
+                "pct": 50.3
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 195,
+                "pct": 49.7
+              }
+            ],
+            "base": {
+              "n": 392
+            }
+          }
+        ]
+      },
+      "Male": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 343,
+                "pct": 56.4
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 265,
+                "pct": 43.6
+              }
+            ],
+            "base": {
+              "n": 608
+            }
+          }
+        ]
+      }
+    },
+    "Education Level": {
+      "Associates Degree": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 59,
+                "pct": 49.6
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 60,
+                "pct": 50.4
+              }
+            ],
+            "base": {
+              "n": 119
+            }
+          }
+        ]
+      },
+      "Bachelor's degree": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 153,
+                "pct": 54.3
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 129,
+                "pct": 45.7
+              }
+            ],
+            "base": {
+              "n": 282
+            }
+          }
+        ]
+      },
+      "Completed some college": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 83,
+                "pct": 56.5
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 64,
+                "pct": 43.5
+              }
+            ],
+            "base": {
+              "n": 147
+            }
+          }
+        ]
+      },
+      "Completed some high school": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 7,
+                "pct": 41.2
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 10,
+                "pct": 58.8
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Completed some postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 8,
+                "pct": 53.3
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 7,
+                "pct": 46.7
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Doctorate /PhD": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 8,
+                "pct": 36.4
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 14,
+                "pct": 63.6
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "Elementary School": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "High school graduate": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 138,
+                "pct": 56.6
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 106,
+                "pct": 43.4
+              }
+            ],
+            "base": {
+              "n": 244
+            }
+          }
+        ]
+      },
+      "Masters degree": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 57,
+                "pct": 53.8
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 49,
+                "pct": 46.2
+              }
+            ],
+            "base": {
+              "n": 106
+            }
+          }
+        ]
+      },
+      "Middle School": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "None of the above/Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Other post high school vocational training": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 20,
+                "pct": 51.3
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 19,
+                "pct": 48.7
+              }
+            ],
+            "base": {
+              "n": 39
+            }
+          }
+        ]
+      }
+    },
+    "Household income US": {
+      "$10,000 to $14,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 8,
+                "pct": 72.7
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "$100,000 to $124,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 63,
+                "pct": 55.8
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 50,
+                "pct": 44.2
+              }
+            ],
+            "base": {
+              "n": 113
+            }
+          }
+        ]
+      },
+      "$125,000 to $149,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 35,
+                "pct": 45.5
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 42,
+                "pct": 54.5
+              }
+            ],
+            "base": {
+              "n": 77
+            }
+          }
+        ]
+      },
+      "$15,000 to $19,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 8,
+                "pct": 34.8
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 15,
+                "pct": 65.2
+              }
+            ],
+            "base": {
+              "n": 23
+            }
+          }
+        ]
+      },
+      "$150,000 to $174,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 19,
+                "pct": 42.2
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 26,
+                "pct": 57.8
+              }
+            ],
+            "base": {
+              "n": 45
+            }
+          }
+        ]
+      },
+      "$175,000 to $199,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 15,
+                "pct": 51.7
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 14,
+                "pct": 48.3
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          }
+        ]
+      },
+      "$20,000 to $24,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 21,
+                "pct": 63.6
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 12,
+                "pct": 36.4
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          }
+        ]
+      },
+      "$200,000 to $249,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 13,
+                "pct": 61.9
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 8,
+                "pct": 38.1
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "$25,000 to $29,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 21,
+                "pct": 51.2
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 20,
+                "pct": 48.8
+              }
+            ],
+            "base": {
+              "n": 41
+            }
+          }
+        ]
+      },
+      "$250,000 to $499,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 16,
+                "pct": 59.3
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 11,
+                "pct": 40.7
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "$30,000 to $34,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 17,
+                "pct": 47.2
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 19,
+                "pct": 52.8
+              }
+            ],
+            "base": {
+              "n": 36
+            }
+          }
+        ]
+      },
+      "$35,000 to $39,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 29,
+                "pct": 76.3
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 9,
+                "pct": 23.7
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "$40,000 to $44,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 16,
+                "pct": 55.2
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 13,
+                "pct": 44.8
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          }
+        ]
+      },
+      "$45,000 to $49,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 16,
+                "pct": 44.4
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 20,
+                "pct": 55.6
+              }
+            ],
+            "base": {
+              "n": 36
+            }
+          }
+        ]
+      },
+      "$5,000 to $9,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 12,
+                "pct": 70.6
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 5,
+                "pct": 29.4
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "$50,000 to $54,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 37,
+                "pct": 62.7
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 22,
+                "pct": 37.3
+              }
+            ],
+            "base": {
+              "n": 59
+            }
+          }
+        ]
+      },
+      "$500,000 to $999,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 3,
+                "pct": 50.0
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 3,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "$55,000 to $59,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 20,
+                "pct": 71.4
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 8,
+                "pct": 28.6
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "$60,000 to $64,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 22,
+                "pct": 53.7
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 19,
+                "pct": 46.3
+              }
+            ],
+            "base": {
+              "n": 41
+            }
+          }
+        ]
+      },
+      "$65,000 to $69,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 17,
+                "pct": 53.1
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 15,
+                "pct": 46.9
+              }
+            ],
+            "base": {
+              "n": 32
+            }
+          }
+        ]
+      },
+      "$70,000 to $74,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 21,
+                "pct": 52.5
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 19,
+                "pct": 47.5
+              }
+            ],
+            "base": {
+              "n": 40
+            }
+          }
+        ]
+      },
+      "$75,000 to $79,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 25,
+                "pct": 51.0
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 24,
+                "pct": 49.0
+              }
+            ],
+            "base": {
+              "n": 49
+            }
+          }
+        ]
+      },
+      "$80,000 to $84,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 14,
+                "pct": 60.9
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 9,
+                "pct": 39.1
+              }
+            ],
+            "base": {
+              "n": 23
+            }
+          }
+        ]
+      },
+      "$85,000 to $89,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 8,
+                "pct": 42.1
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 11,
+                "pct": 57.9
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "$90,000 to $94,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 9,
+                "pct": 60.0
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 6,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "$95,000 to $99,999": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 23,
+                "pct": 44.2
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 29,
+                "pct": 55.8
+              }
+            ],
+            "base": {
+              "n": 52
+            }
+          }
+        ]
+      },
+      "Less than $5,000": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 31,
+                "pct": 62.0
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 19,
+                "pct": 38.0
+              }
+            ],
+            "base": {
+              "n": 50
+            }
+          }
+        ]
+      },
+      "Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 6,
+                "pct": 60.0
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 4,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      }
+    },
+    "US State": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 11,
+                "pct": 61.1
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 7,
+                "pct": 38.9
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Alaska": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 9,
+                "pct": 47.4
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 10,
+                "pct": 52.6
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 4,
+                "pct": 80.0
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 1,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 75,
+                "pct": 52.4
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 68,
+                "pct": 47.6
+              }
+            ],
+            "base": {
+              "n": 143
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 6,
+                "pct": 30.0
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 14,
+                "pct": 70.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 6,
+                "pct": 66.7
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 3,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 2,
+                "pct": 33.3
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 4,
+                "pct": 66.7
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 29,
+                "pct": 50.0
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 29,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 58
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 20,
+                "pct": 57.1
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 15,
+                "pct": 42.9
+              }
+            ],
+            "base": {
+              "n": 35
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 3,
+                "pct": 50.0
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 3,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 3,
+                "pct": 60.0
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 2,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 23,
+                "pct": 65.7
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 12,
+                "pct": 34.3
+              }
+            ],
+            "base": {
+              "n": 35
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 6,
+                "pct": 35.3
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 11,
+                "pct": 64.7
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 4,
+                "pct": 57.1
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 3,
+                "pct": 42.9
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 11,
+                "pct": 78.6
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 7,
+                "pct": 46.7
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 8,
+                "pct": 53.3
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 11,
+                "pct": 57.9
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 8,
+                "pct": 42.1
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 10,
+                "pct": 52.6
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 9,
+                "pct": 47.4
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 24,
+                "pct": 63.2
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 14,
+                "pct": 36.8
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 11,
+                "pct": 73.3
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 4,
+                "pct": 26.7
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 10,
+                "pct": 71.4
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 4,
+                "pct": 28.6
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 7,
+                "pct": 53.8
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 6,
+                "pct": 46.2
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 4,
+                "pct": 80.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 9,
+                "pct": 50.0
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 9,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 16,
+                "pct": 57.1
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 12,
+                "pct": 42.9
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 44,
+                "pct": 56.4
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 34,
+                "pct": 43.6
+              }
+            ],
+            "base": {
+              "n": 78
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 20,
+                "pct": 71.4
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 8,
+                "pct": 28.6
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 16,
+                "pct": 41.0
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 23,
+                "pct": 59.0
+              }
+            ],
+            "base": {
+              "n": 39
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 5,
+                "pct": 45.5
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 6,
+                "pct": 40.0
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 9,
+                "pct": 60.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 22,
+                "pct": 52.4
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 20,
+                "pct": 47.6
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 4,
+                "pct": 80.0
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 1,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 7,
+                "pct": 41.2
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 10,
+                "pct": 58.8
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "South Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 8,
+                "pct": 40.0
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 12,
+                "pct": 60.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 55,
+                "pct": 63.2
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 32,
+                "pct": 36.8
+              }
+            ],
+            "base": {
+              "n": 87
+            }
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 3,
+                "pct": 50.0
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 3,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 13,
+                "pct": 68.4
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 6,
+                "pct": 31.6
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 7,
+                "pct": 53.8
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 6,
+                "pct": 46.2
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 5,
+                "pct": 71.4
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [
+              {
+                "answer": "Yes, it’s my main job responsibility",
+                "count": 4,
+                "pct": 33.3
+              },
+              {
+                "answer": "Yes, but it’s not my main job responsibility",
+                "count": 8,
+                "pct": 66.7
+              }
+            ],
+            "base": {
+              "n": 12
+            }
+          }
+        ]
+      },
+      "Wyoming": {
+        "rows": [
+          {
+            "panel_id": "Q1: Are you currently responsible for hiring new employees at a U.S.-based company?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 5,
+    "single_panel": true
+  }
+}

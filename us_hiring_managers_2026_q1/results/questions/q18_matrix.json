@@ -1,0 +1,3327 @@
+{
+  "id": "Q18",
+  "text": "Q18",
+  "question_prompt": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+  "type": "matrix",
+  "panels": [
+    "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?"
+  ],
+  "answers": [
+    "I focus primarily on relevant skills and experience",
+    "I balance prior experience with new training or credentials",
+    "I focus primarily on transferable skills and growth potential",
+    "I generally prefer candidates with direct experience in the role",
+    "I'm not open to hiring candidates who want to make career changes"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+      "cells": [
+        {
+          "answer": "I focus primarily on relevant skills and experience",
+          "count": 325,
+          "pct": 32.5
+        },
+        {
+          "answer": "I balance prior experience with new training or credentials",
+          "count": 289,
+          "pct": 28.9
+        },
+        {
+          "answer": "I focus primarily on transferable skills and growth potential",
+          "count": 229,
+          "pct": 22.9
+        },
+        {
+          "answer": "I generally prefer candidates with direct experience in the role",
+          "count": 140,
+          "pct": 14.0
+        },
+        {
+          "answer": "I'm not open to hiring candidates who want to make career changes",
+          "count": 17,
+          "pct": 1.7
+        }
+      ],
+      "base": {
+        "n": 1000
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 1000
+    },
+    "answers": [
+      {
+        "answer": "I focus primarily on relevant skills and experience",
+        "count": 325,
+        "pct": 32.5
+      },
+      {
+        "answer": "I balance prior experience with new training or credentials",
+        "count": 289,
+        "pct": 28.9
+      },
+      {
+        "answer": "I focus primarily on transferable skills and growth potential",
+        "count": 229,
+        "pct": 22.9
+      },
+      {
+        "answer": "I generally prefer candidates with direct experience in the role",
+        "count": 140,
+        "pct": 14.0
+      },
+      {
+        "answer": "I'm not open to hiring candidates who want to make career changes",
+        "count": 17,
+        "pct": 1.7
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Baby Boomers": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 28,
+                "pct": 29.5
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 26,
+                "pct": 27.4
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 22,
+                "pct": 23.2
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 17,
+                "pct": 17.9
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 2,
+                "pct": 2.1
+              }
+            ],
+            "base": {
+              "n": 95
+            }
+          }
+        ]
+      },
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 85,
+                "pct": 30.6
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 81,
+                "pct": 29.1
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 60,
+                "pct": 21.6
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 47,
+                "pct": 16.9
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 5,
+                "pct": 1.8
+              }
+            ],
+            "base": {
+              "n": 278
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 52,
+                "pct": 30.6
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 58,
+                "pct": 34.1
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 39,
+                "pct": 22.9
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 19,
+                "pct": 11.2
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 2,
+                "pct": 1.2
+              }
+            ],
+            "base": {
+              "n": 170
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 160,
+                "pct": 35.0
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 124,
+                "pct": 27.1
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 108,
+                "pct": 23.6
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 57,
+                "pct": 12.5
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 8,
+                "pct": 1.8
+              }
+            ],
+            "base": {
+              "n": 457
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "Female": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 119,
+                "pct": 30.4
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 122,
+                "pct": 31.1
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 99,
+                "pct": 25.3
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 44,
+                "pct": 11.2
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 8,
+                "pct": 2.0
+              }
+            ],
+            "base": {
+              "n": 392
+            }
+          }
+        ]
+      },
+      "Male": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 206,
+                "pct": 33.9
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 167,
+                "pct": 27.5
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 130,
+                "pct": 21.4
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 96,
+                "pct": 15.8
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 9,
+                "pct": 1.5
+              }
+            ],
+            "base": {
+              "n": 608
+            }
+          }
+        ]
+      }
+    },
+    "Education Level": {
+      "Associates Degree": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 46,
+                "pct": 38.7
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 35,
+                "pct": 29.4
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 27,
+                "pct": 22.7
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 10,
+                "pct": 8.4
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 1,
+                "pct": 0.8
+              }
+            ],
+            "base": {
+              "n": 119
+            }
+          }
+        ]
+      },
+      "Bachelor's degree": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 87,
+                "pct": 30.9
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 73,
+                "pct": 25.9
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 79,
+                "pct": 28.0
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 41,
+                "pct": 14.5
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 2,
+                "pct": 0.7
+              }
+            ],
+            "base": {
+              "n": 282
+            }
+          }
+        ]
+      },
+      "Completed some college": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 41,
+                "pct": 27.9
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 47,
+                "pct": 32.0
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 32,
+                "pct": 21.8
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 25,
+                "pct": 17.0
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 2,
+                "pct": 1.4
+              }
+            ],
+            "base": {
+              "n": 147
+            }
+          }
+        ]
+      },
+      "Completed some high school": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 6,
+                "pct": 35.3
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 5,
+                "pct": 29.4
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 1,
+                "pct": 5.9
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Completed some postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 6,
+                "pct": 40.0
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Doctorate /PhD": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 10,
+                "pct": 45.5
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 5,
+                "pct": 22.7
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 5,
+                "pct": 22.7
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 2,
+                "pct": 9.1
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "Elementary School": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "High school graduate": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 82,
+                "pct": 33.6
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 84,
+                "pct": 34.4
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 44,
+                "pct": 18.0
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 31,
+                "pct": 12.7
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 3,
+                "pct": 1.2
+              }
+            ],
+            "base": {
+              "n": 244
+            }
+          }
+        ]
+      },
+      "Masters degree": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 40,
+                "pct": 37.7
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 23,
+                "pct": 21.7
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 22,
+                "pct": 20.8
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 16,
+                "pct": 15.1
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 5,
+                "pct": 4.7
+              }
+            ],
+            "base": {
+              "n": 106
+            }
+          }
+        ]
+      },
+      "Middle School": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "None of the above/Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Other post high school vocational training": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 8,
+                "pct": 20.5
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 14,
+                "pct": 35.9
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 8,
+                "pct": 20.5
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 7,
+                "pct": 17.9
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 2,
+                "pct": 5.1
+              }
+            ],
+            "base": {
+              "n": 39
+            }
+          }
+        ]
+      }
+    },
+    "Household income US": {
+      "$10,000 to $14,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "$100,000 to $124,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 38,
+                "pct": 33.6
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 33,
+                "pct": 29.2
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 26,
+                "pct": 23.0
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 16,
+                "pct": 14.2
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 113
+            }
+          }
+        ]
+      },
+      "$125,000 to $149,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 29,
+                "pct": 37.7
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 18,
+                "pct": 23.4
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 22,
+                "pct": 28.6
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 7,
+                "pct": 9.1
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 1,
+                "pct": 1.3
+              }
+            ],
+            "base": {
+              "n": 77
+            }
+          }
+        ]
+      },
+      "$15,000 to $19,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 7,
+                "pct": 30.4
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 7,
+                "pct": 30.4
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 3,
+                "pct": 13.0
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 6,
+                "pct": 26.1
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 23
+            }
+          }
+        ]
+      },
+      "$150,000 to $174,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 18,
+                "pct": 40.0
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 15,
+                "pct": 33.3
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 9,
+                "pct": 20.0
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 3,
+                "pct": 6.7
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 45
+            }
+          }
+        ]
+      },
+      "$175,000 to $199,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 11,
+                "pct": 37.9
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 8,
+                "pct": 27.6
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 6,
+                "pct": 20.7
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 4,
+                "pct": 13.8
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          }
+        ]
+      },
+      "$20,000 to $24,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 10,
+                "pct": 30.3
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 9,
+                "pct": 27.3
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 7,
+                "pct": 21.2
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 5,
+                "pct": 15.2
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 2,
+                "pct": 6.1
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          }
+        ]
+      },
+      "$200,000 to $249,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 6,
+                "pct": 28.6
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 8,
+                "pct": 38.1
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 4,
+                "pct": 19.0
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 3,
+                "pct": 14.3
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "$25,000 to $29,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 14,
+                "pct": 34.1
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 10,
+                "pct": 24.4
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 7,
+                "pct": 17.1
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 8,
+                "pct": 19.5
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 2,
+                "pct": 4.9
+              }
+            ],
+            "base": {
+              "n": 41
+            }
+          }
+        ]
+      },
+      "$250,000 to $499,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 12,
+                "pct": 44.4
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 4,
+                "pct": 14.8
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 8,
+                "pct": 29.6
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 3,
+                "pct": 11.1
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "$30,000 to $34,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 13,
+                "pct": 36.1
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 5,
+                "pct": 13.9
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 13,
+                "pct": 36.1
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 4,
+                "pct": 11.1
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 1,
+                "pct": 2.8
+              }
+            ],
+            "base": {
+              "n": 36
+            }
+          }
+        ]
+      },
+      "$35,000 to $39,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 11,
+                "pct": 28.9
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 15,
+                "pct": 39.5
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 5,
+                "pct": 13.2
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 6,
+                "pct": 15.8
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 1,
+                "pct": 2.6
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "$40,000 to $44,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 5,
+                "pct": 17.2
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 8,
+                "pct": 27.6
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 11,
+                "pct": 37.9
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 5,
+                "pct": 17.2
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          }
+        ]
+      },
+      "$45,000 to $49,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 17,
+                "pct": 47.2
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 8,
+                "pct": 22.2
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 5,
+                "pct": 13.9
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 6,
+                "pct": 16.7
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 36
+            }
+          }
+        ]
+      },
+      "$5,000 to $9,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 6,
+                "pct": 35.3
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 6,
+                "pct": 35.3
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 1,
+                "pct": 5.9
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "$50,000 to $54,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 22,
+                "pct": 37.3
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 20,
+                "pct": 33.9
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 11,
+                "pct": 18.6
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 5,
+                "pct": 8.5
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 1,
+                "pct": 1.7
+              }
+            ],
+            "base": {
+              "n": 59
+            }
+          }
+        ]
+      },
+      "$500,000 to $999,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 5,
+                "pct": 83.3
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "$55,000 to $59,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 12,
+                "pct": 42.9
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 6,
+                "pct": 21.4
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 8,
+                "pct": 28.6
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 2,
+                "pct": 7.1
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "$60,000 to $64,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 10,
+                "pct": 24.4
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 14,
+                "pct": 34.1
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 10,
+                "pct": 24.4
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 6,
+                "pct": 14.6
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 1,
+                "pct": 2.4
+              }
+            ],
+            "base": {
+              "n": 41
+            }
+          }
+        ]
+      },
+      "$65,000 to $69,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 13,
+                "pct": 40.6
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 12,
+                "pct": 37.5
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 3,
+                "pct": 9.4
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 4,
+                "pct": 12.5
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 32
+            }
+          }
+        ]
+      },
+      "$70,000 to $74,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 11,
+                "pct": 27.5
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 11,
+                "pct": 27.5
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 14,
+                "pct": 35.0
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 3,
+                "pct": 7.5
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 1,
+                "pct": 2.5
+              }
+            ],
+            "base": {
+              "n": 40
+            }
+          }
+        ]
+      },
+      "$75,000 to $79,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 21,
+                "pct": 42.9
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 14,
+                "pct": 28.6
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 8,
+                "pct": 16.3
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 5,
+                "pct": 10.2
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 1,
+                "pct": 2.0
+              }
+            ],
+            "base": {
+              "n": 49
+            }
+          }
+        ]
+      },
+      "$80,000 to $84,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 5,
+                "pct": 21.7
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 6,
+                "pct": 26.1
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 7,
+                "pct": 30.4
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 5,
+                "pct": 21.7
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 23
+            }
+          }
+        ]
+      },
+      "$85,000 to $89,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 6,
+                "pct": 31.6
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 3,
+                "pct": 15.8
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 8,
+                "pct": 42.1
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "$90,000 to $94,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "$95,000 to $99,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 13,
+                "pct": 25.0
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 14,
+                "pct": 26.9
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 11,
+                "pct": 21.2
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 13,
+                "pct": 25.0
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 1,
+                "pct": 1.9
+              }
+            ],
+            "base": {
+              "n": 52
+            }
+          }
+        ]
+      },
+      "Less than $5,000": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 11,
+                "pct": 22.0
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 18,
+                "pct": 36.0
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 9,
+                "pct": 18.0
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 9,
+                "pct": 18.0
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 3,
+                "pct": 6.0
+              }
+            ],
+            "base": {
+              "n": 50
+            }
+          }
+        ]
+      },
+      "Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 1,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      }
+    },
+    "US State": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 6,
+                "pct": 33.3
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 4,
+                "pct": 22.2
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 4,
+                "pct": 22.2
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 4,
+                "pct": 22.2
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Alaska": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 6,
+                "pct": 31.6
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 5,
+                "pct": 26.3
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 4,
+                "pct": 21.1
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 2,
+                "pct": 10.5
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 54,
+                "pct": 37.8
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 28,
+                "pct": 19.6
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 38,
+                "pct": 26.6
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 22,
+                "pct": 15.4
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 1,
+                "pct": 0.7
+              }
+            ],
+            "base": {
+              "n": 143
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 9,
+                "pct": 45.0
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 5,
+                "pct": 25.0
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 3,
+                "pct": 15.0
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 3,
+                "pct": 15.0
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 2,
+                "pct": 22.2
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 4,
+                "pct": 44.4
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 2,
+                "pct": 22.2
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 1,
+                "pct": 11.1
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 3,
+                "pct": 50.0
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 22,
+                "pct": 37.9
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 17,
+                "pct": 29.3
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 15,
+                "pct": 25.9
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 4,
+                "pct": 6.9
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 58
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 17,
+                "pct": 48.6
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 6,
+                "pct": 17.1
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 9,
+                "pct": 25.7
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 3,
+                "pct": 8.6
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 35
+            }
+          }
+        ]
+      },
+      "Hawaii": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 3,
+                "pct": 50.0
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 12,
+                "pct": 34.3
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 7,
+                "pct": 20.0
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 10,
+                "pct": 28.6
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 6,
+                "pct": 17.1
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 35
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 9,
+                "pct": 52.9
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 5,
+                "pct": 29.4
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 3,
+                "pct": 42.9
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 1,
+                "pct": 14.3
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 1,
+                "pct": 14.3
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 6,
+                "pct": 42.9
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 1,
+                "pct": 7.1
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 1,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 6,
+                "pct": 40.0
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 1,
+                "pct": 6.7
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 4,
+                "pct": 21.1
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 7,
+                "pct": 36.8
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 6,
+                "pct": 31.6
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 1,
+                "pct": 5.3
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 6,
+                "pct": 31.6
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 8,
+                "pct": 42.1
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 3,
+                "pct": 15.8
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 6,
+                "pct": 15.8
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 13,
+                "pct": 34.2
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 9,
+                "pct": 23.7
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 9,
+                "pct": 23.7
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 1,
+                "pct": 2.6
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 6,
+                "pct": 42.9
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 4,
+                "pct": 28.6
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 1,
+                "pct": 7.1
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 5,
+                "pct": 38.5
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 1,
+                "pct": 7.7
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 4,
+                "pct": 80.0
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 2,
+                "pct": 11.1
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 8,
+                "pct": 44.4
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 3,
+                "pct": 16.7
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 4,
+                "pct": 22.2
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 1,
+                "pct": 5.6
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 11,
+                "pct": 39.3
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 5,
+                "pct": 17.9
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 3,
+                "pct": 10.7
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 7,
+                "pct": 25.0
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 2,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 25,
+                "pct": 32.1
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 20,
+                "pct": 25.6
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 22,
+                "pct": 28.2
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 10,
+                "pct": 12.8
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 1,
+                "pct": 1.3
+              }
+            ],
+            "base": {
+              "n": 78
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 8,
+                "pct": 28.6
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 11,
+                "pct": 39.3
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 4,
+                "pct": 14.3
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 5,
+                "pct": 17.9
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 15,
+                "pct": 38.5
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 13,
+                "pct": 33.3
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 10,
+                "pct": 25.6
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 1,
+                "pct": 2.6
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 39
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 7,
+                "pct": 46.7
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 11,
+                "pct": 26.2
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 13,
+                "pct": 31.0
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 8,
+                "pct": 19.0
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 10,
+                "pct": 23.8
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 42
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 3,
+                "pct": 60.0
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 9,
+                "pct": 52.9
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 1,
+                "pct": 5.9
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "South Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 3,
+                "pct": 15.0
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 9,
+                "pct": 45.0
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 3,
+                "pct": 15.0
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 2,
+                "pct": 10.0
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 3,
+                "pct": 15.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 29,
+                "pct": 33.3
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 25,
+                "pct": 28.7
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 24,
+                "pct": 27.6
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 9,
+                "pct": 10.3
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 87
+            }
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 2,
+                "pct": 33.3
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 2,
+                "pct": 33.3
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "Vermont": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 9,
+                "pct": 47.4
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 3,
+                "pct": 15.8
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 4,
+                "pct": 21.1
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 3,
+                "pct": 15.8
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 5,
+                "pct": 38.5
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 1,
+                "pct": 7.7
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 3,
+                "pct": 42.9
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [
+              {
+                "answer": "I focus primarily on relevant skills and experience",
+                "count": 3,
+                "pct": 25.0
+              },
+              {
+                "answer": "I balance prior experience with new training or credentials",
+                "count": 5,
+                "pct": 41.7
+              },
+              {
+                "answer": "I focus primarily on transferable skills and growth potential",
+                "count": 2,
+                "pct": 16.7
+              },
+              {
+                "answer": "I generally prefer candidates with direct experience in the role",
+                "count": 1,
+                "pct": 8.3
+              },
+              {
+                "answer": "I'm not open to hiring candidates who want to make career changes",
+                "count": 1,
+                "pct": 8.3
+              }
+            ],
+            "base": {
+              "n": 12
+            }
+          }
+        ]
+      },
+      "Wyoming": {
+        "rows": [
+          {
+            "panel_id": "Q18: When evaluating applicants who are making a career change, which best reflects your primary approach?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 5,
+    "single_panel": true
+  }
+}
