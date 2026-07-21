@@ -47,12 +47,12 @@ The tabulated JSON additionally suppresses any group with fewer than 5-10 respon
 
 | Dataset (folder) | Survey | Respondents | Field date | Data published |
 | :--------------- | :----- | :---------- | :--------- | :------------- |
-| `us_hiring_trends_2024/` | US Hiring Trends Survey, 2024 | 625 U.S. hiring managers | Jan 2024 | JSON only |
-| `us_hiring_changes_2025/` | US Hiring Changes Survey, 2025 | 1,000 U.S. hiring managers | Jan 2025 | CSV + JSON |
-| `us_gen_z_workers_2025/` | US Gen Z Workers Survey, 2025 | 1,000 U.S. Gen Z workers | 2025 | JSON only |
-| `us_full_time_workers_2025/` | US Full Time Workers Survey, 2025 | 1,000 U.S. full-time workers | Sep 2025 | JSON only |
+| `us_hiring_trends_2024/` | US Hiring Trends Survey, 2024 | 625 U.S. hiring managers | Jan 2024 | JSON |
+| `us_hiring_changes_2025/` | US Hiring Changes Survey, 2025 | 1,000 U.S. hiring managers | Jan 2025 | JSON |
+| `us_gen_z_workers_2025/` | US Gen Z Workers Survey, 2025 | 1,000 U.S. Gen Z workers | 2025 | JSON |
+| `us_full_time_workers_2025/` | US Full Time Workers Survey, 2025 | 1,000 U.S. full-time workers | Sep 2025 | JSON |
 | `us_job_seeker_survey_2026/` | US Job Seekers Survey, 2026 | 1,000 U.S. job seekers | Mar 2026 | CSV + JSON |
-| `us_hiring_managers_survey_2026/` | US Hiring Managers Survey, 2026 | 1,500 U.S. hiring managers | Jun 2026 | CSV only |
+| `us_hiring_managers_survey_2026/` | US Hiring Managers Survey, 2026 | 1,500 U.S. hiring managers | Jun 2026 | CSV |
 
 ## Reports based on each dataset
 
