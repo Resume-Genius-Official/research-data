@@ -47,20 +47,35 @@ The tabulated JSON additionally suppresses any group with fewer than 5-10 respon
 
 | Dataset (folder) | Survey | Respondents | Field date | Data published |
 | :--------------- | :----- | :---------- | :--------- | :------------- |
+| `us_workplace_skills_2023/` | 2023 Workplace Skills Report | 812 U.S. professionals | Mar 2023 | JSON |
 | `us_hiring_trends_2024/` | US Hiring Trends Survey, 2024 | 625 U.S. hiring managers | Jan 2024 | JSON |
+| `us_job_seeker_insights_2024/` | 2024 Job Seeker Insights Report | 1,000 U.S. job seekers | Aug 2024 | JSON |
+| `us_post_election_salary_and_romance_2024/` | US Post-Election Career, Salary & Workplace Romance Survey, 2024 | 1,000 U.S. full-time workers | Nov 2024 | JSON |
 | `us_hiring_changes_2025/` | US Hiring Changes Survey, 2025 | 1,000 U.S. hiring managers | Jan 2025 | JSON |
 | `us_gen_z_workers_2025/` | US Gen Z Workers Survey, 2025 | 1,000 U.S. Gen Z workers | 2025 | JSON |
 | `us_full_time_workers_2025/` | US Full Time Workers Survey, 2025 | 1,000 U.S. full-time workers | Sep 2025 | JSON |
 | `us_job_seeker_survey_2026/` | US Job Seekers Survey, 2026 | 1,000 U.S. job seekers | Mar 2026 | CSV + JSON |
+| `us_hiring_managers_2026_q1/` | US Hiring Managers Survey, 2026 (Q1) | 1,000 U.S. hiring managers | 2026 | JSON |
 | `us_hiring_managers_survey_2026/` | US Hiring Managers Survey, 2026 | 1,500 U.S. hiring managers | Jun 2026 | CSV |
 
 ## Reports based on each dataset
+
+**2023 Workplace Skills Report**
+- [2023 Workplace Skills Report](https://resumegenius.com/blog/job-hunting/in-demand-job-skills)
 
 **US Hiring Trends Survey, 2024**
 - [2024 Hiring Trends Report](https://resumegenius.com/blog/job-hunting/hiring-trends-survey)
 - [8 in 10 Hiring Managers Have Ghosted Candidates](https://resumegenius.com/blog/job-hunting/job-ghosting)
 - [65% of Hiring Managers Will Hire You For Your Skills Alone](https://resumegenius.com/blog/job-hunting/skills-based-hiring)
 - [Nearly 3 in 4 Hiring Managers Lie to Applicants](https://resumegenius.com/blog/job-hunting/hiring-managers-lie-to-candidates)
+
+**2024 Job Seeker Insights Report**
+- [2024 Job Seeker Insights Report](https://resumegenius.com/blog/job-hunting/job-seeker-insights-survey)
+
+**US Post-Election Career, Salary & Workplace Romance Survey, 2024**
+- [U.S. Election Career Impact Report](https://resumegenius.com/blog/career-advice/us-election-career-impact-survey)
+- [Workplace Romance Survey](https://resumegenius.com/blog/career-advice/workplace-romance-survey)
+- [Salary Expectations & Negotiation Report](https://resumegenius.com/blog/job-hunting/salary-expectations)
 
 **US Hiring Changes Survey, 2025**
 - [AI's Impact on Hiring](https://resumegenius.com/blog/job-hunting/ai-impact-on-hiring)
@@ -73,13 +88,17 @@ The tabulated JSON additionally suppresses any group with fewer than 5-10 respon
 - [2025 Gen Z and AI in the Workplace Report](https://resumegenius.com/blog/career-advice/gen-z-and-ai)
 - [2025 Gen Z Work Mindset Report](https://resumegenius.com/blog/career-advice/gen-z-work-mindset)
 
-**US Job Seekers Survey, 2026**
-- [2026 Job Seeker Insights Report](https://resumegenius.com/blog/job-hunting/job-seeker-insights-report-2026)
-
 **US Full Time Workers Survey, 2025**
 - [2025 Modern Paycheck Report](https://resumegenius.com/blog/career-advice/modern-paycheck-report)
 - [Workplace Realities Report](https://resumegenius.com/blog/career-advice/workplace-realities)
 - [Career Identity Report](https://resumegenius.com/blog/career-advice/career-identity-report)
+
+**US Job Seekers Survey, 2026**
+- [2026 Job Seeker Insights Report](https://resumegenius.com/blog/job-hunting/job-seeker-insights-report-2026)
+
+**US Hiring Managers Survey, 2026**
+- [2026 Hiring Insights Report](https://resumegenius.com/blog/job-hunting/hiring-insights-report)
+- [Salary Expectations & Negotiation Report](https://resumegenius.com/blog/job-hunting/salary-expectations) *(cites this dataset's salary-negotiation-boundary findings)*
 
 ## Methodology
 
