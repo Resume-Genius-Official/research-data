@@ -1,0 +1,22 @@
+{
+  "slug": "us_laid_off_workers_2026",
+  "title": "US Laid-Off Workers Survey, 2026",
+  "country": "US",
+  "year": 2026,
+  "fieldwork_start": "2026-07-29",
+  "fieldwork_end": "2026-07-29",
+  "sample_n": 1000,
+  "vendor": "Pollfish",
+  "notes": "Survey of 1,000 US workers who have experienced a layoff on employer communication and support, financial and mental health impacts, AI and automation, job-search experiences, career changes, and attitudes toward job security.",
+  "topic_tags": [
+    "laid-off workers",
+    "layoffs",
+    "job search",
+    "financial impact",
+    "mental health",
+    "ai and automation",
+    "career change",
+    "job security"
+  ],
+  "default_qtype": "matrix"
+}

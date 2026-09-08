@@ -1,0 +1,5162 @@
+{
+  "id": "Q8",
+  "text": "Q8",
+  "question_prompt": "Q8: Did your employer offer severance or financial support following your layoff?",
+  "type": "matrix",
+  "panels": [
+    "Q8: I received severance pay (weeks or months of salary)",
+    "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+    "Q8: No severance or support was offered"
+  ],
+  "answers": [
+    "Not Selected",
+    "Selected"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+      "cells": [
+        {
+          "answer": "Not Selected",
+          "count": 585,
+          "pct": 58.5
+        },
+        {
+          "answer": "Selected",
+          "count": 415,
+          "pct": 41.5
+        }
+      ],
+      "base": {
+        "n": 1000
+      }
+    },
+    {
+      "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+      "cells": [
+        {
+          "answer": "Not Selected",
+          "count": 739,
+          "pct": 73.9
+        },
+        {
+          "answer": "Selected",
+          "count": 261,
+          "pct": 26.1
+        }
+      ],
+      "base": {
+        "n": 1000
+      }
+    },
+    {
+      "panel_id": "Q8: No severance or support was offered",
+      "cells": [
+        {
+          "answer": "Not Selected",
+          "count": 601,
+          "pct": 60.1
+        },
+        {
+          "answer": "Selected",
+          "count": 399,
+          "pct": 39.9
+        }
+      ],
+      "base": {
+        "n": 1000
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 3000
+    },
+    "answers": [
+      {
+        "answer": "Not Selected",
+        "count": 1925,
+        "pct": 64.2
+      },
+      {
+        "answer": "Selected",
+        "count": 1075,
+        "pct": 35.8
+      }
+    ],
+    "note": "Roll-up sums bases across panels."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Baby Boomers": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 12,
+                "pct": 60.0
+              },
+              {
+                "answer": "Selected",
+                "count": 8,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 16,
+                "pct": 80.0
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 11,
+                "pct": 55.0
+              },
+              {
+                "answer": "Selected",
+                "count": 9,
+                "pct": 45.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 117,
+                "pct": 54.7
+              },
+              {
+                "answer": "Selected",
+                "count": 97,
+                "pct": 45.3
+              }
+            ],
+            "base": {
+              "n": 214
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 165,
+                "pct": 77.1
+              },
+              {
+                "answer": "Selected",
+                "count": 49,
+                "pct": 22.9
+              }
+            ],
+            "base": {
+              "n": 214
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 128,
+                "pct": 59.8
+              },
+              {
+                "answer": "Selected",
+                "count": 86,
+                "pct": 40.2
+              }
+            ],
+            "base": {
+              "n": 214
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 155,
+                "pct": 59.6
+              },
+              {
+                "answer": "Selected",
+                "count": 105,
+                "pct": 40.4
+              }
+            ],
+            "base": {
+              "n": 260
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 175,
+                "pct": 67.3
+              },
+              {
+                "answer": "Selected",
+                "count": 85,
+                "pct": 32.7
+              }
+            ],
+            "base": {
+              "n": 260
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 167,
+                "pct": 64.2
+              },
+              {
+                "answer": "Selected",
+                "count": 93,
+                "pct": 35.8
+              }
+            ],
+            "base": {
+              "n": 260
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 301,
+                "pct": 59.5
+              },
+              {
+                "answer": "Selected",
+                "count": 205,
+                "pct": 40.5
+              }
+            ],
+            "base": {
+              "n": 506
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 383,
+                "pct": 75.7
+              },
+              {
+                "answer": "Selected",
+                "count": 123,
+                "pct": 24.3
+              }
+            ],
+            "base": {
+              "n": 506
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 295,
+                "pct": 58.3
+              },
+              {
+                "answer": "Selected",
+                "count": 211,
+                "pct": 41.7
+              }
+            ],
+            "base": {
+              "n": 506
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "Female": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 304,
+                "pct": 64.0
+              },
+              {
+                "answer": "Selected",
+                "count": 171,
+                "pct": 36.0
+              }
+            ],
+            "base": {
+              "n": 475
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 363,
+                "pct": 76.4
+              },
+              {
+                "answer": "Selected",
+                "count": 112,
+                "pct": 23.6
+              }
+            ],
+            "base": {
+              "n": 475
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 254,
+                "pct": 53.5
+              },
+              {
+                "answer": "Selected",
+                "count": 221,
+                "pct": 46.5
+              }
+            ],
+            "base": {
+              "n": 475
+            }
+          }
+        ]
+      },
+      "Male": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 281,
+                "pct": 53.5
+              },
+              {
+                "answer": "Selected",
+                "count": 244,
+                "pct": 46.5
+              }
+            ],
+            "base": {
+              "n": 525
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 376,
+                "pct": 71.6
+              },
+              {
+                "answer": "Selected",
+                "count": 149,
+                "pct": 28.4
+              }
+            ],
+            "base": {
+              "n": 525
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 347,
+                "pct": 66.1
+              },
+              {
+                "answer": "Selected",
+                "count": 178,
+                "pct": 33.9
+              }
+            ],
+            "base": {
+              "n": 525
+            }
+          }
+        ]
+      }
+    },
+    "Household income US": {
+      "$1 million +": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "$10,000 to $14,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 18,
+                "pct": 72.0
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 28.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 21,
+                "pct": 84.0
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 16.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 10,
+                "pct": 40.0
+              },
+              {
+                "answer": "Selected",
+                "count": 15,
+                "pct": 60.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "$100,000 to $124,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 32,
+                "pct": 41.0
+              },
+              {
+                "answer": "Selected",
+                "count": 46,
+                "pct": 59.0
+              }
+            ],
+            "base": {
+              "n": 78
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 53,
+                "pct": 67.9
+              },
+              {
+                "answer": "Selected",
+                "count": 25,
+                "pct": 32.1
+              }
+            ],
+            "base": {
+              "n": 78
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 59,
+                "pct": 75.6
+              },
+              {
+                "answer": "Selected",
+                "count": 19,
+                "pct": 24.4
+              }
+            ],
+            "base": {
+              "n": 78
+            }
+          }
+        ]
+      },
+      "$125,000 to $149,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 18,
+                "pct": 32.1
+              },
+              {
+                "answer": "Selected",
+                "count": 38,
+                "pct": 67.9
+              }
+            ],
+            "base": {
+              "n": 56
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 36,
+                "pct": 64.3
+              },
+              {
+                "answer": "Selected",
+                "count": 20,
+                "pct": 35.7
+              }
+            ],
+            "base": {
+              "n": 56
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 48,
+                "pct": 85.7
+              },
+              {
+                "answer": "Selected",
+                "count": 8,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 56
+            }
+          }
+        ]
+      },
+      "$15,000 to $19,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 28,
+                "pct": 73.7
+              },
+              {
+                "answer": "Selected",
+                "count": 10,
+                "pct": 26.3
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 31,
+                "pct": 81.6
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 18.4
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 17,
+                "pct": 44.7
+              },
+              {
+                "answer": "Selected",
+                "count": 21,
+                "pct": 55.3
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "$150,000 to $174,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 12,
+                "pct": 40.0
+              },
+              {
+                "answer": "Selected",
+                "count": 18,
+                "pct": 60.0
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 16,
+                "pct": 53.3
+              },
+              {
+                "answer": "Selected",
+                "count": 14,
+                "pct": 46.7
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 23,
+                "pct": 76.7
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 23.3
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "$175,000 to $199,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 8,
+                "pct": 38.1
+              },
+              {
+                "answer": "Selected",
+                "count": 13,
+                "pct": 61.9
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 14,
+                "pct": 66.7
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 17,
+                "pct": 81.0
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 19.0
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "$20,000 to $24,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 30,
+                "pct": 61.2
+              },
+              {
+                "answer": "Selected",
+                "count": 19,
+                "pct": 38.8
+              }
+            ],
+            "base": {
+              "n": 49
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 34,
+                "pct": 69.4
+              },
+              {
+                "answer": "Selected",
+                "count": 15,
+                "pct": 30.6
+              }
+            ],
+            "base": {
+              "n": 49
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 31,
+                "pct": 63.3
+              },
+              {
+                "answer": "Selected",
+                "count": 18,
+                "pct": 36.7
+              }
+            ],
+            "base": {
+              "n": 49
+            }
+          }
+        ]
+      },
+      "$200,000 to $249,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 7,
+                "pct": 46.7
+              },
+              {
+                "answer": "Selected",
+                "count": 8,
+                "pct": 53.3
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 10,
+                "pct": 66.7
+              },
+              {
+                "answer": "Selected",
+                "count": 5,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 12,
+                "pct": 80.0
+              },
+              {
+                "answer": "Selected",
+                "count": 3,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "$25,000 to $29,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 41,
+                "pct": 75.9
+              },
+              {
+                "answer": "Selected",
+                "count": 13,
+                "pct": 24.1
+              }
+            ],
+            "base": {
+              "n": 54
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 41,
+                "pct": 75.9
+              },
+              {
+                "answer": "Selected",
+                "count": 13,
+                "pct": 24.1
+              }
+            ],
+            "base": {
+              "n": 54
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 24,
+                "pct": 44.4
+              },
+              {
+                "answer": "Selected",
+                "count": 30,
+                "pct": 55.6
+              }
+            ],
+            "base": {
+              "n": 54
+            }
+          }
+        ]
+      },
+      "$250,000 to $499,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 4,
+                "pct": 28.6
+              },
+              {
+                "answer": "Selected",
+                "count": 10,
+                "pct": 71.4
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 12,
+                "pct": 85.7
+              },
+              {
+                "answer": "Selected",
+                "count": 2,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 10,
+                "pct": 71.4
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 28.6
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "$30,000 to $34,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 36,
+                "pct": 72.0
+              },
+              {
+                "answer": "Selected",
+                "count": 14,
+                "pct": 28.0
+              }
+            ],
+            "base": {
+              "n": 50
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 43,
+                "pct": 86.0
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 14.0
+              }
+            ],
+            "base": {
+              "n": 50
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 19,
+                "pct": 38.0
+              },
+              {
+                "answer": "Selected",
+                "count": 31,
+                "pct": 62.0
+              }
+            ],
+            "base": {
+              "n": 50
+            }
+          }
+        ]
+      },
+      "$35,000 to $39,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 27,
+                "pct": 81.8
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 20,
+                "pct": 60.6
+              },
+              {
+                "answer": "Selected",
+                "count": 13,
+                "pct": 39.4
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 18,
+                "pct": 54.5
+              },
+              {
+                "answer": "Selected",
+                "count": 15,
+                "pct": 45.5
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          }
+        ]
+      },
+      "$40,000 to $44,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 21,
+                "pct": 53.8
+              },
+              {
+                "answer": "Selected",
+                "count": 18,
+                "pct": 46.2
+              }
+            ],
+            "base": {
+              "n": 39
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 33,
+                "pct": 84.6
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 39
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 23,
+                "pct": 59.0
+              },
+              {
+                "answer": "Selected",
+                "count": 16,
+                "pct": 41.0
+              }
+            ],
+            "base": {
+              "n": 39
+            }
+          }
+        ]
+      },
+      "$45,000 to $49,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 22,
+                "pct": 61.1
+              },
+              {
+                "answer": "Selected",
+                "count": 14,
+                "pct": 38.9
+              }
+            ],
+            "base": {
+              "n": 36
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 28,
+                "pct": 77.8
+              },
+              {
+                "answer": "Selected",
+                "count": 8,
+                "pct": 22.2
+              }
+            ],
+            "base": {
+              "n": 36
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 20,
+                "pct": 55.6
+              },
+              {
+                "answer": "Selected",
+                "count": 16,
+                "pct": 44.4
+              }
+            ],
+            "base": {
+              "n": 36
+            }
+          }
+        ]
+      },
+      "$5,000 to $9,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 22,
+                "pct": 57.9
+              },
+              {
+                "answer": "Selected",
+                "count": 16,
+                "pct": 42.1
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 31,
+                "pct": 81.6
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 18.4
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 22,
+                "pct": 57.9
+              },
+              {
+                "answer": "Selected",
+                "count": 16,
+                "pct": 42.1
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "$50,000 to $54,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 51,
+                "pct": 68.9
+              },
+              {
+                "answer": "Selected",
+                "count": 23,
+                "pct": 31.1
+              }
+            ],
+            "base": {
+              "n": 74
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 56,
+                "pct": 75.7
+              },
+              {
+                "answer": "Selected",
+                "count": 18,
+                "pct": 24.3
+              }
+            ],
+            "base": {
+              "n": 74
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 36,
+                "pct": 48.6
+              },
+              {
+                "answer": "Selected",
+                "count": 38,
+                "pct": 51.4
+              }
+            ],
+            "base": {
+              "n": 74
+            }
+          }
+        ]
+      },
+      "$500,000 to $999,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "$55,000 to $59,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 19,
+                "pct": 55.9
+              },
+              {
+                "answer": "Selected",
+                "count": 15,
+                "pct": 44.1
+              }
+            ],
+            "base": {
+              "n": 34
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 26,
+                "pct": 76.5
+              },
+              {
+                "answer": "Selected",
+                "count": 8,
+                "pct": 23.5
+              }
+            ],
+            "base": {
+              "n": 34
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 22,
+                "pct": 64.7
+              },
+              {
+                "answer": "Selected",
+                "count": 12,
+                "pct": 35.3
+              }
+            ],
+            "base": {
+              "n": 34
+            }
+          }
+        ]
+      },
+      "$60,000 to $64,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 23,
+                "pct": 74.2
+              },
+              {
+                "answer": "Selected",
+                "count": 8,
+                "pct": 25.8
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 19,
+                "pct": 61.3
+              },
+              {
+                "answer": "Selected",
+                "count": 12,
+                "pct": 38.7
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 17,
+                "pct": 54.8
+              },
+              {
+                "answer": "Selected",
+                "count": 14,
+                "pct": 45.2
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          }
+        ]
+      },
+      "$65,000 to $69,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 12,
+                "pct": 48.0
+              },
+              {
+                "answer": "Selected",
+                "count": 13,
+                "pct": 52.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 20,
+                "pct": 80.0
+              },
+              {
+                "answer": "Selected",
+                "count": 5,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 16,
+                "pct": 64.0
+              },
+              {
+                "answer": "Selected",
+                "count": 9,
+                "pct": 36.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "$70,000 to $74,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 26,
+                "pct": 60.5
+              },
+              {
+                "answer": "Selected",
+                "count": 17,
+                "pct": 39.5
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 30,
+                "pct": 69.8
+              },
+              {
+                "answer": "Selected",
+                "count": 13,
+                "pct": 30.2
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 28,
+                "pct": 65.1
+              },
+              {
+                "answer": "Selected",
+                "count": 15,
+                "pct": 34.9
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "$75,000 to $79,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 22,
+                "pct": 46.8
+              },
+              {
+                "answer": "Selected",
+                "count": 25,
+                "pct": 53.2
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 36,
+                "pct": 76.6
+              },
+              {
+                "answer": "Selected",
+                "count": 11,
+                "pct": 23.4
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 33,
+                "pct": 70.2
+              },
+              {
+                "answer": "Selected",
+                "count": 14,
+                "pct": 29.8
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          }
+        ]
+      },
+      "$80,000 to $84,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 11,
+                "pct": 64.7
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 35.3
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 11,
+                "pct": 64.7
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 35.3
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 10,
+                "pct": 58.8
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 41.2
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "$85,000 to $89,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 12,
+                "pct": 80.0
+              },
+              {
+                "answer": "Selected",
+                "count": 3,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 11,
+                "pct": 73.3
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 26.7
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 7,
+                "pct": 46.7
+              },
+              {
+                "answer": "Selected",
+                "count": 8,
+                "pct": 53.3
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "$90,000 to $94,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 12,
+                "pct": 63.2
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 36.8
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 14,
+                "pct": 73.7
+              },
+              {
+                "answer": "Selected",
+                "count": 5,
+                "pct": 26.3
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 12,
+                "pct": 63.2
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 36.8
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "$95,000 to $99,999": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 15,
+                "pct": 50.0
+              },
+              {
+                "answer": "Selected",
+                "count": 15,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 24,
+                "pct": 80.0
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 20,
+                "pct": 66.7
+              },
+              {
+                "answer": "Selected",
+                "count": 10,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "Less than $5,000": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 51,
+                "pct": 67.1
+              },
+              {
+                "answer": "Selected",
+                "count": 25,
+                "pct": 32.9
+              }
+            ],
+            "base": {
+              "n": 76
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 57,
+                "pct": 75.0
+              },
+              {
+                "answer": "Selected",
+                "count": 19,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 76
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 39,
+                "pct": 51.3
+              },
+              {
+                "answer": "Selected",
+                "count": 37,
+                "pct": 48.7
+              }
+            ],
+            "base": {
+              "n": 76
+            }
+          }
+        ]
+      },
+      "Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 5,
+                "pct": 55.6
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 44.4
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 9,
+                "pct": 100.0
+              },
+              {
+                "answer": "Selected",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 4,
+                "pct": 44.4
+              },
+              {
+                "answer": "Selected",
+                "count": 5,
+                "pct": 55.6
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      }
+    },
+    "US State": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 10,
+                "pct": 62.5
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 37.5
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 13,
+                "pct": 81.2
+              },
+              {
+                "answer": "Selected",
+                "count": 3,
+                "pct": 18.8
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 8,
+                "pct": 50.0
+              },
+              {
+                "answer": "Selected",
+                "count": 8,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Alaska": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 18,
+                "pct": 62.1
+              },
+              {
+                "answer": "Selected",
+                "count": 11,
+                "pct": 37.9
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 20,
+                "pct": 69.0
+              },
+              {
+                "answer": "Selected",
+                "count": 9,
+                "pct": 31.0
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 19,
+                "pct": 65.5
+              },
+              {
+                "answer": "Selected",
+                "count": 10,
+                "pct": 34.5
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 4,
+                "pct": 50.0
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 4,
+                "pct": 50.0
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 6,
+                "pct": 75.0
+              },
+              {
+                "answer": "Selected",
+                "count": 2,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 63,
+                "pct": 48.8
+              },
+              {
+                "answer": "Selected",
+                "count": 66,
+                "pct": 51.2
+              }
+            ],
+            "base": {
+              "n": 129
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 86,
+                "pct": 66.7
+              },
+              {
+                "answer": "Selected",
+                "count": 43,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 129
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 93,
+                "pct": 72.1
+              },
+              {
+                "answer": "Selected",
+                "count": 36,
+                "pct": 27.9
+              }
+            ],
+            "base": {
+              "n": 129
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 13,
+                "pct": 76.5
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 23.5
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 9,
+                "pct": 52.9
+              },
+              {
+                "answer": "Selected",
+                "count": 8,
+                "pct": 47.1
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 9,
+                "pct": 52.9
+              },
+              {
+                "answer": "Selected",
+                "count": 8,
+                "pct": 47.1
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 9,
+                "pct": 69.2
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 30.8
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 11,
+                "pct": 84.6
+              },
+              {
+                "answer": "Selected",
+                "count": 2,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 6,
+                "pct": 46.2
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 53.8
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 32,
+                "pct": 49.2
+              },
+              {
+                "answer": "Selected",
+                "count": 33,
+                "pct": 50.8
+              }
+            ],
+            "base": {
+              "n": 65
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 53,
+                "pct": 81.5
+              },
+              {
+                "answer": "Selected",
+                "count": 12,
+                "pct": 18.5
+              }
+            ],
+            "base": {
+              "n": 65
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 42,
+                "pct": 64.6
+              },
+              {
+                "answer": "Selected",
+                "count": 23,
+                "pct": 35.4
+              }
+            ],
+            "base": {
+              "n": 65
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 24,
+                "pct": 63.2
+              },
+              {
+                "answer": "Selected",
+                "count": 14,
+                "pct": 36.8
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 25,
+                "pct": 65.8
+              },
+              {
+                "answer": "Selected",
+                "count": 13,
+                "pct": 34.2
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 23,
+                "pct": 60.5
+              },
+              {
+                "answer": "Selected",
+                "count": 15,
+                "pct": 39.5
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "Selected",
+                "count": 5,
+                "pct": 71.4
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 6,
+                "pct": 85.7
+              },
+              {
+                "answer": "Selected",
+                "count": 1,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 6,
+                "pct": 85.7
+              },
+              {
+                "answer": "Selected",
+                "count": 1,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 15,
+                "pct": 45.5
+              },
+              {
+                "answer": "Selected",
+                "count": 18,
+                "pct": 54.5
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 27,
+                "pct": 81.8
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 23,
+                "pct": 69.7
+              },
+              {
+                "answer": "Selected",
+                "count": 10,
+                "pct": 30.3
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 10,
+                "pct": 66.7
+              },
+              {
+                "answer": "Selected",
+                "count": 5,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 12,
+                "pct": 80.0
+              },
+              {
+                "answer": "Selected",
+                "count": 3,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 8,
+                "pct": 53.3
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 46.7
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 6,
+                "pct": 75.0
+              },
+              {
+                "answer": "Selected",
+                "count": 2,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 6,
+                "pct": 75.0
+              },
+              {
+                "answer": "Selected",
+                "count": 2,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 4,
+                "pct": 50.0
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 14,
+                "pct": 82.4
+              },
+              {
+                "answer": "Selected",
+                "count": 3,
+                "pct": 17.6
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 16,
+                "pct": 94.1
+              },
+              {
+                "answer": "Selected",
+                "count": 1,
+                "pct": 5.9
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Selected",
+                "count": 13,
+                "pct": 76.5
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 12,
+                "pct": 75.0
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 12,
+                "pct": 75.0
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 8,
+                "pct": 50.0
+              },
+              {
+                "answer": "Selected",
+                "count": 8,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 8,
+                "pct": 50.0
+              },
+              {
+                "answer": "Selected",
+                "count": 8,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 10,
+                "pct": 62.5
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 37.5
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 13,
+                "pct": 81.2
+              },
+              {
+                "answer": "Selected",
+                "count": 3,
+                "pct": 18.8
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 8,
+                "pct": 53.3
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 46.7
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 12,
+                "pct": 80.0
+              },
+              {
+                "answer": "Selected",
+                "count": 3,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 8,
+                "pct": 53.3
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 46.7
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 15,
+                "pct": 62.5
+              },
+              {
+                "answer": "Selected",
+                "count": 9,
+                "pct": 37.5
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 17,
+                "pct": 70.8
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 29.2
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 12,
+                "pct": 50.0
+              },
+              {
+                "answer": "Selected",
+                "count": 12,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 6,
+                "pct": 50.0
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 12
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 11,
+                "pct": 91.7
+              },
+              {
+                "answer": "Selected",
+                "count": 1,
+                "pct": 8.3
+              }
+            ],
+            "base": {
+              "n": 12
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 6,
+                "pct": 50.0
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 12
+            }
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 5,
+                "pct": 62.5
+              },
+              {
+                "answer": "Selected",
+                "count": 3,
+                "pct": 37.5
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 7,
+                "pct": 87.5
+              },
+              {
+                "answer": "Selected",
+                "count": 1,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 3,
+                "pct": 37.5
+              },
+              {
+                "answer": "Selected",
+                "count": 5,
+                "pct": 62.5
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 13,
+                "pct": 68.4
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 31.6
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 15,
+                "pct": 78.9
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 21.1
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 9,
+                "pct": 47.4
+              },
+              {
+                "answer": "Selected",
+                "count": 10,
+                "pct": 52.6
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 4,
+                "pct": 50.0
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 5,
+                "pct": 62.5
+              },
+              {
+                "answer": "Selected",
+                "count": 3,
+                "pct": 37.5
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 6,
+                "pct": 75.0
+              },
+              {
+                "answer": "Selected",
+                "count": 2,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 8,
+                "pct": 72.7
+              },
+              {
+                "answer": "Selected",
+                "count": 3,
+                "pct": 27.3
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 8,
+                "pct": 72.7
+              },
+              {
+                "answer": "Selected",
+                "count": 3,
+                "pct": 27.3
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 54.5
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 18,
+                "pct": 60.0
+              },
+              {
+                "answer": "Selected",
+                "count": 12,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 19,
+                "pct": 63.3
+              },
+              {
+                "answer": "Selected",
+                "count": 11,
+                "pct": 36.7
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 21,
+                "pct": 70.0
+              },
+              {
+                "answer": "Selected",
+                "count": 9,
+                "pct": 30.0
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 36,
+                "pct": 50.7
+              },
+              {
+                "answer": "Selected",
+                "count": 35,
+                "pct": 49.3
+              }
+            ],
+            "base": {
+              "n": 71
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 48,
+                "pct": 67.6
+              },
+              {
+                "answer": "Selected",
+                "count": 23,
+                "pct": 32.4
+              }
+            ],
+            "base": {
+              "n": 71
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 52,
+                "pct": 73.2
+              },
+              {
+                "answer": "Selected",
+                "count": 19,
+                "pct": 26.8
+              }
+            ],
+            "base": {
+              "n": 71
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 32,
+                "pct": 80.0
+              },
+              {
+                "answer": "Selected",
+                "count": 8,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 40
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 25,
+                "pct": 62.5
+              },
+              {
+                "answer": "Selected",
+                "count": 15,
+                "pct": 37.5
+              }
+            ],
+            "base": {
+              "n": 40
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 20,
+                "pct": 50.0
+              },
+              {
+                "answer": "Selected",
+                "count": 20,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 40
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 20,
+                "pct": 66.7
+              },
+              {
+                "answer": "Selected",
+                "count": 10,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 23,
+                "pct": 76.7
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 23.3
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 15,
+                "pct": 50.0
+              },
+              {
+                "answer": "Selected",
+                "count": 15,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 5,
+                "pct": 71.4
+              },
+              {
+                "answer": "Selected",
+                "count": 2,
+                "pct": 28.6
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 6,
+                "pct": 85.7
+              },
+              {
+                "answer": "Selected",
+                "count": 1,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 3,
+                "pct": 42.9
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 57.1
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 6,
+                "pct": 40.0
+              },
+              {
+                "answer": "Selected",
+                "count": 9,
+                "pct": 60.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 14,
+                "pct": 93.3
+              },
+              {
+                "answer": "Selected",
+                "count": 1,
+                "pct": 6.7
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 10,
+                "pct": 66.7
+              },
+              {
+                "answer": "Selected",
+                "count": 5,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 26,
+                "pct": 60.5
+              },
+              {
+                "answer": "Selected",
+                "count": 17,
+                "pct": 39.5
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 37,
+                "pct": 86.0
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 14.0
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 22,
+                "pct": 51.2
+              },
+              {
+                "answer": "Selected",
+                "count": 21,
+                "pct": 48.8
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 8,
+                "pct": 53.3
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 46.7
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 11,
+                "pct": 73.3
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 26.7
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 9,
+                "pct": 60.0
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "South Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 10,
+                "pct": 66.7
+              },
+              {
+                "answer": "Selected",
+                "count": 5,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 9,
+                "pct": 60.0
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 9,
+                "pct": 60.0
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 40.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 65,
+                "pct": 59.6
+              },
+              {
+                "answer": "Selected",
+                "count": 44,
+                "pct": 40.4
+              }
+            ],
+            "base": {
+              "n": 109
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 83,
+                "pct": 76.1
+              },
+              {
+                "answer": "Selected",
+                "count": 26,
+                "pct": 23.9
+              }
+            ],
+            "base": {
+              "n": 109
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 64,
+                "pct": 58.7
+              },
+              {
+                "answer": "Selected",
+                "count": 45,
+                "pct": 41.3
+              }
+            ],
+            "base": {
+              "n": 109
+            }
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 3,
+                "pct": 50.0
+              },
+              {
+                "answer": "Selected",
+                "count": 3,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 6,
+                "pct": 100.0
+              },
+              {
+                "answer": "Selected",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 3,
+                "pct": 50.0
+              },
+              {
+                "answer": "Selected",
+                "count": 3,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 17,
+                "pct": 60.7
+              },
+              {
+                "answer": "Selected",
+                "count": 11,
+                "pct": 39.3
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 18,
+                "pct": 64.3
+              },
+              {
+                "answer": "Selected",
+                "count": 10,
+                "pct": 35.7
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 17,
+                "pct": 60.7
+              },
+              {
+                "answer": "Selected",
+                "count": 11,
+                "pct": 39.3
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 9,
+                "pct": 52.9
+              },
+              {
+                "answer": "Selected",
+                "count": 8,
+                "pct": 47.1
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 14,
+                "pct": 82.4
+              },
+              {
+                "answer": "Selected",
+                "count": 3,
+                "pct": 17.6
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 9,
+                "pct": 52.9
+              },
+              {
+                "answer": "Selected",
+                "count": 8,
+                "pct": 47.1
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 5,
+                "pct": 62.5
+              },
+              {
+                "answer": "Selected",
+                "count": 3,
+                "pct": 37.5
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 6,
+                "pct": 75.0
+              },
+              {
+                "answer": "Selected",
+                "count": 2,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 4,
+                "pct": 50.0
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 50.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 9,
+                "pct": 56.2
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 43.8
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 13,
+                "pct": 81.2
+              },
+              {
+                "answer": "Selected",
+                "count": 3,
+                "pct": 18.8
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 10,
+                "pct": 62.5
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 37.5
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Wyoming": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Education Level": {
+      "Associates Degree": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 69,
+                "pct": 58.5
+              },
+              {
+                "answer": "Selected",
+                "count": 49,
+                "pct": 41.5
+              }
+            ],
+            "base": {
+              "n": 118
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 91,
+                "pct": 77.1
+              },
+              {
+                "answer": "Selected",
+                "count": 27,
+                "pct": 22.9
+              }
+            ],
+            "base": {
+              "n": 118
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 71,
+                "pct": 60.2
+              },
+              {
+                "answer": "Selected",
+                "count": 47,
+                "pct": 39.8
+              }
+            ],
+            "base": {
+              "n": 118
+            }
+          }
+        ]
+      },
+      "Bachelor's degree": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 109,
+                "pct": 48.0
+              },
+              {
+                "answer": "Selected",
+                "count": 118,
+                "pct": 52.0
+              }
+            ],
+            "base": {
+              "n": 227
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 156,
+                "pct": 68.7
+              },
+              {
+                "answer": "Selected",
+                "count": 71,
+                "pct": 31.3
+              }
+            ],
+            "base": {
+              "n": 227
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 160,
+                "pct": 70.5
+              },
+              {
+                "answer": "Selected",
+                "count": 67,
+                "pct": 29.5
+              }
+            ],
+            "base": {
+              "n": 227
+            }
+          }
+        ]
+      },
+      "Completed some college": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 96,
+                "pct": 68.1
+              },
+              {
+                "answer": "Selected",
+                "count": 45,
+                "pct": 31.9
+              }
+            ],
+            "base": {
+              "n": 141
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 104,
+                "pct": 73.8
+              },
+              {
+                "answer": "Selected",
+                "count": 37,
+                "pct": 26.2
+              }
+            ],
+            "base": {
+              "n": 141
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 74,
+                "pct": 52.5
+              },
+              {
+                "answer": "Selected",
+                "count": 67,
+                "pct": 47.5
+              }
+            ],
+            "base": {
+              "n": 141
+            }
+          }
+        ]
+      },
+      "Completed some high school": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 26,
+                "pct": 76.5
+              },
+              {
+                "answer": "Selected",
+                "count": 8,
+                "pct": 23.5
+              }
+            ],
+            "base": {
+              "n": 34
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 29,
+                "pct": 85.3
+              },
+              {
+                "answer": "Selected",
+                "count": 5,
+                "pct": 14.7
+              }
+            ],
+            "base": {
+              "n": 34
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 13,
+                "pct": 38.2
+              },
+              {
+                "answer": "Selected",
+                "count": 21,
+                "pct": 61.8
+              }
+            ],
+            "base": {
+              "n": 34
+            }
+          }
+        ]
+      },
+      "Completed some postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 12,
+                "pct": 70.6
+              },
+              {
+                "answer": "Selected",
+                "count": 5,
+                "pct": 29.4
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 12,
+                "pct": 70.6
+              },
+              {
+                "answer": "Selected",
+                "count": 5,
+                "pct": 29.4
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 8,
+                "pct": 47.1
+              },
+              {
+                "answer": "Selected",
+                "count": 9,
+                "pct": 52.9
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Doctorate /PhD": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 10,
+                "pct": 47.6
+              },
+              {
+                "answer": "Selected",
+                "count": 11,
+                "pct": 52.4
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 15,
+                "pct": 71.4
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 28.6
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 14,
+                "pct": 66.7
+              },
+              {
+                "answer": "Selected",
+                "count": 7,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "Elementary School": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "High school graduate": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 196,
+                "pct": 65.3
+              },
+              {
+                "answer": "Selected",
+                "count": 104,
+                "pct": 34.7
+              }
+            ],
+            "base": {
+              "n": 300
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 229,
+                "pct": 76.3
+              },
+              {
+                "answer": "Selected",
+                "count": 71,
+                "pct": 23.7
+              }
+            ],
+            "base": {
+              "n": 300
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 163,
+                "pct": 54.3
+              },
+              {
+                "answer": "Selected",
+                "count": 137,
+                "pct": 45.7
+              }
+            ],
+            "base": {
+              "n": 300
+            }
+          }
+        ]
+      },
+      "Masters degree": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 38,
+                "pct": 34.9
+              },
+              {
+                "answer": "Selected",
+                "count": 71,
+                "pct": 65.1
+              }
+            ],
+            "base": {
+              "n": 109
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 77,
+                "pct": 70.6
+              },
+              {
+                "answer": "Selected",
+                "count": 32,
+                "pct": 29.4
+              }
+            ],
+            "base": {
+              "n": 109
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 88,
+                "pct": 80.7
+              },
+              {
+                "answer": "Selected",
+                "count": 21,
+                "pct": 19.3
+              }
+            ],
+            "base": {
+              "n": 109
+            }
+          }
+        ]
+      },
+      "Middle School": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "None of the above/Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Other post high school vocational training": {
+        "rows": [
+          {
+            "panel_id": "Q8: I received severance pay (weeks or months of salary)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 25,
+                "pct": 86.2
+              },
+              {
+                "answer": "Selected",
+                "count": 4,
+                "pct": 13.8
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          },
+          {
+            "panel_id": "Q8: I received other financial support (extended benefits, job placement services, etc.)",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 23,
+                "pct": 79.3
+              },
+              {
+                "answer": "Selected",
+                "count": 6,
+                "pct": 20.7
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          },
+          {
+            "panel_id": "Q8: No severance or support was offered",
+            "cells": [
+              {
+                "answer": "Not Selected",
+                "count": 9,
+                "pct": 31.0
+              },
+              {
+                "answer": "Selected",
+                "count": 20,
+                "pct": 69.0
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 5
+  }
+}

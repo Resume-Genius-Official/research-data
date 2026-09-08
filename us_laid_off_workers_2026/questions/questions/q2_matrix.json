@@ -1,0 +1,6069 @@
+{
+  "id": "Q2",
+  "text": "Q2",
+  "question_prompt": "Q2: What industry best describes the company that you left involuntarily?",
+  "type": "matrix",
+  "panels": [
+    "Q2: (Select the company’s industry, not your job function.)"
+  ],
+  "answers": [
+    "Retail, Hospitality, Food, & Consumer Services",
+    "Technology (Software, IT, Internet companies)",
+    "Manufacturing, Engineering, & Construction",
+    "Healthcare & Social Assistance",
+    "Finance & Banking",
+    "Transportation, Warehousing, & Logistics",
+    "Education",
+    "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+    "Government & Public Administration",
+    "Media, Entertainment, Arts",
+    "Energy & Utilities",
+    "Agriculture"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+      "cells": [
+        {
+          "answer": "Retail, Hospitality, Food, & Consumer Services",
+          "count": 244,
+          "pct": 24.4
+        },
+        {
+          "answer": "Technology (Software, IT, Internet companies)",
+          "count": 162,
+          "pct": 16.2
+        },
+        {
+          "answer": "Manufacturing, Engineering, & Construction",
+          "count": 133,
+          "pct": 13.3
+        },
+        {
+          "answer": "Healthcare & Social Assistance",
+          "count": 113,
+          "pct": 11.3
+        },
+        {
+          "answer": "Finance & Banking",
+          "count": 87,
+          "pct": 8.7
+        },
+        {
+          "answer": "Transportation, Warehousing, & Logistics",
+          "count": 72,
+          "pct": 7.2
+        },
+        {
+          "answer": "Education",
+          "count": 62,
+          "pct": 6.2
+        },
+        {
+          "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+          "count": 58,
+          "pct": 5.8
+        },
+        {
+          "answer": "Government & Public Administration",
+          "count": 26,
+          "pct": 2.6
+        },
+        {
+          "answer": "Media, Entertainment, Arts",
+          "count": 21,
+          "pct": 2.1
+        },
+        {
+          "answer": "Energy & Utilities",
+          "count": 12,
+          "pct": 1.2
+        },
+        {
+          "answer": "Agriculture",
+          "count": 10,
+          "pct": 1.0
+        }
+      ],
+      "base": {
+        "n": 1000
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 1000
+    },
+    "answers": [
+      {
+        "answer": "Retail, Hospitality, Food, & Consumer Services",
+        "count": 244,
+        "pct": 24.4
+      },
+      {
+        "answer": "Technology (Software, IT, Internet companies)",
+        "count": 162,
+        "pct": 16.2
+      },
+      {
+        "answer": "Manufacturing, Engineering, & Construction",
+        "count": 133,
+        "pct": 13.3
+      },
+      {
+        "answer": "Healthcare & Social Assistance",
+        "count": 113,
+        "pct": 11.3
+      },
+      {
+        "answer": "Finance & Banking",
+        "count": 87,
+        "pct": 8.7
+      },
+      {
+        "answer": "Transportation, Warehousing, & Logistics",
+        "count": 72,
+        "pct": 7.2
+      },
+      {
+        "answer": "Education",
+        "count": 62,
+        "pct": 6.2
+      },
+      {
+        "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+        "count": 58,
+        "pct": 5.8
+      },
+      {
+        "answer": "Government & Public Administration",
+        "count": 26,
+        "pct": 2.6
+      },
+      {
+        "answer": "Media, Entertainment, Arts",
+        "count": 21,
+        "pct": 2.1
+      },
+      {
+        "answer": "Energy & Utilities",
+        "count": 12,
+        "pct": 1.2
+      },
+      {
+        "answer": "Agriculture",
+        "count": 10,
+        "pct": 1.0
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Baby Boomers": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 6,
+                "pct": 30.0
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 5,
+                "pct": 25.0
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 1,
+                "pct": 5.0
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 2,
+                "pct": 10.0
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 1,
+                "pct": 5.0
+              },
+              {
+                "answer": "Education",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 4,
+                "pct": 20.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 1,
+                "pct": 5.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 47,
+                "pct": 22.0
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 33,
+                "pct": 15.4
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 31,
+                "pct": 14.5
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 22,
+                "pct": 10.3
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 22,
+                "pct": 10.3
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 17,
+                "pct": 7.9
+              },
+              {
+                "answer": "Education",
+                "count": 20,
+                "pct": 9.3
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 13,
+                "pct": 6.1
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 3,
+                "pct": 1.4
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 2,
+                "pct": 0.9
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 4,
+                "pct": 1.9
+              }
+            ],
+            "base": {
+              "n": 214
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 69,
+                "pct": 26.5
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 43,
+                "pct": 16.5
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 20,
+                "pct": 7.7
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 35,
+                "pct": 13.5
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 21,
+                "pct": 8.1
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 18,
+                "pct": 6.9
+              },
+              {
+                "answer": "Education",
+                "count": 19,
+                "pct": 7.3
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 11,
+                "pct": 4.2
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 7,
+                "pct": 2.7
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 10,
+                "pct": 3.8
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 3,
+                "pct": 1.2
+              },
+              {
+                "answer": "Agriculture",
+                "count": 4,
+                "pct": 1.5
+              }
+            ],
+            "base": {
+              "n": 260
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 122,
+                "pct": 24.1
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 86,
+                "pct": 17.0
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 77,
+                "pct": 15.2
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 55,
+                "pct": 10.9
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 42,
+                "pct": 8.3
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 36,
+                "pct": 7.1
+              },
+              {
+                "answer": "Education",
+                "count": 23,
+                "pct": 4.5
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 30,
+                "pct": 5.9
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 16,
+                "pct": 3.2
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 8,
+                "pct": 1.6
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 9,
+                "pct": 1.8
+              },
+              {
+                "answer": "Agriculture",
+                "count": 2,
+                "pct": 0.4
+              }
+            ],
+            "base": {
+              "n": 506
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "Female": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 142,
+                "pct": 29.9
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 55,
+                "pct": 11.6
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 32,
+                "pct": 6.7
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 86,
+                "pct": 18.1
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 34,
+                "pct": 7.2
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 20,
+                "pct": 4.2
+              },
+              {
+                "answer": "Education",
+                "count": 43,
+                "pct": 9.1
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 29,
+                "pct": 6.1
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 12,
+                "pct": 2.5
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 11,
+                "pct": 2.3
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 7,
+                "pct": 1.5
+              },
+              {
+                "answer": "Agriculture",
+                "count": 4,
+                "pct": 0.8
+              }
+            ],
+            "base": {
+              "n": 475
+            }
+          }
+        ]
+      },
+      "Male": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 102,
+                "pct": 19.4
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 107,
+                "pct": 20.4
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 101,
+                "pct": 19.2
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 27,
+                "pct": 5.1
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 53,
+                "pct": 10.1
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 52,
+                "pct": 9.9
+              },
+              {
+                "answer": "Education",
+                "count": 19,
+                "pct": 3.6
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 29,
+                "pct": 5.5
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 14,
+                "pct": 2.7
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 10,
+                "pct": 1.9
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 5,
+                "pct": 1.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 6,
+                "pct": 1.1
+              }
+            ],
+            "base": {
+              "n": 525
+            }
+          }
+        ]
+      }
+    },
+    "Household income US": {
+      "$1 million +": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "$10,000 to $14,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 15,
+                "pct": 60.0
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 1,
+                "pct": 4.0
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 6,
+                "pct": 24.0
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Education",
+                "count": 1,
+                "pct": 4.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 2,
+                "pct": 8.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "$100,000 to $124,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 6,
+                "pct": 7.7
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 16,
+                "pct": 20.5
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 12,
+                "pct": 15.4
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 7,
+                "pct": 9.0
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 9,
+                "pct": 11.5
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 3,
+                "pct": 3.8
+              },
+              {
+                "answer": "Education",
+                "count": 7,
+                "pct": 9.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 11,
+                "pct": 14.1
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 3,
+                "pct": 3.8
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 1,
+                "pct": 1.3
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 1,
+                "pct": 1.3
+              },
+              {
+                "answer": "Agriculture",
+                "count": 2,
+                "pct": 2.6
+              }
+            ],
+            "base": {
+              "n": 78
+            }
+          }
+        ]
+      },
+      "$125,000 to $149,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 2,
+                "pct": 3.6
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 17,
+                "pct": 30.4
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 7,
+                "pct": 12.5
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 6,
+                "pct": 10.7
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 11,
+                "pct": 19.6
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 3,
+                "pct": 5.4
+              },
+              {
+                "answer": "Education",
+                "count": 4,
+                "pct": 7.1
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 3,
+                "pct": 5.4
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 2,
+                "pct": 3.6
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 1,
+                "pct": 1.8
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 56
+            }
+          }
+        ]
+      },
+      "$15,000 to $19,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 9,
+                "pct": 23.7
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 6,
+                "pct": 15.8
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 7,
+                "pct": 18.4
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 1,
+                "pct": 2.6
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 7,
+                "pct": 18.4
+              },
+              {
+                "answer": "Education",
+                "count": 2,
+                "pct": 5.3
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 2,
+                "pct": 5.3
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 2,
+                "pct": 5.3
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 1,
+                "pct": 2.6
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 1,
+                "pct": 2.6
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "$150,000 to $174,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 1,
+                "pct": 3.3
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 11,
+                "pct": 36.7
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 4,
+                "pct": 13.3
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 3,
+                "pct": 10.0
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 4,
+                "pct": 13.3
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 1,
+                "pct": 3.3
+              },
+              {
+                "answer": "Education",
+                "count": 1,
+                "pct": 3.3
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 3,
+                "pct": 10.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 2,
+                "pct": 6.7
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "$175,000 to $199,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 11,
+                "pct": 52.4
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 2,
+                "pct": 9.5
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 1,
+                "pct": 4.8
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 2,
+                "pct": 9.5
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 1,
+                "pct": 4.8
+              },
+              {
+                "answer": "Education",
+                "count": 1,
+                "pct": 4.8
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 2,
+                "pct": 9.5
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 1,
+                "pct": 4.8
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "$20,000 to $24,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 18,
+                "pct": 36.7
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 4,
+                "pct": 8.2
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 7,
+                "pct": 14.3
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 6,
+                "pct": 12.2
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 3,
+                "pct": 6.1
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 1,
+                "pct": 2.0
+              },
+              {
+                "answer": "Education",
+                "count": 3,
+                "pct": 6.1
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 2,
+                "pct": 4.1
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 2,
+                "pct": 4.1
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 1,
+                "pct": 2.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 2,
+                "pct": 4.1
+              }
+            ],
+            "base": {
+              "n": 49
+            }
+          }
+        ]
+      },
+      "$200,000 to $249,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "Education",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "$25,000 to $29,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 21,
+                "pct": 38.9
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 3,
+                "pct": 5.6
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 4,
+                "pct": 7.4
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 6,
+                "pct": 11.1
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 5,
+                "pct": 9.3
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 6,
+                "pct": 11.1
+              },
+              {
+                "answer": "Education",
+                "count": 2,
+                "pct": 3.7
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 4,
+                "pct": 7.4
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 1,
+                "pct": 1.9
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 1,
+                "pct": 1.9
+              },
+              {
+                "answer": "Agriculture",
+                "count": 1,
+                "pct": 1.9
+              }
+            ],
+            "base": {
+              "n": 54
+            }
+          }
+        ]
+      },
+      "$250,000 to $499,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 1,
+                "pct": 7.1
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 5,
+                "pct": 35.7
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 1,
+                "pct": 7.1
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Education",
+                "count": 2,
+                "pct": 14.3
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 2,
+                "pct": 14.3
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "$30,000 to $34,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 18,
+                "pct": 36.0
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 3,
+                "pct": 6.0
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 8,
+                "pct": 16.0
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 5,
+                "pct": 10.0
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 1,
+                "pct": 2.0
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 5,
+                "pct": 10.0
+              },
+              {
+                "answer": "Education",
+                "count": 2,
+                "pct": 4.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 1,
+                "pct": 2.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 3,
+                "pct": 6.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 3,
+                "pct": 6.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 1,
+                "pct": 2.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 50
+            }
+          }
+        ]
+      },
+      "$35,000 to $39,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 10,
+                "pct": 30.3
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 2,
+                "pct": 6.1
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 4,
+                "pct": 12.1
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 7,
+                "pct": 21.2
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 4,
+                "pct": 12.1
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 3,
+                "pct": 9.1
+              },
+              {
+                "answer": "Education",
+                "count": 2,
+                "pct": 6.1
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 1,
+                "pct": 3.0
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          }
+        ]
+      },
+      "$40,000 to $44,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 12,
+                "pct": 30.8
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 4,
+                "pct": 10.3
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 5,
+                "pct": 12.8
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 5,
+                "pct": 12.8
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 1,
+                "pct": 2.6
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 4,
+                "pct": 10.3
+              },
+              {
+                "answer": "Education",
+                "count": 5,
+                "pct": 12.8
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 1,
+                "pct": 2.6
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 2,
+                "pct": 5.1
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 39
+            }
+          }
+        ]
+      },
+      "$45,000 to $49,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 12,
+                "pct": 33.3
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 4,
+                "pct": 11.1
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 4,
+                "pct": 11.1
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 3,
+                "pct": 8.3
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 3,
+                "pct": 8.3
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 3,
+                "pct": 8.3
+              },
+              {
+                "answer": "Education",
+                "count": 1,
+                "pct": 2.8
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 1,
+                "pct": 2.8
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 1,
+                "pct": 2.8
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 3,
+                "pct": 8.3
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 1,
+                "pct": 2.8
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 36
+            }
+          }
+        ]
+      },
+      "$5,000 to $9,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 20,
+                "pct": 52.6
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 3,
+                "pct": 7.9
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 4,
+                "pct": 10.5
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 4,
+                "pct": 10.5
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 3,
+                "pct": 7.9
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 2,
+                "pct": 5.3
+              },
+              {
+                "answer": "Education",
+                "count": 1,
+                "pct": 2.6
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 1,
+                "pct": 2.6
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "$50,000 to $54,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 16,
+                "pct": 21.6
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 8,
+                "pct": 10.8
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 15,
+                "pct": 20.3
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 12,
+                "pct": 16.2
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 4,
+                "pct": 5.4
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 5,
+                "pct": 6.8
+              },
+              {
+                "answer": "Education",
+                "count": 3,
+                "pct": 4.1
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 3,
+                "pct": 4.1
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 2,
+                "pct": 2.7
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 4,
+                "pct": 5.4
+              },
+              {
+                "answer": "Agriculture",
+                "count": 2,
+                "pct": 2.7
+              }
+            ],
+            "base": {
+              "n": 74
+            }
+          }
+        ]
+      },
+      "$500,000 to $999,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "$55,000 to $59,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 9,
+                "pct": 26.5
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 3,
+                "pct": 8.8
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 5,
+                "pct": 14.7
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 3,
+                "pct": 8.8
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 5,
+                "pct": 14.7
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 3,
+                "pct": 8.8
+              },
+              {
+                "answer": "Education",
+                "count": 2,
+                "pct": 5.9
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 3,
+                "pct": 8.8
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 1,
+                "pct": 2.9
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 34
+            }
+          }
+        ]
+      },
+      "$60,000 to $64,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 10,
+                "pct": 32.3
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 8,
+                "pct": 25.8
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 3,
+                "pct": 9.7
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 4,
+                "pct": 12.9
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 2,
+                "pct": 6.5
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 2,
+                "pct": 6.5
+              },
+              {
+                "answer": "Education",
+                "count": 1,
+                "pct": 3.2
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 1,
+                "pct": 3.2
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          }
+        ]
+      },
+      "$65,000 to $69,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 2,
+                "pct": 8.0
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 7,
+                "pct": 28.0
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 5,
+                "pct": 20.0
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 3,
+                "pct": 12.0
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 2,
+                "pct": 8.0
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 2,
+                "pct": 8.0
+              },
+              {
+                "answer": "Education",
+                "count": 2,
+                "pct": 8.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 2,
+                "pct": 8.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "$70,000 to $74,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 10,
+                "pct": 23.3
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 7,
+                "pct": 16.3
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 5,
+                "pct": 11.6
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 4,
+                "pct": 9.3
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 1,
+                "pct": 2.3
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 8,
+                "pct": 18.6
+              },
+              {
+                "answer": "Education",
+                "count": 4,
+                "pct": 9.3
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 3,
+                "pct": 7.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 1,
+                "pct": 2.3
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "$75,000 to $79,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 9,
+                "pct": 19.1
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 6,
+                "pct": 12.8
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 8,
+                "pct": 17.0
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 8,
+                "pct": 17.0
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 7,
+                "pct": 14.9
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 2,
+                "pct": 4.3
+              },
+              {
+                "answer": "Education",
+                "count": 3,
+                "pct": 6.4
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 1,
+                "pct": 2.1
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 2,
+                "pct": 4.3
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 1,
+                "pct": 2.1
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          }
+        ]
+      },
+      "$80,000 to $84,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 5,
+                "pct": 29.4
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Education",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "$85,000 to $89,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 6,
+                "pct": 40.0
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "Education",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "$90,000 to $94,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 4,
+                "pct": 21.1
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 3,
+                "pct": 15.8
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 3,
+                "pct": 15.8
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "Education",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "$95,000 to $99,999": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 3,
+                "pct": 10.0
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 10,
+                "pct": 33.3
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 1,
+                "pct": 3.3
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 1,
+                "pct": 3.3
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 6,
+                "pct": 20.0
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 3,
+                "pct": 10.0
+              },
+              {
+                "answer": "Education",
+                "count": 1,
+                "pct": 3.3
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 4,
+                "pct": 13.3
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 1,
+                "pct": 3.3
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "Less than $5,000": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 27,
+                "pct": 35.5
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 5,
+                "pct": 6.6
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 8,
+                "pct": 10.5
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 8,
+                "pct": 10.5
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 5,
+                "pct": 6.6
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 4,
+                "pct": 5.3
+              },
+              {
+                "answer": "Education",
+                "count": 6,
+                "pct": 7.9
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 7,
+                "pct": 9.2
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 2,
+                "pct": 2.6
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 3,
+                "pct": 3.9
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 1,
+                "pct": 1.3
+              }
+            ],
+            "base": {
+              "n": 76
+            }
+          }
+        ]
+      },
+      "Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 2,
+                "pct": 22.2
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 2,
+                "pct": 22.2
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 1,
+                "pct": 11.1
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Education",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 1,
+                "pct": 11.1
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      }
+    },
+    "US State": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 6,
+                "pct": 37.5
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 2,
+                "pct": 12.5
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 2,
+                "pct": 12.5
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 2,
+                "pct": 12.5
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Education",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Alaska": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 5,
+                "pct": 17.2
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 5,
+                "pct": 17.2
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 5,
+                "pct": 17.2
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 5,
+                "pct": 17.2
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 2,
+                "pct": 6.9
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 1,
+                "pct": 3.4
+              },
+              {
+                "answer": "Education",
+                "count": 3,
+                "pct": 10.3
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 1,
+                "pct": 3.4
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 1,
+                "pct": 3.4
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 1,
+                "pct": 3.4
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 3,
+                "pct": 37.5
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 2,
+                "pct": 25.0
+              },
+              {
+                "answer": "Education",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 20,
+                "pct": 15.5
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 30,
+                "pct": 23.3
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 18,
+                "pct": 14.0
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 8,
+                "pct": 6.2
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 16,
+                "pct": 12.4
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 7,
+                "pct": 5.4
+              },
+              {
+                "answer": "Education",
+                "count": 10,
+                "pct": 7.8
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 8,
+                "pct": 6.2
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 3,
+                "pct": 2.3
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 7,
+                "pct": 5.4
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 2,
+                "pct": 1.6
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 129
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 7,
+                "pct": 41.2
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Education",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "Education",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 12,
+                "pct": 18.5
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 9,
+                "pct": 13.8
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 4,
+                "pct": 6.2
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 9,
+                "pct": 13.8
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 10,
+                "pct": 15.4
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 6,
+                "pct": 9.2
+              },
+              {
+                "answer": "Education",
+                "count": 2,
+                "pct": 3.1
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 8,
+                "pct": 12.3
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 1,
+                "pct": 1.5
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 2,
+                "pct": 3.1
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 2,
+                "pct": 3.1
+              }
+            ],
+            "base": {
+              "n": 65
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 17,
+                "pct": 44.7
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 4,
+                "pct": 10.5
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 5,
+                "pct": 13.2
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 3,
+                "pct": 7.9
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 1,
+                "pct": 2.6
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 5,
+                "pct": 13.2
+              },
+              {
+                "answer": "Education",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 2,
+                "pct": 5.3
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 1,
+                "pct": 2.6
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Education",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 1,
+                "pct": 14.3
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 7,
+                "pct": 21.2
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 2,
+                "pct": 6.1
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 5,
+                "pct": 15.2
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 4,
+                "pct": 12.1
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 3,
+                "pct": 9.1
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 2,
+                "pct": 6.1
+              },
+              {
+                "answer": "Education",
+                "count": 4,
+                "pct": 12.1
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 2,
+                "pct": 6.1
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 1,
+                "pct": 3.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 2,
+                "pct": 6.1
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 1,
+                "pct": 3.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "Education",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 4,
+                "pct": 50.0
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Education",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 5,
+                "pct": 29.4
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Education",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 4,
+                "pct": 25.0
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 3,
+                "pct": 18.8
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 2,
+                "pct": 12.5
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "Education",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 2,
+                "pct": 12.5
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 3,
+                "pct": 18.8
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 3,
+                "pct": 18.8
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 4,
+                "pct": 25.0
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "Education",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 6,
+                "pct": 40.0
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "Education",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 2,
+                "pct": 8.3
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 2,
+                "pct": 8.3
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 6,
+                "pct": 25.0
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 6,
+                "pct": 25.0
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 3,
+                "pct": 12.5
+              },
+              {
+                "answer": "Education",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 2,
+                "pct": 8.3
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 1,
+                "pct": 4.2
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 2,
+                "pct": 8.3
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 2,
+                "pct": 16.7
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 2,
+                "pct": 16.7
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 2,
+                "pct": 16.7
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 2,
+                "pct": 16.7
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 1,
+                "pct": 8.3
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 2,
+                "pct": 16.7
+              },
+              {
+                "answer": "Education",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 1,
+                "pct": 8.3
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 12
+            }
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 2,
+                "pct": 25.0
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 3,
+                "pct": 37.5
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 2,
+                "pct": 25.0
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Education",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 4,
+                "pct": 21.1
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 4,
+                "pct": 21.1
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 8,
+                "pct": 42.1
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Education",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 3,
+                "pct": 37.5
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 2,
+                "pct": 25.0
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Education",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Education",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 6,
+                "pct": 20.0
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 5,
+                "pct": 16.7
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 3,
+                "pct": 10.0
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 1,
+                "pct": 3.3
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 6,
+                "pct": 20.0
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 3,
+                "pct": 10.0
+              },
+              {
+                "answer": "Education",
+                "count": 3,
+                "pct": 10.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 2,
+                "pct": 6.7
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 1,
+                "pct": 3.3
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 15,
+                "pct": 21.1
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 18,
+                "pct": 25.4
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 6,
+                "pct": 8.5
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 3,
+                "pct": 4.2
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 10,
+                "pct": 14.1
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 7,
+                "pct": 9.9
+              },
+              {
+                "answer": "Education",
+                "count": 4,
+                "pct": 5.6
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 4,
+                "pct": 5.6
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 1,
+                "pct": 1.4
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 1,
+                "pct": 1.4
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 2,
+                "pct": 2.8
+              }
+            ],
+            "base": {
+              "n": 71
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 9,
+                "pct": 22.5
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 6,
+                "pct": 15.0
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 6,
+                "pct": 15.0
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 5,
+                "pct": 12.5
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 1,
+                "pct": 2.5
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 2,
+                "pct": 5.0
+              },
+              {
+                "answer": "Education",
+                "count": 3,
+                "pct": 7.5
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 5,
+                "pct": 12.5
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 2,
+                "pct": 5.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 1,
+                "pct": 2.5
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 40
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 6,
+                "pct": 20.0
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 7,
+                "pct": 23.3
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 6,
+                "pct": 20.0
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 3,
+                "pct": 10.0
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 1,
+                "pct": 3.3
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 2,
+                "pct": 6.7
+              },
+              {
+                "answer": "Education",
+                "count": 1,
+                "pct": 3.3
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 2,
+                "pct": 6.7
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 2,
+                "pct": 6.7
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 1,
+                "pct": 14.3
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 1,
+                "pct": 14.3
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Education",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 1,
+                "pct": 14.3
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "Education",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 11,
+                "pct": 25.6
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 3,
+                "pct": 7.0
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 5,
+                "pct": 11.6
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 4,
+                "pct": 9.3
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 6,
+                "pct": 14.0
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 4,
+                "pct": 9.3
+              },
+              {
+                "answer": "Education",
+                "count": 3,
+                "pct": 7.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 5,
+                "pct": 11.6
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 2,
+                "pct": 4.7
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "Education",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "South Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Education",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 33,
+                "pct": 30.3
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 21,
+                "pct": 19.3
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 13,
+                "pct": 11.9
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 14,
+                "pct": 12.8
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 6,
+                "pct": 5.5
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 4,
+                "pct": 3.7
+              },
+              {
+                "answer": "Education",
+                "count": 8,
+                "pct": 7.3
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 6,
+                "pct": 5.5
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 1,
+                "pct": 0.9
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 2,
+                "pct": 1.8
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 1,
+                "pct": 0.9
+              }
+            ],
+            "base": {
+              "n": 109
+            }
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 2,
+                "pct": 33.3
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Education",
+                "count": 2,
+                "pct": 33.3
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 8,
+                "pct": 28.6
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 8,
+                "pct": 28.6
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 1,
+                "pct": 3.6
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 3,
+                "pct": 10.7
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 1,
+                "pct": 3.6
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 2,
+                "pct": 7.1
+              },
+              {
+                "answer": "Education",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 1,
+                "pct": 3.6
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 3,
+                "pct": 10.7
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 1,
+                "pct": 3.6
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "Education",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 5,
+                "pct": 62.5
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 2,
+                "pct": 25.0
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Education",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 4,
+                "pct": 25.0
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 4,
+                "pct": 25.0
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 3,
+                "pct": 18.8
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "Education",
+                "count": 3,
+                "pct": 18.8
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Wyoming": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Education Level": {
+      "Associates Degree": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 27,
+                "pct": 22.9
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 12,
+                "pct": 10.2
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 20,
+                "pct": 16.9
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 17,
+                "pct": 14.4
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 9,
+                "pct": 7.6
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 8,
+                "pct": 6.8
+              },
+              {
+                "answer": "Education",
+                "count": 10,
+                "pct": 8.5
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 8,
+                "pct": 6.8
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 1,
+                "pct": 0.8
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 2,
+                "pct": 1.7
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 3,
+                "pct": 2.5
+              },
+              {
+                "answer": "Agriculture",
+                "count": 1,
+                "pct": 0.8
+              }
+            ],
+            "base": {
+              "n": 118
+            }
+          }
+        ]
+      },
+      "Bachelor's degree": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 32,
+                "pct": 14.1
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 54,
+                "pct": 23.8
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 26,
+                "pct": 11.5
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 27,
+                "pct": 11.9
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 24,
+                "pct": 10.6
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 9,
+                "pct": 4.0
+              },
+              {
+                "answer": "Education",
+                "count": 13,
+                "pct": 5.7
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 23,
+                "pct": 10.1
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 7,
+                "pct": 3.1
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 8,
+                "pct": 3.5
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 3,
+                "pct": 1.3
+              },
+              {
+                "answer": "Agriculture",
+                "count": 1,
+                "pct": 0.4
+              }
+            ],
+            "base": {
+              "n": 227
+            }
+          }
+        ]
+      },
+      "Completed some college": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 41,
+                "pct": 29.1
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 16,
+                "pct": 11.3
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 24,
+                "pct": 17.0
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 13,
+                "pct": 9.2
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 12,
+                "pct": 8.5
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 16,
+                "pct": 11.3
+              },
+              {
+                "answer": "Education",
+                "count": 7,
+                "pct": 5.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 8,
+                "pct": 5.7
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 3,
+                "pct": 2.1
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 1,
+                "pct": 0.7
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 141
+            }
+          }
+        ]
+      },
+      "Completed some high school": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 15,
+                "pct": 44.1
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 1,
+                "pct": 2.9
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 4,
+                "pct": 11.8
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 6,
+                "pct": 17.6
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 3,
+                "pct": 8.8
+              },
+              {
+                "answer": "Education",
+                "count": 1,
+                "pct": 2.9
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 1,
+                "pct": 2.9
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 1,
+                "pct": 2.9
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 2,
+                "pct": 5.9
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 34
+            }
+          }
+        ]
+      },
+      "Completed some postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "Education",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Doctorate /PhD": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 1,
+                "pct": 4.8
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 4,
+                "pct": 19.0
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 3,
+                "pct": 14.3
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 4,
+                "pct": 19.0
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 4,
+                "pct": 19.0
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Education",
+                "count": 3,
+                "pct": 14.3
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 1,
+                "pct": 4.8
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 1,
+                "pct": 4.8
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "Elementary School": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "High school graduate": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 110,
+                "pct": 36.7
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 28,
+                "pct": 9.3
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 38,
+                "pct": 12.7
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 31,
+                "pct": 10.3
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 17,
+                "pct": 5.7
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 31,
+                "pct": 10.3
+              },
+              {
+                "answer": "Education",
+                "count": 10,
+                "pct": 3.3
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 10,
+                "pct": 3.3
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 7,
+                "pct": 2.3
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 6,
+                "pct": 2.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 4,
+                "pct": 1.3
+              },
+              {
+                "answer": "Agriculture",
+                "count": 8,
+                "pct": 2.7
+              }
+            ],
+            "base": {
+              "n": 300
+            }
+          }
+        ]
+      },
+      "Masters degree": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 3,
+                "pct": 2.8
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 44,
+                "pct": 40.4
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 13,
+                "pct": 11.9
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 9,
+                "pct": 8.3
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 15,
+                "pct": 13.8
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 2,
+                "pct": 1.8
+              },
+              {
+                "answer": "Education",
+                "count": 12,
+                "pct": 11.0
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 6,
+                "pct": 5.5
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 5,
+                "pct": 4.6
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 109
+            }
+          }
+        ]
+      },
+      "Middle School": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "None of the above/Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Other post high school vocational training": {
+        "rows": [
+          {
+            "panel_id": "Q2: (Select the company’s industry, not your job function.)",
+            "cells": [
+              {
+                "answer": "Retail, Hospitality, Food, & Consumer Services",
+                "count": 13,
+                "pct": 44.8
+              },
+              {
+                "answer": "Technology (Software, IT, Internet companies)",
+                "count": 2,
+                "pct": 6.9
+              },
+              {
+                "answer": "Manufacturing, Engineering, & Construction",
+                "count": 4,
+                "pct": 13.8
+              },
+              {
+                "answer": "Healthcare & Social Assistance",
+                "count": 3,
+                "pct": 10.3
+              },
+              {
+                "answer": "Finance & Banking",
+                "count": 1,
+                "pct": 3.4
+              },
+              {
+                "answer": "Transportation, Warehousing, & Logistics",
+                "count": 2,
+                "pct": 6.9
+              },
+              {
+                "answer": "Education",
+                "count": 2,
+                "pct": 6.9
+              },
+              {
+                "answer": "Business & Professional Services (Consulting, Marketing, Accounting, Law, Real Estate)",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Government & Public Administration",
+                "count": 1,
+                "pct": 3.4
+              },
+              {
+                "answer": "Media, Entertainment, Arts",
+                "count": 1,
+                "pct": 3.4
+              },
+              {
+                "answer": "Energy & Utilities",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 5,
+    "single_panel": true
+  }
+}

@@ -1,0 +1,3633 @@
+{
+  "id": "Q18",
+  "text": "Q18",
+  "question_prompt": "Q18: Roughly how many jobs have you applied to since being laid off?",
+  "type": "matrix",
+  "panels": [
+    "Q18: Roughly how many jobs have you applied to since being laid off?"
+  ],
+  "answers": [
+    "1–49",
+    "50–149",
+    "150–300",
+    "I haven't started applying yet",
+    "301–500",
+    "More than 500"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+      "cells": [
+        {
+          "answer": "1–49",
+          "count": 543,
+          "pct": 54.3
+        },
+        {
+          "answer": "50–149",
+          "count": 246,
+          "pct": 24.6
+        },
+        {
+          "answer": "150–300",
+          "count": 99,
+          "pct": 9.9
+        },
+        {
+          "answer": "I haven't started applying yet",
+          "count": 53,
+          "pct": 5.3
+        },
+        {
+          "answer": "301–500",
+          "count": 37,
+          "pct": 3.7
+        },
+        {
+          "answer": "More than 500",
+          "count": 22,
+          "pct": 2.2
+        }
+      ],
+      "base": {
+        "n": 1000
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 1000
+    },
+    "answers": [
+      {
+        "answer": "1–49",
+        "count": 543,
+        "pct": 54.3
+      },
+      {
+        "answer": "50–149",
+        "count": 246,
+        "pct": 24.6
+      },
+      {
+        "answer": "150–300",
+        "count": 99,
+        "pct": 9.9
+      },
+      {
+        "answer": "I haven't started applying yet",
+        "count": 53,
+        "pct": 5.3
+      },
+      {
+        "answer": "301–500",
+        "count": 37,
+        "pct": 3.7
+      },
+      {
+        "answer": "More than 500",
+        "count": 22,
+        "pct": 2.2
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Baby Boomers": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 11,
+                "pct": 55.0
+              },
+              {
+                "answer": "50–149",
+                "count": 3,
+                "pct": 15.0
+              },
+              {
+                "answer": "150–300",
+                "count": 2,
+                "pct": 10.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 4,
+                "pct": 20.0
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 122,
+                "pct": 57.0
+              },
+              {
+                "answer": "50–149",
+                "count": 43,
+                "pct": 20.1
+              },
+              {
+                "answer": "150–300",
+                "count": 22,
+                "pct": 10.3
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 10,
+                "pct": 4.7
+              },
+              {
+                "answer": "301–500",
+                "count": 10,
+                "pct": 4.7
+              },
+              {
+                "answer": "More than 500",
+                "count": 7,
+                "pct": 3.3
+              }
+            ],
+            "base": {
+              "n": 214
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 147,
+                "pct": 56.5
+              },
+              {
+                "answer": "50–149",
+                "count": 75,
+                "pct": 28.8
+              },
+              {
+                "answer": "150–300",
+                "count": 20,
+                "pct": 7.7
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 8,
+                "pct": 3.1
+              },
+              {
+                "answer": "301–500",
+                "count": 5,
+                "pct": 1.9
+              },
+              {
+                "answer": "More than 500",
+                "count": 5,
+                "pct": 1.9
+              }
+            ],
+            "base": {
+              "n": 260
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 263,
+                "pct": 52.0
+              },
+              {
+                "answer": "50–149",
+                "count": 125,
+                "pct": 24.7
+              },
+              {
+                "answer": "150–300",
+                "count": 55,
+                "pct": 10.9
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 31,
+                "pct": 6.1
+              },
+              {
+                "answer": "301–500",
+                "count": 22,
+                "pct": 4.3
+              },
+              {
+                "answer": "More than 500",
+                "count": 10,
+                "pct": 2.0
+              }
+            ],
+            "base": {
+              "n": 506
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "Female": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 257,
+                "pct": 54.1
+              },
+              {
+                "answer": "50–149",
+                "count": 110,
+                "pct": 23.2
+              },
+              {
+                "answer": "150–300",
+                "count": 50,
+                "pct": 10.5
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 29,
+                "pct": 6.1
+              },
+              {
+                "answer": "301–500",
+                "count": 17,
+                "pct": 3.6
+              },
+              {
+                "answer": "More than 500",
+                "count": 12,
+                "pct": 2.5
+              }
+            ],
+            "base": {
+              "n": 475
+            }
+          }
+        ]
+      },
+      "Male": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 286,
+                "pct": 54.5
+              },
+              {
+                "answer": "50–149",
+                "count": 136,
+                "pct": 25.9
+              },
+              {
+                "answer": "150–300",
+                "count": 49,
+                "pct": 9.3
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 24,
+                "pct": 4.6
+              },
+              {
+                "answer": "301–500",
+                "count": 20,
+                "pct": 3.8
+              },
+              {
+                "answer": "More than 500",
+                "count": 10,
+                "pct": 1.9
+              }
+            ],
+            "base": {
+              "n": 525
+            }
+          }
+        ]
+      }
+    },
+    "Household income US": {
+      "$1 million +": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "$10,000 to $14,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 17,
+                "pct": 68.0
+              },
+              {
+                "answer": "50–149",
+                "count": 7,
+                "pct": 28.0
+              },
+              {
+                "answer": "150–300",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 1,
+                "pct": 4.0
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "$100,000 to $124,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 44,
+                "pct": 56.4
+              },
+              {
+                "answer": "50–149",
+                "count": 17,
+                "pct": 21.8
+              },
+              {
+                "answer": "150–300",
+                "count": 8,
+                "pct": 10.3
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 3,
+                "pct": 3.8
+              },
+              {
+                "answer": "301–500",
+                "count": 4,
+                "pct": 5.1
+              },
+              {
+                "answer": "More than 500",
+                "count": 2,
+                "pct": 2.6
+              }
+            ],
+            "base": {
+              "n": 78
+            }
+          }
+        ]
+      },
+      "$125,000 to $149,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 23,
+                "pct": 41.1
+              },
+              {
+                "answer": "50–149",
+                "count": 12,
+                "pct": 21.4
+              },
+              {
+                "answer": "150–300",
+                "count": 11,
+                "pct": 19.6
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 2,
+                "pct": 3.6
+              },
+              {
+                "answer": "301–500",
+                "count": 6,
+                "pct": 10.7
+              },
+              {
+                "answer": "More than 500",
+                "count": 2,
+                "pct": 3.6
+              }
+            ],
+            "base": {
+              "n": 56
+            }
+          }
+        ]
+      },
+      "$15,000 to $19,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 23,
+                "pct": 60.5
+              },
+              {
+                "answer": "50–149",
+                "count": 10,
+                "pct": 26.3
+              },
+              {
+                "answer": "150–300",
+                "count": 4,
+                "pct": 10.5
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 1,
+                "pct": 2.6
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "$150,000 to $174,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 9,
+                "pct": 30.0
+              },
+              {
+                "answer": "50–149",
+                "count": 14,
+                "pct": 46.7
+              },
+              {
+                "answer": "150–300",
+                "count": 3,
+                "pct": 10.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 2,
+                "pct": 6.7
+              },
+              {
+                "answer": "301–500",
+                "count": 2,
+                "pct": 6.7
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "$175,000 to $199,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 10,
+                "pct": 47.6
+              },
+              {
+                "answer": "50–149",
+                "count": 6,
+                "pct": 28.6
+              },
+              {
+                "answer": "150–300",
+                "count": 3,
+                "pct": 14.3
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "301–500",
+                "count": 1,
+                "pct": 4.8
+              },
+              {
+                "answer": "More than 500",
+                "count": 1,
+                "pct": 4.8
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "$20,000 to $24,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 24,
+                "pct": 49.0
+              },
+              {
+                "answer": "50–149",
+                "count": 16,
+                "pct": 32.7
+              },
+              {
+                "answer": "150–300",
+                "count": 5,
+                "pct": 10.2
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 3,
+                "pct": 6.1
+              },
+              {
+                "answer": "301–500",
+                "count": 1,
+                "pct": 2.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 49
+            }
+          }
+        ]
+      },
+      "$200,000 to $249,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 8,
+                "pct": 53.3
+              },
+              {
+                "answer": "50–149",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "150–300",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "301–500",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "More than 500",
+                "count": 2,
+                "pct": 13.3
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "$25,000 to $29,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 36,
+                "pct": 66.7
+              },
+              {
+                "answer": "50–149",
+                "count": 13,
+                "pct": 24.1
+              },
+              {
+                "answer": "150–300",
+                "count": 1,
+                "pct": 1.9
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 3,
+                "pct": 5.6
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 1,
+                "pct": 1.9
+              }
+            ],
+            "base": {
+              "n": 54
+            }
+          }
+        ]
+      },
+      "$250,000 to $499,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 4,
+                "pct": 28.6
+              },
+              {
+                "answer": "50–149",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "150–300",
+                "count": 4,
+                "pct": 28.6
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "301–500",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "$30,000 to $34,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 28,
+                "pct": 56.0
+              },
+              {
+                "answer": "50–149",
+                "count": 10,
+                "pct": 20.0
+              },
+              {
+                "answer": "150–300",
+                "count": 6,
+                "pct": 12.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 5,
+                "pct": 10.0
+              },
+              {
+                "answer": "301–500",
+                "count": 1,
+                "pct": 2.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 50
+            }
+          }
+        ]
+      },
+      "$35,000 to $39,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 18,
+                "pct": 54.5
+              },
+              {
+                "answer": "50–149",
+                "count": 6,
+                "pct": 18.2
+              },
+              {
+                "answer": "150–300",
+                "count": 3,
+                "pct": 9.1
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 2,
+                "pct": 6.1
+              },
+              {
+                "answer": "301–500",
+                "count": 2,
+                "pct": 6.1
+              },
+              {
+                "answer": "More than 500",
+                "count": 2,
+                "pct": 6.1
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          }
+        ]
+      },
+      "$40,000 to $44,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 25,
+                "pct": 64.1
+              },
+              {
+                "answer": "50–149",
+                "count": 11,
+                "pct": 28.2
+              },
+              {
+                "answer": "150–300",
+                "count": 2,
+                "pct": 5.1
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "301–500",
+                "count": 1,
+                "pct": 2.6
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 39
+            }
+          }
+        ]
+      },
+      "$45,000 to $49,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 16,
+                "pct": 44.4
+              },
+              {
+                "answer": "50–149",
+                "count": 10,
+                "pct": 27.8
+              },
+              {
+                "answer": "150–300",
+                "count": 3,
+                "pct": 8.3
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 5,
+                "pct": 13.9
+              },
+              {
+                "answer": "301–500",
+                "count": 1,
+                "pct": 2.8
+              },
+              {
+                "answer": "More than 500",
+                "count": 1,
+                "pct": 2.8
+              }
+            ],
+            "base": {
+              "n": 36
+            }
+          }
+        ]
+      },
+      "$5,000 to $9,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 25,
+                "pct": 65.8
+              },
+              {
+                "answer": "50–149",
+                "count": 8,
+                "pct": 21.1
+              },
+              {
+                "answer": "150–300",
+                "count": 2,
+                "pct": 5.3
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 2,
+                "pct": 5.3
+              },
+              {
+                "answer": "301–500",
+                "count": 1,
+                "pct": 2.6
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "$50,000 to $54,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 46,
+                "pct": 62.2
+              },
+              {
+                "answer": "50–149",
+                "count": 14,
+                "pct": 18.9
+              },
+              {
+                "answer": "150–300",
+                "count": 9,
+                "pct": 12.2
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 3,
+                "pct": 4.1
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 2,
+                "pct": 2.7
+              }
+            ],
+            "base": {
+              "n": 74
+            }
+          }
+        ]
+      },
+      "$500,000 to $999,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "$55,000 to $59,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 22,
+                "pct": 64.7
+              },
+              {
+                "answer": "50–149",
+                "count": 6,
+                "pct": 17.6
+              },
+              {
+                "answer": "150–300",
+                "count": 4,
+                "pct": 11.8
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "301–500",
+                "count": 2,
+                "pct": 5.9
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 34
+            }
+          }
+        ]
+      },
+      "$60,000 to $64,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 14,
+                "pct": 45.2
+              },
+              {
+                "answer": "50–149",
+                "count": 12,
+                "pct": 38.7
+              },
+              {
+                "answer": "150–300",
+                "count": 2,
+                "pct": 6.5
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 2,
+                "pct": 6.5
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 1,
+                "pct": 3.2
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          }
+        ]
+      },
+      "$65,000 to $69,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 12,
+                "pct": 48.0
+              },
+              {
+                "answer": "50–149",
+                "count": 6,
+                "pct": 24.0
+              },
+              {
+                "answer": "150–300",
+                "count": 5,
+                "pct": 20.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 1,
+                "pct": 4.0
+              },
+              {
+                "answer": "301–500",
+                "count": 1,
+                "pct": 4.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "$70,000 to $74,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 25,
+                "pct": 58.1
+              },
+              {
+                "answer": "50–149",
+                "count": 9,
+                "pct": 20.9
+              },
+              {
+                "answer": "150–300",
+                "count": 3,
+                "pct": 7.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 4,
+                "pct": 9.3
+              },
+              {
+                "answer": "301–500",
+                "count": 1,
+                "pct": 2.3
+              },
+              {
+                "answer": "More than 500",
+                "count": 1,
+                "pct": 2.3
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "$75,000 to $79,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 20,
+                "pct": 42.6
+              },
+              {
+                "answer": "50–149",
+                "count": 15,
+                "pct": 31.9
+              },
+              {
+                "answer": "150–300",
+                "count": 6,
+                "pct": 12.8
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 3,
+                "pct": 6.4
+              },
+              {
+                "answer": "301–500",
+                "count": 2,
+                "pct": 4.3
+              },
+              {
+                "answer": "More than 500",
+                "count": 1,
+                "pct": 2.1
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          }
+        ]
+      },
+      "$80,000 to $84,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 8,
+                "pct": 47.1
+              },
+              {
+                "answer": "50–149",
+                "count": 5,
+                "pct": 29.4
+              },
+              {
+                "answer": "150–300",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "301–500",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "More than 500",
+                "count": 1,
+                "pct": 5.9
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "$85,000 to $89,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 12,
+                "pct": 80.0
+              },
+              {
+                "answer": "50–149",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "150–300",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "$90,000 to $94,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 12,
+                "pct": 63.2
+              },
+              {
+                "answer": "50–149",
+                "count": 3,
+                "pct": 15.8
+              },
+              {
+                "answer": "150–300",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "301–500",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "$95,000 to $99,999": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 14,
+                "pct": 46.7
+              },
+              {
+                "answer": "50–149",
+                "count": 8,
+                "pct": 26.7
+              },
+              {
+                "answer": "150–300",
+                "count": 4,
+                "pct": 13.3
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 1,
+                "pct": 3.3
+              },
+              {
+                "answer": "301–500",
+                "count": 1,
+                "pct": 3.3
+              },
+              {
+                "answer": "More than 500",
+                "count": 2,
+                "pct": 6.7
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "Less than $5,000": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 39,
+                "pct": 51.3
+              },
+              {
+                "answer": "50–149",
+                "count": 17,
+                "pct": 22.4
+              },
+              {
+                "answer": "150–300",
+                "count": 7,
+                "pct": 9.2
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 8,
+                "pct": 10.5
+              },
+              {
+                "answer": "301–500",
+                "count": 3,
+                "pct": 3.9
+              },
+              {
+                "answer": "More than 500",
+                "count": 2,
+                "pct": 2.6
+              }
+            ],
+            "base": {
+              "n": 76
+            }
+          }
+        ]
+      },
+      "Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 7,
+                "pct": 77.8
+              },
+              {
+                "answer": "50–149",
+                "count": 2,
+                "pct": 22.2
+              },
+              {
+                "answer": "150–300",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      }
+    },
+    "US State": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 10,
+                "pct": 62.5
+              },
+              {
+                "answer": "50–149",
+                "count": 3,
+                "pct": 18.8
+              },
+              {
+                "answer": "150–300",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "301–500",
+                "count": 2,
+                "pct": 12.5
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Alaska": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 11,
+                "pct": 37.9
+              },
+              {
+                "answer": "50–149",
+                "count": 11,
+                "pct": 37.9
+              },
+              {
+                "answer": "150–300",
+                "count": 3,
+                "pct": 10.3
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 1,
+                "pct": 3.4
+              },
+              {
+                "answer": "301–500",
+                "count": 2,
+                "pct": 6.9
+              },
+              {
+                "answer": "More than 500",
+                "count": 1,
+                "pct": 3.4
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 6,
+                "pct": 75.0
+              },
+              {
+                "answer": "50–149",
+                "count": 2,
+                "pct": 25.0
+              },
+              {
+                "answer": "150–300",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 60,
+                "pct": 46.5
+              },
+              {
+                "answer": "50–149",
+                "count": 38,
+                "pct": 29.5
+              },
+              {
+                "answer": "150–300",
+                "count": 14,
+                "pct": 10.9
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 8,
+                "pct": 6.2
+              },
+              {
+                "answer": "301–500",
+                "count": 3,
+                "pct": 2.3
+              },
+              {
+                "answer": "More than 500",
+                "count": 6,
+                "pct": 4.7
+              }
+            ],
+            "base": {
+              "n": 129
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 11,
+                "pct": 64.7
+              },
+              {
+                "answer": "50–149",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "150–300",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 6,
+                "pct": 46.2
+              },
+              {
+                "answer": "50–149",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "150–300",
+                "count": 5,
+                "pct": 38.5
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 36,
+                "pct": 55.4
+              },
+              {
+                "answer": "50–149",
+                "count": 10,
+                "pct": 15.4
+              },
+              {
+                "answer": "150–300",
+                "count": 10,
+                "pct": 15.4
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 3,
+                "pct": 4.6
+              },
+              {
+                "answer": "301–500",
+                "count": 4,
+                "pct": 6.2
+              },
+              {
+                "answer": "More than 500",
+                "count": 2,
+                "pct": 3.1
+              }
+            ],
+            "base": {
+              "n": 65
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 24,
+                "pct": 63.2
+              },
+              {
+                "answer": "50–149",
+                "count": 7,
+                "pct": 18.4
+              },
+              {
+                "answer": "150–300",
+                "count": 5,
+                "pct": 13.2
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 2,
+                "pct": 5.3
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 4,
+                "pct": 57.1
+              },
+              {
+                "answer": "50–149",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "150–300",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "301–500",
+                "count": 1,
+                "pct": 14.3
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 17,
+                "pct": 51.5
+              },
+              {
+                "answer": "50–149",
+                "count": 9,
+                "pct": 27.3
+              },
+              {
+                "answer": "150–300",
+                "count": 4,
+                "pct": 12.1
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 1,
+                "pct": 3.0
+              },
+              {
+                "answer": "301–500",
+                "count": 2,
+                "pct": 6.1
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 8,
+                "pct": 53.3
+              },
+              {
+                "answer": "50–149",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "150–300",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "301–500",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "More than 500",
+                "count": 2,
+                "pct": 13.3
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 7,
+                "pct": 87.5
+              },
+              {
+                "answer": "50–149",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "150–300",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 12,
+                "pct": 70.6
+              },
+              {
+                "answer": "50–149",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "150–300",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 1,
+                "pct": 5.9
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 8,
+                "pct": 50.0
+              },
+              {
+                "answer": "50–149",
+                "count": 5,
+                "pct": 31.2
+              },
+              {
+                "answer": "150–300",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "301–500",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "More than 500",
+                "count": 2,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 9,
+                "pct": 56.2
+              },
+              {
+                "answer": "50–149",
+                "count": 4,
+                "pct": 25.0
+              },
+              {
+                "answer": "150–300",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "301–500",
+                "count": 2,
+                "pct": 12.5
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "50–149",
+                "count": 6,
+                "pct": 40.0
+              },
+              {
+                "answer": "150–300",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 12,
+                "pct": 50.0
+              },
+              {
+                "answer": "50–149",
+                "count": 7,
+                "pct": 29.2
+              },
+              {
+                "answer": "150–300",
+                "count": 3,
+                "pct": 12.5
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 1,
+                "pct": 4.2
+              },
+              {
+                "answer": "301–500",
+                "count": 1,
+                "pct": 4.2
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 8,
+                "pct": 66.7
+              },
+              {
+                "answer": "50–149",
+                "count": 1,
+                "pct": 8.3
+              },
+              {
+                "answer": "150–300",
+                "count": 1,
+                "pct": 8.3
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 1,
+                "pct": 8.3
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 1,
+                "pct": 8.3
+              }
+            ],
+            "base": {
+              "n": 12
+            }
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 6,
+                "pct": 75.0
+              },
+              {
+                "answer": "50–149",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "150–300",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "301–500",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 9,
+                "pct": 47.4
+              },
+              {
+                "answer": "50–149",
+                "count": 7,
+                "pct": 36.8
+              },
+              {
+                "answer": "150–300",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "301–500",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 5,
+                "pct": 62.5
+              },
+              {
+                "answer": "50–149",
+                "count": 2,
+                "pct": 25.0
+              },
+              {
+                "answer": "150–300",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "50–149",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "150–300",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "301–500",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 14,
+                "pct": 46.7
+              },
+              {
+                "answer": "50–149",
+                "count": 10,
+                "pct": 33.3
+              },
+              {
+                "answer": "150–300",
+                "count": 2,
+                "pct": 6.7
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 3,
+                "pct": 10.0
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 1,
+                "pct": 3.3
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 28,
+                "pct": 39.4
+              },
+              {
+                "answer": "50–149",
+                "count": 24,
+                "pct": 33.8
+              },
+              {
+                "answer": "150–300",
+                "count": 8,
+                "pct": 11.3
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 5,
+                "pct": 7.0
+              },
+              {
+                "answer": "301–500",
+                "count": 5,
+                "pct": 7.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 1,
+                "pct": 1.4
+              }
+            ],
+            "base": {
+              "n": 71
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 27,
+                "pct": 67.5
+              },
+              {
+                "answer": "50–149",
+                "count": 8,
+                "pct": 20.0
+              },
+              {
+                "answer": "150–300",
+                "count": 1,
+                "pct": 2.5
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 1,
+                "pct": 2.5
+              },
+              {
+                "answer": "301–500",
+                "count": 2,
+                "pct": 5.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 1,
+                "pct": 2.5
+              }
+            ],
+            "base": {
+              "n": 40
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 15,
+                "pct": 50.0
+              },
+              {
+                "answer": "50–149",
+                "count": 7,
+                "pct": 23.3
+              },
+              {
+                "answer": "150–300",
+                "count": 2,
+                "pct": 6.7
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 4,
+                "pct": 13.3
+              },
+              {
+                "answer": "301–500",
+                "count": 1,
+                "pct": 3.3
+              },
+              {
+                "answer": "More than 500",
+                "count": 1,
+                "pct": 3.3
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 5,
+                "pct": 71.4
+              },
+              {
+                "answer": "50–149",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "150–300",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 9,
+                "pct": 60.0
+              },
+              {
+                "answer": "50–149",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "150–300",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "301–500",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "More than 500",
+                "count": 1,
+                "pct": 6.7
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 26,
+                "pct": 60.5
+              },
+              {
+                "answer": "50–149",
+                "count": 14,
+                "pct": 32.6
+              },
+              {
+                "answer": "150–300",
+                "count": 3,
+                "pct": 7.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 9,
+                "pct": 60.0
+              },
+              {
+                "answer": "50–149",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "150–300",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "301–500",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "South Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 11,
+                "pct": 73.3
+              },
+              {
+                "answer": "50–149",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "150–300",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "301–500",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 61,
+                "pct": 56.0
+              },
+              {
+                "answer": "50–149",
+                "count": 20,
+                "pct": 18.3
+              },
+              {
+                "answer": "150–300",
+                "count": 14,
+                "pct": 12.8
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 8,
+                "pct": 7.3
+              },
+              {
+                "answer": "301–500",
+                "count": 4,
+                "pct": 3.7
+              },
+              {
+                "answer": "More than 500",
+                "count": 2,
+                "pct": 1.8
+              }
+            ],
+            "base": {
+              "n": 109
+            }
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 4,
+                "pct": 66.7
+              },
+              {
+                "answer": "50–149",
+                "count": 2,
+                "pct": 33.3
+              },
+              {
+                "answer": "150–300",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 12,
+                "pct": 42.9
+              },
+              {
+                "answer": "50–149",
+                "count": 9,
+                "pct": 32.1
+              },
+              {
+                "answer": "150–300",
+                "count": 4,
+                "pct": 14.3
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 3,
+                "pct": 10.7
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 14,
+                "pct": 82.4
+              },
+              {
+                "answer": "50–149",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "150–300",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 6,
+                "pct": 75.0
+              },
+              {
+                "answer": "50–149",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "150–300",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 11,
+                "pct": 68.8
+              },
+              {
+                "answer": "50–149",
+                "count": 4,
+                "pct": 25.0
+              },
+              {
+                "answer": "150–300",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Wyoming": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Education Level": {
+      "Associates Degree": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 57,
+                "pct": 48.3
+              },
+              {
+                "answer": "50–149",
+                "count": 30,
+                "pct": 25.4
+              },
+              {
+                "answer": "150–300",
+                "count": 10,
+                "pct": 8.5
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 12,
+                "pct": 10.2
+              },
+              {
+                "answer": "301–500",
+                "count": 7,
+                "pct": 5.9
+              },
+              {
+                "answer": "More than 500",
+                "count": 2,
+                "pct": 1.7
+              }
+            ],
+            "base": {
+              "n": 118
+            }
+          }
+        ]
+      },
+      "Bachelor's degree": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 112,
+                "pct": 49.3
+              },
+              {
+                "answer": "50–149",
+                "count": 69,
+                "pct": 30.4
+              },
+              {
+                "answer": "150–300",
+                "count": 23,
+                "pct": 10.1
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 5,
+                "pct": 2.2
+              },
+              {
+                "answer": "301–500",
+                "count": 8,
+                "pct": 3.5
+              },
+              {
+                "answer": "More than 500",
+                "count": 10,
+                "pct": 4.4
+              }
+            ],
+            "base": {
+              "n": 227
+            }
+          }
+        ]
+      },
+      "Completed some college": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 90,
+                "pct": 63.8
+              },
+              {
+                "answer": "50–149",
+                "count": 23,
+                "pct": 16.3
+              },
+              {
+                "answer": "150–300",
+                "count": 15,
+                "pct": 10.6
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 8,
+                "pct": 5.7
+              },
+              {
+                "answer": "301–500",
+                "count": 4,
+                "pct": 2.8
+              },
+              {
+                "answer": "More than 500",
+                "count": 1,
+                "pct": 0.7
+              }
+            ],
+            "base": {
+              "n": 141
+            }
+          }
+        ]
+      },
+      "Completed some high school": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 25,
+                "pct": 73.5
+              },
+              {
+                "answer": "50–149",
+                "count": 9,
+                "pct": 26.5
+              },
+              {
+                "answer": "150–300",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 34
+            }
+          }
+        ]
+      },
+      "Completed some postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 10,
+                "pct": 58.8
+              },
+              {
+                "answer": "50–149",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "150–300",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "301–500",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Doctorate /PhD": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 10,
+                "pct": 47.6
+              },
+              {
+                "answer": "50–149",
+                "count": 9,
+                "pct": 42.9
+              },
+              {
+                "answer": "150–300",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "301–500",
+                "count": 2,
+                "pct": 9.5
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "Elementary School": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "High school graduate": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 178,
+                "pct": 59.3
+              },
+              {
+                "answer": "50–149",
+                "count": 65,
+                "pct": 21.7
+              },
+              {
+                "answer": "150–300",
+                "count": 27,
+                "pct": 9.0
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 21,
+                "pct": 7.0
+              },
+              {
+                "answer": "301–500",
+                "count": 5,
+                "pct": 1.7
+              },
+              {
+                "answer": "More than 500",
+                "count": 4,
+                "pct": 1.3
+              }
+            ],
+            "base": {
+              "n": 300
+            }
+          }
+        ]
+      },
+      "Masters degree": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 45,
+                "pct": 41.3
+              },
+              {
+                "answer": "50–149",
+                "count": 31,
+                "pct": 28.4
+              },
+              {
+                "answer": "150–300",
+                "count": 16,
+                "pct": 14.7
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 3,
+                "pct": 2.8
+              },
+              {
+                "answer": "301–500",
+                "count": 9,
+                "pct": 8.3
+              },
+              {
+                "answer": "More than 500",
+                "count": 5,
+                "pct": 4.6
+              }
+            ],
+            "base": {
+              "n": 109
+            }
+          }
+        ]
+      },
+      "Middle School": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "None of the above/Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Other post high school vocational training": {
+        "rows": [
+          {
+            "panel_id": "Q18: Roughly how many jobs have you applied to since being laid off?",
+            "cells": [
+              {
+                "answer": "1–49",
+                "count": 14,
+                "pct": 48.3
+              },
+              {
+                "answer": "50–149",
+                "count": 5,
+                "pct": 17.2
+              },
+              {
+                "answer": "150–300",
+                "count": 7,
+                "pct": 24.1
+              },
+              {
+                "answer": "I haven't started applying yet",
+                "count": 3,
+                "pct": 10.3
+              },
+              {
+                "answer": "301–500",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 500",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 5,
+    "single_panel": true
+  }
+}

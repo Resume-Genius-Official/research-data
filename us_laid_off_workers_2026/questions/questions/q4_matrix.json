@@ -1,0 +1,4004 @@
+{
+  "id": "Q4",
+  "text": "Q4",
+  "question_prompt": "Q4: When did you receive the warning before the layoff?",
+  "type": "matrix",
+  "panels": [
+    "Q4: When did you receive the warning before the layoff?"
+  ],
+  "answers": [
+    "2–4 weeks",
+    "1–3 months",
+    "(Missing)",
+    "About 1 week",
+    "More than 3 months",
+    "Less than 24 hours",
+    "1–2 days"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q4: When did you receive the warning before the layoff?",
+      "cells": [
+        {
+          "answer": "2–4 weeks",
+          "count": 249,
+          "pct": 32.5
+        },
+        {
+          "answer": "1–3 months",
+          "count": 236,
+          "pct": 30.8
+        },
+        {
+          "answer": "(Missing)",
+          "count": 233,
+          "pct": 30.4
+        },
+        {
+          "answer": "About 1 week",
+          "count": 98,
+          "pct": 12.8
+        },
+        {
+          "answer": "More than 3 months",
+          "count": 87,
+          "pct": 11.3
+        },
+        {
+          "answer": "Less than 24 hours",
+          "count": 53,
+          "pct": 6.9
+        },
+        {
+          "answer": "1–2 days",
+          "count": 44,
+          "pct": 5.7
+        }
+      ],
+      "base": {
+        "n": 767
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 767
+    },
+    "answers": [
+      {
+        "answer": "2–4 weeks",
+        "count": 249,
+        "pct": 32.5
+      },
+      {
+        "answer": "1–3 months",
+        "count": 236,
+        "pct": 30.8
+      },
+      {
+        "answer": "(Missing)",
+        "count": 233,
+        "pct": 30.4
+      },
+      {
+        "answer": "About 1 week",
+        "count": 98,
+        "pct": 12.8
+      },
+      {
+        "answer": "More than 3 months",
+        "count": 87,
+        "pct": 11.3
+      },
+      {
+        "answer": "Less than 24 hours",
+        "count": 53,
+        "pct": 6.9
+      },
+      {
+        "answer": "1–2 days",
+        "count": 44,
+        "pct": 5.7
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Baby Boomers": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "1–3 months",
+                "count": 6,
+                "pct": 40.0
+              },
+              {
+                "answer": "(Missing)",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "About 1 week",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "1–2 days",
+                "count": 3,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 59,
+                "pct": 37.1
+              },
+              {
+                "answer": "1–3 months",
+                "count": 49,
+                "pct": 30.8
+              },
+              {
+                "answer": "(Missing)",
+                "count": 55,
+                "pct": 34.6
+              },
+              {
+                "answer": "About 1 week",
+                "count": 19,
+                "pct": 11.9
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 20,
+                "pct": 12.6
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 9,
+                "pct": 5.7
+              },
+              {
+                "answer": "1–2 days",
+                "count": 3,
+                "pct": 1.9
+              }
+            ],
+            "base": {
+              "n": 159
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 62,
+                "pct": 29.2
+              },
+              {
+                "answer": "1–3 months",
+                "count": 60,
+                "pct": 28.3
+              },
+              {
+                "answer": "(Missing)",
+                "count": 48,
+                "pct": 22.6
+              },
+              {
+                "answer": "About 1 week",
+                "count": 27,
+                "pct": 12.7
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 28,
+                "pct": 13.2
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 18,
+                "pct": 8.5
+              },
+              {
+                "answer": "1–2 days",
+                "count": 17,
+                "pct": 8.0
+              }
+            ],
+            "base": {
+              "n": 212
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 126,
+                "pct": 33.1
+              },
+              {
+                "answer": "1–3 months",
+                "count": 121,
+                "pct": 31.8
+              },
+              {
+                "answer": "(Missing)",
+                "count": 125,
+                "pct": 32.8
+              },
+              {
+                "answer": "About 1 week",
+                "count": 52,
+                "pct": 13.6
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 36,
+                "pct": 9.4
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 25,
+                "pct": 6.6
+              },
+              {
+                "answer": "1–2 days",
+                "count": 21,
+                "pct": 5.5
+              }
+            ],
+            "base": {
+              "n": 381
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "Female": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 99,
+                "pct": 28.6
+              },
+              {
+                "answer": "1–3 months",
+                "count": 120,
+                "pct": 34.7
+              },
+              {
+                "answer": "(Missing)",
+                "count": 129,
+                "pct": 37.3
+              },
+              {
+                "answer": "About 1 week",
+                "count": 37,
+                "pct": 10.7
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 42,
+                "pct": 12.1
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 28,
+                "pct": 8.1
+              },
+              {
+                "answer": "1–2 days",
+                "count": 20,
+                "pct": 5.8
+              }
+            ],
+            "base": {
+              "n": 346
+            }
+          }
+        ]
+      },
+      "Male": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 150,
+                "pct": 35.6
+              },
+              {
+                "answer": "1–3 months",
+                "count": 116,
+                "pct": 27.6
+              },
+              {
+                "answer": "(Missing)",
+                "count": 104,
+                "pct": 24.7
+              },
+              {
+                "answer": "About 1 week",
+                "count": 61,
+                "pct": 14.5
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 45,
+                "pct": 10.7
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 25,
+                "pct": 5.9
+              },
+              {
+                "answer": "1–2 days",
+                "count": 24,
+                "pct": 5.7
+              }
+            ],
+            "base": {
+              "n": 421
+            }
+          }
+        ]
+      }
+    },
+    "Household income US": {
+      "$1 million +": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "$10,000 to $14,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "1–3 months",
+                "count": 5,
+                "pct": 38.5
+              },
+              {
+                "answer": "(Missing)",
+                "count": 12,
+                "pct": 92.3
+              },
+              {
+                "answer": "About 1 week",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 1,
+                "pct": 7.7
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 1,
+                "pct": 7.7
+              },
+              {
+                "answer": "1–2 days",
+                "count": 2,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "$100,000 to $124,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 26,
+                "pct": 39.4
+              },
+              {
+                "answer": "1–3 months",
+                "count": 21,
+                "pct": 31.8
+              },
+              {
+                "answer": "(Missing)",
+                "count": 12,
+                "pct": 18.2
+              },
+              {
+                "answer": "About 1 week",
+                "count": 7,
+                "pct": 10.6
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 8,
+                "pct": 12.1
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 1,
+                "pct": 1.5
+              },
+              {
+                "answer": "1–2 days",
+                "count": 3,
+                "pct": 4.5
+              }
+            ],
+            "base": {
+              "n": 66
+            }
+          }
+        ]
+      },
+      "$125,000 to $149,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 22,
+                "pct": 44.0
+              },
+              {
+                "answer": "1–3 months",
+                "count": 15,
+                "pct": 30.0
+              },
+              {
+                "answer": "(Missing)",
+                "count": 6,
+                "pct": 12.0
+              },
+              {
+                "answer": "About 1 week",
+                "count": 5,
+                "pct": 10.0
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 7,
+                "pct": 14.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 1,
+                "pct": 2.0
+              },
+              {
+                "answer": "1–2 days",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 50
+            }
+          }
+        ]
+      },
+      "$15,000 to $19,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 6,
+                "pct": 20.7
+              },
+              {
+                "answer": "1–3 months",
+                "count": 9,
+                "pct": 31.0
+              },
+              {
+                "answer": "(Missing)",
+                "count": 9,
+                "pct": 31.0
+              },
+              {
+                "answer": "About 1 week",
+                "count": 7,
+                "pct": 24.1
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 5,
+                "pct": 17.2
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "1–2 days",
+                "count": 2,
+                "pct": 6.9
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          }
+        ]
+      },
+      "$150,000 to $174,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 7,
+                "pct": 25.0
+              },
+              {
+                "answer": "1–3 months",
+                "count": 9,
+                "pct": 32.1
+              },
+              {
+                "answer": "(Missing)",
+                "count": 2,
+                "pct": 7.1
+              },
+              {
+                "answer": "About 1 week",
+                "count": 3,
+                "pct": 10.7
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 3,
+                "pct": 10.7
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 2,
+                "pct": 7.1
+              },
+              {
+                "answer": "1–2 days",
+                "count": 4,
+                "pct": 14.3
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "$175,000 to $199,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 9,
+                "pct": 47.4
+              },
+              {
+                "answer": "1–3 months",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "(Missing)",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "About 1 week",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 3,
+                "pct": 15.8
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "1–2 days",
+                "count": 1,
+                "pct": 5.3
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "$20,000 to $24,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 12,
+                "pct": 29.3
+              },
+              {
+                "answer": "1–3 months",
+                "count": 15,
+                "pct": 36.6
+              },
+              {
+                "answer": "(Missing)",
+                "count": 8,
+                "pct": 19.5
+              },
+              {
+                "answer": "About 1 week",
+                "count": 7,
+                "pct": 17.1
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 3,
+                "pct": 7.3
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 2,
+                "pct": 4.9
+              },
+              {
+                "answer": "1–2 days",
+                "count": 2,
+                "pct": 4.9
+              }
+            ],
+            "base": {
+              "n": 41
+            }
+          }
+        ]
+      },
+      "$200,000 to $249,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "1–3 months",
+                "count": 2,
+                "pct": 20.0
+              },
+              {
+                "answer": "(Missing)",
+                "count": 5,
+                "pct": 50.0
+              },
+              {
+                "answer": "About 1 week",
+                "count": 4,
+                "pct": 40.0
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "1–2 days",
+                "count": 1,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "$25,000 to $29,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 8,
+                "pct": 21.6
+              },
+              {
+                "answer": "1–3 months",
+                "count": 12,
+                "pct": 32.4
+              },
+              {
+                "answer": "(Missing)",
+                "count": 17,
+                "pct": 45.9
+              },
+              {
+                "answer": "About 1 week",
+                "count": 5,
+                "pct": 13.5
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 3,
+                "pct": 8.1
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 4,
+                "pct": 10.8
+              },
+              {
+                "answer": "1–2 days",
+                "count": 5,
+                "pct": 13.5
+              }
+            ],
+            "base": {
+              "n": 37
+            }
+          }
+        ]
+      },
+      "$250,000 to $499,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 3,
+                "pct": 25.0
+              },
+              {
+                "answer": "1–3 months",
+                "count": 5,
+                "pct": 41.7
+              },
+              {
+                "answer": "(Missing)",
+                "count": 2,
+                "pct": 16.7
+              },
+              {
+                "answer": "About 1 week",
+                "count": 1,
+                "pct": 8.3
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 2,
+                "pct": 16.7
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 1,
+                "pct": 8.3
+              },
+              {
+                "answer": "1–2 days",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 12
+            }
+          }
+        ]
+      },
+      "$30,000 to $34,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 11,
+                "pct": 36.7
+              },
+              {
+                "answer": "1–3 months",
+                "count": 11,
+                "pct": 36.7
+              },
+              {
+                "answer": "(Missing)",
+                "count": 20,
+                "pct": 66.7
+              },
+              {
+                "answer": "About 1 week",
+                "count": 3,
+                "pct": 10.0
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 1,
+                "pct": 3.3
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 1,
+                "pct": 3.3
+              },
+              {
+                "answer": "1–2 days",
+                "count": 3,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "$35,000 to $39,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 5,
+                "pct": 19.2
+              },
+              {
+                "answer": "1–3 months",
+                "count": 8,
+                "pct": 30.8
+              },
+              {
+                "answer": "(Missing)",
+                "count": 7,
+                "pct": 26.9
+              },
+              {
+                "answer": "About 1 week",
+                "count": 7,
+                "pct": 26.9
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 2,
+                "pct": 7.7
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 2,
+                "pct": 7.7
+              },
+              {
+                "answer": "1–2 days",
+                "count": 2,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 26
+            }
+          }
+        ]
+      },
+      "$40,000 to $44,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 8,
+                "pct": 26.7
+              },
+              {
+                "answer": "1–3 months",
+                "count": 8,
+                "pct": 26.7
+              },
+              {
+                "answer": "(Missing)",
+                "count": 9,
+                "pct": 30.0
+              },
+              {
+                "answer": "About 1 week",
+                "count": 6,
+                "pct": 20.0
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 4,
+                "pct": 13.3
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 3,
+                "pct": 10.0
+              },
+              {
+                "answer": "1–2 days",
+                "count": 1,
+                "pct": 3.3
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "$45,000 to $49,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 12,
+                "pct": 38.7
+              },
+              {
+                "answer": "1–3 months",
+                "count": 11,
+                "pct": 35.5
+              },
+              {
+                "answer": "(Missing)",
+                "count": 5,
+                "pct": 16.1
+              },
+              {
+                "answer": "About 1 week",
+                "count": 3,
+                "pct": 9.7
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 3,
+                "pct": 9.7
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 1,
+                "pct": 3.2
+              },
+              {
+                "answer": "1–2 days",
+                "count": 1,
+                "pct": 3.2
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          }
+        ]
+      },
+      "$5,000 to $9,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 9,
+                "pct": 29.0
+              },
+              {
+                "answer": "1–3 months",
+                "count": 6,
+                "pct": 19.4
+              },
+              {
+                "answer": "(Missing)",
+                "count": 7,
+                "pct": 22.6
+              },
+              {
+                "answer": "About 1 week",
+                "count": 4,
+                "pct": 12.9
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 5,
+                "pct": 16.1
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 6,
+                "pct": 19.4
+              },
+              {
+                "answer": "1–2 days",
+                "count": 1,
+                "pct": 3.2
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          }
+        ]
+      },
+      "$50,000 to $54,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 21,
+                "pct": 43.8
+              },
+              {
+                "answer": "1–3 months",
+                "count": 11,
+                "pct": 22.9
+              },
+              {
+                "answer": "(Missing)",
+                "count": 26,
+                "pct": 54.2
+              },
+              {
+                "answer": "About 1 week",
+                "count": 2,
+                "pct": 4.2
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 6,
+                "pct": 12.5
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 6,
+                "pct": 12.5
+              },
+              {
+                "answer": "1–2 days",
+                "count": 2,
+                "pct": 4.2
+              }
+            ],
+            "base": {
+              "n": 48
+            }
+          }
+        ]
+      },
+      "$500,000 to $999,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "$55,000 to $59,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 12,
+                "pct": 50.0
+              },
+              {
+                "answer": "1–3 months",
+                "count": 5,
+                "pct": 20.8
+              },
+              {
+                "answer": "(Missing)",
+                "count": 10,
+                "pct": 41.7
+              },
+              {
+                "answer": "About 1 week",
+                "count": 4,
+                "pct": 16.7
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 2,
+                "pct": 8.3
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "1–2 days",
+                "count": 1,
+                "pct": 4.2
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "$60,000 to $64,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 11,
+                "pct": 39.3
+              },
+              {
+                "answer": "1–3 months",
+                "count": 6,
+                "pct": 21.4
+              },
+              {
+                "answer": "(Missing)",
+                "count": 3,
+                "pct": 10.7
+              },
+              {
+                "answer": "About 1 week",
+                "count": 3,
+                "pct": 10.7
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 4,
+                "pct": 14.3
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 4,
+                "pct": 14.3
+              },
+              {
+                "answer": "1–2 days",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "$65,000 to $69,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 7,
+                "pct": 41.2
+              },
+              {
+                "answer": "1–3 months",
+                "count": 7,
+                "pct": 41.2
+              },
+              {
+                "answer": "(Missing)",
+                "count": 8,
+                "pct": 47.1
+              },
+              {
+                "answer": "About 1 week",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 1,
+                "pct": 5.9
+              },
+              {
+                "answer": "1–2 days",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "$70,000 to $74,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 8,
+                "pct": 27.6
+              },
+              {
+                "answer": "1–3 months",
+                "count": 11,
+                "pct": 37.9
+              },
+              {
+                "answer": "(Missing)",
+                "count": 14,
+                "pct": 48.3
+              },
+              {
+                "answer": "About 1 week",
+                "count": 7,
+                "pct": 24.1
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 1,
+                "pct": 3.4
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 2,
+                "pct": 6.9
+              },
+              {
+                "answer": "1–2 days",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          }
+        ]
+      },
+      "$75,000 to $79,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 8,
+                "pct": 18.6
+              },
+              {
+                "answer": "1–3 months",
+                "count": 18,
+                "pct": 41.9
+              },
+              {
+                "answer": "(Missing)",
+                "count": 4,
+                "pct": 9.3
+              },
+              {
+                "answer": "About 1 week",
+                "count": 8,
+                "pct": 18.6
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 3,
+                "pct": 7.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 2,
+                "pct": 4.7
+              },
+              {
+                "answer": "1–2 days",
+                "count": 4,
+                "pct": 9.3
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "$80,000 to $84,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 6,
+                "pct": 37.5
+              },
+              {
+                "answer": "1–3 months",
+                "count": 5,
+                "pct": 31.2
+              },
+              {
+                "answer": "(Missing)",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "About 1 week",
+                "count": 3,
+                "pct": 18.8
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "1–2 days",
+                "count": 2,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "$85,000 to $89,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "1–3 months",
+                "count": 2,
+                "pct": 25.0
+              },
+              {
+                "answer": "(Missing)",
+                "count": 7,
+                "pct": 87.5
+              },
+              {
+                "answer": "About 1 week",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "1–2 days",
+                "count": 2,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "$90,000 to $94,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "1–3 months",
+                "count": 6,
+                "pct": 40.0
+              },
+              {
+                "answer": "(Missing)",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "About 1 week",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "1–2 days",
+                "count": 1,
+                "pct": 6.7
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "$95,000 to $99,999": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 8,
+                "pct": 34.8
+              },
+              {
+                "answer": "1–3 months",
+                "count": 7,
+                "pct": 30.4
+              },
+              {
+                "answer": "(Missing)",
+                "count": 7,
+                "pct": 30.4
+              },
+              {
+                "answer": "About 1 week",
+                "count": 2,
+                "pct": 8.7
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 3,
+                "pct": 13.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 3,
+                "pct": 13.0
+              },
+              {
+                "answer": "1–2 days",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 23
+            }
+          }
+        ]
+      },
+      "Less than $5,000": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 15,
+                "pct": 29.4
+              },
+              {
+                "answer": "1–3 months",
+                "count": 17,
+                "pct": 33.3
+              },
+              {
+                "answer": "(Missing)",
+                "count": 25,
+                "pct": 49.0
+              },
+              {
+                "answer": "About 1 week",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 9,
+                "pct": 17.6
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 6,
+                "pct": 11.8
+              },
+              {
+                "answer": "1–2 days",
+                "count": 4,
+                "pct": 7.8
+              }
+            ],
+            "base": {
+              "n": 51
+            }
+          }
+        ]
+      },
+      "Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 4,
+                "pct": 50.0
+              },
+              {
+                "answer": "1–3 months",
+                "count": 2,
+                "pct": 25.0
+              },
+              {
+                "answer": "(Missing)",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "About 1 week",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "1–2 days",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      }
+    },
+    "US State": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "1–3 months",
+                "count": 3,
+                "pct": 30.0
+              },
+              {
+                "answer": "(Missing)",
+                "count": 6,
+                "pct": 60.0
+              },
+              {
+                "answer": "About 1 week",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 1,
+                "pct": 10.0
+              },
+              {
+                "answer": "1–2 days",
+                "count": 1,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 10
+            }
+          }
+        ]
+      },
+      "Alaska": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [],
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 4,
+                "pct": 17.4
+              },
+              {
+                "answer": "1–3 months",
+                "count": 10,
+                "pct": 43.5
+              },
+              {
+                "answer": "(Missing)",
+                "count": 6,
+                "pct": 26.1
+              },
+              {
+                "answer": "About 1 week",
+                "count": 4,
+                "pct": 17.4
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 3,
+                "pct": 13.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "1–2 days",
+                "count": 2,
+                "pct": 8.7
+              }
+            ],
+            "base": {
+              "n": 23
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 3,
+                "pct": 50.0
+              },
+              {
+                "answer": "1–3 months",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "(Missing)",
+                "count": 2,
+                "pct": 33.3
+              },
+              {
+                "answer": "About 1 week",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "1–2 days",
+                "count": 1,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 45,
+                "pct": 45.0
+              },
+              {
+                "answer": "1–3 months",
+                "count": 30,
+                "pct": 30.0
+              },
+              {
+                "answer": "(Missing)",
+                "count": 29,
+                "pct": 29.0
+              },
+              {
+                "answer": "About 1 week",
+                "count": 8,
+                "pct": 8.0
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 10,
+                "pct": 10.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 4,
+                "pct": 4.0
+              },
+              {
+                "answer": "1–2 days",
+                "count": 3,
+                "pct": 3.0
+              }
+            ],
+            "base": {
+              "n": 100
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 5,
+                "pct": 45.5
+              },
+              {
+                "answer": "1–3 months",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "(Missing)",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "About 1 week",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "1–2 days",
+                "count": 1,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "1–3 months",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "(Missing)",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "About 1 week",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "1–2 days",
+                "count": 1,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [],
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 17,
+                "pct": 32.1
+              },
+              {
+                "answer": "1–3 months",
+                "count": 18,
+                "pct": 34.0
+              },
+              {
+                "answer": "(Missing)",
+                "count": 12,
+                "pct": 22.6
+              },
+              {
+                "answer": "About 1 week",
+                "count": 5,
+                "pct": 9.4
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 9,
+                "pct": 17.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 3,
+                "pct": 5.7
+              },
+              {
+                "answer": "1–2 days",
+                "count": 1,
+                "pct": 1.9
+              }
+            ],
+            "base": {
+              "n": 53
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 5,
+                "pct": 16.7
+              },
+              {
+                "answer": "1–3 months",
+                "count": 12,
+                "pct": 40.0
+              },
+              {
+                "answer": "(Missing)",
+                "count": 8,
+                "pct": 26.7
+              },
+              {
+                "answer": "About 1 week",
+                "count": 6,
+                "pct": 20.0
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 2,
+                "pct": 6.7
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 2,
+                "pct": 6.7
+              },
+              {
+                "answer": "1–2 days",
+                "count": 3,
+                "pct": 10.0
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "1–3 months",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "(Missing)",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "About 1 week",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "1–2 days",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 10,
+                "pct": 35.7
+              },
+              {
+                "answer": "1–3 months",
+                "count": 8,
+                "pct": 28.6
+              },
+              {
+                "answer": "(Missing)",
+                "count": 5,
+                "pct": 17.9
+              },
+              {
+                "answer": "About 1 week",
+                "count": 5,
+                "pct": 17.9
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 2,
+                "pct": 7.1
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 1,
+                "pct": 3.6
+              },
+              {
+                "answer": "1–2 days",
+                "count": 2,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 4,
+                "pct": 33.3
+              },
+              {
+                "answer": "1–3 months",
+                "count": 3,
+                "pct": 25.0
+              },
+              {
+                "answer": "(Missing)",
+                "count": 3,
+                "pct": 25.0
+              },
+              {
+                "answer": "About 1 week",
+                "count": 2,
+                "pct": 16.7
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "1–2 days",
+                "count": 3,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 12
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "1–3 months",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "(Missing)",
+                "count": 2,
+                "pct": 33.3
+              },
+              {
+                "answer": "About 1 week",
+                "count": 3,
+                "pct": 50.0
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "1–2 days",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "1–3 months",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "(Missing)",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "About 1 week",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "1–2 days",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 6,
+                "pct": 50.0
+              },
+              {
+                "answer": "1–3 months",
+                "count": 2,
+                "pct": 16.7
+              },
+              {
+                "answer": "(Missing)",
+                "count": 4,
+                "pct": 33.3
+              },
+              {
+                "answer": "About 1 week",
+                "count": 1,
+                "pct": 8.3
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 1,
+                "pct": 8.3
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 1,
+                "pct": 8.3
+              },
+              {
+                "answer": "1–2 days",
+                "count": 1,
+                "pct": 8.3
+              }
+            ],
+            "base": {
+              "n": 12
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "1–3 months",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "(Missing)",
+                "count": 1,
+                "pct": 6.7
+              },
+              {
+                "answer": "About 1 week",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "1–2 days",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 5,
+                "pct": 41.7
+              },
+              {
+                "answer": "1–3 months",
+                "count": 6,
+                "pct": 50.0
+              },
+              {
+                "answer": "(Missing)",
+                "count": 3,
+                "pct": 25.0
+              },
+              {
+                "answer": "About 1 week",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 1,
+                "pct": 8.3
+              },
+              {
+                "answer": "1–2 days",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 12
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 5,
+                "pct": 27.8
+              },
+              {
+                "answer": "1–3 months",
+                "count": 6,
+                "pct": 33.3
+              },
+              {
+                "answer": "(Missing)",
+                "count": 6,
+                "pct": 33.3
+              },
+              {
+                "answer": "About 1 week",
+                "count": 2,
+                "pct": 11.1
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 1,
+                "pct": 5.6
+              },
+              {
+                "answer": "1–2 days",
+                "count": 4,
+                "pct": 22.2
+              }
+            ],
+            "base": {
+              "n": 18
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "1–3 months",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "(Missing)",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "About 1 week",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "1–2 days",
+                "count": 1,
+                "pct": 9.1
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 4,
+                "pct": 66.7
+              },
+              {
+                "answer": "1–3 months",
+                "count": 2,
+                "pct": 33.3
+              },
+              {
+                "answer": "(Missing)",
+                "count": 2,
+                "pct": 33.3
+              },
+              {
+                "answer": "About 1 week",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "1–2 days",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 4,
+                "pct": 25.0
+              },
+              {
+                "answer": "1–3 months",
+                "count": 7,
+                "pct": 43.8
+              },
+              {
+                "answer": "(Missing)",
+                "count": 3,
+                "pct": 18.8
+              },
+              {
+                "answer": "About 1 week",
+                "count": 2,
+                "pct": 12.5
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 1,
+                "pct": 6.2
+              },
+              {
+                "answer": "1–2 days",
+                "count": 1,
+                "pct": 6.2
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 5,
+                "pct": 71.4
+              },
+              {
+                "answer": "1–3 months",
+                "count": 1,
+                "pct": 14.3
+              },
+              {
+                "answer": "(Missing)",
+                "count": 1,
+                "pct": 14.3
+              },
+              {
+                "answer": "About 1 week",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 1,
+                "pct": 14.3
+              },
+              {
+                "answer": "1–2 days",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 3,
+                "pct": 37.5
+              },
+              {
+                "answer": "1–3 months",
+                "count": 3,
+                "pct": 37.5
+              },
+              {
+                "answer": "(Missing)",
+                "count": 3,
+                "pct": 37.5
+              },
+              {
+                "answer": "About 1 week",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 1,
+                "pct": 12.5
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "1–2 days",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 10,
+                "pct": 35.7
+              },
+              {
+                "answer": "1–3 months",
+                "count": 8,
+                "pct": 28.6
+              },
+              {
+                "answer": "(Missing)",
+                "count": 2,
+                "pct": 7.1
+              },
+              {
+                "answer": "About 1 week",
+                "count": 1,
+                "pct": 3.6
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 3,
+                "pct": 10.7
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 5,
+                "pct": 17.9
+              },
+              {
+                "answer": "1–2 days",
+                "count": 1,
+                "pct": 3.6
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 18,
+                "pct": 31.0
+              },
+              {
+                "answer": "1–3 months",
+                "count": 15,
+                "pct": 25.9
+              },
+              {
+                "answer": "(Missing)",
+                "count": 13,
+                "pct": 22.4
+              },
+              {
+                "answer": "About 1 week",
+                "count": 10,
+                "pct": 17.2
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 8,
+                "pct": 13.8
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 4,
+                "pct": 6.9
+              },
+              {
+                "answer": "1–2 days",
+                "count": 3,
+                "pct": 5.2
+              }
+            ],
+            "base": {
+              "n": 58
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 7,
+                "pct": 25.0
+              },
+              {
+                "answer": "1–3 months",
+                "count": 13,
+                "pct": 46.4
+              },
+              {
+                "answer": "(Missing)",
+                "count": 12,
+                "pct": 42.9
+              },
+              {
+                "answer": "About 1 week",
+                "count": 2,
+                "pct": 7.1
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 5,
+                "pct": 17.9
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 1,
+                "pct": 3.6
+              },
+              {
+                "answer": "1–2 days",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [],
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 8,
+                "pct": 36.4
+              },
+              {
+                "answer": "1–3 months",
+                "count": 5,
+                "pct": 22.7
+              },
+              {
+                "answer": "(Missing)",
+                "count": 8,
+                "pct": 36.4
+              },
+              {
+                "answer": "About 1 week",
+                "count": 6,
+                "pct": 27.3
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 2,
+                "pct": 9.1
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 1,
+                "pct": 4.5
+              },
+              {
+                "answer": "1–2 days",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "1–3 months",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "(Missing)",
+                "count": 2,
+                "pct": 40.0
+              },
+              {
+                "answer": "About 1 week",
+                "count": 1,
+                "pct": 20.0
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "1–2 days",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 5
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 6,
+                "pct": 46.2
+              },
+              {
+                "answer": "1–3 months",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "(Missing)",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "About 1 week",
+                "count": 1,
+                "pct": 7.7
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 1,
+                "pct": 7.7
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 1,
+                "pct": 7.7
+              },
+              {
+                "answer": "1–2 days",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 8,
+                "pct": 29.6
+              },
+              {
+                "answer": "1–3 months",
+                "count": 6,
+                "pct": 22.2
+              },
+              {
+                "answer": "(Missing)",
+                "count": 16,
+                "pct": 59.3
+              },
+              {
+                "answer": "About 1 week",
+                "count": 6,
+                "pct": 22.2
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 3,
+                "pct": 11.1
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 2,
+                "pct": 7.4
+              },
+              {
+                "answer": "1–2 days",
+                "count": 2,
+                "pct": 7.4
+              }
+            ],
+            "base": {
+              "n": 27
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "1–3 months",
+                "count": 1,
+                "pct": 7.7
+              },
+              {
+                "answer": "(Missing)",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "About 1 week",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "1–2 days",
+                "count": 1,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "South Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 4,
+                "pct": 33.3
+              },
+              {
+                "answer": "1–3 months",
+                "count": 3,
+                "pct": 25.0
+              },
+              {
+                "answer": "(Missing)",
+                "count": 3,
+                "pct": 25.0
+              },
+              {
+                "answer": "About 1 week",
+                "count": 1,
+                "pct": 8.3
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 1,
+                "pct": 8.3
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 1,
+                "pct": 8.3
+              },
+              {
+                "answer": "1–2 days",
+                "count": 2,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 12
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 19,
+                "pct": 23.8
+              },
+              {
+                "answer": "1–3 months",
+                "count": 26,
+                "pct": 32.5
+              },
+              {
+                "answer": "(Missing)",
+                "count": 29,
+                "pct": 36.2
+              },
+              {
+                "answer": "About 1 week",
+                "count": 10,
+                "pct": 12.5
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 12,
+                "pct": 15.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 7,
+                "pct": 8.8
+              },
+              {
+                "answer": "1–2 days",
+                "count": 6,
+                "pct": 7.5
+              }
+            ],
+            "base": {
+              "n": 80
+            }
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 6,
+                "pct": 28.6
+              },
+              {
+                "answer": "1–3 months",
+                "count": 8,
+                "pct": 38.1
+              },
+              {
+                "answer": "(Missing)",
+                "count": 7,
+                "pct": 33.3
+              },
+              {
+                "answer": "About 1 week",
+                "count": 3,
+                "pct": 14.3
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 3,
+                "pct": 14.3
+              },
+              {
+                "answer": "1–2 days",
+                "count": 1,
+                "pct": 4.8
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "1–3 months",
+                "count": 4,
+                "pct": 36.4
+              },
+              {
+                "answer": "(Missing)",
+                "count": 6,
+                "pct": 54.5
+              },
+              {
+                "answer": "About 1 week",
+                "count": 3,
+                "pct": 27.3
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 1,
+                "pct": 9.1
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "1–2 days",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 2,
+                "pct": 33.3
+              },
+              {
+                "answer": "1–3 months",
+                "count": 3,
+                "pct": 50.0
+              },
+              {
+                "answer": "(Missing)",
+                "count": 2,
+                "pct": 33.3
+              },
+              {
+                "answer": "About 1 week",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 1,
+                "pct": 16.7
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "1–2 days",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 4,
+                "pct": 30.8
+              },
+              {
+                "answer": "1–3 months",
+                "count": 5,
+                "pct": 38.5
+              },
+              {
+                "answer": "(Missing)",
+                "count": 3,
+                "pct": 23.1
+              },
+              {
+                "answer": "About 1 week",
+                "count": 1,
+                "pct": 7.7
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 2,
+                "pct": 15.4
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "1–2 days",
+                "count": 1,
+                "pct": 7.7
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Wyoming": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Education Level": {
+      "Associates Degree": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 31,
+                "pct": 34.4
+              },
+              {
+                "answer": "1–3 months",
+                "count": 25,
+                "pct": 27.8
+              },
+              {
+                "answer": "(Missing)",
+                "count": 28,
+                "pct": 31.1
+              },
+              {
+                "answer": "About 1 week",
+                "count": 10,
+                "pct": 11.1
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 9,
+                "pct": 10.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 8,
+                "pct": 8.9
+              },
+              {
+                "answer": "1–2 days",
+                "count": 7,
+                "pct": 7.8
+              }
+            ],
+            "base": {
+              "n": 90
+            }
+          }
+        ]
+      },
+      "Bachelor's degree": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 59,
+                "pct": 31.9
+              },
+              {
+                "answer": "1–3 months",
+                "count": 68,
+                "pct": 36.8
+              },
+              {
+                "answer": "(Missing)",
+                "count": 42,
+                "pct": 22.7
+              },
+              {
+                "answer": "About 1 week",
+                "count": 21,
+                "pct": 11.4
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 15,
+                "pct": 8.1
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 13,
+                "pct": 7.0
+              },
+              {
+                "answer": "1–2 days",
+                "count": 9,
+                "pct": 4.9
+              }
+            ],
+            "base": {
+              "n": 185
+            }
+          }
+        ]
+      },
+      "Completed some college": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 33,
+                "pct": 31.7
+              },
+              {
+                "answer": "1–3 months",
+                "count": 31,
+                "pct": 29.8
+              },
+              {
+                "answer": "(Missing)",
+                "count": 37,
+                "pct": 35.6
+              },
+              {
+                "answer": "About 1 week",
+                "count": 14,
+                "pct": 13.5
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 11,
+                "pct": 10.6
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 6,
+                "pct": 5.8
+              },
+              {
+                "answer": "1–2 days",
+                "count": 9,
+                "pct": 8.7
+              }
+            ],
+            "base": {
+              "n": 104
+            }
+          }
+        ]
+      },
+      "Completed some high school": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 1,
+                "pct": 4.5
+              },
+              {
+                "answer": "1–3 months",
+                "count": 5,
+                "pct": 22.7
+              },
+              {
+                "answer": "(Missing)",
+                "count": 12,
+                "pct": 54.5
+              },
+              {
+                "answer": "About 1 week",
+                "count": 3,
+                "pct": 13.6
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 6,
+                "pct": 27.3
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 2,
+                "pct": 9.1
+              },
+              {
+                "answer": "1–2 days",
+                "count": 5,
+                "pct": 22.7
+              }
+            ],
+            "base": {
+              "n": 22
+            }
+          }
+        ]
+      },
+      "Completed some postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 6,
+                "pct": 40.0
+              },
+              {
+                "answer": "1–3 months",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "(Missing)",
+                "count": 2,
+                "pct": 13.3
+              },
+              {
+                "answer": "About 1 week",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 0,
+                "pct": 0.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 3,
+                "pct": 20.0
+              },
+              {
+                "answer": "1–2 days",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Doctorate /PhD": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 6,
+                "pct": 35.3
+              },
+              {
+                "answer": "1–3 months",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "(Missing)",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "About 1 week",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "1–2 days",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Elementary School": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [],
+            "base": {
+              "n": 0
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "High school graduate": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 71,
+                "pct": 32.1
+              },
+              {
+                "answer": "1–3 months",
+                "count": 70,
+                "pct": 31.7
+              },
+              {
+                "answer": "(Missing)",
+                "count": 79,
+                "pct": 35.7
+              },
+              {
+                "answer": "About 1 week",
+                "count": 30,
+                "pct": 13.6
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 26,
+                "pct": 11.8
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 13,
+                "pct": 5.9
+              },
+              {
+                "answer": "1–2 days",
+                "count": 11,
+                "pct": 5.0
+              }
+            ],
+            "base": {
+              "n": 221
+            }
+          }
+        ]
+      },
+      "Masters degree": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 36,
+                "pct": 38.3
+              },
+              {
+                "answer": "1–3 months",
+                "count": 28,
+                "pct": 29.8
+              },
+              {
+                "answer": "(Missing)",
+                "count": 15,
+                "pct": 16.0
+              },
+              {
+                "answer": "About 1 week",
+                "count": 9,
+                "pct": 9.6
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 15,
+                "pct": 16.0
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 3,
+                "pct": 3.2
+              },
+              {
+                "answer": "1–2 days",
+                "count": 3,
+                "pct": 3.2
+              }
+            ],
+            "base": {
+              "n": 94
+            }
+          }
+        ]
+      },
+      "Middle School": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "None of the above/Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Other post high school vocational training": {
+        "rows": [
+          {
+            "panel_id": "Q4: When did you receive the warning before the layoff?",
+            "cells": [
+              {
+                "answer": "2–4 weeks",
+                "count": 5,
+                "pct": 29.4
+              },
+              {
+                "answer": "1–3 months",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "(Missing)",
+                "count": 12,
+                "pct": 70.6
+              },
+              {
+                "answer": "About 1 week",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "More than 3 months",
+                "count": 2,
+                "pct": 11.8
+              },
+              {
+                "answer": "Less than 24 hours",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "1–2 days",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 5,
+    "single_panel": true
+  }
+}

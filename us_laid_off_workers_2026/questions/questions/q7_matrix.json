@@ -1,0 +1,2415 @@
+{
+  "id": "Q7",
+  "text": "Q7",
+  "question_prompt": "Q7: Which of the following best describes the layoff that affected you?",
+  "type": "matrix",
+  "panels": [
+    "Q7: Which of the following best describes the layoff that affected you?"
+  ],
+  "answers": [
+    "A large-scale layoff (roughly 50+ people)",
+    "A smaller or individual cut",
+    "I'm not sure how many people were affected"
+  ],
+  "overall_matrix": [
+    {
+      "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+      "cells": [
+        {
+          "answer": "A large-scale layoff (roughly 50+ people)",
+          "count": 466,
+          "pct": 46.6
+        },
+        {
+          "answer": "A smaller or individual cut",
+          "count": 371,
+          "pct": 37.1
+        },
+        {
+          "answer": "I'm not sure how many people were affected",
+          "count": 163,
+          "pct": 16.3
+        }
+      ],
+      "base": {
+        "n": 1000
+      }
+    }
+  ],
+  "rollup_overall": {
+    "base": {
+      "n": 1000
+    },
+    "answers": [
+      {
+        "answer": "A large-scale layoff (roughly 50+ people)",
+        "count": 466,
+        "pct": 46.6
+      },
+      {
+        "answer": "A smaller or individual cut",
+        "count": 371,
+        "pct": 37.1
+      },
+      {
+        "answer": "I'm not sure how many people were affected",
+        "count": 163,
+        "pct": 16.3
+      }
+    ],
+    "note": "Roll-up mirrors the single panel results."
+  },
+  "by_demo_matrix": {
+    "Age": {
+      "Baby Boomers": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 7,
+                "pct": 35.0
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 9,
+                "pct": 45.0
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 4,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 20
+            }
+          }
+        ]
+      },
+      "Gen X": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 98,
+                "pct": 45.8
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 84,
+                "pct": 39.3
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 32,
+                "pct": 15.0
+              }
+            ],
+            "base": {
+              "n": 214
+            }
+          }
+        ]
+      },
+      "Gen Z": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 119,
+                "pct": 45.8
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 101,
+                "pct": 38.8
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 40,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 260
+            }
+          }
+        ]
+      },
+      "Millennials": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 242,
+                "pct": 47.8
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 177,
+                "pct": 35.0
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 87,
+                "pct": 17.2
+              }
+            ],
+            "base": {
+              "n": 506
+            }
+          }
+        ]
+      }
+    },
+    "Gender": {
+      "Female": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 193,
+                "pct": 40.6
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 186,
+                "pct": 39.2
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 96,
+                "pct": 20.2
+              }
+            ],
+            "base": {
+              "n": 475
+            }
+          }
+        ]
+      },
+      "Male": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 273,
+                "pct": 52.0
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 185,
+                "pct": 35.2
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 67,
+                "pct": 12.8
+              }
+            ],
+            "base": {
+              "n": 525
+            }
+          }
+        ]
+      }
+    },
+    "Household income US": {
+      "$1 million +": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "$10,000 to $14,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 8,
+                "pct": 32.0
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 11,
+                "pct": 44.0
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 6,
+                "pct": 24.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "$100,000 to $124,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 41,
+                "pct": 52.6
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 32,
+                "pct": 41.0
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 5,
+                "pct": 6.4
+              }
+            ],
+            "base": {
+              "n": 78
+            }
+          }
+        ]
+      },
+      "$125,000 to $149,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 40,
+                "pct": 71.4
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 14,
+                "pct": 25.0
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 2,
+                "pct": 3.6
+              }
+            ],
+            "base": {
+              "n": 56
+            }
+          }
+        ]
+      },
+      "$15,000 to $19,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 16,
+                "pct": 42.1
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 13,
+                "pct": 34.2
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 9,
+                "pct": 23.7
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "$150,000 to $174,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 20,
+                "pct": 66.7
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 9,
+                "pct": 30.0
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 1,
+                "pct": 3.3
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "$175,000 to $199,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 15,
+                "pct": 71.4
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 4,
+                "pct": 19.0
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 2,
+                "pct": 9.5
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "$20,000 to $24,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 15,
+                "pct": 30.6
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 21,
+                "pct": 42.9
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 13,
+                "pct": 26.5
+              }
+            ],
+            "base": {
+              "n": 49
+            }
+          }
+        ]
+      },
+      "$200,000 to $249,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 10,
+                "pct": 66.7
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 1,
+                "pct": 6.7
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "$25,000 to $29,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 21,
+                "pct": 38.9
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 23,
+                "pct": 42.6
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 10,
+                "pct": 18.5
+              }
+            ],
+            "base": {
+              "n": 54
+            }
+          }
+        ]
+      },
+      "$250,000 to $499,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 10,
+                "pct": 71.4
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 3,
+                "pct": 21.4
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 1,
+                "pct": 7.1
+              }
+            ],
+            "base": {
+              "n": 14
+            }
+          }
+        ]
+      },
+      "$30,000 to $34,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 18,
+                "pct": 36.0
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 20,
+                "pct": 40.0
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 12,
+                "pct": 24.0
+              }
+            ],
+            "base": {
+              "n": 50
+            }
+          }
+        ]
+      },
+      "$35,000 to $39,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 13,
+                "pct": 39.4
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 10,
+                "pct": 30.3
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 10,
+                "pct": 30.3
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          }
+        ]
+      },
+      "$40,000 to $44,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 23,
+                "pct": 59.0
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 14,
+                "pct": 35.9
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 2,
+                "pct": 5.1
+              }
+            ],
+            "base": {
+              "n": 39
+            }
+          }
+        ]
+      },
+      "$45,000 to $49,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 11,
+                "pct": 30.6
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 19,
+                "pct": 52.8
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 6,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 36
+            }
+          }
+        ]
+      },
+      "$5,000 to $9,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 14,
+                "pct": 36.8
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 11,
+                "pct": 28.9
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 13,
+                "pct": 34.2
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "$50,000 to $54,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 35,
+                "pct": 47.3
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 26,
+                "pct": 35.1
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 13,
+                "pct": 17.6
+              }
+            ],
+            "base": {
+              "n": 74
+            }
+          }
+        ]
+      },
+      "$500,000 to $999,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "$55,000 to $59,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 14,
+                "pct": 41.2
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 16,
+                "pct": 47.1
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 4,
+                "pct": 11.8
+              }
+            ],
+            "base": {
+              "n": 34
+            }
+          }
+        ]
+      },
+      "$60,000 to $64,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 12,
+                "pct": 38.7
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 13,
+                "pct": 41.9
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 6,
+                "pct": 19.4
+              }
+            ],
+            "base": {
+              "n": 31
+            }
+          }
+        ]
+      },
+      "$65,000 to $69,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 14,
+                "pct": 56.0
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 5,
+                "pct": 20.0
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 6,
+                "pct": 24.0
+              }
+            ],
+            "base": {
+              "n": 25
+            }
+          }
+        ]
+      },
+      "$70,000 to $74,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 15,
+                "pct": 34.9
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 22,
+                "pct": 51.2
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 6,
+                "pct": 14.0
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "$75,000 to $79,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 27,
+                "pct": 57.4
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 14,
+                "pct": 29.8
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 6,
+                "pct": 12.8
+              }
+            ],
+            "base": {
+              "n": 47
+            }
+          }
+        ]
+      },
+      "$80,000 to $84,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 12,
+                "pct": 70.6
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 4,
+                "pct": 23.5
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 1,
+                "pct": 5.9
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "$85,000 to $89,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 7,
+                "pct": 46.7
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 6,
+                "pct": 40.0
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 2,
+                "pct": 13.3
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "$90,000 to $94,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 7,
+                "pct": 36.8
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 9,
+                "pct": 47.4
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 3,
+                "pct": 15.8
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "$95,000 to $99,999": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 14,
+                "pct": 46.7
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 14,
+                "pct": 46.7
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 2,
+                "pct": 6.7
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "Less than $5,000": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 27,
+                "pct": 35.5
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 31,
+                "pct": 40.8
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 18,
+                "pct": 23.7
+              }
+            ],
+            "base": {
+              "n": 76
+            }
+          }
+        ]
+      },
+      "Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 3,
+                "pct": 33.3
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 3,
+                "pct": 33.3
+              }
+            ],
+            "base": {
+              "n": 9
+            }
+          }
+        ]
+      }
+    },
+    "US State": {
+      "Alabama": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 5,
+                "pct": 31.2
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 6,
+                "pct": 37.5
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 5,
+                "pct": 31.2
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Alaska": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Arizona": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 15,
+                "pct": 51.7
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 9,
+                "pct": 31.0
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 5,
+                "pct": 17.2
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          }
+        ]
+      },
+      "Arkansas": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 5,
+                "pct": 62.5
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 3,
+                "pct": 37.5
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "California": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 64,
+                "pct": 49.6
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 47,
+                "pct": 36.4
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 18,
+                "pct": 14.0
+              }
+            ],
+            "base": {
+              "n": 129
+            }
+          }
+        ]
+      },
+      "Colorado": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 5,
+                "pct": 29.4
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 8,
+                "pct": 47.1
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 4,
+                "pct": 23.5
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Connecticut": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 6,
+                "pct": 46.2
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 5,
+                "pct": 38.5
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 2,
+                "pct": 15.4
+              }
+            ],
+            "base": {
+              "n": 13
+            }
+          }
+        ]
+      },
+      "Delaware": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "District of Columbia": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Florida": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 33,
+                "pct": 50.8
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 21,
+                "pct": 32.3
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 11,
+                "pct": 16.9
+              }
+            ],
+            "base": {
+              "n": 65
+            }
+          }
+        ]
+      },
+      "Georgia": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 17,
+                "pct": 44.7
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 12,
+                "pct": 31.6
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 9,
+                "pct": 23.7
+              }
+            ],
+            "base": {
+              "n": 38
+            }
+          }
+        ]
+      },
+      "Idaho": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 5,
+                "pct": 71.4
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 2,
+                "pct": 28.6
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Illinois": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 18,
+                "pct": 54.5
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 15,
+                "pct": 45.5
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 33
+            }
+          }
+        ]
+      },
+      "Indiana": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 7,
+                "pct": 46.7
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 7,
+                "pct": 46.7
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 1,
+                "pct": 6.7
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Iowa": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 2,
+                "pct": 25.0
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 3,
+                "pct": 37.5
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 3,
+                "pct": 37.5
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Kansas": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Kentucky": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 7,
+                "pct": 41.2
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 6,
+                "pct": 35.3
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 4,
+                "pct": 23.5
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Louisiana": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 8,
+                "pct": 50.0
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 6,
+                "pct": 37.5
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 2,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Maine": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Maryland": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 7,
+                "pct": 43.8
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 7,
+                "pct": 43.8
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 2,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Massachusetts": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 9,
+                "pct": 60.0
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 4,
+                "pct": 26.7
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 2,
+                "pct": 13.3
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Michigan": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 10,
+                "pct": 41.7
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 10,
+                "pct": 41.7
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 4,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 24
+            }
+          }
+        ]
+      },
+      "Minnesota": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 5,
+                "pct": 41.7
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 5,
+                "pct": 41.7
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 2,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 12
+            }
+          }
+        ]
+      },
+      "Mississippi": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 4,
+                "pct": 50.0
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 3,
+                "pct": 37.5
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 1,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Missouri": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 11,
+                "pct": 57.9
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 7,
+                "pct": 36.8
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 1,
+                "pct": 5.3
+              }
+            ],
+            "base": {
+              "n": 19
+            }
+          }
+        ]
+      },
+      "Montana": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Nebraska": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 4,
+                "pct": 50.0
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 4,
+                "pct": 50.0
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Nevada": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 2,
+                "pct": 18.2
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 7,
+                "pct": 63.6
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 2,
+                "pct": 18.2
+              }
+            ],
+            "base": {
+              "n": 11
+            }
+          }
+        ]
+      },
+      "New Hampshire": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New Jersey": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 16,
+                "pct": 53.3
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 12,
+                "pct": 40.0
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 2,
+                "pct": 6.7
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "New Mexico": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [],
+            "base": {
+              "n": 3
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "New York": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 39,
+                "pct": 54.9
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 25,
+                "pct": 35.2
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 7,
+                "pct": 9.9
+              }
+            ],
+            "base": {
+              "n": 71
+            }
+          }
+        ]
+      },
+      "North Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 20,
+                "pct": 50.0
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 12,
+                "pct": 30.0
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 8,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 40
+            }
+          }
+        ]
+      },
+      "North Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Ohio": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 12,
+                "pct": 40.0
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 13,
+                "pct": 43.3
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 5,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 30
+            }
+          }
+        ]
+      },
+      "Oklahoma": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 3,
+                "pct": 42.9
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 4,
+                "pct": 57.1
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 7
+            }
+          }
+        ]
+      },
+      "Oregon": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 7,
+                "pct": 46.7
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 8,
+                "pct": 53.3
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 0,
+                "pct": 0.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Pennsylvania": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 21,
+                "pct": 48.8
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 13,
+                "pct": 30.2
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 9,
+                "pct": 20.9
+              }
+            ],
+            "base": {
+              "n": 43
+            }
+          }
+        ]
+      },
+      "Rhode Island": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [],
+            "base": {
+              "n": 4
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "South Carolina": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 7,
+                "pct": 46.7
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 5,
+                "pct": 33.3
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 3,
+                "pct": 20.0
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "South Dakota": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Tennessee": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 7,
+                "pct": 46.7
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 6,
+                "pct": 40.0
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 2,
+                "pct": 13.3
+              }
+            ],
+            "base": {
+              "n": 15
+            }
+          }
+        ]
+      },
+      "Texas": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 48,
+                "pct": 44.0
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 36,
+                "pct": 33.0
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 25,
+                "pct": 22.9
+              }
+            ],
+            "base": {
+              "n": 109
+            }
+          }
+        ]
+      },
+      "Utah": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 2,
+                "pct": 33.3
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 3,
+                "pct": 50.0
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 1,
+                "pct": 16.7
+              }
+            ],
+            "base": {
+              "n": 6
+            }
+          }
+        ]
+      },
+      "Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 9,
+                "pct": 32.1
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 10,
+                "pct": 35.7
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 9,
+                "pct": 32.1
+              }
+            ],
+            "base": {
+              "n": 28
+            }
+          }
+        ]
+      },
+      "Washington": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 10,
+                "pct": 58.8
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 3,
+                "pct": 17.6
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 4,
+                "pct": 23.5
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "West Virginia": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 4,
+                "pct": 50.0
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 2,
+                "pct": 25.0
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 2,
+                "pct": 25.0
+              }
+            ],
+            "base": {
+              "n": 8
+            }
+          }
+        ]
+      },
+      "Wisconsin": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 6,
+                "pct": 37.5
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 8,
+                "pct": 50.0
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 2,
+                "pct": 12.5
+              }
+            ],
+            "base": {
+              "n": 16
+            }
+          }
+        ]
+      },
+      "Wyoming": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      }
+    },
+    "Education Level": {
+      "Associates Degree": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 58,
+                "pct": 49.2
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 36,
+                "pct": 30.5
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 24,
+                "pct": 20.3
+              }
+            ],
+            "base": {
+              "n": 118
+            }
+          }
+        ]
+      },
+      "Bachelor's degree": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 118,
+                "pct": 52.0
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 90,
+                "pct": 39.6
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 19,
+                "pct": 8.4
+              }
+            ],
+            "base": {
+              "n": 227
+            }
+          }
+        ]
+      },
+      "Completed some college": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 51,
+                "pct": 36.2
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 64,
+                "pct": 45.4
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 26,
+                "pct": 18.4
+              }
+            ],
+            "base": {
+              "n": 141
+            }
+          }
+        ]
+      },
+      "Completed some high school": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 8,
+                "pct": 23.5
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 14,
+                "pct": 41.2
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 12,
+                "pct": 35.3
+              }
+            ],
+            "base": {
+              "n": 34
+            }
+          }
+        ]
+      },
+      "Completed some postgraduate": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 9,
+                "pct": 52.9
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 6,
+                "pct": 35.3
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 2,
+                "pct": 11.8
+              }
+            ],
+            "base": {
+              "n": 17
+            }
+          }
+        ]
+      },
+      "Doctorate /PhD": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 13,
+                "pct": 61.9
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 6,
+                "pct": 28.6
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 2,
+                "pct": 9.5
+              }
+            ],
+            "base": {
+              "n": 21
+            }
+          }
+        ]
+      },
+      "Elementary School": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "High school graduate": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 127,
+                "pct": 42.3
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 112,
+                "pct": 37.3
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 61,
+                "pct": 20.3
+              }
+            ],
+            "base": {
+              "n": 300
+            }
+          }
+        ]
+      },
+      "Masters degree": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 71,
+                "pct": 65.1
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 32,
+                "pct": 29.4
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 6,
+                "pct": 5.5
+              }
+            ],
+            "base": {
+              "n": 109
+            }
+          }
+        ]
+      },
+      "Middle School": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [],
+            "base": {
+              "n": 1
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "None of the above/Prefer not to answer": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [],
+            "base": {
+              "n": 2
+            },
+            "suppressed": true
+          }
+        ]
+      },
+      "Other post high school vocational training": {
+        "rows": [
+          {
+            "panel_id": "Q7: Which of the following best describes the layoff that affected you?",
+            "cells": [
+              {
+                "answer": "A large-scale layoff (roughly 50+ people)",
+                "count": 9,
+                "pct": 31.0
+              },
+              {
+                "answer": "A smaller or individual cut",
+                "count": 11,
+                "pct": 37.9
+              },
+              {
+                "answer": "I'm not sure how many people were affected",
+                "count": 9,
+                "pct": 31.0
+              }
+            ],
+            "base": {
+              "n": 29
+            }
+          }
+        ]
+      }
+    }
+  },
+  "quality": {
+    "suppression_threshold": 5,
+    "single_panel": true
+  }
+}
