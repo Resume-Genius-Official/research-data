@@ -57,6 +57,8 @@ The tabulated JSON additionally suppresses any group with fewer than 5-10 respon
 | `us_job_seeker_survey_2026/` | US Job Seekers Survey, 2026 | 1,000 U.S. job seekers | Mar 2026 | CSV + JSON |
 | `us_hiring_managers_2026_q1/` | US Hiring Managers Survey, 2026 (Q1) | 1,000 U.S. hiring managers | 2026 | JSON |
 | `us_hiring_managers_survey_2026/` | US Hiring Managers Survey, 2026 | 1,500 U.S. hiring managers | Jun 2026 | CSV |
+| `us_laid_off_workers_2026/` | US Laid-Off Workers Survey, 2026 | 1,000 U.S. workers who have been laid off | Jul 2026 | JSON |
+| `us_job_search_survey_2026/` | US Job Seeker Content Survey, 2026 | 900 U.S. job seekers | Aug 2026 | JSON |
 
 ## Reports based on each dataset
 
