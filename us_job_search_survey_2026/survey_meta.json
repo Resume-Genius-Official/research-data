@@ -1,0 +1,60 @@
+{
+  "slug": "us_content_job_seeker_survey_2026",
+  "title": "US Job Seeker Content Survey, 2026",
+  "country": "US",
+  "year": 2026,
+  "fieldwork_start": "2026-08-24",
+  "fieldwork_end": "2026-08-24",
+  "sample_n": 900,
+  "vendor": "Pollfish",
+  "notes": "Content team survey of US job seekers on application habits, resume tailoring, resume tools and templates, applicant tracking systems (ATS), and cover letters. Respondents were screened on having applied for, or considering applying for, a job in the past year.",
+  "topic_tags": [
+    "job seekers",
+    "job search",
+    "resume strategy",
+    "resume templates",
+    "applicant tracking systems",
+    "cover letters"
+  ],
+  "default_qtype": "matrix",
+  "ai_search_context": {
+    "respondent_role": "job seekers",
+    "population": "US adults who applied for a job in the past year or are considering applying",
+    "screener": "SQ1 (applied for a job in the past year) is a screener and is not reported as a question. Respondents answering 'No, I haven't applied' or 'Prefer not to say' were screened out. About 23% of respondents (210) are considering applying but have not applied in the past year; they are included in all bases.",
+    "questions": {
+      "Q1": {
+        "population": "All respondents",
+        "note": "Industry the respondent is primarily applying in (company industry, not job function). Used as the reference question for industry cross-tabs."
+      },
+      "Q13": {
+        "population": "All respondents",
+        "routing": "Multiple answers allowed; percentages sum to more than 100%."
+      },
+      "Q16": {
+        "population": "US job seekers with at least some familiarity with ATS",
+        "eligibility": "Only respondents who did not answer 'Not familiar at all' to Q15 answered Q16-Q20.",
+        "denominator": "The overall base is 613 respondents, not all 900."
+      },
+      "Q17": {
+        "population": "US job seekers with at least some familiarity with ATS",
+        "eligibility": "Only respondents who did not answer 'Not familiar at all' to Q15 answered Q16-Q20.",
+        "denominator": "The overall base is 613 respondents, not all 900."
+      },
+      "Q18": {
+        "population": "US job seekers with at least some familiarity with ATS",
+        "eligibility": "Only respondents who did not answer 'Not familiar at all' to Q15 answered Q16-Q20.",
+        "denominator": "The overall base is 613 respondents, not all 900."
+      },
+      "Q19": {
+        "population": "US job seekers with at least some familiarity with ATS",
+        "eligibility": "Only respondents who did not answer 'Not familiar at all' to Q15 answered Q16-Q20.",
+        "denominator": "The overall base is 613 respondents, not all 900."
+      },
+      "Q20": {
+        "population": "US job seekers with at least some familiarity with ATS",
+        "eligibility": "Only respondents who did not answer 'Not familiar at all' to Q15 answered Q16-Q20.",
+        "denominator": "The overall base is 613 respondents, not all 900."
+      }
+    }
+  }
+}
